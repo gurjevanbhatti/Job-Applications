@@ -67,6 +67,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-21T18:54:07.988142Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "01adde08-7298-47e1-8394-bb946ac7ec13",
@@ -75,7 +76,7 @@
     "locations": [
       "Houston, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -205,6 +206,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-21T18:54:07.988142Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "046d231f-21e2-41ac-95bd-f0126e3505bd",
@@ -213,7 +215,7 @@
     "locations": [
       "Wyoming, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -411,6 +413,34 @@
     ],
     "title": "Product Manager Intern - Real Identity Product Team",
     "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Management_JR014473-1"
+  },
+  "08b81f58-c3c3-4212-a0ac-e8bc42112895": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Acima",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T18:54:07.988142Z",
+    "id": "08b81f58-c3c3-4212-a0ac-e8bc42112895",
+    "issue_number": 14,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/14",
+    "locations": [
+      "Draper, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1"
   },
   "08cdf3fe-97c4-4894-9e77-fbd621e25b37": {
     "applied_at": null,
@@ -2267,6 +2297,33 @@
     "title": "Design for Test Engineer",
     "url": "https://jobs.apple.com/en-us/details/200683646"
   },
+  "229689bf-b48d-4ba7-876d-c683215799d0": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Alliance Laundry Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-15T22:15:15Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T18:54:07.988142Z",
+    "id": "229689bf-b48d-4ba7-876d-c683215799d0",
+    "issue_number": 15,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/15",
+    "locations": [
+      "Ripon, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data & Analytics Intern",
+    "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/13162/job?mobile=true&needsRedirect=false"
+  },
   "22c7894f-b45d-4a2c-acf9-6b149c73474e": {
     "applied_at": null,
     "backfilled": true,
@@ -2697,6 +2754,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-21T18:54:07.988142Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "26e8e7c9-e37c-42ee-b931-4f4a447fec2d",
@@ -2705,7 +2763,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -3104,6 +3162,34 @@
     "title": "Software Development Intern",
     "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405"
   },
+  "2ec492a7-10a0-47cc-8cbb-9c22a5ba396c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Upbound Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T18:54:07.988142Z",
+    "id": "2ec492a7-10a0-47cc-8cbb-9c22a5ba396c",
+    "issue_number": 16,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/16",
+    "locations": [
+      "Draper, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Draper-UT/Software-Engineer-Intern_R-100759"
+  },
   "2eea2913-d313-47dd-b1f9-3e560bcf7780": {
     "applied_at": null,
     "backfilled": true,
@@ -3296,6 +3382,33 @@
     ],
     "title": "Data Engineer Intern - Business Intelligence and Insights",
     "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Data-Engineering-Intern_R-2025-221"
+  },
+  "32187507-a443-41a2-946b-517e1ca6ab2d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Lowe's",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-15T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T18:54:07.988142Z",
+    "id": "32187507-a443-41a2-946b-517e1ca6ab2d",
+    "issue_number": 17,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/17",
+    "locations": [
+      "Mooresville, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Merchandising Analyst Intern",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Analyst---Undergrad-Internship---Summer-2027_JR-02650526"
   },
   "32923ef5-9813-4720-ba0f-736ed5febb06": {
     "applied_at": null,
@@ -3629,6 +3742,39 @@
     ],
     "title": "Scenes Intern",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8210170"
+  },
+  "37964531-f7ed-49ac-a7b8-25685cbe73ac": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Collinear AI",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T14:19:49Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T18:54:07.988142Z",
+    "id": "37964531-f7ed-49ac-a7b8-25685cbe73ac",
+    "issue_number": 18,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/18",
+    "locations": [
+      "SF",
+      "India",
+      "Bengaluru, Karnataka, India",
+      "Sunnyvale, CA",
+      "United States"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Research Scientist Intern - Applied Scientist",
+    "url": "https://jobs.ashbyhq.com/collinear-ai/ae85fd08-dfd8-42e5-9b3b-9921ba24742b/application?embed=true"
   },
   "37c7d447-a271-4b55-a24d-1c3b10578cf3": {
     "applied_at": null,
@@ -4197,6 +4343,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-21T18:54:07.988142Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "3f405abf-6caa-4ae6-8c84-3d7c8931051a",
@@ -4205,7 +4352,7 @@
     "locations": [
       "Plymouth, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Fall 2026",
       "Winter 2027",
@@ -4241,6 +4388,33 @@
     ],
     "title": "Embedded Software Engineer Intern",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835"
+  },
+  "3fbd056c-e79f-488d-ba11-b3f5a12d40e5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Gordon Food Service",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T18:54:07.988142Z",
+    "id": "3fbd056c-e79f-488d-ba11-b3f5a12d40e5",
+    "issue_number": 19,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/19",
+    "locations": [
+      "Wyoming, MI"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Data Analyst Intern - Imports & Commodities",
+    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Imports---Commodities---Data-Analyst-Internship_R-57384"
   },
   "3fc82b32-e0d8-454e-9338-670f6758c02e": {
     "applied_at": null,
@@ -5705,6 +5879,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-21T18:54:07.988142Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "57ded721-ead9-440b-999c-b6f3861f72ed",
@@ -5713,7 +5888,7 @@
     "locations": [
       "Pittsburgh, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -6077,6 +6252,35 @@
     ],
     "title": "AI Intern",
     "url": "https://jobs-cesi.icims.com/jobs/11219/job?mobile=true&needsRedirect=false"
+  },
+  "5c544a3c-f3fe-4f7d-961c-7405d57bacad": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "UL Solutions",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T14:05:21Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T18:54:07.988142Z",
+    "id": "5c544a3c-f3fe-4f7d-961c-7405d57bacad",
+    "issue_number": 20,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/20",
+    "locations": [
+      "Northbrook, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Digital Solutions Intern",
+    "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10857"
   },
   "5cb3b2a7-3eeb-40f0-80ff-9f30db32b389": {
     "applied_at": null,
@@ -6959,6 +7163,33 @@
     ],
     "title": "Software Engineer Intern - FIS University Program",
     "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512"
+  },
+  "6d1fe89e-0f46-49f6-adba-af9ae668e3cc": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Upbound Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T18:54:07.988142Z",
+    "id": "6d1fe89e-0f46-49f6-adba-af9ae668e3cc",
+    "issue_number": 21,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/21",
+    "locations": [
+      "Plano, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Customer Performance Analytics Intern",
+    "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Customer-Performance-Analytics-Intern_R-100769"
   },
   "6d3a6fa8-f008-43f9-b0e7-6ad944e1c134": {
     "applied_at": null,
@@ -8091,6 +8322,33 @@
     ],
     "title": "Firmware Engineer Intern",
     "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920-1"
+  },
+  "7e9e1d77-26aa-43b1-b980-8af6e516c6c4": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Upbound Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T18:54:07.988142Z",
+    "id": "7e9e1d77-26aa-43b1-b980-8af6e516c6c4",
+    "issue_number": 22,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/22",
+    "locations": [
+      "Plano, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761"
   },
   "7f0fe234-4a59-4980-bc64-704e42662ba4": {
     "applied_at": null,
@@ -9843,6 +10101,35 @@
     "title": "Value Based Operations Analyst Intern - Spring 2027",
     "url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Remote-LA/CW-Value-Based-Operations-Analyst-Intern--Spring-2027-_R12138"
   },
+  "9cada06b-51c0-417f-8863-1c0468182c31": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Fidelity Investments",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T18:54:07.988142Z",
+    "id": "9cada06b-51c0-417f-8863-1c0468182c31",
+    "issue_number": 23,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/23",
+    "locations": [
+      "Boston, MA",
+      "Westlake, TX",
+      "Durham, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Undergraduate Internship - Software",
+    "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524"
+  },
   "9cc20e06-1bea-49c1-a367-548415ee6284": {
     "applied_at": null,
     "backfilled": true,
@@ -10079,6 +10366,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-21T18:54:07.988142Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "9f477186-5000-4fe3-8151-4971b1c4abfb",
@@ -10087,7 +10375,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -10233,6 +10521,33 @@
     "title": "Distribution Sales Reporting Co-op",
     "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Distribution-Sales-Reporting-Co-op-Spring-2027--January---June-_MFS-231926"
   },
+  "a25b86dd-371b-427c-b699-2d39d9db3511": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Upbound Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T18:54:07.988142Z",
+    "id": "a25b86dd-371b-427c-b699-2d39d9db3511",
+    "issue_number": 24,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/24",
+    "locations": [
+      "Plano, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100762"
+  },
   "a2aece51-4842-47ed-ae57-24e53d89a054": {
     "applied_at": null,
     "backfilled": true,
@@ -10261,6 +10576,33 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Software-Engineering-Intern--Summer-2026-_JR100691"
+  },
+  "a3c5a65f-8eba-4d2e-a9b8-a50cceb40ad6": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RSM",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T18:54:07.988142Z",
+    "id": "a3c5a65f-8eba-4d2e-a9b8-a50cceb40ad6",
+    "issue_number": 25,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/25",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Tax Digital Services Intern - AI Engineering",
+    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Charlotte/Tax-Digital-Services-Intern---AI-Engineering---Summer-2027_JR121297"
   },
   "a4432340-1e42-4079-be3e-d590b4a323ec": {
     "applied_at": null,
@@ -11577,6 +11919,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-21T18:54:07.988142Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "b7be327f-10fa-4775-8a1c-183ea4b062ce",
@@ -11585,7 +11928,7 @@
     "locations": [
       "Lindon, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -13630,6 +13973,7 @@
     "degrees": [
       "Master's"
     ],
+    "expired_at": "2026-09-21T18:54:07.988142Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "d70c190a-d563-4613-b8a7-8e0eaf3ff0cf",
@@ -13638,7 +13982,7 @@
     "locations": [
       "Pittsburgh, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -15231,6 +15575,34 @@
     ],
     "title": "Product Operations Intern",
     "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014479-1"
+  },
+  "f6903e96-db33-4663-8233-9bbdef82cba4": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Charles Schwab",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T14:09:12Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T18:54:07.988142Z",
+    "id": "f6903e96-db33-4663-8233-9bbdef82cba4",
+    "issue_number": 26,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/26",
+    "locations": [
+      "Southlake, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Software Engineering Intern - Model Risk",
+    "url": "https://career-schwab.icims.com/jobs/127127/job?mobile=true&needsRedirect=false"
   },
   "f6b42284-9795-4e37-9fa2-435b51880db7": {
     "applied_at": null,
