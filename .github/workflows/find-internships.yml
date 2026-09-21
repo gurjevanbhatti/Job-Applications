@@ -15,7 +15,10 @@ permissions:
   issues: write
 
 concurrency:
-  group: find-internships
+  # Shared with mark-applied.yml and sync-checklist.yml -- all three commit
+  # to data/tracked_jobs.json + APPLICATIONS.md, so they must never race on
+  # git push.
+  group: internship-tracker-state
   cancel-in-progress: false
 
 jobs:

@@ -3,6 +3,13 @@ import datetime
 import html
 import json
 import os
+import re
+import subprocess
+
+CHECKLIST_LABEL = "application-checklist"
+CHECKLIST_TITLE = "📋 Application Checklist"
+CHECKLIST_CAP = 60
+_CHECKLIST_LINE_RE = re.compile(r"^- \[([ xX])\] <!-- job_id: (\S+) -->")
 
 DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "tracked_jobs.json")
 MD_PATH = os.path.join(os.path.dirname(__file__), "..", "APPLICATIONS.md")
@@ -68,6 +75,11 @@ def relative_time(date_posted: str, now: datetime.datetime) -> str:
     return f"{days} day{'s' if days != 1 else ''} ago"
 
 
+def gh(*args: str) -> str:
+    result = subprocess.run(["gh", *args], capture_output=True, text=True, check=True)
+    return result.stdout.strip()
+
+
 def load_tracked() -> dict:
     if not os.path.exists(DATA_PATH):
         return {}
@@ -98,6 +110,71 @@ def _sort_records(records: list, now: datetime.datetime) -> list:
         )
     )
     return records
+
+
+def parse_checklist_state(body: str) -> dict:
+    """job_id -> checked, read from a checklist issue body's `- [x] <!--
+    job_id: ID -->` lines."""
+    state = {}
+    if not body:
+        return state
+    for line in body.splitlines():
+        m = _CHECKLIST_LINE_RE.match(line.strip())
+        if m:
+            state[m.group(2)] = m.group(1).lower() == "x"
+    return state
+
+
+def build_checklist_body(tracked: dict, now: datetime.datetime, existing_state: dict = None) -> str:
+    """Preserves any already-checked box (existing_state) for a job that's
+    still "new" -- if a checkbox click hasn't been processed into a status
+    change yet, a concurrent rebuild must not silently uncheck it."""
+    existing_state = existing_state or {}
+    candidates = _sort_records([r for r in tracked.values() if r["status"] == "new"], now)
+    candidates = candidates[:CHECKLIST_CAP]
+
+    lines = [
+        "Check a box once you've applied — it automatically marks that internship "
+        "**Applied** in `APPLICATIONS.md` and closes its own issue. Unchecking "
+        "reverts it to **New** and reopens that issue.",
+        "",
+        f"Showing up to {CHECKLIST_CAP} open matches (⭐ big tech and 🔥 posted in "
+        "the last 24h first, then newest). Anything past the cap is still tracked "
+        "in `APPLICATIONS.md` and has its own issue to close instead.",
+        "",
+    ]
+    for r in candidates:
+        checked = "x" if existing_state.get(r["id"]) else " "
+        flags = ("⭐" if r.get("big_tech") else "") + ("🔥" if is_posted_today(r, now) else "")
+        country_flag = "".join("🇺🇸" if c == "USA" else "🇨🇦" for c in r.get("countries", []))
+        posted = relative_time(r.get("date_posted"), now)
+        lines.append(
+            f"- [{checked}] <!-- job_id: {r['id']} --> {flags} **{_esc(r['company'])}** — "
+            f"[{_esc(r['title'])}]({r['url']}) {country_flag} · {posted}"
+        )
+    if not candidates:
+        lines.append("_Nothing open right now — nice work._")
+    return "\n".join(lines)
+
+
+def get_checklist_issue():
+    out = gh("issue", "list", "--label", CHECKLIST_LABEL, "--state", "open",
+              "--json", "number,body", "--limit", "1")
+    items = json.loads(out) if out else []
+    return items[0] if items else None
+
+
+def update_checklist(tracked: dict) -> None:
+    now = datetime.datetime.utcnow()
+    existing = get_checklist_issue()
+    existing_state = parse_checklist_state(existing["body"]) if existing else {}
+    body = build_checklist_body(tracked, now, existing_state)
+
+    if existing:
+        if existing["body"] != body:
+            gh("issue", "edit", str(existing["number"]), "--body", body)
+    else:
+        gh("issue", "create", "--title", CHECKLIST_TITLE, "--label", CHECKLIST_LABEL, "--body", body)
 
 
 def _country_table_html(records: list, now: datetime.datetime) -> str:

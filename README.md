@@ -60,10 +60,23 @@ tracking — and leaves the final "review and click apply" step to you.
    These sort to the top within each status group; nothing is filtered out
    because of them.
 
-3. **You apply manually**, then **close the issue**. A second workflow
-   (`.github/workflows/mark-applied.yml` → `scripts/mark_applied.py`)
-   automatically flips that job's status to `applied` in the tracker and
-   commits the update. Reopening an issue flips it back to `new`.
+3. **You apply manually**, then mark it applied one of two ways:
+   - **Close that job's individual issue.** A workflow
+     (`.github/workflows/mark-applied.yml` → `scripts/mark_applied.py`)
+     flips it to `applied` in the tracker and commits. Reopening flips it
+     back to `new`.
+   - **Check its box on the pinned "📋 Application Checklist" issue** — a
+     single issue the bot keeps updated with a real, clickable GitHub
+     checkbox per open match (capped at the 60 highest-priority ones —
+     ⭐ big tech and 🔥 last-24h first — so the issue body stays well under
+     GitHub's size limit; anything past the cap still has its own issue).
+     GitHub only makes checkboxes interactive inside Issue/PR bodies, not in
+     a plain repo file, which is why this lives in an issue rather than as a
+     checkbox column in `APPLICATIONS.md` itself. Checking a box there
+     closes that job's individual issue for you too (and unchecking reopens
+     it), via `.github/workflows/sync-checklist.yml` →
+     `scripts/handle_checklist_edit.py`, which diffs the issue body
+     before/after the edit to see exactly which box flipped.
 
 4. `.github/workflows/find-internships.yml` runs step 1–2 every 15 minutes
    plus on-demand via `workflow_dispatch`. GitHub's `schedule` trigger has a

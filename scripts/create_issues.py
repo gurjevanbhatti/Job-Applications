@@ -9,19 +9,19 @@ GitHub's abuse-detection rate limits even if a burst of new postings shows
 up in one day; any overflow just waits for the next run.
 """
 import datetime
-import subprocess
 
-from lib import load_tracked, save_tracked, render_markdown, is_posted_today
+from lib import (
+    load_tracked,
+    save_tracked,
+    render_markdown,
+    is_posted_today,
+    update_checklist,
+    gh,
+    CHECKLIST_LABEL,
+)
 
 LABELS = "internship-tracker,masters-eligible"
 MAX_ISSUES_PER_RUN = 25
-
-
-def gh(*args: str) -> str:
-    result = subprocess.run(
-        ["gh", *args], capture_output=True, text=True, check=True
-    )
-    return result.stdout.strip()
 
 
 def issue_body(record: dict) -> str:
@@ -37,7 +37,8 @@ def issue_body(record: dict) -> str:
         "---\n"
         "Close this issue once you've applied — it will automatically mark this "
         "internship **Applied** in `APPLICATIONS.md` and `data/tracked_jobs.json`. "
-        "Reopening it flips it back to **New**."
+        "Reopening it flips it back to **New**. Or just check its box on the "
+        "pinned **Application Checklist** issue instead of closing issues one by one."
     )
 
 
@@ -51,6 +52,7 @@ def ensure_labels() -> None:
         ("posted-today", "D93F0B", "Posted within the last 24 hours"),
         ("usa", "5319E7", "Based in the USA"),
         ("canada", "C2E0C6", "Based in Canada"),
+        (CHECKLIST_LABEL, "0052CC", "The pinned one-click application checklist"),
     ]:
         gh(
             "label", "create", name,
@@ -117,6 +119,7 @@ def main() -> None:
     close_expired_issues(tracked)
     save_tracked(tracked)
     render_markdown(tracked)
+    update_checklist(tracked)
 
 
 if __name__ == "__main__":
