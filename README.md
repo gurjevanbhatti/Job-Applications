@@ -49,6 +49,12 @@ tracking — and leaves the final "review and click apply" step to you.
    picked up on the next run. Each issue has the company, role, term,
    location, eligible degrees, and a direct apply link.
 
+   Postings from major tech companies (Google, Amazon, Meta, Microsoft,
+   Apple, NVIDIA, Tesla, and similar — see `BIG_TECH_COMPANIES` in
+   `scripts/lib.py`) get an extra `big-tech` label, a ⭐ in the issue title,
+   and are sorted to the top of `APPLICATIONS.md` within each status group —
+   they aren't filtered to *only* big tech, just surfaced first.
+
 3. **You apply manually**, then **close the issue**. A second workflow
    (`.github/workflows/mark-applied.yml` → `scripts/mark_applied.py`)
    automatically flips that job's status to `applied` in the tracker and

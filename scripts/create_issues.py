@@ -39,6 +39,22 @@ def issue_body(record: dict) -> str:
     )
 
 
+def ensure_labels() -> None:
+    # `gh issue create --label` fails outright if a label doesn't already
+    # exist in the repo, so create/update them idempotently up front.
+    for name, color, description in [
+        ("internship-tracker", "0E8A16", "Filed by the internship tracker bot"),
+        ("masters-eligible", "1D76DB", "Open to Bachelor's/Master's students"),
+        ("big-tech", "FBCA04", "Posting from a major tech company"),
+    ]:
+        gh(
+            "label", "create", name,
+            "--color", color,
+            "--description", description,
+            "--force",
+        )
+
+
 def create_issues_for_new_matches(tracked: dict) -> None:
     candidates = [
         r for r in tracked.values()
@@ -47,12 +63,14 @@ def create_issues_for_new_matches(tracked: dict) -> None:
     candidates.sort(key=lambda r: r["found_at"])
 
     for record in candidates[:MAX_ISSUES_PER_RUN]:
-        title = f"[Internship] {record['company']} — {record['title']}"
+        star = "⭐ " if record.get("big_tech") else ""
+        title = f"[Internship] {star}{record['company']} — {record['title']}"
+        labels = LABELS + ",big-tech" if record.get("big_tech") else LABELS
         url = gh(
             "issue", "create",
             "--title", title,
             "--body", issue_body(record),
-            "--label", LABELS,
+            "--label", labels,
         )
         # gh issue create prints the created issue's URL as the last line.
         issue_url = url.splitlines()[-1].strip()
@@ -78,6 +96,7 @@ def close_expired_issues(tracked: dict) -> None:
 
 def main() -> None:
     tracked = load_tracked()
+    ensure_labels()
     create_issues_for_new_matches(tracked)
     close_expired_issues(tracked)
     save_tracked(tracked)

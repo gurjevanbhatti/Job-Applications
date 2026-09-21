@@ -23,7 +23,7 @@ import sys
 
 import requests
 
-from lib import load_tracked, save_tracked, render_markdown
+from lib import load_tracked, save_tracked, render_markdown, is_big_tech
 
 LISTINGS_URL = (
     "https://raw.githubusercontent.com/SimplifyJobs/"
@@ -113,15 +113,17 @@ def to_record(job: dict, now: str) -> dict:
         if date_posted
         else None
     )
+    company = job.get("company_name", "Unknown")
     return {
         "id": job["id"],
-        "company": job.get("company_name", "Unknown"),
+        "company": company,
         "title": job.get("title", "Unknown role"),
         "terms": job.get("terms", []),
         "locations": job.get("locations", []),
         "degrees": job.get("degrees", []),
         "url": job.get("url"),
         "date_posted": date_posted_iso,
+        "big_tech": is_big_tech(company),
         "status": "new",
         "found_at": now,
         "applied_at": None,

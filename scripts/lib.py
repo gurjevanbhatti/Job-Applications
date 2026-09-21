@@ -8,6 +8,27 @@ MD_PATH = os.path.join(os.path.dirname(__file__), "..", "APPLICATIONS.md")
 STATUS_ORDER = {"new": 0, "applied": 1, "expired": 2}
 STATUS_LABEL = {"new": "🆕 New", "applied": "✅ Applied", "expired": "⌛ Expired"}
 
+# Exact (case-insensitive) company_name matches from the SimplifyJobs feed.
+# Kept as exact matches rather than substring matches on purpose -- a
+# substring check on short names like "Intel", "Snap", or "Meta" produces
+# false positives (e.g. "Intelliguard", "Snap-on", "Commercial Metals").
+BIG_TECH_COMPANIES = {
+    "google", "meta", "amazon", "apple", "microsoft", "netflix", "nvidia",
+    "tesla", "uber", "uber freight", "airbnb", "salesforce", "oracle", "ibm",
+    "adobe", "intel", "qualcomm", "bytedance", "tiktok", "snap", "pinterest",
+    "spotify", "stripe", "palantir", "spacex", "openai", "anthropic",
+    "databricks", "cisco", "dropbox", "atlassian", "shopify", "paypal",
+    "doordash", "instacart", "roblox", "zoom", "servicenow", "dell technologies",
+    "amd", "samsung", "samsung research america", "sony",
+    "sony interactive entertainment", "linkedin", "twitter", "block", "ebay",
+    "reddit", "vmware", "broadcom", "lyft", "twilio", "snowflake", "mongodb",
+    "workday", "intuit", "hewlett packard enterprise",
+}
+
+
+def is_big_tech(company: str) -> bool:
+    return company.strip().lower() in BIG_TECH_COMPANIES
+
 
 def load_tracked() -> dict:
     if not os.path.exists(DATA_PATH):
@@ -25,15 +46,20 @@ def save_tracked(tracked: dict) -> None:
 
 def render_markdown(tracked: dict) -> None:
     records = list(tracked.values())
+    # Within each status group, big tech first, then newest first.
     records.sort(
-        key=lambda r: (STATUS_ORDER.get(r["status"], 9), r.get("date_posted") or ""),
+        key=lambda r: (
+            STATUS_ORDER.get(r["status"], 9),
+            0 if r.get("big_tech") else 1,
+            r.get("date_posted") or "",
+        ),
         reverse=False,
     )
-    records.sort(key=lambda r: STATUS_ORDER.get(r["status"], 9))
 
     new_count = sum(1 for r in records if r["status"] == "new")
     applied_count = sum(1 for r in records if r["status"] == "applied")
     expired_count = sum(1 for r in records if r["status"] == "expired")
+    big_tech_count = sum(1 for r in records if r.get("big_tech"))
 
     lines = [
         "# Master's Internship Application Tracker",
@@ -43,17 +69,20 @@ def render_markdown(tracked: dict) -> None:
         "to change a job's status.",
         "",
         f"**{new_count} new** · **{applied_count} applied** · **{expired_count} expired** "
-        f"· {len(records)} total tracked",
+        f"· {len(records)} total tracked · ⭐ **{big_tech_count} big tech**",
         "",
         "| Status | Company | Role | Term | Location | Degrees | Link | Found | Applied | Issue |",
         "|---|---|---|---|---|---|---|---|---|---|",
     ]
     for r in records:
         issue = f"[#{r['issue_number']}]({r['issue_url']})" if r.get("issue_number") else "—"
+        company = r["company"].replace("|", "/")
+        if r.get("big_tech"):
+            company = f"⭐ **{company}**"
         lines.append(
             "| {status} | {company} | {title} | {term} | {loc} | {deg} | [Apply]({url}) | {found} | {applied} | {issue} |".format(
                 status=STATUS_LABEL.get(r["status"], r["status"]),
-                company=r["company"].replace("|", "/"),
+                company=company,
                 title=r["title"].replace("|", "/"),
                 term=", ".join(r.get("terms", [])),
                 loc=", ".join(r.get("locations", [])) or "—",
