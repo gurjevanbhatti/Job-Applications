@@ -1,0 +1,40 @@
+name: Mark Internship Applied
+
+on:
+  issues:
+    types: [closed, reopened]
+
+permissions:
+  contents: write
+
+jobs:
+  mark-applied:
+    if: contains(github.event.issue.labels.*.name, 'internship-tracker')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Update tracker status
+        working-directory: scripts
+        env:
+          ISSUE_ACTION: ${{ github.event.action }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_CLOSED_AT: ${{ github.event.issue.closed_at }}
+        run: python mark_applied.py
+
+      - name: Commit tracker update
+        run: |
+          git config user.name "job-bot"
+          git config user.email "job-bot@users.noreply.github.com"
+          git add data/tracked_jobs.json APPLICATIONS.md
+          git diff --cached --quiet || git commit -m "Update status for issue #${{ github.event.issue.number }} (${{ github.event.action }})"
+          git push

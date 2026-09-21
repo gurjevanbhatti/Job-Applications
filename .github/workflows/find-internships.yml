@@ -1,0 +1,48 @@
+name: Find Internships
+
+on:
+  schedule:
+    # Daily at 13:00 UTC. Only runs once this workflow lives on the repo's
+    # default branch — GitHub does not fire `schedule` triggers on other refs.
+    - cron: "0 13 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: find-internships
+  cancel-in-progress: false
+
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch and filter internships
+        id: fetch
+        working-directory: scripts
+        run: python fetch_internships.py
+
+      - name: Create issues for new matches / close expired ones
+        working-directory: scripts
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python create_issues.py
+
+      - name: Commit tracker updates
+        run: |
+          git config user.name "job-bot"
+          git config user.email "job-bot@users.noreply.github.com"
+          git add data/tracked_jobs.json APPLICATIONS.md
+          git diff --cached --quiet || git commit -m "Update internship tracker (${{ steps.fetch.outputs.new_count }} new match(es))"
+          git push
