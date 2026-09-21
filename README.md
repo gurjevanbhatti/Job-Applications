@@ -89,16 +89,16 @@ tracking — and leaves the final "review and click apply" step to you.
    See "Optional: text message digest" below for setup; it no-ops quietly
    if unconfigured.
 
-5. `.github/workflows/find-internships.yml` runs steps 1, 2, and 4 every 5
-   minutes — GitHub's actual floor for `schedule` triggers, so this is as
-   close to real-time as Actions allows (there's no true "instant" here
-   since we're polling an external feed, not receiving a push) — plus
-   on-demand via `workflow_dispatch`. Runs can still lag a few minutes
-   under GitHub-wide load. A private repo's free Actions-minutes budget
-   (2,000 min/month) will drain faster at this cadence than a slower one —
-   5 minutes uses roughly 1500–3000 min/month depending on run length,
-   which can exceed the free allowance; slow it back down (e.g. `*/15 * * * *`)
-   in that file if you hit the limit.
+5. `.github/workflows/find-internships.yml` runs steps 1, 2, and 4 every 15
+   minutes plus on-demand via `workflow_dispatch`. GitHub's actual floor for
+   `schedule` triggers is 5 minutes, but that risks exceeding a private
+   repo's free 2,000 Actions-minutes/month budget (roughly 1500–3000
+   min/month at 5-minute intervals, vs. roughly 500–1000 at 15 minutes) —
+   15 minutes is still close to real-time (there's no true "instant" here
+   since we're polling an external feed, not receiving a push) while
+   staying comfortably within budget. Runs can lag a little under
+   GitHub-wide load. Tighten the cron in that file to `*/5 * * * *` if
+   you want faster and don't mind the Actions-minutes cost.
 
 `APPLICATIONS.md` shows **🇺🇸 USA** and **🇨🇦 Canada** side by side (an HTML
 table, since GitHub-flavored markdown has no native side-by-side layout),
