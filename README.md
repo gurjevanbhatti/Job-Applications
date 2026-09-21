@@ -80,14 +80,15 @@ tracking — and leaves the final "review and click apply" step to you.
 
 4. **Optional text message digest** (`scripts/send_sms_digest.py`) — one
    text per run, only when there's something new, one line per job:
-   `USA: SWE Intern @ Microsoft - posted now - https://is.gd/abc123`. The
-   link is shortened via the free is.gd API so it's not a "long ass link" —
-   plain text messages can't turn a word into a hidden hyperlink the way a
-   webpage can, so a short tappable URL is the closest equivalent. If
-   shortening ever fails (API down, network issue), it falls back to the
-   full original URL rather than dropping the link or failing the send.
-   See "Optional: text message digest" below for setup; it no-ops quietly
-   if unconfigured.
+   `USA: SWE Intern @ Microsoft - posted now`. No link is included: an A/B
+   test (`send_test_sms.py`, sends a no-link and a with-link message
+   separately) confirmed the carrier silently drops texts containing a
+   URL — common anti-phishing filtering for SMS from a non-10DLC-registered
+   sender like a personal Gmail relay — while the identical no-link message
+   delivered fine. A dropped text is worse than one missing a link, so this
+   trades the link for reliable delivery; the full details and apply link
+   are on the job's GitHub issue and the pinned checklist. See "Optional:
+   text message digest" below for setup; it no-ops quietly if unconfigured.
 
 5. `.github/workflows/find-internships.yml` runs steps 1, 2, and 4 every 15
    minutes plus on-demand via `workflow_dispatch`. GitHub's actual floor for

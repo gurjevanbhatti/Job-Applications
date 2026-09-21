@@ -1,15 +1,14 @@
 """
 Sends a single SMS-via-email digest (through a carrier's email-to-SMS
 gateway, e.g. number@msg.koodomobile.com) for this run's newly discovered
-matches. One line per job:
-"USA: SWE Intern @ Microsoft - posted now - https://is.gd/abc123".
+matches. One line per job: "USA: SWE Intern @ Microsoft - posted now".
 
-Plain text messages can't hide a URL behind clickable anchor text the way a
-webpage or HTML email can -- there's no such thing as a "linked word" in
-SMS -- so the closest equivalent is a shortened link that still taps to
-open. Shortening is best-effort: if the is.gd API is unreachable or errors,
-the full original URL is used instead rather than dropping the link or
-failing the whole send.
+No link is included: an A/B test confirmed the carrier silently drops texts
+containing a URL (common anti-phishing filtering for SMS from a non-10DLC-
+registered sender like a personal Gmail relay) while the identical message
+without a link delivered fine. A dropped text is worse than one missing a
+link, so this trades the link for reliable delivery -- the full details and
+apply link are still on the job's GitHub issue and the pinned checklist.
 
 Reads new_matches.json, written fresh by fetch_internships.py each run.
 No-ops quietly if there's nothing new or the required secrets aren't set,
@@ -25,35 +24,16 @@ import os
 import smtplib
 from email.mime.text import MIMEText
 
-import requests
-
 from lib import relative_time
 
 NEW_MATCHES_PATH = os.path.join(os.path.dirname(__file__), "..", "new_matches.json")
 MAX_LINES = 8
 
 
-def shorten_url(url: str) -> str:
-    try:
-        resp = requests.get(
-            "https://is.gd/create.php",
-            params={"format": "simple", "url": url},
-            timeout=10,
-        )
-        short = resp.text.strip()
-        if resp.ok and short.startswith("http"):
-            return short
-    except requests.RequestException:
-        pass
-    return url
-
-
 def format_line(record: dict, now: datetime.datetime) -> str:
     country = "/".join(record.get("countries", [])) or "?"
     posted = relative_time(record.get("date_posted"), now)
-    link = shorten_url(record["url"]) if record.get("url") else None
-    line = f"{country}: {record['title']} @ {record['company']} - posted {posted}"
-    return f"{line} - {link}" if link else line
+    return f"{country}: {record['title']} @ {record['company']} - posted {posted}"
 
 
 def build_digest(matches: list, now: datetime.datetime) -> tuple:
