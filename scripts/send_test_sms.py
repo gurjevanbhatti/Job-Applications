@@ -1,31 +1,30 @@
 """
-Sends a fake but realistic example digest -- built through the exact same
-build_digest()/send_email() code the real bot uses -- so you can preview
-what an actual notification looks like without waiting for a real new
-posting. Triggered manually via the "Test SMS" workflow (workflow_dispatch
-only, never on a schedule).
+Sends TWO separate test texts -- one without a link, one with -- so a
+delivery difference between them can actually be diagnosed instead of
+guessed at. Carriers are known to filter/drop texts containing URLs more
+aggressively than plain text, especially from a personal (non-10DLC-
+registered) sender like a Gmail SMTP relay, so this isolates whether that's
+what's happening here. Triggered manually via the "Test SMS" workflow
+(workflow_dispatch only, never on a schedule).
 """
 import datetime
 import os
 
-from send_sms_digest import build_digest, send_email
+from send_sms_digest import format_line, send_email
 
-FAKE_MATCHES = [
-    {
-        "title": "SWE Intern",
-        "company": "Microsoft",
-        "countries": ["USA"],
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557002608",
-        "date_posted": None,  # filled in with "now" below
-    },
-    {
-        "title": "Data Scientist Intern",
-        "company": "Shopify",
-        "countries": ["Canada"],
-        "url": "https://www.shopify.com/careers/data-scientist-intern",
-        "date_posted": None,  # filled in with "2 hours ago" below
-    },
-]
+NO_LINK_MATCH = {
+    "title": "SWE Intern",
+    "company": "Microsoft",
+    "countries": ["USA"],
+    "date_posted": None,  # filled in below
+}
+WITH_LINK_MATCH = {
+    "title": "SWE Intern",
+    "company": "Microsoft",
+    "countries": ["USA"],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557002608",
+    "date_posted": None,  # filled in below
+}
 
 
 def main() -> None:
@@ -47,17 +46,22 @@ def main() -> None:
         )
 
     now = datetime.datetime.utcnow()
-    FAKE_MATCHES[0]["date_posted"] = now.isoformat() + "Z"
-    FAKE_MATCHES[1]["date_posted"] = (now - datetime.timedelta(hours=2)).isoformat() + "Z"
+    NO_LINK_MATCH["date_posted"] = now.isoformat() + "Z"
+    WITH_LINK_MATCH["date_posted"] = now.isoformat() + "Z"
 
-    subject, body = build_digest(FAKE_MATCHES, now)
-    send_email(gmail_address, gmail_app_password, phone_gateway, subject, f"[EXAMPLE] {body}")
+    body_a = f"TEST A (no link): {format_line(NO_LINK_MATCH, now)}"
+    body_b = f"TEST B (with link): {format_line(WITH_LINK_MATCH, now)}"
 
-    print(f"Sent example digest to {phone_gateway}:\n{body}\n\n"
-          f"This is exactly the format/layout the real bot will send -- if "
-          f"you want it to look different, tell me what to change. If "
-          f"nothing arrives in a few minutes, the gateway address is likely "
-          f"wrong or your carrier has disabled email-to-SMS.")
+    send_email(gmail_address, gmail_app_password, phone_gateway, "Internship bot test A", body_a)
+    send_email(gmail_address, gmail_app_password, phone_gateway, "Internship bot test B", body_b)
+
+    print(f"Sent two test messages to {phone_gateway}:\n"
+          f"  A (no link): {body_a}\n"
+          f"  B (with link): {body_b}\n\n"
+          f"Check your phone in a few minutes. If A arrives but B doesn't, "
+          f"your carrier is filtering texts containing links -- tell Claude "
+          f"and the link will be dropped from the real digest. If neither "
+          f"arrives, it's a gateway/carrier issue unrelated to links.")
 
 
 if __name__ == "__main__":
