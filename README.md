@@ -79,18 +79,26 @@ tracking — and leaves the final "review and click apply" step to you.
      before/after the edit to see exactly which box flipped.
 
 4. **Optional text message digest** (`scripts/send_sms_digest.py`) — one
-   text per run, only when there's something new, one line per job
-   (`USA: SWE Intern @ Microsoft - posted now`). See "Optional: text message
-   digest" below for setup; it no-ops quietly if unconfigured.
+   text per run, only when there's something new, one line per job:
+   `USA: SWE Intern @ Microsoft - posted now - https://is.gd/abc123`. The
+   link is shortened via the free is.gd API so it's not a "long ass link" —
+   plain text messages can't turn a word into a hidden hyperlink the way a
+   webpage can, so a short tappable URL is the closest equivalent. If
+   shortening ever fails (API down, network issue), it falls back to the
+   full original URL rather than dropping the link or failing the send.
+   See "Optional: text message digest" below for setup; it no-ops quietly
+   if unconfigured.
 
-5. `.github/workflows/find-internships.yml` runs steps 1, 2, and 4 every 15
-   minutes plus on-demand via `workflow_dispatch`. GitHub's `schedule` trigger has a
-   practical floor of 5 minutes and runs can lag a little under load, so
-   this is "as close to always-on as Actions allows," not instant. You can
-   tighten the cron in that file down to `*/5 * * * *` if you want, but a
-   private repo's free Actions-minutes budget (2,000 min/month) will drain
-   faster the more often it runs — 15 minutes uses roughly 500–1000 min/month
-   depending on run length; 5 minutes roughly triples that.
+5. `.github/workflows/find-internships.yml` runs steps 1, 2, and 4 every 5
+   minutes — GitHub's actual floor for `schedule` triggers, so this is as
+   close to real-time as Actions allows (there's no true "instant" here
+   since we're polling an external feed, not receiving a push) — plus
+   on-demand via `workflow_dispatch`. Runs can still lag a few minutes
+   under GitHub-wide load. A private repo's free Actions-minutes budget
+   (2,000 min/month) will drain faster at this cadence than a slower one —
+   5 minutes uses roughly 1500–3000 min/month depending on run length,
+   which can exceed the free allowance; slow it back down (e.g. `*/15 * * * *`)
+   in that file if you hit the limit.
 
 `APPLICATIONS.md` shows **🇺🇸 USA** and **🇨🇦 Canada** side by side (an HTML
 table, since GitHub-flavored markdown has no native side-by-side layout),

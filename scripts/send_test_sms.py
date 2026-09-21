@@ -15,12 +15,14 @@ FAKE_MATCHES = [
         "title": "SWE Intern",
         "company": "Microsoft",
         "countries": ["USA"],
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557002608",
         "date_posted": None,  # filled in with "now" below
     },
     {
         "title": "Data Scientist Intern",
         "company": "Shopify",
         "countries": ["Canada"],
+        "url": "https://www.shopify.com/careers/data-scientist-intern",
         "date_posted": None,  # filled in with "2 hours ago" below
     },
 ]

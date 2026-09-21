@@ -13,6 +13,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
       - name: Send test text
         working-directory: scripts
         env:
