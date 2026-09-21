@@ -2222,6 +2222,7 @@
       "Master's",
       "PhD"
     ],
+    "expired_at": "2026-09-21T06:04:20.701092Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "2252913a-6024-4abe-8ce4-7dcb8de927f7",
@@ -2230,7 +2231,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -6515,6 +6516,33 @@
     "title": "AI Quality Co-op Intern - Evaluation & Security",
     "url": "https://careers-kinaxis.icims.com/jobs/35378/job?mobile=true&needsRedirect=false"
   },
+  "671df4e5-0754-4a2b-b3e8-9efd0533222b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Illinois Tool Works",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T01:14:48Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T06:04:20.701092Z",
+    "id": "671df4e5-0754-4a2b-b3e8-9efd0533222b",
+    "issue_number": 2,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2",
+    "locations": [
+      "Rogers, MN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://careers.itw.com/global/en/job/JR10129"
+  },
   "674b6824-6b78-406d-80dc-1f26ba47bbd1": {
     "applied_at": null,
     "backfilled": true,
@@ -6760,6 +6788,34 @@
     ],
     "title": "Reliability and Statistics Intern",
     "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594"
+  },
+  "6b921b31-d209-48f8-a6ae-12349aed6e6b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "bioM\u00e9rieux",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-15T22:21:52Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T06:04:20.701092Z",
+    "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
+    "issue_number": 3,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3",
+    "locations": [
+      "Hazelwood, MO"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Hardware Co-op",
+    "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false"
   },
   "6c46682a-cd5d-4600-9417-d7b43d3afe1f": {
     "applied_at": null,
@@ -8045,6 +8101,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-21T06:04:20.701092Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "825ddc18-52db-497b-a5b3-68807da12886",
@@ -8053,7 +8110,7 @@
     "locations": [
       "Annapolis, MD"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -9573,6 +9630,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-21T06:04:20.701092Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "9b28c208-2dc8-4da1-aa49-ceb17af432ea",
@@ -9581,7 +9639,7 @@
     "locations": [
       "Allen, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
