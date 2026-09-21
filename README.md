@@ -53,7 +53,7 @@ tracking — and leaves the final "review and click apply" step to you.
    spot what matters at a glance without narrowing the underlying matches:
    - `big-tech` + ⭐ — Google, Amazon, Meta, Microsoft, Apple, NVIDIA, Tesla,
      and similar (see `BIG_TECH_COMPANIES` in `scripts/lib.py`)
-   - `posted-today` + 🔥 — posted the same day it was found, vs. anywhere in
+   - `posted-today` + 🔥 — posted within the last 24 hours, vs. anywhere in
      the 7-day window
    - `usa` / `canada` — which country the posting is in
 
@@ -74,9 +74,12 @@ tracking — and leaves the final "review and click apply" step to you.
    faster the more often it runs — 15 minutes uses roughly 500–1000 min/month
    depending on run length; 5 minutes roughly triples that.
 
-`APPLICATIONS.md` is split into a **🇺🇸 USA** section and a **🇨🇦 Canada**
-section, each with its own new/applied/expired/big-tech/posted-today counts.
-A posting open to both countries appears in both sections.
+`APPLICATIONS.md` shows **🇺🇸 USA** and **🇨🇦 Canada** side by side (an HTML
+table, since GitHub-flavored markdown has no native side-by-side layout),
+each with its own new/applied/expired/big-tech/posted-today counts. A
+posting open to both countries appears on both sides. Rows show a relative
+"Posted" time (`3 hrs ago`, `2 days ago`) rather than a raw date, computed
+fresh on every run so it's always current as of the last sync.
 
 ## One-time setup
 

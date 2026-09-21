@@ -48,7 +48,7 @@ def ensure_labels() -> None:
         ("internship-tracker", "0E8A16", "Filed by the internship tracker bot"),
         ("masters-eligible", "1D76DB", "Open to Bachelor's/Master's students"),
         ("big-tech", "FBCA04", "Posting from a major tech company"),
-        ("posted-today", "D93F0B", "Posted the same day it was found"),
+        ("posted-today", "D93F0B", "Posted within the last 24 hours"),
         ("usa", "5319E7", "Based in the USA"),
         ("canada", "C2E0C6", "Based in Canada"),
     ]:
@@ -66,17 +66,17 @@ def create_issues_for_new_matches(tracked: dict) -> None:
         if r["status"] == "new" and not r.get("issue_number") and not r.get("backfilled")
     ]
     candidates.sort(key=lambda r: r["found_at"])
-    today = datetime.datetime.utcnow().date()
+    now = datetime.datetime.utcnow()
 
     for record in candidates[:MAX_ISSUES_PER_RUN]:
         star = "⭐ " if record.get("big_tech") else ""
-        fire = "🔥 " if is_posted_today(record, today) else ""
+        fire = "🔥 " if is_posted_today(record, now) else ""
         title = f"[Internship] {fire}{star}{record['company']} — {record['title']}"
 
         extra_labels = []
         if record.get("big_tech"):
             extra_labels.append("big-tech")
-        if is_posted_today(record, today):
+        if is_posted_today(record, now):
             extra_labels.append("posted-today")
         for country in record.get("countries", []):
             extra_labels.append("usa" if country == "USA" else "canada")
