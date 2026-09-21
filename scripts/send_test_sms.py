@@ -1,12 +1,29 @@
 """
-Sends one fixed test text through the same Gmail-SMTP -> carrier-gateway
-path as send_sms_digest.py, so you can confirm the integration works
-without waiting for a real new internship posting. Triggered manually via
-the "Test SMS" workflow (workflow_dispatch only, never on a schedule).
+Sends a fake but realistic example digest -- built through the exact same
+build_digest()/send_email() code the real bot uses -- so you can preview
+what an actual notification looks like without waiting for a real new
+posting. Triggered manually via the "Test SMS" workflow (workflow_dispatch
+only, never on a schedule).
 """
+import datetime
 import os
-import smtplib
-from email.mime.text import MIMEText
+
+from send_sms_digest import build_digest, send_email
+
+FAKE_MATCHES = [
+    {
+        "title": "SWE Intern",
+        "company": "Microsoft",
+        "countries": ["USA"],
+        "date_posted": None,  # filled in with "now" below
+    },
+    {
+        "title": "Data Scientist Intern",
+        "company": "Shopify",
+        "countries": ["Canada"],
+        "date_posted": None,  # filled in with "2 hours ago" below
+    },
+]
 
 
 def main() -> None:
@@ -27,19 +44,18 @@ def main() -> None:
             "Settings -> Secrets and variables -> Actions, then re-run."
         )
 
-    body = "Test message from your internship bot. If you got this, SMS notifications are working."
-    msg = MIMEText(body)
-    msg["Subject"] = "Internship bot test"
-    msg["From"] = gmail_address
-    msg["To"] = phone_gateway
+    now = datetime.datetime.utcnow()
+    FAKE_MATCHES[0]["date_posted"] = now.isoformat() + "Z"
+    FAKE_MATCHES[1]["date_posted"] = (now - datetime.timedelta(hours=2)).isoformat() + "Z"
 
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-        server.login(gmail_address, gmail_app_password)
-        server.sendmail(gmail_address, [phone_gateway], msg.as_string())
+    subject, body = build_digest(FAKE_MATCHES, now)
+    send_email(gmail_address, gmail_app_password, phone_gateway, subject, f"[EXAMPLE] {body}")
 
-    print(f"Sent test message to {phone_gateway}. Check your phone -- if nothing "
-          f"arrives in a few minutes, the gateway address is likely wrong or "
-          f"your carrier has disabled email-to-SMS.")
+    print(f"Sent example digest to {phone_gateway}:\n{body}\n\n"
+          f"This is exactly the format/layout the real bot will send -- if "
+          f"you want it to look different, tell me what to change. If "
+          f"nothing arrives in a few minutes, the gateway address is likely "
+          f"wrong or your carrier has disabled email-to-SMS.")
 
 
 if __name__ == "__main__":

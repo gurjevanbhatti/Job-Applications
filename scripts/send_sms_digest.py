@@ -29,6 +29,27 @@ def format_line(record: dict, now: datetime.datetime) -> str:
     return f"{country}: {record['title']} @ {record['company']} - posted {posted}"
 
 
+def build_digest(matches: list, now: datetime.datetime) -> tuple:
+    """Returns (subject, body) in the exact format the real digest uses --
+    shared with send_test_sms.py so a preview can't drift out of sync with
+    what actually gets sent."""
+    lines = [format_line(r, now) for r in matches[:MAX_LINES]]
+    if len(matches) > MAX_LINES:
+        lines.append(f"+{len(matches) - MAX_LINES} more, check GitHub")
+    return f"{len(matches)} new internship(s)", "\n".join(lines)
+
+
+def send_email(gmail_address: str, gmail_app_password: str, to_address: str, subject: str, body: str) -> None:
+    msg = MIMEText(body)
+    msg["Subject"] = subject
+    msg["From"] = gmail_address
+    msg["To"] = to_address
+
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+        server.login(gmail_address, gmail_app_password)
+        server.sendmail(gmail_address, [to_address], msg.as_string())
+
+
 def main() -> None:
     gmail_address = os.environ.get("GMAIL_ADDRESS")
     gmail_app_password = os.environ.get("GMAIL_APP_PASSWORD")
@@ -47,21 +68,8 @@ def main() -> None:
         print("No new matches this run; skipping notification.")
         return
 
-    now = datetime.datetime.utcnow()
-    lines = [format_line(r, now) for r in new_matches[:MAX_LINES]]
-    if len(new_matches) > MAX_LINES:
-        lines.append(f"+{len(new_matches) - MAX_LINES} more, check GitHub")
-    body = "\n".join(lines)
-
-    msg = MIMEText(body)
-    msg["Subject"] = f"{len(new_matches)} new internship(s)"
-    msg["From"] = gmail_address
-    msg["To"] = phone_gateway
-
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-        server.login(gmail_address, gmail_app_password)
-        server.sendmail(gmail_address, [phone_gateway], msg.as_string())
-
+    subject, body = build_digest(new_matches, datetime.datetime.utcnow())
+    send_email(gmail_address, gmail_app_password, phone_gateway, subject, body)
     print(f"Sent SMS digest for {len(new_matches)} new match(es) to {phone_gateway}.")
 
 
