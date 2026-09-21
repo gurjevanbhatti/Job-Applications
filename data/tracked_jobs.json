@@ -315,6 +315,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-21T13:34:58.985468Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "06c5700d-2702-4f7a-a7c1-e713c7de94a4",
@@ -323,7 +324,7 @@
     "locations": [
       "Tucson, AZ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -492,6 +493,34 @@
     ],
     "title": "Software Engineer Intern - Low Code",
     "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375"
+  },
+  "0a703703-0be7-4f89-89c2-56b288638eef": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Interstates",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T06:09:24Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T13:34:58.985468Z",
+    "id": "0a703703-0be7-4f89-89c2-56b288638eef",
+    "issue_number": 5,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/5",
+    "locations": [
+      "Sioux Center, IA",
+      "Sioux Falls, SD"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Developer Intern",
+    "url": "https://www.interstates.com/careers/jobs?gh_jid=4218341009&gh_jid=4218341009"
   },
   "0adb2d84-b56e-47f1-b4ca-f0267547814c": {
     "applied_at": null,
@@ -2936,6 +2965,34 @@
     "title": "Software Engineer Intern",
     "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010928"
   },
+  "2a319a5b-a682-4c9d-9bc1-e3d5f7393fe9": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Northrop Grumman",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T13:34:58.985468Z",
+    "id": "2a319a5b-a682-4c9d-9bc1-e3d5f7393fe9",
+    "issue_number": 6,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/6",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Digital Engineer Intern",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1"
+  },
   "2bcbafa1-71bc-4c04-97b2-9914eca0662c": {
     "applied_at": null,
     "backfilled": true,
@@ -2991,6 +3048,33 @@
     ],
     "title": "ASIC Digital Design Intern",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163"
+  },
+  "2e8bb17d-0726-4482-af62-5f868bede92c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "AutoZone",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T06:17:05Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T13:34:58.985468Z",
+    "id": "2e8bb17d-0726-4482-af62-5f868bede92c",
+    "issue_number": 7,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/7",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Science Intern",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461"
   },
   "2e987576-4a69-4fdb-8af3-9fabc32055c8": {
     "applied_at": null,
@@ -4129,6 +4213,34 @@
     ],
     "title": "AI Engineering Intern",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150217869"
+  },
+  "3f8ecfdc-461f-4732-bf24-79251228640c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Northrop Grumman",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T13:34:58.985468Z",
+    "id": "3f8ecfdc-461f-4732-bf24-79251228640c",
+    "issue_number": 8,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/8",
+    "locations": [
+      "Camarillo, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Embedded Software Engineer Intern",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835"
   },
   "3fc82b32-e0d8-454e-9338-670f6758c02e": {
     "applied_at": null,
@@ -5423,6 +5535,7 @@
       "Master's",
       "PhD"
     ],
+    "expired_at": "2026-09-21T13:34:58.985468Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "56083f58-d4ed-4ca0-8bd9-321b06f71acc",
@@ -5431,7 +5544,7 @@
     "locations": [
       "Laurel, MD"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -6802,7 +6915,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-21T13:34:58.985468Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-21T06:04:20.701092Z",
     "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
     "issue_number": 3,
@@ -6810,7 +6924,7 @@
     "locations": [
       "Hazelwood, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -7715,6 +7829,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-21T13:34:58.985468Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "79e0f6b0-0ebd-4559-9d9c-88216eb679cb",
@@ -7723,7 +7838,7 @@
     "locations": [
       "Minneapolis, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026",
       "Summer 2027"
@@ -7922,6 +8037,33 @@
     ],
     "title": "RPA Engineer Intern",
     "url": "https://bcbsks.wd1.myworkdayjobs.com/External/job/Topeka/RPA-Engineering-Developer-Intern_R2026350"
+  },
+  "7d5c4b26-9d58-4de0-b0fe-0ee845b9d45e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "AutoZone",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T06:17:01Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T13:34:58.985468Z",
+    "id": "7d5c4b26-9d58-4de0-b0fe-0ee845b9d45e",
+    "issue_number": 9,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/9",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Information Technology Intern",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451"
   },
   "7e9944eb-4630-4e1a-929f-76f0e8361f47": {
     "applied_at": null,
@@ -8500,6 +8642,34 @@
     ],
     "title": "Risk Management Strategy Intern",
     "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1"
+  },
+  "880f0ef0-3511-45a5-9803-3af2a5868a27": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Nordson",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-20T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T13:34:58.985468Z",
+    "id": "880f0ef0-3511-45a5-9803-3af2a5868a27",
+    "issue_number": 10,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/10",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Electrical Engineer Intern",
+    "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Electrical-Engineering-Intern_REQ52913"
   },
   "8a06665c-9bac-4f8e-b15b-ddde0bb9a402": {
     "applied_at": null,
@@ -10036,6 +10206,33 @@
     "title": "Software Engineer Intern - Summer 2027",
     "url": "https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false"
   },
+  "a22505cf-c011-48dc-aff0-642aa353830e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "MFS",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T13:34:58.985468Z",
+    "id": "a22505cf-c011-48dc-aff0-642aa353830e",
+    "issue_number": 11,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/11",
+    "locations": [
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Distribution Sales Reporting Co-op",
+    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Distribution-Sales-Reporting-Co-op-Spring-2027--January---June-_MFS-231926"
+  },
   "a2aece51-4842-47ed-ae57-24e53d89a054": {
     "applied_at": null,
     "backfilled": true,
@@ -10233,6 +10430,34 @@
     ],
     "title": "Software Engineer Intern - Cybersecurity",
     "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616"
+  },
+  "a6f454a8-2bd5-4c59-a968-77237a0c890c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Northrop Grumman",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T13:34:58.985468Z",
+    "id": "a6f454a8-2bd5-4c59-a968-77237a0c890c",
+    "issue_number": 12,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/12",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Embedded Software Engineer Intern",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464"
   },
   "a70859ca-00a6-4319-bee4-fd6c0b564059": {
     "applied_at": null,
@@ -13637,6 +13862,34 @@
     "title": "Monitoring and Optimization Engineer Intern",
     "url": "https://careers.hfsinclair.com/job/Dallas-Monitoring-and-Optimization-Engineer-Intern-TX-75219/1430069700/?ats=successfactors"
   },
+  "db2027d0-629e-474c-b927-fb0ffc7d9e62": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Interstates",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-21T06:09:24Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-21T13:34:58.985468Z",
+    "id": "db2027d0-629e-474c-b927-fb0ffc7d9e62",
+    "issue_number": 13,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/13",
+    "locations": [
+      "Sioux Center, IA",
+      "Sioux Falls, SD"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Developer Intern",
+    "url": "https://www.interstates.com/careers/jobs?gh_jid=4218343009&gh_jid=4218343009"
+  },
   "ddf6cf13-0a0b-4f97-93eb-c88083de5316": {
     "applied_at": null,
     "backfilled": true,
@@ -15297,6 +15550,7 @@
       "Master's",
       "MBA"
     ],
+    "expired_at": "2026-09-21T13:34:58.985468Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "f9a08de0-d633-4b19-b444-8002689fc795",
@@ -15306,7 +15560,7 @@
       "Austin, TX",
       "Warren, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
