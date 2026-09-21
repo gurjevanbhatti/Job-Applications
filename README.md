@@ -134,12 +134,33 @@ one manual test email before relying on it.
      Telus network). Other carriers use their own domain
      (`@vtext.com` Verizon, `@txt.att.net` AT&T, `@tmomail.net` T-Mobile,
      etc.).
-3. If it turns out unreliable, a paid service like Twilio is more
+3. **Test it, in this order:**
+   - First, confirm the gateway itself works, with zero code involved: from
+     any email client, send a plain email to your `PHONE_SMS_GATEWAY`
+     address. If nothing arrives on your phone within a few minutes, that
+     gateway/carrier combo doesn't work for your number — try a different
+     domain (e.g. `msg.telus.com` instead of `msg.koodomobile.com`) or
+     switch to Twilio.
+   - Once that works, confirm the bot's wiring: go to this repo's
+     **Actions** tab → **Test SMS** (in the left sidebar) → **Run
+     workflow**. This sends one fixed test text through the exact same
+     code path as the real digest, without waiting for an actual new
+     internship to appear. A run that finishes green but no text arrives
+     usually means a typo in one of the three secrets — check the run's
+     logs for the printed confirmation.
+   - The real digest only fires from `find-internships.yml` when
+     `new_matches.json` actually has something in it, so don't expect a
+     text on every 15-minute run — only when a genuinely new posting shows
+     up.
+4. If it turns out unreliable, a paid service like Twilio is more
    dependable but costs a small fee per text and needs its own API
    credentials — ask if you want that built instead.
 
-Without these three secrets set, `send_sms_digest.py` just no-ops quietly
-every run — nothing breaks if you skip this section.
+Without these three secrets set: the real digest (`send_sms_digest.py`)
+just no-ops quietly every run, and the manual test
+(`send_test_sms.py`/"Test SMS" workflow) fails loudly with a clear
+"missing secret" message. Either way, nothing in the rest of the bot breaks
+if you skip this section.
 
 ## Tracker state
 
