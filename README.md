@@ -127,13 +127,18 @@ one manual test email before relying on it.
    repository secret**, add:
    - `GMAIL_ADDRESS` — the Gmail address sending the digest
    - `GMAIL_APP_PASSWORD` — the 16-character app password from step 1
-   - `PHONE_SMS_GATEWAY` — `<10-digit-number>@<gateway-domain>`, e.g.
-     `4165551234@msg.telus.com` for Koodo/Telus (Koodo's own
-     `msg.koodomobile.com` has multiple recent community reports of
-     delivery failures — `msg.telus.com` works since Koodo runs on the
-     Telus network). Other carriers use their own domain
-     (`@vtext.com` Verizon, `@txt.att.net` AT&T, `@tmomail.net` T-Mobile,
-     etc.).
+   - `PHONE_SMS_GATEWAY` — `<10-digit-number>@<gateway-domain>`. For
+     Koodo, `@msg.koodomobile.com` is confirmed working (delivered in
+     testing, despite some older community reports of it being flaky —
+     your mileage may vary since carriers can change this without notice).
+     `@msg.telus.com` is the documented fallback if koodomobile.com ever
+     stops working, since Koodo runs on the Telus network. Other carriers
+     use their own domain (`@vtext.com` Verizon, `@txt.att.net` AT&T,
+     `@tmomail.net` T-Mobile, etc.).
+   - Expect the resulting text to show up oddly on your phone — e.g. as a
+     "group chat" including the sending Gmail address, since it's an email
+     landing as a text, not a message from a real phone number. That's a
+     cosmetic side effect of this whole approach, not a bug.
 3. **Test it, in this order:**
    - First, confirm the gateway itself works, with zero code involved: from
      any email client, send a plain email to your `PHONE_SMS_GATEWAY`
