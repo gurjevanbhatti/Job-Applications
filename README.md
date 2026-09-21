@@ -47,21 +47,36 @@ tracking — and leaves the final "review and click apply" step to you.
    `internship-tracker`), capped at 25 per run so a burst of new postings
    can't spam the repo or trip GitHub's rate limits — any overflow just gets
    picked up on the next run. Each issue has the company, role, term,
-   location, eligible degrees, and a direct apply link.
+   location, country, eligible degrees, and a direct apply link.
 
-   Postings from major tech companies (Google, Amazon, Meta, Microsoft,
-   Apple, NVIDIA, Tesla, and similar — see `BIG_TECH_COMPANIES` in
-   `scripts/lib.py`) get an extra `big-tech` label, a ⭐ in the issue title,
-   and are sorted to the top of `APPLICATIONS.md` within each status group —
-   they aren't filtered to *only* big tech, just surfaced first.
+   Issues (and `APPLICATIONS.md` rows) get extra labels/markers so you can
+   spot what matters at a glance without narrowing the underlying matches:
+   - `big-tech` + ⭐ — Google, Amazon, Meta, Microsoft, Apple, NVIDIA, Tesla,
+     and similar (see `BIG_TECH_COMPANIES` in `scripts/lib.py`)
+   - `posted-today` + 🔥 — posted the same day it was found, vs. anywhere in
+     the 7-day window
+   - `usa` / `canada` — which country the posting is in
+
+   These sort to the top within each status group; nothing is filtered out
+   because of them.
 
 3. **You apply manually**, then **close the issue**. A second workflow
    (`.github/workflows/mark-applied.yml` → `scripts/mark_applied.py`)
    automatically flips that job's status to `applied` in the tracker and
    commits the update. Reopening an issue flips it back to `new`.
 
-4. `.github/workflows/find-internships.yml` runs step 1–2 on a daily cron
-   (13:00 UTC) plus on-demand via `workflow_dispatch`.
+4. `.github/workflows/find-internships.yml` runs step 1–2 every 15 minutes
+   plus on-demand via `workflow_dispatch`. GitHub's `schedule` trigger has a
+   practical floor of 5 minutes and runs can lag a little under load, so
+   this is "as close to always-on as Actions allows," not instant. You can
+   tighten the cron in that file down to `*/5 * * * *` if you want, but a
+   private repo's free Actions-minutes budget (2,000 min/month) will drain
+   faster the more often it runs — 15 minutes uses roughly 500–1000 min/month
+   depending on run length; 5 minutes roughly triples that.
+
+`APPLICATIONS.md` is split into a **🇺🇸 USA** section and a **🇨🇦 Canada**
+section, each with its own new/applied/expired/big-tech/posted-today counts.
+A posting open to both countries appears in both sections.
 
 ## One-time setup
 
@@ -90,3 +105,5 @@ issues at once.
   records.
 - Adjust `TARGET_DEGREES` or `RECENCY_DAYS` in `scripts/fetch_internships.py`
   to widen/narrow what counts as a match.
+- Add/remove companies in `BIG_TECH_COMPANIES` (`scripts/lib.py`) to change
+  what counts as "big tech."

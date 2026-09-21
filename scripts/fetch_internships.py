@@ -65,22 +65,41 @@ def fetch_listings() -> list:
     return resp.json()
 
 
-def _location_is_us_or_canada(location: str) -> bool:
+def _location_countries(location: str) -> set:
+    """Returns the subset of {"USA", "Canada"} a single location string
+    indicates, empty if neither."""
     lower = location.lower()
-    if "canada" in lower or "united states" in lower:
-        return True
-    if lower in ("usa", "us"):
-        return True
-    if any(f"remote in {kw}" in lower for kw in ("us", "usa", "canada", "the us")):
-        return True
-    if location in US_STATE_NAMES or location in CA_PROVINCE_NAMES:
-        return True
-    last_part = location.split(",")[-1].strip()
-    return last_part.upper() in US_STATE_ABBR or last_part.upper() in CA_PROVINCE_ABBR
+    countries = set()
+    if "canada" in lower:
+        countries.add("Canada")
+    if "united states" in lower or lower in ("usa", "us"):
+        countries.add("USA")
+    if "remote in canada" in lower:
+        countries.add("Canada")
+    if any(f"remote in {kw}" in lower for kw in ("us", "usa", "the us")):
+        countries.add("USA")
+    if location in CA_PROVINCE_NAMES:
+        countries.add("Canada")
+    if location in US_STATE_NAMES:
+        countries.add("USA")
+    if not countries:
+        last_part = location.split(",")[-1].strip().upper()
+        if last_part in CA_PROVINCE_ABBR:
+            countries.add("Canada")
+        elif last_part in US_STATE_ABBR:
+            countries.add("USA")
+    return countries
+
+
+def get_countries(job: dict) -> list:
+    countries = set()
+    for loc in job.get("locations") or []:
+        countries |= _location_countries(loc)
+    return sorted(countries)
 
 
 def is_us_or_canada(job: dict) -> bool:
-    return any(_location_is_us_or_canada(loc) for loc in (job.get("locations") or []))
+    return bool(get_countries(job))
 
 
 def is_eligible(job: dict) -> bool:
@@ -120,6 +139,7 @@ def to_record(job: dict, now: str) -> dict:
         "title": job.get("title", "Unknown role"),
         "terms": job.get("terms", []),
         "locations": job.get("locations", []),
+        "countries": get_countries(job),
         "degrees": job.get("degrees", []),
         "url": job.get("url"),
         "date_posted": date_posted_iso,

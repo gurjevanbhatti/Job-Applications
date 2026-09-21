@@ -2,9 +2,12 @@ name: Find Internships
 
 on:
   schedule:
-    # Daily at 13:00 UTC. Only runs once this workflow lives on the repo's
-    # default branch — GitHub does not fire `schedule` triggers on other refs.
-    - cron: "0 13 * * *"
+    # Every 15 minutes -- the shortest practical interval GitHub supports
+    # for `schedule` triggers is 5 minutes, and runs can lag a few minutes
+    # under load, so this is "as close to always-on as Actions allows"
+    # rather than truly instant. Only fires once this workflow lives on the
+    # repo's default branch — GitHub does not run `schedule` on other refs.
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}
 
 permissions:
