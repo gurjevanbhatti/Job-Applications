@@ -1,8 +1,9 @@
 # Job Applications — Internship Finder & Tracker
 
-An automated bot that finds Bachelor's/Master's-eligible internships posted in
-the last 7 days and tracks them in this repo, so you always have a running
-history of what's out there and what you've applied to.
+An automated bot that finds Bachelor's/Master's-eligible internships in the
+**US or Canada**, posted in the last 7 days, and tracks them in this repo, so
+you always have a running history of what's out there and what you've
+applied to.
 
 ## What it does NOT do
 
@@ -15,6 +16,10 @@ job platforms was considered and deliberately left out:
 - Most application flows are behind CAPTCHAs/anti-bot checks anyway.
 - Generic, unreviewed answers to per-employer application questions tend to
   hurt your odds rather than help.
+- This holds even if personal info (resume, contact details) is supplied —
+  the ToS/anti-bot/reliability problems are about the target platforms, not
+  about who provides the data, and storing personal info in CI secrets/logs
+  is its own exposure risk best avoided.
 
 Instead, the bot does the (legitimately automatable) hard part — finding and
 tracking — and leaves the final "review and click apply" step to you.
@@ -26,7 +31,8 @@ tracking — and leaves the final "review and click apply" step to you.
    community board (a public, scrape-friendly JSON feed maintained for
    exactly this purpose), filters to postings that are:
    - currently active,
-   - open to **Bachelor's** and/or **Master's** students, and
+   - open to **Bachelor's** and/or **Master's** students,
+   - based in the **US or Canada** (remote-in-US/Canada included), and
    - posted within the last **7 days**,
 
    and updates `data/tracked_jobs.json` (source of truth) plus
@@ -63,8 +69,8 @@ tracking — and leaves the final "review and click apply" step to you.
 
 ## Tracker state
 
-`data/tracked_jobs.json` was seeded with the 634 Bachelor's/Master's-eligible
-internships posted in the 7 days before this bot was set up
+`data/tracked_jobs.json` was seeded with the 564 US/Canada Bachelor's/Master's-
+eligible internships posted in the 7 days before this bot was set up
 (flagged `"backfilled": true`) so `APPLICATIONS.md` starts populated instead
 of empty. Backfilled entries don't get issues filed retroactively — only
 postings found from here on do, which keeps day one from opening hundreds of
