@@ -45,6 +45,14 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: python create_issues.py
 
+      - name: Text digest of new matches
+        working-directory: scripts
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          PHONE_SMS_GATEWAY: ${{ secrets.PHONE_SMS_GATEWAY }}
+        run: python send_sms_digest.py
+
       - name: Commit tracker updates
         run: |
           git config user.name "job-bot"

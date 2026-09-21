@@ -78,8 +78,13 @@ tracking — and leaves the final "review and click apply" step to you.
      `scripts/handle_checklist_edit.py`, which diffs the issue body
      before/after the edit to see exactly which box flipped.
 
-4. `.github/workflows/find-internships.yml` runs step 1–2 every 15 minutes
-   plus on-demand via `workflow_dispatch`. GitHub's `schedule` trigger has a
+4. **Optional text message digest** (`scripts/send_sms_digest.py`) — one
+   text per run, only when there's something new, one line per job
+   (`USA: SWE Intern @ Microsoft - posted now`). See "Optional: text message
+   digest" below for setup; it no-ops quietly if unconfigured.
+
+5. `.github/workflows/find-internships.yml` runs steps 1, 2, and 4 every 15
+   minutes plus on-demand via `workflow_dispatch`. GitHub's `schedule` trigger has a
    practical floor of 5 minutes and runs can lag a little under load, so
    this is "as close to always-on as Actions allows," not instant. You can
    tighten the cron in that file down to `*/5 * * * *` if you want, but a
@@ -100,9 +105,41 @@ fresh on every run so it's always current as of the last sync.
    `schedule` triggers for workflows that live on the default branch.
 2. In **Settings → Actions → General → Workflow permissions**, select
    "Read and write permissions" so the bot's `GITHUB_TOKEN` can push commits
-   and open/close issues. No other secrets are required.
+   and open/close issues.
 3. Watch this repo (you're automatically watching your own repos) so new
-   internship issues show up in your GitHub notifications.
+   internship issues also show up as GitHub's own email/push notifications
+   — check **github.com → Settings → Notifications** to confirm "Email" is
+   on for Issues if you want that.
+
+### Optional: text message digest (`scripts/send_sms_digest.py`)
+
+Sends one text per run (only when there's something new) via your carrier's
+free email-to-SMS gateway, one line per job:
+`USA: SWE Intern @ Microsoft - posted now`. This is **best-effort, not
+guaranteed delivery** — carriers can silently drop these with no bounce or
+error, and several have discontinued their gateways outright. Send yourself
+one manual test email before relying on it.
+
+1. Enable 2-Step Verification on the sending Gmail account, then generate an
+   app password at [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)
+   (pick "Mail" / name it "job-bot").
+2. In this repo: **Settings → Secrets and variables → Actions → New
+   repository secret**, add:
+   - `GMAIL_ADDRESS` — the Gmail address sending the digest
+   - `GMAIL_APP_PASSWORD` — the 16-character app password from step 1
+   - `PHONE_SMS_GATEWAY` — `<10-digit-number>@<gateway-domain>`, e.g.
+     `4165551234@msg.telus.com` for Koodo/Telus (Koodo's own
+     `msg.koodomobile.com` has multiple recent community reports of
+     delivery failures — `msg.telus.com` works since Koodo runs on the
+     Telus network). Other carriers use their own domain
+     (`@vtext.com` Verizon, `@txt.att.net` AT&T, `@tmomail.net` T-Mobile,
+     etc.).
+3. If it turns out unreliable, a paid service like Twilio is more
+   dependable but costs a small fee per text and needs its own API
+   credentials — ask if you want that built instead.
+
+Without these three secrets set, `send_sms_digest.py` just no-ops quietly
+every run — nothing breaks if you skip this section.
 
 ## Tracker state
 

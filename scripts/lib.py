@@ -60,11 +60,14 @@ def is_posted_today(record: dict, now: datetime.datetime) -> bool:
 
 
 def relative_time(date_posted: str, now: datetime.datetime) -> str:
-    """'3 hrs ago' / '2 days ago' style label. Falls back to '—' if unknown."""
+    """'now' / '3 hrs ago' / '2 days ago' style label. Falls back to '—' if
+    unknown."""
     posted_at = _parse_posted(date_posted)
     if posted_at is None:
         return "—"
     seconds = max((now - posted_at).total_seconds(), 0)
+    if seconds < 60:
+        return "now"
     if seconds < 3600:
         minutes = max(1, int(seconds // 60))
         return f"{minutes} min ago"
