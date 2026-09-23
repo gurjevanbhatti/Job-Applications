@@ -139,6 +139,38 @@
     "title": "Digital CMC TechOps Co-op",
     "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8814364002"
   },
+  "021ab755-0612-4b89-bce6-f907b348959f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Excellus BCBS",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-23T18:48:25.780943Z",
+    "id": "021ab755-0612-4b89-bce6-f907b348959f",
+    "issue_number": 273,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/273",
+    "locations": [
+      "Rochester, NY",
+      "De Witt, NY",
+      "Utica, NY",
+      "Albany, NY",
+      "Binghamton, NY",
+      "Buffalo, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "College Intern - Records and Information Management",
+    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Records-and-Information-Management_JR104030-2"
+  },
   "02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9": {
     "applied_at": null,
     "backfilled": false,
@@ -4223,6 +4255,34 @@
     "title": "Data Engineer Intern - Multiple Teams",
     "url": "https://careers-cotiviti.icims.com/jobs/20383/job?mobile=true&needsRedirect=false"
   },
+  "2afb885b-d426-47bd-9dc0-80b026d499f5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "CACI",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-23T18:48:25.780943Z",
+    "id": "2afb885b-d426-47bd-9dc0-80b026d499f5",
+    "issue_number": 274,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/274",
+    "locations": [
+      "Annapolis Junction, MD",
+      "Fort Meade, MD"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Systems Engineer Intern - Summer 2027",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506"
+  },
   "2b316c3e-9a1f-4f4d-8a89-0bfaccfe907a": {
     "applied_at": null,
     "backfilled": false,
@@ -4486,6 +4546,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-23T18:48:25.780943Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "2f7f0d05-4984-4739-ad90-66a2e6cb8c2c",
@@ -4494,7 +4555,7 @@
     "locations": [
       "Manhattan, KS"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -4969,6 +5030,34 @@
     ],
     "title": "C++ CGF Unreal Developer Intern",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-416---Stagiaire-dveloppeur-se--C---CGF-Unreal_123656"
+  },
+  "355ed1b0-6a7f-4f62-9f79-2eabc525e9cd": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-23T18:48:25.780943Z",
+    "id": "355ed1b0-6a7f-4f62-9f79-2eabc525e9cd",
+    "issue_number": 275,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/275",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Factory Enablement Digital Engineer Co-op",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473"
   },
   "3560b9fe-52fc-4370-8c2a-da157231f4bf": {
     "applied_at": null,
@@ -5841,6 +5930,33 @@
     ],
     "title": "Product Management Intern - Artificial Intelligence Product Management",
     "url": "https://careers.zimmerbiomet.com/us/en/job/12745"
+  },
+  "3d3c9658-794e-4e6b-a5c4-c03ae49b51fe": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Entrust",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-23T18:48:25.780943Z",
+    "id": "3d3c9658-794e-4e6b-a5c4-c03ae49b51fe",
+    "issue_number": 276,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/276",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Software Development Intern",
+    "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359"
   },
   "3d95bcdf-2f09-4165-bc24-f02c7f7ad6e7": {
     "applied_at": null,
@@ -7394,6 +7510,38 @@
     "title": "Software Engineering Intern",
     "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-2"
   },
+  "4efd65a5-ab75-4d14-a2df-fe1659f9a1c1": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Excellus BCBS",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-23T18:48:25.780943Z",
+    "id": "4efd65a5-ab75-4d14-a2df-fe1659f9a1c1",
+    "issue_number": 277,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/277",
+    "locations": [
+      "Rochester, NY",
+      "De Witt, NY",
+      "Utica, NY",
+      "Albany, NY",
+      "Binghamton, NY",
+      "Buffalo, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "College Intern - Data Governance & AI Governance",
+    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Data-Governance---AI-Governance_JR104033-1"
+  },
   "4f0081e5-cca3-41af-86ec-243ccb875a25": {
     "applied_at": null,
     "backfilled": true,
@@ -8019,7 +8167,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-23T18:48:25.780943Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "548a25ac-0c5d-42d4-ac4b-08d7a25340c3",
     "issue_number": 62,
@@ -8027,7 +8176,7 @@
     "locations": [
       "West Des Moines, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -8120,6 +8269,38 @@
     ],
     "title": "AI and Autonomous Systems Engineer Intern",
     "url": "https://careers.jhuapl.edu/jobs/60021?icims=1"
+  },
+  "56176872-3480-423d-9dd5-9d705a881462": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Excellus BCBS",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-23T18:48:25.780943Z",
+    "id": "56176872-3480-423d-9dd5-9d705a881462",
+    "issue_number": 278,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/278",
+    "locations": [
+      "Rochester, NY",
+      "De Witt, NY",
+      "Utica, NY",
+      "Albany, NY",
+      "Binghamton, NY",
+      "Buffalo, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "College Intern - Mobile Software Engineering Team",
+    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3"
   },
   "563ce3fa-deec-437a-883e-6c9179763ddc": {
     "applied_at": null,
@@ -9656,6 +9837,33 @@
     "title": "Software Developer Intern",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0249872"
   },
+  "65f618f2-09b0-4451-83c9-7110216c541f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Intel",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-23T18:48:25.780943Z",
+    "id": "65f618f2-09b0-4451-83c9-7110216c541f",
+    "issue_number": 279,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/279",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "System Simulation Co-op",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/System-Simulation-Engineering-CO-OP_JR0287122"
+  },
   "66a61359-31ec-434c-9b02-f8c2802c91b2": {
     "applied_at": null,
     "backfilled": true,
@@ -10907,6 +11115,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-23T18:48:25.780943Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "732402ac-f881-41b0-ba07-73a97342ee5f",
@@ -10915,7 +11124,7 @@
     "locations": [
       "Richardson, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -11668,6 +11877,38 @@
     ],
     "title": "Data Engineering Intern",
     "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114184"
+  },
+  "7cbed2dc-96cc-4a07-af63-5f826133f4d3": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Excellus BCBS",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-23T18:48:25.780943Z",
+    "id": "7cbed2dc-96cc-4a07-af63-5f826133f4d3",
+    "issue_number": 280,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/280",
+    "locations": [
+      "Rochester, NY",
+      "De Witt, NY",
+      "Utica, NY",
+      "Albany, NY",
+      "Binghamton, NY",
+      "Buffalo, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "College Intern - Research Insights",
+    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Research-Insights_JR104048-2"
   },
   "7cc624ba-7ee7-48f0-bddc-e6d5e064f6f9": {
     "applied_at": null,
@@ -17080,6 +17321,34 @@
     "title": "Electrical Validation Intern - BS",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795-1"
   },
+  "b981ecc6-774f-424a-ab63-513d50a5becc": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "CACI",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-23T18:48:25.780943Z",
+    "id": "b981ecc6-774f-424a-ab63-513d50a5becc",
+    "issue_number": 281,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/281",
+    "locations": [
+      "Sterling, VA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372"
+  },
   "b98b7a6e-23da-453f-9fb4-96667ec4687c": {
     "applied_at": null,
     "backfilled": false,
@@ -17136,6 +17405,39 @@
     ],
     "title": "Embedded Software Co-op",
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40172"
+  },
+  "ba3ab19d-8b8e-45ac-b1b6-788ddc37b1ac": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Excellus BCBS",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-23T18:48:25.780943Z",
+    "id": "ba3ab19d-8b8e-45ac-b1b6-788ddc37b1ac",
+    "issue_number": 282,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/282",
+    "locations": [
+      "Rochester, NY",
+      "De Witt, NY",
+      "Utica, NY",
+      "Albany, NY",
+      "Binghamton, NY",
+      "Buffalo, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineering Intern",
+    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Software-Engineering--Multiple-Openings-Available-_JR104022-1"
   },
   "bad6cdd5-b63d-4320-a780-2ec8f140ff2d": {
     "applied_at": null,
@@ -19687,6 +19989,35 @@
     "title": "Engineer Intern Co-op - Multiple Teams",
     "url": "https://careers-gdms.icims.com/jobs/73842/job?mobile=true&needsRedirect=false"
   },
+  "d69cc4b1-6d03-4c5e-8430-4c567709546c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-23T18:48:25.780943Z",
+    "id": "d69cc4b1-6d03-4c5e-8430-4c567709546c",
+    "issue_number": 283,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/283",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "title": "Factory Enablement Digital Engineer Co-op",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876474"
+  },
   "d6c24595-0dd3-449f-b0ae-d13e256fc740": {
     "applied_at": null,
     "backfilled": false,
@@ -21249,6 +21580,33 @@
     "title": "Robotics Software Engineer Intern",
     "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"
   },
+  "e8a23788-bd3c-493a-9ede-be9de1645c55": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Entrust",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-23T18:48:25.780943Z",
+    "id": "e8a23788-bd3c-493a-9ede-be9de1645c55",
+    "issue_number": 284,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/284",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Software Development Intern - Citizen Remote Identity Verification",
+    "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360"
+  },
   "e90daa3f-ccbc-4cb4-a7b9-b19d4eaf6594": {
     "applied_at": null,
     "backfilled": false,
@@ -21305,6 +21663,33 @@
     ],
     "title": "Full-Stack Software Engineering Intern",
     "url": "https://uscareers-lennox.icims.com/jobs/54888/job?mobile=true&needsRedirect=false"
+  },
+  "e951f72d-bd40-4561-aac8-f1125960366c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Jefferson Health",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-23T18:48:25.780943Z",
+    "id": "e951f72d-bd40-4561-aac8-f1125960366c",
+    "issue_number": 285,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/285",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Analysis Intern Co-op",
+    "url": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Philadelphia-PA/Student--Drexel-Co-Op_REQ-0037416"
   },
   "e9e5a7ad-e923-47e1-9db6-284c1cb7744f": {
     "applied_at": null,
@@ -23079,6 +23464,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-23T18:48:25.780943Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "fe3438ed-3bcb-4b2c-8c82-956e0c204732",
@@ -23087,7 +23473,7 @@
     "locations": [
       "Vancouver, BC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -23234,6 +23620,38 @@
     ],
     "title": "Data Scientist Intern",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249866"
+  },
+  "ff6acfde-5cfa-48f1-9900-723a0df08069": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Excellus BCBS",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-23T18:48:25.780943Z",
+    "id": "ff6acfde-5cfa-48f1-9900-723a0df08069",
+    "issue_number": 286,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/286",
+    "locations": [
+      "Rochester, NY",
+      "De Witt, NY",
+      "Utica, NY",
+      "Albany, NY",
+      "Binghamton, NY",
+      "Buffalo, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Healthcare Analytics Intern - Healthcare Analytics",
+    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Analytics_JR104059-2"
   },
   "ff910fd9-1784-4c56-8c70-b84c15ba59a8": {
     "applied_at": null,
