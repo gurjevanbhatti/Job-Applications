@@ -4822,6 +4822,33 @@
     "title": "Software Development Intern",
     "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405"
   },
+  "2eb2bfe3-9937-4b98-9849-60d70134ff10": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Kitware",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-24T14:17:18Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-24T15:22:02.239061Z",
+    "id": "2eb2bfe3-9937-4b98-9849-60d70134ff10",
+    "issue_number": 354,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/354",
+    "locations": [
+      "Clifton Park, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Computer Vision Co-op",
+    "url": "https://jobs.lever.co/kitware/e76197d1-4dc3-4f7c-a30a-597713283bb3/apply"
+  },
   "2ec492a7-10a0-47cc-8cbb-9c22a5ba396c": {
     "applied_at": null,
     "backfilled": false,
@@ -5164,6 +5191,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-24T15:22:02.239061Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "32923ef5-9813-4720-ba0f-736ed5febb06",
@@ -5172,7 +5200,7 @@
     "locations": [
       "Wilmington, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -6038,7 +6066,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-24T15:22:02.239061Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T00:29:31.170314Z",
     "id": "3af71e6a-4c5c-455a-a170-bc436c1d5aa7",
     "issue_number": 297,
@@ -6046,7 +6075,7 @@
     "locations": [
       "Bentonville, AR"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -9093,6 +9122,34 @@
     "title": "AI Software Developer Intern - Multiple Teams",
     "url": "https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false"
   },
+  "576efb35-6523-4979-8e5d-7188d3bd98b9": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Enterprise Holdings",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-24T14:23:47Z",
+    "degrees": [
+      "Bachelor's",
+      "Bootcamp"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-24T15:22:02.239061Z",
+    "id": "576efb35-6523-4979-8e5d-7188d3bd98b9",
+    "issue_number": 355,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/355",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Engineer Intern - IT",
+    "url": "https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false"
+  },
   "57ded721-ead9-440b-999c-b6f3861f72ed": {
     "applied_at": null,
     "backfilled": true,
@@ -10125,6 +10182,37 @@
     ],
     "title": "Data Engineer Intern",
     "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Engineering-Intern_R8481"
+  },
+  "60174f6d-1cb4-49c4-93db-3cf3d5dc9382": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Arconic",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-24T14:16:31Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-24T15:22:02.239061Z",
+    "id": "60174f6d-1cb4-49c4-93db-3cf3d5dc9382",
+    "issue_number": 356,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/356",
+    "locations": [
+      "Davenport, IA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027",
+      "Spring 2028",
+      "Summer 2028",
+      "Spring 2029",
+      "Summer 2029"
+    ],
+    "title": "Software Developer Intern",
+    "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233"
   },
   "60dc162c-a256-4cc0-bc15-a69b8366e773": {
     "applied_at": null,
@@ -12445,6 +12533,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-24T15:22:02.239061Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "79a2dc1b-cfae-4772-be32-6665799e95fb",
@@ -12453,7 +12542,7 @@
     "locations": [
       "Miami, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -14954,6 +15043,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-24T15:22:02.239061Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "94db09b4-4148-4208-acfd-2dcfef6b4a27",
@@ -14962,7 +15052,7 @@
     "locations": [
       "Wilmington, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -15316,7 +15406,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-24T15:22:02.239061Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "98542c78-9908-4834-8553-78653a603ed3",
     "issue_number": 98,
@@ -15324,7 +15415,7 @@
     "locations": [
       "Lake Buena Vista, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -17450,6 +17541,35 @@
     ],
     "title": "FPGA Design Intern",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/FPGA-Design-Intern--Summer-2027-_01870290"
+  },
+  "adb0bde1-6acf-4a2d-b952-e77db57cea5c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Wurl",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-24T14:14:54Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-24T15:22:02.239061Z",
+    "id": "adb0bde1-6acf-4a2d-b952-e77db57cea5c",
+    "issue_number": 357,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/357",
+    "locations": [
+      "Remote in USA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Data Science Intern",
+    "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006"
   },
   "ae4d1646-e040-43a9-939a-18ab81955f9a": {
     "applied_at": null,
@@ -25544,6 +25664,33 @@
     ],
     "title": "Data Scientist Intern",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249866"
+  },
+  "ff5262ec-fe97-44f1-9e80-45e0e6c4f9db": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Semtech",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-09-24T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-24T15:22:02.239061Z",
+    "id": "ff5262ec-fe97-44f1-9e80-45e0e6c4f9db",
+    "issue_number": 358,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/358",
+    "locations": [
+      "Burlington, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Digital IC Design Engineering Intern - Signal Integrity Products Group",
+    "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Digital-IC-Design-Engineering-Intern_REQ3621"
   },
   "ff6acfde-5cfa-48f1-9900-723a0df08069": {
     "applied_at": null,
