@@ -854,7 +854,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-24T19:23:00.499695Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T00:31:37.039261Z",
     "id": "08c5f8b1-d15c-452a-9706-cceb4288ea07",
     "issue_number": 201,
@@ -862,7 +863,7 @@
     "locations": [
       "Annapolis Junction, MD"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -1019,7 +1020,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-24T19:23:00.499695Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "0a4848c1-bf9a-4b1f-8714-9f61584df31c",
     "issue_number": 30,
@@ -1027,7 +1029,7 @@
     "locations": [
       "McLean, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -4807,6 +4809,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-24T19:23:00.499695Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "2e987576-4a69-4fdb-8af3-9fabc32055c8",
@@ -4815,7 +4818,7 @@
     "locations": [
       "Falls Church, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -9677,6 +9680,33 @@
     "title": "Software Development Intern - AI Development",
     "url": "https://job-boards.greenhouse.io/testnisc/jobs/8204156"
   },
+  "5b58ee77-e8de-4139-8c62-ca2bdc041bb0": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Ciena",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-24T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-24T19:23:00.499695Z",
+    "id": "5b58ee77-e8de-4139-8c62-ca2bdc041bb0",
+    "issue_number": 359,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/359",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Intern - WaveLogic",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692"
+  },
   "5bcc84d6-aa71-420b-8da9-eb3f46477f69": {
     "applied_at": null,
     "backfilled": false,
@@ -12781,6 +12811,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-24T19:23:00.499695Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "7ca96c83-d12e-446b-b67f-462fed03bb0f",
@@ -12789,7 +12820,7 @@
     "locations": [
       "New Kensington, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
