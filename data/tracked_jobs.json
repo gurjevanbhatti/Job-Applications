@@ -717,6 +717,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-25T10:35:29.514421Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "06de0769-fb7b-4a7e-9229-b21b568a3f92",
@@ -725,7 +726,7 @@
     "locations": [
       "Hopkins, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -996,8 +997,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T05:45:16.440902Z",
     "id": "098cf2c0-cd84-4afd-9bfe-1d053e3c08ae",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 430,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/430",
     "locations": [
       "Tampa, FL"
     ],
@@ -2958,7 +2959,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T10:35:29.514421Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "1a872d07-40d8-4b98-8f0f-15127543ae64",
     "issue_number": 37,
@@ -2966,7 +2968,7 @@
     "locations": [
       "Maple Grove, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -5530,6 +5532,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-25T10:35:29.514421Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "2f8f7f03-7f64-409a-9edc-6c4c62398221",
@@ -5538,7 +5541,7 @@
     "locations": [
       "Foster City, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -7323,7 +7326,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T10:35:29.514421Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-21T13:34:58.985468Z",
     "id": "3f8ecfdc-461f-4732-bf24-79251228640c",
     "issue_number": 8,
@@ -7331,7 +7335,7 @@
     "locations": [
       "Camarillo, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -10349,6 +10353,34 @@
     "title": "Design Engineer Intern - High Bandwidth Memory",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512"
   },
+  "5a08979e-7e9a-404e-8ff7-08e9387be038": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "LabCorp",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-24T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T10:35:29.514421Z",
+    "id": "5a08979e-7e9a-404e-8ff7-08e9387be038",
+    "issue_number": 438,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/438",
+    "locations": [
+      "Remote in USA",
+      "Milwaukee, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team",
+    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615"
+  },
   "5a520635-ec7f-4867-add0-a06b434d8203": {
     "applied_at": null,
     "backfilled": false,
@@ -11258,6 +11290,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-25T10:35:29.514421Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "61044b56-5584-4118-b985-879aa9c86501",
@@ -11266,7 +11299,7 @@
     "locations": [
       "Rosemont, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -12320,8 +12353,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T05:45:16.440902Z",
     "id": "6cc1324d-857f-49fa-89d0-5499ccbfa78b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 431,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/431",
     "locations": [
       "Palo Alto, CA"
     ],
@@ -13179,7 +13212,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T10:35:29.514421Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "740153d0-fd38-4fff-bc27-425b307d5c71",
     "issue_number": 82,
@@ -13187,7 +13221,7 @@
     "locations": [
       "Arden Hills, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -14601,8 +14635,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T05:45:16.440902Z",
     "id": "8309b5a0-8e75-434e-b1e6-419b51f357ae",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 432,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/432",
     "locations": [
       "LA"
     ],
@@ -15409,8 +15443,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T05:45:16.440902Z",
     "id": "8b7eafbe-423b-46f9-8bf5-ef164bb2b9bc",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 433,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/433",
     "locations": [
       "Menlo Park, CA",
       "Bellevue, WA"
@@ -18428,7 +18462,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T10:35:29.514421Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-21T13:34:58.985468Z",
     "id": "a6f454a8-2bd5-4c59-a968-77237a0c890c",
     "issue_number": 12,
@@ -18436,7 +18471,7 @@
     "locations": [
       "Baltimore, MD"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -18951,6 +18986,7 @@
       "Master's",
       "PhD"
     ],
+    "expired_at": "2026-09-25T10:35:29.514421Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "aacdb2a7-7399-4a61-a456-f1b8651ac552",
@@ -18959,7 +18995,7 @@
     "locations": [
       "Pittsburgh, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -19178,8 +19214,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T05:45:16.440902Z",
     "id": "adf0a40d-85b8-4712-bc55-164c7686e667",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 434,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/434",
     "locations": [
       "Tulsa, OK"
     ],
@@ -19373,8 +19409,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T05:45:16.440902Z",
     "id": "af7ae639-a887-435b-9b79-1edc4e0c680d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 435,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/435",
     "locations": [
       "Menlo Park, CA",
       "Bellevue, WA"
@@ -20498,6 +20534,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-25T10:35:29.514421Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "bad6cdd5-b63d-4320-a780-2ec8f140ff2d",
@@ -20507,7 +20544,7 @@
       "Lake Buena Vista, FL",
       "Glendale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -21029,8 +21066,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T05:45:16.440902Z",
     "id": "c074fa48-973a-4955-b90e-24dc948ef224",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 436,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/436",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -25563,8 +25600,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "e893c8a9-6a16-4e98-b3e6-3ef4b5b81b50",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 427,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/427",
     "locations": [
       "Boston, MA",
       "Remote in USA",
@@ -25590,6 +25627,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-25T10:35:29.514421Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "e89448c1-21ee-450a-85e8-84ad429d6f3e",
@@ -25598,7 +25636,7 @@
     "locations": [
       "Pittsburgh, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -25620,8 +25658,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "e899b6b8-554e-4d01-a435-d93721e37430",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 428,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/428",
     "locations": [
       "Remote in USA"
     ],
@@ -26012,8 +26050,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T05:45:16.440902Z",
     "id": "ec40080b-e1ed-4756-a8ef-b3c9f2011f41",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 437,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/437",
     "locations": [
       "Menlo Park, CA",
       "Bellevue, WA"
@@ -26494,6 +26532,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-25T10:35:29.514421Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "f0da3c1f-2fb8-46f1-b1f7-57c7a9ca092a",
@@ -26502,7 +26541,7 @@
     "locations": [
       "Carrollton, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -26803,8 +26842,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "f47bf68f-08e3-4d92-ade8-eff54ae7c108",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 429,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/429",
     "locations": [
       "Tempe, AZ"
     ],
