@@ -621,6 +621,34 @@
     "title": "Advance Development Engineering Co-op - Engineering",
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Advance-Development-Engineering-Co-op_R-098609"
   },
+  "06121173-b783-44a5-bd34-4a7465768bbb": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Lutron Electronics",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T14:13:52Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T15:34:20.772299Z",
+    "id": "06121173-b783-44a5-bd34-4a7465768bbb",
+    "issue_number": 439,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/439",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineering Co-op",
+    "url": "https://careers.lutron.com/jobs/5616?icims=1"
+  },
   "0650f155-f625-4ece-bfd8-9cfb0b544610": {
     "applied_at": null,
     "backfilled": true,
@@ -759,6 +787,33 @@
     ],
     "title": "Firmware Integration Engineer Intern - Factory Firmware",
     "url": "https://www.tesla.com/careers/search/job/284156"
+  },
+  "074a0da6-73e2-402d-90a7-ca4bf302d862": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "First Citizens BancShares",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T14:08:48Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T15:34:20.772299Z",
+    "id": "074a0da6-73e2-402d-90a7-ca4bf302d862",
+    "issue_number": 440,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/440",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "IT Intern - Software Developer",
+    "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1"
   },
   "07af08ab-906b-43eb-b110-94f0ff3c0dc2": {
     "applied_at": null,
@@ -1505,6 +1560,35 @@
     ],
     "title": "AI Automation Engineering Co-op",
     "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002"
+  },
+  "0cd0d31f-f4ae-4e6c-aa40-826253f51cf4": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T14:15:05Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T15:34:20.772299Z",
+    "id": "0cd0d31f-f4ae-4e6c-aa40-826253f51cf4",
+    "issue_number": 441,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/441",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Space Exploration Software Engineer Intern - Embedded Applications",
+    "url": "https://careers.jhuapl.edu/jobs/60223?icims=1"
   },
   "0ce4d977-ead8-46ed-a4c7-aa2b56802591": {
     "applied_at": null,
@@ -4534,6 +4618,33 @@
     ],
     "title": "Software Engineering Intern - Summer 2027",
     "url": "http://prizepicks.com/position?gh_jid=7999266003"
+  },
+  "271bbb75-6699-403d-9363-90cbdfc87142": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Royal Bank of Canada",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T15:34:20.772299Z",
+    "id": "271bbb75-6699-403d-9363-90cbdfc87142",
+    "issue_number": 442,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/442",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Capital Markets Analyst Intern",
+    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000187318-2"
   },
   "273b5a97-9303-4ce1-b5b0-31f437ccfdc7": {
     "applied_at": null,
@@ -7989,7 +8100,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T15:34:20.772299Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T22:36:49.161595Z",
     "id": "44a3090f-4b76-42b8-bfc1-a50326c0fd39",
     "issue_number": 369,
@@ -7997,7 +8109,7 @@
     "locations": [
       "Tempe, AZ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -8967,7 +9079,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T15:34:20.772299Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T11:25:02.133676Z",
     "id": "4f096c73-afae-450f-b903-ace71c84d47f",
     "issue_number": 179,
@@ -8975,7 +9088,7 @@
     "locations": [
       "San Diego, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -14162,6 +14275,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-25T15:34:20.772299Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "7d128fa9-54e9-4ae4-b459-3c499f820d1a",
@@ -14170,7 +14284,7 @@
     "locations": [
       "Topeka, KS"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -19377,6 +19491,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-25T15:34:20.772299Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "af712d3b-f316-4ba1-8b73-6c9530137458",
@@ -19385,7 +19500,7 @@
     "locations": [
       "Denver, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -22726,6 +22841,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-25T15:34:20.772299Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "d02657b4-87d2-4593-8b0e-d4bfb5b50cce",
@@ -22734,7 +22850,7 @@
     "locations": [
       "Denver, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -22917,6 +23033,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-25T15:34:20.772299Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "d1143c35-1cc7-4e60-a5c6-4e223abab7d0",
@@ -22925,7 +23042,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027",
       "Fall 2027",
@@ -23268,6 +23385,34 @@
     ],
     "title": "Engineering Intern - Software - Machine Learning",
     "url": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328/application?embed=true"
+  },
+  "d314f5f4-0dfc-4dcd-9b4a-b27f1694d1b9": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Bluestaq",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T14:08:04Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T15:34:20.772299Z",
+    "id": "d314f5f4-0dfc-4dcd-9b4a-b27f1694d1b9",
+    "issue_number": 443,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/443",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Software Engineering Resident - Multiple Teams",
+    "url": "https://job-boards.greenhouse.io/bluestaq/jobs/4420189009"
   },
   "d343ee60-37ae-444d-a47b-e9be6f1046d9": {
     "applied_at": null,
@@ -25337,6 +25482,33 @@
     "title": "Data & Analytics Consultant Intern - Summer 2027",
     "url": "https://jobs.smartrecruiters.com/Resultant/744000150785390"
   },
+  "e61c4916-6a49-4922-a691-73e2250dd9c9": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Leidos",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T15:34:20.772299Z",
+    "id": "e61c4916-6a49-4922-a691-73e2250dd9c9",
+    "issue_number": 444,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/444",
+    "locations": [
+      "Gaithersburg, MD"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Development Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"
+  },
   "e6d2ca10-47cc-492f-bfc3-51e1c414353b": {
     "applied_at": null,
     "backfilled": true,
@@ -26263,6 +26435,34 @@
     ],
     "title": "Embedded and Systems Engineering Intern - Digital Product",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513"
+  },
+  "ee8ed5ad-3be9-407e-8020-0d9a037d60be": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Barrios",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T14:02:03Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T15:34:20.772299Z",
+    "id": "ee8ed5ad-3be9-407e-8020-0d9a037d60be",
+    "issue_number": 445,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/445",
+    "locations": [
+      "Houston, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data and Computer Engineering/Computer Science Intern",
+    "url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false"
   },
   "eef6ecab-80f1-4954-a0d1-165cc62c51ed": {
     "applied_at": null,
@@ -27218,6 +27418,34 @@
     ],
     "title": "Firmware Engineer Co-op",
     "url": "https://jobs.smartrecruiters.com/Wabtec/3743990015249216"
+  },
+  "f8aa999f-66d3-4ae6-b0bf-286944064197": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Greenheck Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T15:34:20.772299Z",
+    "id": "f8aa999f-66d3-4ae6-b0bf-286944064197",
+    "issue_number": 446,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/446",
+    "locations": [
+      "Schofield, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027",
+      "Summer 2027"
+    ],
+    "title": "Application Developer Co-op",
+    "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721"
   },
   "f9425a33-0fd0-4dcb-8403-642a08c2e836": {
     "applied_at": null,
