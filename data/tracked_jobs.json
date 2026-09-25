@@ -981,6 +981,33 @@
     "title": "AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027",
     "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1"
   },
+  "098cf2c0-cd84-4afd-9bfe-1d053e3c08ae": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Aevex Aerospace",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T01:15:17Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T05:45:16.440902Z",
+    "id": "098cf2c0-cd84-4afd-9bfe-1d053e3c08ae",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Tampa, FL"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Robotics Engineering Co-op",
+    "url": "https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008"
+  },
   "09ae562f-b803-436b-bc40-fa95dde013fd": {
     "applied_at": null,
     "backfilled": false,
@@ -10418,6 +10445,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-25T05:45:16.440902Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "5a8c96ae-02f1-4ba5-b312-4b3f0edd6315",
@@ -10427,7 +10455,7 @@
       "Toronto, ON, Canada",
       "Waterloo, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -12277,6 +12305,34 @@
     "title": "Software Engineer Intern - FIS University Program",
     "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512"
   },
+  "6cc1324d-857f-49fa-89d0-5499ccbfa78b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Tesla",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T01:11:02Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T05:45:16.440902Z",
+    "id": "6cc1324d-857f-49fa-89d0-5499ccbfa78b",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027",
+      "Spring 2027"
+    ],
+    "title": "Optical Engineer Intern - Electronic Systems",
+    "url": "https://www.tesla.com/careers/search/job/284607"
+  },
   "6d1fe89e-0f46-49f6-adba-af9ae668e3cc": {
     "applied_at": null,
     "backfilled": false,
@@ -12317,6 +12373,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-25T05:45:16.440902Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "6d3a6fa8-f008-43f9-b0e7-6ad944e1c134",
@@ -12325,7 +12382,7 @@
     "locations": [
       "Davenport, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -13570,8 +13627,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "79807b51-faf5-46c1-9880-7c1b2a77905f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 402,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/402",
     "locations": [
       "Plantation, FL"
     ],
@@ -14047,8 +14104,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "7cff5b3d-c314-4456-ae2f-2dc4125f5ecf",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 403,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/403",
     "locations": [
       "Beavercreek, OH"
     ],
@@ -14528,6 +14585,34 @@
     "title": "Product Engineer Intern - DRAM Technology - Node Development",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Node-Development-Product-Engineer---DRAM-Technology_JR111846"
   },
+  "8309b5a0-8e75-434e-b1e6-419b51f357ae": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Electronic Arts",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T01:15:47Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T05:45:16.440902Z",
+    "id": "8309b5a0-8e75-434e-b1e6-419b51f357ae",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "LA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Gameplay Engineer Intern",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245"
+  },
   "83127520-9aed-4eb4-a7c5-63d711f65e1f": {
     "applied_at": null,
     "backfilled": true,
@@ -14852,8 +14937,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "8671b79f-6d86-4f14-bf0f-7fd5bfe47c49",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 404,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/404",
     "locations": [
       "Cedar Rapids, IA"
     ],
@@ -15306,6 +15391,36 @@
     ],
     "title": "Robotics Engineer Intern",
     "url": "https://lunaroutpost.bamboohr.com/careers/391/"
+  },
+  "8b7eafbe-423b-46f9-8bf5-ef164bb2b9bc": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Snowflake",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T01:17:08Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T05:45:16.440902Z",
+    "id": "8b7eafbe-423b-46f9-8bf5-ef164bb2b9bc",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Menlo Park, CA",
+      "Bellevue, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Software Engineer Intern - Core, Infrastructure & Security",
+    "url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69/application?embed=true"
   },
   "8ba54835-fab0-4ef0-9e30-03da4f4fe24e": {
     "applied_at": null,
@@ -16300,8 +16415,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "9533e1df-ae69-41b8-90cc-a9c76dae5b88",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 405,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/405",
     "locations": [
       "Dayton, OH"
     ],
@@ -16665,8 +16780,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "9861557d-858b-485b-a94e-ae1705e8c149",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 406,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/406",
     "locations": [
       "Brossard, QC, Canada"
     ],
@@ -16894,8 +17009,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "9a22b713-73b1-4482-866d-cf1543e650e4",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 407,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/407",
     "locations": [
       "Dayton, OH"
     ],
@@ -16977,8 +17092,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "9ac6c58a-1914-4f2e-94b7-1da1ef0eb239",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 408,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/408",
     "locations": [
       "San Bruno, CA"
     ],
@@ -17115,8 +17230,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "9c88b1dc-1cef-4857-93ee-282e00d802b7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 409,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/409",
     "locations": [
       "Colorado Springs, CO"
     ],
@@ -18036,8 +18151,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "a2e915b7-cd1b-4137-9c87-a2707b3de604",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 410,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/410",
     "locations": [
       "New Berlin, WI"
     ],
@@ -18507,8 +18622,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "a85254d2-8066-44f1-94d3-904c02e8c5f3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 411,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/411",
     "locations": [
       "Beavercreek, OH"
     ],
@@ -18866,8 +18981,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "ab6ea289-66f4-4681-a8d0-8a33f7188738",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 412,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/412",
     "locations": [
       "Remote in USA"
     ],
@@ -18921,8 +19036,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "ac1d9d95-dc9f-44d9-ab63-b5fbd5785de5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 413,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/413",
     "locations": [
       "San Bruno, CA"
     ],
@@ -19047,6 +19162,33 @@
     ],
     "title": "Data Science Intern",
     "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006"
+  },
+  "adf0a40d-85b8-4712-bc55-164c7686e667": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Marathon Petroleum",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-24T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T05:45:16.440902Z",
+    "id": "adf0a40d-85b8-4712-bc55-164c7686e667",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Geographic Information Systems Intern/Co-op",
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411"
   },
   "ae4d1646-e040-43a9-939a-18ab81955f9a": {
     "applied_at": null,
@@ -19174,8 +19316,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "af6e88e7-684a-47d6-bed7-ca09c24243e9",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 414,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/414",
     "locations": [
       "Shepherdsville, KY"
     ],
@@ -19213,6 +19355,36 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W"
+  },
+  "af7ae639-a887-435b-9b79-1edc4e0c680d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Snowflake",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T01:17:08Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T05:45:16.440902Z",
+    "id": "af7ae639-a887-435b-9b79-1edc4e0c680d",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Menlo Park, CA",
+      "Bellevue, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Software Engineer Intern - Database Engineering",
+    "url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be/application?embed=true"
   },
   "afb133d1-e91b-4a67-adc8-c99f849a84fd": {
     "applied_at": null,
@@ -19257,8 +19429,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "b02fcae4-ac36-4769-8a28-85242403362c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 415,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/415",
     "locations": [
       "Florida"
     ],
@@ -19793,8 +19965,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "b60dd607-5a1b-423f-a318-f333734e8063",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 416,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/416",
     "locations": [
       "Bala Cynwyd, PA"
     ],
@@ -19820,8 +19992,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "b651ebc4-6d28-49c4-86b6-85437f9cd16a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 417,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/417",
     "locations": [
       "Dayton, OH"
     ],
@@ -19959,8 +20131,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "b785f9ef-f9c9-4d16-aae2-973ad2a1b2dc",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 418,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/418",
     "locations": [
       "Waltham, MA"
     ],
@@ -20412,8 +20584,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "bb6f4712-73ed-42a3-b9d0-121502853653",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 419,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/419",
     "locations": [
       "Remote in USA"
     ],
@@ -20841,6 +21013,34 @@
     "title": "Software Engineer Co-op - Information Technology",
     "url": "https://koch.avature.net/en_US/careers/JobDetail/192476"
   },
+  "c074fa48-973a-4955-b90e-24dc948ef224": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Intuitive Surgical",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T01:06:09Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T05:45:16.440902Z",
+    "id": "c074fa48-973a-4955-b90e-24dc948ef224",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "AI Research Intern",
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000151714759"
+  },
   "c0b22f53-3c47-45f3-8c12-a94866f7f461": {
     "applied_at": null,
     "backfilled": false,
@@ -21158,6 +21358,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-25T05:45:16.440902Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "c2b22bcb-6acb-4a82-9529-96398b207061",
@@ -21166,7 +21367,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -23215,8 +23416,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "d46a978e-6fec-4693-a889-1a07521469e0",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 420,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/420",
     "locations": [
       "Prairie View, TX"
     ],
@@ -23754,8 +23955,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "d96a5b80-f3d2-440a-b550-bc3b609bf0e0",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 421,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/421",
     "locations": [
       "Miami, FL"
     ],
@@ -23781,8 +23982,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "d9b609ef-0a1c-4b6c-909e-3156ff77bdaa",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 422,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/422",
     "locations": [
       "State College, PA"
     ],
@@ -23887,6 +24088,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-25T05:45:16.440902Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "da2b9416-07ca-4ab3-8feb-562096123698",
@@ -23895,7 +24097,7 @@
     "locations": [
       "Salt Lake City, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -24304,8 +24506,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "dffa3f5f-d496-43e5-90e0-105b940da03c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 423,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/423",
     "locations": [
       "Plantation, FL"
     ],
@@ -24331,8 +24533,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "e00317bd-78ee-4ca7-b2c0-c6f09ad8c442",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 424,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/424",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -24496,8 +24698,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "e08774ee-1d46-4790-8628-62d9b4b136ac",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 425,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/425",
     "locations": [
       "Jupiter, FL"
     ],
@@ -25250,8 +25452,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "e7777af9-8bca-4dd7-b5b6-6ec86fff06f9",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 426,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/426",
     "locations": [
       "Waltham, MA"
     ],
@@ -25793,6 +25995,35 @@
     ],
     "title": "Systems Engineer Intern",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003"
+  },
+  "ec40080b-e1ed-4756-a8ef-b3c9f2011f41": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Snowflake",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T01:17:08Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-25T05:45:16.440902Z",
+    "id": "ec40080b-e1ed-4756-a8ef-b3c9f2011f41",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Menlo Park, CA",
+      "Bellevue, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application?embed=true"
   },
   "eca868f5-7a43-4aba-a570-ae7f93664ff3": {
     "applied_at": null,
