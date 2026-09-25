@@ -1076,7 +1076,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T19:34:02.458309Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "09ae562f-b803-436b-bc40-fa95dde013fd",
     "issue_number": 29,
@@ -1084,7 +1085,7 @@
     "locations": [
       "El Segundo, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -1994,7 +1995,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T19:34:02.458309Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "10cac31b-231b-4800-b840-58f61912fea4",
     "issue_number": 31,
@@ -2002,7 +2004,7 @@
     "locations": [
       "Huntsville, AL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -2682,6 +2684,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-25T19:34:02.458309Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "16eda482-7528-44a9-a9ea-c4c30b42b339",
@@ -2690,7 +2693,7 @@
     "locations": [
       "Bellevue, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -8760,7 +8763,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T19:34:02.458309Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "4c9dd806-b8fb-45f1-902c-57dd9eea449b",
     "issue_number": 57,
@@ -8768,7 +8772,7 @@
     "locations": [
       "McLean, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -11776,7 +11780,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T19:34:02.458309Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "64b4e84b-a833-403e-81dc-0e503d734f8c",
     "issue_number": 73,
@@ -11784,7 +11789,7 @@
     "locations": [
       "Huntsville, AL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -12407,7 +12412,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T19:34:02.458309Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "6c19dbb0-d334-4197-a3b2-1a2b7952b5f0",
     "issue_number": 78,
@@ -12415,7 +12421,7 @@
     "locations": [
       "McLean, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -12547,7 +12553,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T19:34:02.458309Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "6dd0e33a-c6c2-49ff-9275-1db9cd952dcd",
     "issue_number": 79,
@@ -12555,7 +12562,7 @@
     "locations": [
       "McLean, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -13019,6 +13026,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-25T19:34:02.458309Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "72070ff6-860b-4d13-b865-5f6091f53196",
@@ -13027,7 +13035,7 @@
     "locations": [
       "Foster City, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -14689,7 +14697,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T19:34:02.458309Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "82a9b6d4-6ab6-499d-a373-79b618b18010",
     "issue_number": 88,
@@ -14697,7 +14706,7 @@
     "locations": [
       "El Segundo, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -19044,6 +19053,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-25T19:34:02.458309Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "aa106068-1f24-43ad-ae2c-563b6bd40364",
@@ -19052,7 +19062,7 @@
     "locations": [
       "Troy, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -19577,7 +19587,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T19:34:02.458309Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "b02fcae4-ac36-4769-8a28-85242403362c",
     "issue_number": 415,
@@ -19585,7 +19596,7 @@
     "locations": [
       "Florida"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -21733,7 +21744,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T19:34:02.458309Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "c3d7feb6-9d19-4d95-a50c-aca69e2aac06",
     "issue_number": 117,
@@ -21741,7 +21753,7 @@
     "locations": [
       "San Diego, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -23092,7 +23104,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T19:34:02.458309Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "d1ab33ae-00ef-4a5c-9f42-af71a13f9f68",
     "issue_number": 121,
@@ -23100,7 +23113,7 @@
     "locations": [
       "McLean, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -23514,6 +23527,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-25T19:34:02.458309Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "d3cb9fdb-6b20-49e1-9f4e-9525acbcd327",
@@ -23522,7 +23536,7 @@
     "locations": [
       "Ashburn, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -24161,7 +24175,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T19:34:02.458309Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "d9b609ef-0a1c-4b6c-909e-3156ff77bdaa",
     "issue_number": 422,
@@ -24169,7 +24184,7 @@
     "locations": [
       "State College, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -26077,7 +26092,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T19:34:02.458309Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "ead230c6-9b31-4e9f-b251-81f5b95992c0",
     "issue_number": 134,
@@ -26085,7 +26101,7 @@
     "locations": [
       "Huntsville, AL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -27098,7 +27114,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-25T19:34:02.458309Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "f5a57f30-b133-43ba-b8f8-1de07dc17078",
     "issue_number": 143,
@@ -27106,7 +27123,7 @@
     "locations": [
       "McLean, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
