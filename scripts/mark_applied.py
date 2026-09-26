@@ -7,7 +7,7 @@ import datetime
 import os
 import re
 
-from lib import load_tracked, save_tracked, render_markdown
+from lib import load_tracked, save_tracked, render_markdown, update_checklist
 
 JOB_ID_RE = re.compile(r"<!--\s*job_id:\s*(\S+)\s*-->")
 
@@ -38,6 +38,7 @@ def main() -> None:
 
     save_tracked(tracked)
     render_markdown(tracked)
+    update_checklist(tracked)
 
 
 if __name__ == "__main__":
