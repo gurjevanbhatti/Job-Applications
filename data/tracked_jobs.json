@@ -153,7 +153,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-26T01:09:31.889844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T00:29:31.170314Z",
     "id": "01fdaf75-6ec3-47f6-b4a9-83bd99b93157",
     "issue_number": 287,
@@ -161,7 +162,7 @@
     "locations": [
       "Mountain View, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -1063,6 +1064,33 @@
     ],
     "title": "Robotics Engineering Co-op",
     "url": "https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008"
+  },
+  "099a34f8-de36-4008-b851-c1546eb7f942": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "American Century Investments",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "099a34f8-de36-4008-b851-c1546eb7f942",
+    "issue_number": 463,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/463",
+    "locations": [
+      "Kansas City, MO"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Developer Intern",
+    "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1"
   },
   "09ae562f-b803-436b-bc40-fa95dde013fd": {
     "applied_at": null,
@@ -2041,6 +2069,33 @@
     "title": "Systems Engineer Intern - Summer Games",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249877"
   },
+  "10cf72c1-fc60-4ada-bf7f-88ed2002e684": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Schweitzer Engineering Laboratories",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "10cf72c1-fc60-4ada-bf7f-88ed2002e684",
+    "issue_number": 464,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/464",
+    "locations": [
+      "Boise, ID"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Engineer Intern - Communications & Cyber Security",
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-23076"
+  },
   "10d3560c-9d4c-4227-9e57-2fd7a62e9f25": {
     "applied_at": null,
     "backfilled": false,
@@ -2209,6 +2264,61 @@
     "title": "Web App Developer Co-op",
     "url": "https://gsk-us-earlytalent.icims.com/jobs/11013/job?mobile=true&needsRedirect=false"
   },
+  "127d880c-e16b-43e4-b4b6-c0788fbe90ae": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "American Century Investments",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "127d880c-e16b-43e4-b4b6-c0788fbe90ae",
+    "issue_number": 465,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/465",
+    "locations": [
+      "Southlake, TX",
+      "Kansas City, MO"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Enterprise Data Intern",
+    "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751"
+  },
+  "128ee1a3-4234-414f-bf0e-253945bdc241": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "BGE",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:42:08Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "128ee1a3-4234-414f-bf0e-253945bdc241",
+    "issue_number": 466,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/466",
+    "locations": [
+      "Frisco, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "GIS Intern",
+    "url": "https://job-boards.greenhouse.io/bgeinccampus/jobs/5435140008"
+  },
   "12a95e7d-c62e-4b8c-b8ff-491b854e7a20": {
     "applied_at": null,
     "backfilled": false,
@@ -2262,6 +2372,33 @@
     ],
     "title": "AI & Data Co-op",
     "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653"
+  },
+  "12f9b7bd-4f01-4770-aa3a-66a0cd9e262b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "BGE",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:42:07Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "12f9b7bd-4f01-4770-aa3a-66a0cd9e262b",
+    "issue_number": 467,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/467",
+    "locations": [
+      "Austin, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "GIS Intern",
+    "url": "https://job-boards.greenhouse.io/bgeinccampus/jobs/5432550008"
   },
   "133df2d5-e05c-44e5-acf9-2fde2084787e": {
     "applied_at": null,
@@ -3233,6 +3370,33 @@
     "title": "Data Analyst Intern",
     "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/HR-Data-Analysis-Intern_JR111758-1"
   },
+  "1b57129e-3960-4c01-aa5b-ba129d445e21": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Copart",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "1b57129e-3960-4c01-aa5b-ba129d445e21",
+    "issue_number": 468,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/468",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Engineering Intern - AI/ML",
+    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data---AI-Intern_JR111596"
+  },
   "1bb710dd-c7a9-429a-9bc8-9438e72bf14d": {
     "applied_at": null,
     "backfilled": false,
@@ -3680,6 +3844,34 @@
     "title": "Embedded Software Engineer Intern",
     "url": "https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply"
   },
+  "1f8a0413-c78d-4d89-a614-ceba126efdf8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Red Ventures",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:30:03Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "1f8a0413-c78d-4d89-a614-ceba126efdf8",
+    "issue_number": 469,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/469",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Science Intern - Launch Program",
+    "url": "https://www.redventures.com/careers/positions/open?gh_jid=8233284"
+  },
   "1f958f11-c63f-4afb-8a4f-71e1e02f1ab0": {
     "applied_at": null,
     "backfilled": true,
@@ -3791,6 +3983,34 @@
     ],
     "title": "Quantitative Master\u2019s Intern - Investments - Portfolio Management",
     "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470"
+  },
+  "20de5e49-f3f4-4acd-9ae0-e82d4edd0521": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Pacific Life",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "20de5e49-f3f4-4acd-9ae0-e82d4edd0521",
+    "issue_number": 470,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/470",
+    "locations": [
+      "Newport Beach, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Engineering Intern",
+    "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828"
   },
   "20e60473-ab0b-483d-8db0-683b9665e97c": {
     "applied_at": null,
@@ -4895,6 +5115,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-26T01:09:31.889844Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "28e7cce7-67d2-4001-b60a-26951a04ee0e",
@@ -4903,7 +5124,7 @@
     "locations": [
       "Marlborough, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -5389,6 +5610,35 @@
     "title": "ASIC Digital Design Intern",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163"
   },
+  "2e7f3daf-eaeb-4204-b73c-45641a2379f4": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "American Family Insurance Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "2e7f3daf-eaeb-4204-b73c-45641a2379f4",
+    "issue_number": 471,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/471",
+    "locations": [
+      "Madison, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Machine Learning Operations Intern",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/ML-Ops-Intern_R39493"
+  },
   "2e8bb17d-0726-4482-af62-5f868bede92c": {
     "applied_at": null,
     "backfilled": false,
@@ -5554,6 +5804,33 @@
     ],
     "title": "Engineering Intern",
     "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571-1"
+  },
+  "2f66f3c8-4ff6-4ae9-a40e-ab8552e65340": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Motorola",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "2f66f3c8-4ff6-4ae9-a40e-ab8552e65340",
+    "issue_number": 472,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/472",
+    "locations": [
+      "Elgin, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Software-Engineer-Intern---Summer-2027_R68679"
   },
   "2f7f0d05-4984-4739-ad90-66a2e6cb8c2c": {
     "applied_at": null,
@@ -5747,6 +6024,34 @@
     ],
     "title": "Data Analysis Intern",
     "url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Data-Analysis-Intern_JR0000109676"
+  },
+  "30aaecc3-d600-4c24-bde5-386b4056f2ee": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GlobalFoundries",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "30aaecc3-d600-4c24-bde5-386b4056f2ee",
+    "issue_number": 473,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/473",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Design Application Engineering Intern",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Design-Application-Engineering-Intern--Summer-2027-_JR-2604221"
   },
   "30ae95c4-00f0-47e7-92b1-79e8bfd69c6a": {
     "applied_at": null,
@@ -6055,6 +6360,33 @@
     "title": "Software Engineer Intern - MS/PhD",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801"
   },
+  "3466828f-dfbb-4018-8178-80736f2de176": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Daktronics",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:09:21Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "3466828f-dfbb-4018-8178-80736f2de176",
+    "issue_number": 474,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/474",
+    "locations": [
+      "Remote in USA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Analyst Student",
+    "url": "https://careers-daktronics.icims.com/jobs/7577/job?mobile=true&needsRedirect=false"
+  },
   "34d8f865-8389-4eba-9e9e-66c244a5a9f3": {
     "applied_at": null,
     "backfilled": true,
@@ -6164,6 +6496,34 @@
     ],
     "title": "C++ CGF Unreal Developer Intern",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-416---Stagiaire-dveloppeur-se--C---CGF-Unreal_123656"
+  },
+  "3548b466-2e50-4b00-9af5-beccc61fd77d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Waymo",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:16:26Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "3548b466-2e50-4b00-9af5-beccc61fd77d",
+    "issue_number": 475,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/475",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern - MS/PhD - Systems Intelligence & Machine Learning",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746"
   },
   "355ed1b0-6a7f-4f62-9f79-2eabc525e9cd": {
     "applied_at": null,
@@ -6560,6 +6920,34 @@
     ],
     "title": "Data Analyst Intern",
     "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8452"
+  },
+  "38b753df-2f7d-4f6f-bbdf-442735bc817a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Keysight Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:10:15Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "38b753df-2f7d-4f6f-bbdf-442735bc817a",
+    "issue_number": 476,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/476",
+    "locations": [
+      "Austin, TX",
+      "Raleigh, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Developer Intern",
+    "url": "https://jobs.keysight.com/jobs/54638?icims=1"
   },
   "3987bb53-087a-4ba7-8495-a8dd4ff2f912": {
     "applied_at": null,
@@ -7875,6 +8263,36 @@
     "title": "IT Data Services Co-op",
     "url": "https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26157"
   },
+  "417baa72-1cf6-47fe-b9ee-2201b52d1846": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "American Family Insurance Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "417baa72-1cf6-47fe-b9ee-2201b52d1846",
+    "issue_number": 477,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/477",
+    "locations": [
+      "Madison, WI",
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Generative AI Intern",
+    "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/GenAI-Intern_R39561"
+  },
   "418c7dd2-b4c0-46c0-b387-96395ae563ea": {
     "applied_at": null,
     "backfilled": false,
@@ -8178,6 +8596,33 @@
     ],
     "title": "Associate Software Engineer Intern",
     "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334"
+  },
+  "44631389-4603-4cbc-bb24-596433854282": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Waymo",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:16:24Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "44631389-4603-4cbc-bb24-596433854282",
+    "issue_number": 478,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/478",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern - Driver Refinement Foundations",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900"
   },
   "44a3090f-4b76-42b8-bfc1-a50326c0fd39": {
     "applied_at": null,
@@ -9012,6 +9457,33 @@
     ],
     "title": "GIS Intern",
     "url": "https://cenhud.wd5.myworkdayjobs.com/cenhud/job/Kingston/GIS-Intern_R2153"
+  },
+  "4df9553d-1bbf-46e2-b210-bfd748436f3c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Ciena",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "4df9553d-1bbf-46e2-b210-bfd748436f3c",
+    "issue_number": 479,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/479",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Processor Complex Engineer Co-op",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Processor-Complex-Engineering-Co-op--January-2027---4-months-_R031744"
   },
   "4e5b7eb9-a36b-44d7-9aed-7228b2acfc5a": {
     "applied_at": null,
@@ -12215,6 +12687,34 @@
     "title": "Software Engineer Intern",
     "url": "https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed/apply"
   },
+  "68e6a9de-b100-4023-b025-dddbc6addbeb": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Pacific Life",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "68e6a9de-b100-4023-b025-dddbc6addbeb",
+    "issue_number": 480,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/480",
+    "locations": [
+      "Newport Beach, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineering Intern",
+    "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Software-Engineering-Internship_R17826"
+  },
   "68f37988-b392-417d-94b1-cd0b9aab5609": {
     "applied_at": null,
     "backfilled": true,
@@ -12859,6 +13359,62 @@
     "title": "AI / Machine Learning Intern",
     "url": "https://job-boards.greenhouse.io/hevenaerotech/jobs/4410288009"
   },
+  "6ea50b0f-5bb0-46f9-9acf-2cb906b4da62": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "6ea50b0f-5bb0-46f9-9acf-2cb906b4da62",
+    "issue_number": 481,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/481",
+    "locations": [
+      "West Valley City, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358"
+  },
+  "6f1236f3-5a1c-4bb1-998f-e7b8fca40550": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Zurn Elkay Water Solutions",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "6f1236f3-5a1c-4bb1-998f-e7b8fca40550",
+    "issue_number": 482,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/482",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Embedded Hardware Intern",
+    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151"
+  },
   "6f239ca5-3a1c-4b71-81f2-cf8851243dc4": {
     "applied_at": null,
     "backfilled": true,
@@ -13160,6 +13716,33 @@
     ],
     "title": "Data Analyst Student - Business Reporting",
     "url": "https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Business-Reporting-_R-1008822-1"
+  },
+  "71efbec5-7a6e-44ef-996e-13ceb6d0df55": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Cencora",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "71efbec5-7a6e-44ef-996e-13ceb6d0df55",
+    "issue_number": 483,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/483",
+    "locations": [
+      "Conshohocken, PA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Developer Intern - EDI IT",
+    "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/EDI-IT-Software-Developer-Intern_R2612376"
   },
   "72070ff6-860b-4d13-b865-5f6091f53196": {
     "applied_at": null,
@@ -14555,6 +15138,35 @@
     "title": "Software Engineer Intern",
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Software-Engineering-Summer-Intern-2027_R4046481-1"
   },
+  "7d75bd70-f568-420d-985e-c8ccd2632c8f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:14:10Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "7d75bd70-f568-420d-985e-c8ccd2632c8f",
+    "issue_number": 484,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/484",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
+    "url": "https://careers.jhuapl.edu/jobs/60084?icims=1"
+  },
   "7e9944eb-4630-4e1a-929f-76f0e8361f47": {
     "applied_at": null,
     "backfilled": true,
@@ -15226,6 +15838,33 @@
     "title": "Firmware Engineer Intern/Co-op - Research & Development Engineering",
     "url": "https://eaton.eightfold.ai/careers/job/687238593356"
   },
+  "85ec94f8-b794-406d-b74b-06e49b725a08": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Cencora",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "85ec94f8-b794-406d-b74b-06e49b725a08",
+    "issue_number": 485,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/485",
+    "locations": [
+      "Remote in USA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Intern",
+    "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763"
+  },
   "861dcad9-ed8f-4469-9f30-7137335a4cda": {
     "applied_at": null,
     "backfilled": false,
@@ -15252,6 +15891,34 @@
     ],
     "title": "Data & Technology Summer Associate",
     "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384"
+  },
+  "865a11a8-4b8f-4167-99a1-2b819a80bdf2": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Waymo",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:16:19Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "865a11a8-4b8f-4167-99a1-2b819a80bdf2",
+    "issue_number": 486,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/486",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711"
   },
   "86600746-519d-4407-b8a9-21dba55172f2": {
     "applied_at": null,
@@ -15552,6 +16219,34 @@
     ],
     "title": "Research & Development Co-op - WashU",
     "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Research---Development-Co-Op--WashU---Spring-2027---St-Louis--MO--US_R-291654"
+  },
+  "897cf111-754d-4f14-9819-92f0de243bae": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Zurn Elkay Water Solutions",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "897cf111-754d-4f14-9819-92f0de243bae",
+    "issue_number": 487,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/487",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Embedded Firmware Intern - Summer 2027",
+    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1"
   },
   "8a06665c-9bac-4f8e-b15b-ddde0bb9a402": {
     "applied_at": null,
@@ -17219,6 +17914,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-26T01:09:31.889844Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "98dbc614-2cd4-4d71-a5a3-61ac1b61fef9",
@@ -17227,12 +17923,41 @@
     "locations": [
       "Bellevue, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
     "title": "Software Engineer Intern",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2"
+  },
+  "99a1d91f-9aea-47c4-b7c5-046a36a54fda": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "American Family Insurance Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "99a1d91f-9aea-47c4-b7c5-046a36a54fda",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Madison, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Application Billing Center Developer Intern",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Intern---Application-Billing-Center-Developer_R39407"
   },
   "99b19d5b-03dd-438a-91db-fbb3b10e7201": {
     "applied_at": null,
@@ -17601,6 +18326,34 @@
     ],
     "title": "Data Science Co-op",
     "url": "https://rodanenergysolutionsinc.applytojob.com/apply/Bn4sqYBZPe/Data-Science-Coop-Student-Winter-2027"
+  },
+  "9c4ef67f-3b4e-4b21-ad86-71ccdeca4645": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Qorvo",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:14:29Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "9c4ef67f-3b4e-4b21-ad86-71ccdeca4645",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Richardson, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Electrical Design Engineer Intern",
+    "url": "https://careers.qorvo.com/job/Richardson-Electrical-Design-Engineering-Intern-TX-75081/1433950600/?ats=successfactors"
   },
   "9c88b1dc-1cef-4857-93ee-282e00d802b7": {
     "applied_at": null,
@@ -19502,6 +20255,37 @@
     "title": "Investment Risk Analytics Solutions Co-op Intern - Winter 2027",
     "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Risk-Analytics-Solutions-Co-op-Internship--Winter-2027-_JR101608"
   },
+  "acafb8f1-75b4-44f1-8450-4628ddf3b8a1": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "ICF International",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "acafb8f1-75b4-44f1-8450-4628ddf3b8a1",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Remote in USA",
+      "Reston, VA",
+      "Denver, CO"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Scientist Intern",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252"
+  },
   "ad1c8b99-9626-439c-9dc1-2dc9026e7b36": {
     "applied_at": null,
     "backfilled": false,
@@ -20151,6 +20935,33 @@
     "title": "Software Engineer Intern",
     "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Software-Engineer-2027-Summer-Intern_R26-01573"
   },
+  "b2c8b202-8ba9-47a8-a1a3-b7233606a7e7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "BGE",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:41:21Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "b2c8b202-8ba9-47a8-a1a3-b7233606a7e7",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Austin, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "GIS Intern",
+    "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5432549008"
+  },
   "b2cc2a88-efd8-4b00-b346-0f29ab47dc4f": {
     "applied_at": null,
     "backfilled": true,
@@ -20320,6 +21131,34 @@
     "title": "Software Engineer Intern",
     "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188474"
   },
+  "b5399343-6879-4858-98ed-d087567c8913": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Rockwell Automation",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "b5399343-6879-4858-98ed-d087567c8913",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Mayfield Heights, OH",
+      "Milwaukee, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Software Engineer Intern",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
+  },
   "b55a42a1-15a1-44c2-aa48-c6eba28cb565": {
     "applied_at": null,
     "backfilled": true,
@@ -20347,6 +21186,33 @@
     ],
     "title": "SRAM Circuit Design Intern - MS",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083"
+  },
+  "b5634328-91d1-43a0-93d6-3a11ba897ffe": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Ciena",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "b5634328-91d1-43a0-93d6-3a11ba897ffe",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Hardware Design and Verification Intern - PCBA",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752"
   },
   "b59a478b-37c7-40b4-af73-c2419fe4d772": {
     "applied_at": null,
@@ -20404,6 +21270,38 @@
     ],
     "title": "Machine Learning Engineer Intern",
     "url": "https://careers-sig.icims.com/jobs/11555/job?mobile=true&needsRedirect=false"
+  },
+  "b63c229a-b9e1-411a-b923-cf39ce987d7b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Efficient Computer",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:41:52Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "b63c229a-b9e1-411a-b923-cf39ce987d7b",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "SF",
+      "Austin, TX",
+      "San Jose, CA",
+      "Pittsburgh, PA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Hardware/Silicon Intern",
+    "url": "https://job-boards.greenhouse.io/efficientcomputer/jobs/4421539009"
   },
   "b651ebc4-6d28-49c4-86b6-85437f9cd16a": {
     "applied_at": null,
@@ -20881,6 +21779,36 @@
     "title": "Embedded Software Co-op",
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40172"
   },
+  "ba129f03-7efb-479d-b7d3-24cd6f2bff90": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Rockwell Automation",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "ba129f03-7efb-479d-b7d3-24cd6f2bff90",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Mayfield Heights, OH",
+      "Milwaukee, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027",
+      "Summer 2027"
+    ],
+    "title": "AI Software Engineering Co-op - 6 months - 8 months",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
+  },
   "ba3ab19d-8b8e-45ac-b1b6-788ddc37b1ac": {
     "applied_at": null,
     "backfilled": false,
@@ -21080,6 +22008,33 @@
     "title": "Analytics Intern - Summer 2027",
     "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR15148"
   },
+  "bbd4a42f-6c50-4ff9-b375-0a5c0ec60aea": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Rivian and Volkswagen Group Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:20:18Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "bbd4a42f-6c50-4ff9-b375-0a5c0ec60aea",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Champaign, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Embedded Systems Software Engineering Intern - January - August 2027",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/f421a524-72da-4dd6-a549-bbee9e98622e/application?embed=true"
+  },
   "bbe59360-d6e5-4189-9126-da097b9c93c6": {
     "applied_at": null,
     "backfilled": true,
@@ -21222,6 +22177,33 @@
     "title": "Machine Learning Engineer Intern - Masters",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111"
   },
+  "bca79100-9fd1-4e9b-91ad-18e52805dc5d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "CIBC",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "bca79100-9fd1-4e9b-91ad-18e52805dc5d",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "AI and Data Analytics and Reporting Analyst Co-op",
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748"
+  },
   "bd67b0ae-4054-4285-a5c6-d177c44acd54": {
     "applied_at": null,
     "backfilled": true,
@@ -21249,6 +22231,34 @@
     ],
     "title": "Robotics Research Co-op - Data Engineering",
     "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871"
+  },
+  "bd746203-4436-416a-927d-479cf3a8561f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Pebl",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:15:56Z",
+    "degrees": [
+      "Master's",
+      "MBA"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "bd746203-4436-416a-927d-479cf3a8561f",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Associate Product Manager Intern",
+    "url": "https://jobs.ashbyhq.com/pebl/84ec9ce2-7e48-4ad1-8e1d-fb63583e81c4/application?embed=true"
   },
   "bd8058b7-a84d-4dfb-91d8-845c08275253": {
     "applied_at": null,
@@ -21891,6 +22901,33 @@
     "title": "Software Development Engineer Intern",
     "url": "https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application?embed=true"
   },
+  "c30c5453-329a-4adc-809f-dccac3c13b29": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "BGE",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:41:22Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "c30c5453-329a-4adc-809f-dccac3c13b29",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Frisco, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "GIS Intern",
+    "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5435139008"
+  },
   "c378ab68-3965-4a8e-bcab-6b9125680eea": {
     "applied_at": null,
     "backfilled": true,
@@ -22250,6 +23287,33 @@
     ],
     "title": "Data Analytics Intern",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Data-Analytics-Co-Op_JR-051119"
+  },
+  "c60812e4-06ad-4e91-8d3f-cb2441c88d0d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Keysight Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:10:15Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "c60812e4-06ad-4e91-8d3f-cb2441c88d0d",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Santa Rosa, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Engineer Intern - Factory Automation",
+    "url": "https://jobs.keysight.com/jobs/54274?icims=1"
   },
   "c639bbc2-7340-465e-b311-f2a6a96cc06d": {
     "applied_at": null,
@@ -24849,6 +25913,33 @@
     "title": "Test Engineer Intern",
     "url": "https://jobs.lever.co/CesiumAstro/ab7dd1c4-7196-4cae-8fbd-cddec993b9b8/apply"
   },
+  "dbc5524e-6bc2-4690-b04a-a30cdcabb2ab": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GCM Grosvenor",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:28:43Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "dbc5524e-6bc2-4690-b04a-a30cdcabb2ab",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Chicago, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Fund Data Reporting and Analytics Intern",
+    "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8003490003"
+  },
   "dc550f37-4505-4a97-8560-642d1cc2f0e9": {
     "applied_at": null,
     "backfilled": false,
@@ -24903,6 +25994,34 @@
     ],
     "title": "Strategic Operations Analyst Intern",
     "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410899009"
+  },
+  "dcfc9399-37e0-42cc-965a-fd425dfbb1ce": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Waymo",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:16:21Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "dcfc9399-37e0-42cc-965a-fd425dfbb1ce",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineering Intern - MS/PhD - Sys Intel & ML",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161"
   },
   "ddf6cf13-0a0b-4f97-93eb-c88083de5316": {
     "applied_at": null,
@@ -25681,6 +26800,33 @@
     "title": "Rendering Engineer Intern - Apex Legends",
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Engineer-Intern/216222"
   },
+  "e461075c-d030-4455-8fe8-9a52fa5c0551": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Western National Insurance",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T22:19:29Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "e461075c-d030-4455-8fe8-9a52fa5c0551",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Edina, MN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Engineering Intern - Data & Integrations",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537849"
+  },
   "e46a25df-da75-4721-a69b-83eb3af74f1f": {
     "applied_at": null,
     "backfilled": false,
@@ -26407,6 +27553,33 @@
     "title": "Machine Learning Engineer Intern",
     "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667"
   },
+  "ea082e48-c78b-42c1-9849-f0c07749c260": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "The Toro Company",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "ea082e48-c78b-42c1-9849-f0c07749c260",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Electrical Engineer Intern",
+    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Electrical-Engineering-Intern---The-Toro-Company_JR17124"
+  },
   "ea0fba80-15e5-4a2e-829e-38a6fde13be8": {
     "applied_at": null,
     "backfilled": true,
@@ -26517,6 +27690,33 @@
     ],
     "title": "Systems Engineer Intern - Summer Games",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249876"
+  },
+  "eb0cd33f-5098-48ff-b301-888e262225eb": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Allegion",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "eb0cd33f-5098-48ff-b301-888e262225eb",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Golden, CO"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Software Engineering Intern",
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1"
   },
   "eb82ac41-1fb4-421d-8394-eb85b32a2c8a": {
     "applied_at": null,
@@ -26660,6 +27860,34 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application?embed=true"
+  },
+  "ec4c3e54-19ef-459b-a915-d355cb2863b2": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Nokia",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-09-25T22:13:19Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "ec4c3e54-19ef-459b-a915-d355cb2863b2",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Operations Analytics Co-op Intern - Intern",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261"
   },
   "eca868f5-7a43-4aba-a570-ae7f93664ff3": {
     "applied_at": null,
@@ -27229,6 +28457,34 @@
     ],
     "title": "Product Management Intern - FIS University Program",
     "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Product-Management--FIS-University-Program_JR0309691"
+  },
+  "f1498361-ba76-45f9-9d85-dfac75b061a9": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "f1498361-ba76-45f9-9d85-dfac75b061a9",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01878082"
   },
   "f1704ba8-4913-4db0-9ecc-28b25d7e465d": {
     "applied_at": null,
@@ -28013,6 +29269,34 @@
     "title": "Work Management Capabilities & Platforms Intern",
     "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Intern--Work-Management-Capabilities---Platforms_JR-10951"
   },
+  "f9cecf37-3d67-4284-acf1-bce7d8f9994e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Rockwell Automation",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "f9cecf37-3d67-4284-acf1-bce7d8f9994e",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Mayfield Heights, OH",
+      "Milwaukee, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Software Engineer Intern",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
+  },
   "fb26bbca-ac3f-49e6-9afe-4e1360c4f952": {
     "applied_at": null,
     "backfilled": true,
@@ -28374,6 +29658,37 @@
     "title": "Retail Lending AI Engineer Intern",
     "url": "https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply"
   },
+  "fdf1e11e-14be-447e-a04a-23879851041d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Gilead Sciences",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD",
+      "JD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "fdf1e11e-14be-447e-a04a-23879851041d",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Foster City, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Research Intern - Drug Metabolism - AI",
+    "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Drug-Metabolism---AI_R0055519"
+  },
   "fe0f0f3d-3ecc-46df-85f6-1122898c33f5": {
     "applied_at": null,
     "backfilled": true,
@@ -28513,6 +29828,34 @@
     ],
     "title": "Data Engineer Intern",
     "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2465581"
+  },
+  "fea9f279-8f49-4840-bf20-b5cdaf60b8d9": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Cencora",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-26T01:09:31.889844Z",
+    "id": "fea9f279-8f49-4840-bf20-b5cdaf60b8d9",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Texas",
+      "Remote in USA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Business Analytics Intern",
+    "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Business-Analytics-Intern_R2616423"
   },
   "febbb3a1-f9d6-4592-a921-af46705f885e": {
     "applied_at": null,
