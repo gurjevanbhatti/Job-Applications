@@ -1632,6 +1632,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-27T09:29:01.461470Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "0ce4d977-ead8-46ed-a4c7-aa2b56802591",
@@ -1640,7 +1641,7 @@
     "locations": [
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -14682,6 +14683,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-27T09:29:01.461470Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "791c260c-253b-4967-b0e8-d6191ffe674a",
@@ -14690,7 +14692,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026",
       "Winter 2027"
