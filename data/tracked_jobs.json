@@ -2525,7 +2525,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-27T14:48:04.346569Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T00:31:37.039261Z",
     "id": "143cb976-5cd1-40e5-bc6a-0f7216e58ec1",
     "issue_number": 204,
@@ -2533,7 +2534,7 @@
     "locations": [
       "Seattle, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -10063,7 +10064,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-27T14:48:04.346569Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "521a56a4-f683-4861-8565-e081a72736c1",
     "issue_number": 392,
@@ -10071,7 +10073,7 @@
     "locations": [
       "Arden Hills, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -11361,7 +11363,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-27T14:48:04.346569Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T00:29:31.170314Z",
     "id": "5a8c9cf7-3eab-4d5e-91c3-eb63a3cb103d",
     "issue_number": 304,
@@ -11369,7 +11372,7 @@
     "locations": [
       "Arden Hills, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -26356,6 +26359,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-27T14:48:04.346569Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "de842588-7a1b-4f74-8b9f-98e9fb143e74",
@@ -26364,7 +26368,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026",
       "Winter 2027"
