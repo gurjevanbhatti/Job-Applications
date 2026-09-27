@@ -801,7 +801,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-27T03:28:38.716308Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T15:34:20.772299Z",
     "id": "074a0da6-73e2-402d-90a7-ca4bf302d862",
     "issue_number": 440,
@@ -809,7 +810,7 @@
     "locations": [
       "Raleigh, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
