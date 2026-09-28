@@ -25045,7 +25045,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T00:16:41.459048Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T15:34:20.772299Z",
     "id": "d314f5f4-0dfc-4dcd-9b4a-b27f1694d1b9",
     "issue_number": 443,
@@ -25053,7 +25054,7 @@
     "locations": [
       "Colorado Springs, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
