@@ -6318,7 +6318,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T05:41:26.909769Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "329555bd-4a7e-4ef4-abf7-73122cec8112",
     "issue_number": 43,
@@ -6327,7 +6328,7 @@
       "Harrison, NY",
       "Arlington County, Arlington, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -8255,7 +8256,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T05:41:26.909769Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "3ffeeada-412b-4314-ad45-08e3e40c327f",
     "issue_number": 54,
@@ -8263,7 +8265,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -10916,7 +10918,8 @@
       "MBA",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T05:41:26.909769Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "580bd080-8355-4c59-a6d5-f4d6cc61be55",
     "issue_number": 64,
@@ -10924,7 +10927,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -12232,7 +12235,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T05:41:26.909769Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "6177e762-3444-42f7-97c6-b94abf15c039",
     "issue_number": 70,
@@ -12240,7 +12244,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -12903,7 +12907,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T05:41:26.909769Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "695c330c-a16f-4490-93fc-2f34b8d874ce",
     "issue_number": 75,
@@ -12911,7 +12916,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -17509,7 +17514,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T05:41:26.909769Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "94489f96-61e7-4da6-8cdb-f5b62ee66e96",
     "issue_number": 95,
@@ -17518,7 +17524,7 @@
       "Harrison, NY",
       "Arlington County, Arlington, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
