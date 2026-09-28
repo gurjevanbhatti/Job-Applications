@@ -1218,7 +1218,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T19:35:33.776454Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "0a459dc8-e674-4c37-8920-b89a9f5ebc54",
     "issue_number": 378,
@@ -1227,7 +1228,7 @@
       "Remote in USA",
       "Illinois"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -5853,7 +5854,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T19:35:33.776454Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-21T18:54:07.988142Z",
     "id": "2ec492a7-10a0-47cc-8cbb-9c22a5ba396c",
     "issue_number": 16,
@@ -5861,7 +5863,7 @@
     "locations": [
       "Draper, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -7590,6 +7592,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-28T19:35:33.776454Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "3bb083e3-bf43-47f8-93e3-a775afddd966",
@@ -7598,7 +7601,7 @@
     "locations": [
       "West Henrietta, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -9595,7 +9598,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T19:35:33.776454Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-26T01:09:31.889844Z",
     "id": "4df9553d-1bbf-46e2-b210-bfd748436f3c",
     "issue_number": 479,
@@ -9603,7 +9607,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -10438,7 +10442,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T19:35:33.776454Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "544076ef-ca22-485c-8793-4770c7d30023",
     "issue_number": 393,
@@ -10446,7 +10451,7 @@
     "locations": [
       "Dayton, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -10753,7 +10758,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T19:35:33.776454Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "571f8096-0c99-4edd-9680-9daa550e8250",
     "issue_number": 394,
@@ -10761,7 +10767,7 @@
     "locations": [
       "St. Louis, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -11229,7 +11235,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T19:35:33.776454Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "5a520635-ec7f-4867-add0-a06b434d8203",
     "issue_number": 395,
@@ -11237,7 +11244,7 @@
     "locations": [
       "Dayton, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -12297,6 +12304,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-28T19:35:33.776454Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "61b9a212-f545-496c-b822-3bae971775e3",
@@ -12305,7 +12313,7 @@
     "locations": [
       "Minnesota"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -17713,7 +17721,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T19:35:33.776454Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "9533e1df-ae69-41b8-90cc-a9c76dae5b88",
     "issue_number": 405,
@@ -17721,7 +17730,7 @@
     "locations": [
       "Dayton, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -19488,7 +19497,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T19:35:33.776454Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-21T18:54:07.988142Z",
     "id": "a25b86dd-371b-427c-b699-2d39d9db3511",
     "issue_number": 24,
@@ -19496,7 +19506,7 @@
     "locations": [
       "Plano, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -21538,7 +21548,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T19:35:33.776454Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "b651ebc4-6d28-49c4-86b6-85437f9cd16a",
     "issue_number": 417,
@@ -21546,7 +21557,7 @@
     "locations": [
       "Dayton, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -28736,7 +28747,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T19:35:33.776454Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-26T01:09:31.889844Z",
     "id": "f1498361-ba76-45f9-9d85-dfac75b061a9",
     "issue_number": 507,
@@ -28744,7 +28756,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -28959,6 +28971,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-28T19:35:33.776454Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "f342cbdc-50f4-44cf-91e0-9abf3c8e19c8",
@@ -28967,7 +28980,7 @@
     "locations": [
       "LA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Fall 2026"
     ],
