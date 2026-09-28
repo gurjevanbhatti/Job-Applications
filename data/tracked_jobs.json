@@ -1386,6 +1386,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-28T23:56:56.876289Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "0c0ace06-0c5c-415d-8ea4-7c6fedad6324",
@@ -1394,7 +1395,7 @@
     "locations": [
       "Reno, NV"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -3526,6 +3527,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-28T23:56:56.876289Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "1c64a304-96bc-447e-ab18-b8bcf93f937f",
@@ -3535,7 +3537,7 @@
       "Menlo Park, CA",
       "NYC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -3692,6 +3694,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-28T23:56:56.876289Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "1db1012e-71c6-49b5-9a0e-3399dce55cea",
@@ -3701,7 +3704,7 @@
       "Menlo Park, CA",
       "NYC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -7813,6 +7816,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-28T23:56:56.876289Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "3e500cc8-2138-4a5d-9b79-6e6400df7599",
@@ -7821,7 +7825,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -12949,6 +12953,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-28T23:56:56.876289Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "696584bd-7673-4ec0-a9cd-5a5a62e348f8",
@@ -12957,7 +12962,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -14144,6 +14149,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-28T23:56:56.876289Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "73089cf9-d492-4163-9bb1-ebd692bfbd10",
@@ -14154,7 +14160,7 @@
       "NYC",
       "Bellevue, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -17110,6 +17116,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-28T23:56:56.876289Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "90393d51-e3aa-4a50-9613-f7b547fcae58",
@@ -17118,7 +17125,7 @@
     "locations": [
       "Carmel, IN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -24178,6 +24185,7 @@
     "degrees": [
       "Master's"
     ],
+    "expired_at": "2026-09-28T23:56:56.876289Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "ccb4ec66-4171-4da4-883b-e8d9465464ac",
@@ -24186,7 +24194,7 @@
     "locations": [
       "Menlo Park, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -24621,6 +24629,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-28T23:56:56.876289Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "d0e51309-271e-4d83-8319-1a61f73bbe94",
@@ -24629,7 +24638,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -27671,7 +27680,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-28T23:56:56.876289Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "e899b6b8-554e-4d01-a435-d93721e37430",
     "issue_number": 428,
@@ -27679,7 +27689,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
