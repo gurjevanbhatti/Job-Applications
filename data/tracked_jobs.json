@@ -2983,6 +2983,34 @@
     "title": "Software Development Intern",
     "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false"
   },
+  "1736ee29-1f1e-4421-8616-9c616abc3f8e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Rhoda AI",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T06:18:01Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T10:55:02.271910Z",
+    "id": "1736ee29-1f1e-4421-8616-9c616abc3f8e",
+    "issue_number": 534,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/534",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Robot Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5/application?embed=true"
+  },
   "174ee6de-f568-46b5-b589-eb54177d211e": {
     "applied_at": null,
     "backfilled": true,
@@ -3862,7 +3890,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-29T10:55:02.271910Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T00:31:37.039261Z",
     "id": "1edb38d8-1adc-433a-a1b9-59a5af4f101f",
     "issue_number": 205,
@@ -3871,7 +3900,7 @@
       "Madison, WI",
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -4767,6 +4796,34 @@
     ],
     "title": "Software Developer Intern - Software Development",
     "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129"
+  },
+  "2535090d-f04a-40f9-afb9-01cd43e2af3f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "W.W. Grainger",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T06:12:36Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T10:55:02.271910Z",
+    "id": "2535090d-f04a-40f9-afb9-01cd43e2af3f",
+    "issue_number": 535,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/535",
+    "locations": [
+      "Green Bay, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027",
+      "Fall 2026"
+    ],
+    "title": "Business Analyst Intern",
+    "url": "https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Business-Analyst-Intern-WI-54301-5160/1434550000/?ats=successfactors"
   },
   "258a5d1f-2df5-4402-8cc1-876a88c5d320": {
     "applied_at": null,
@@ -5770,7 +5827,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-29T10:55:02.271910Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T09:59:32.122379Z",
     "id": "2e670f26-fa85-4586-a044-ad138d073cf3",
     "issue_number": 264,
@@ -5778,7 +5836,7 @@
     "locations": [
       "Milpitas, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -7029,7 +7087,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-29T10:55:02.271910Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T22:36:49.161595Z",
     "id": "37a8eaba-b127-49e5-8f0f-9b2eb342be9f",
     "issue_number": 366,
@@ -7037,7 +7096,7 @@
     "locations": [
       "Dallas, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -7539,6 +7598,7 @@
       "Master's",
       "MBA"
     ],
+    "expired_at": "2026-09-29T10:55:02.271910Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "3b61670e-cc47-4808-a614-551e8788f98e",
@@ -7547,7 +7607,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -7885,6 +7945,33 @@
     ],
     "title": "Digital Manufacturing Intern",
     "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704-1"
+  },
+  "3e456223-d5b0-4c98-9c23-c9658c558899": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Verizon Communications",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T10:55:02.271910Z",
+    "id": "3e456223-d5b0-4c98-9c23-c9658c558899",
+    "issue_number": 536,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/536",
+    "locations": [
+      "Irving, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Business Intelligence Intern - Fiber Engineering & Operations - Transformation & Business Enablement",
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387"
   },
   "3e500cc8-2138-4a5d-9b79-6e6400df7599": {
     "applied_at": null,
@@ -8349,7 +8436,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-29T10:55:02.271910Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "3ffcd0e4-1c94-4df2-ae83-88132a1a017e",
     "issue_number": 53,
@@ -8357,7 +8445,7 @@
     "locations": [
       "Wilmington, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -9613,6 +9701,33 @@
     ],
     "title": "Data Analytics and AI Intern - FIS University Program",
     "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Data-Analytics-and-AI--FIS-University-Program_JR0309690"
+  },
+  "4d75efc0-61e0-48f4-955d-15ea4c188bae": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Verizon Communications",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T10:55:02.271910Z",
+    "id": "4d75efc0-61e0-48f4-955d-15ea4c188bae",
+    "issue_number": 537,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/537",
+    "locations": [
+      "Irving, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Science Intern - Network and Technology",
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384"
   },
   "4da6c9fc-cf6a-40fe-93d4-92e3a9666cf7": {
     "applied_at": null,
@@ -13441,6 +13556,35 @@
     "title": "Hardware Co-op",
     "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false"
   },
+  "6bc1c873-c812-4770-8e16-7e18397b1432": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T10:55:02.271910Z",
+    "id": "6bc1c873-c812-4770-8e16-7e18397b1432",
+    "issue_number": 538,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/538",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "title": "Display Systems Engineering Co-op",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917"
+  },
   "6c19dbb0-d334-4197-a3b2-1a2b7952b5f0": {
     "applied_at": null,
     "backfilled": false,
@@ -15224,6 +15368,33 @@
     "title": "IT Data Analyst Intern",
     "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Brea-California-United-States/IT-Data-Analyst-Intern_R1316675"
   },
+  "7a4c54a2-858e-4678-90f3-93bba7644c52": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Thrivent",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T10:55:02.271910Z",
+    "id": "7a4c54a2-858e-4678-90f3-93bba7644c52",
+    "issue_number": 539,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/539",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Application Engineer Intern - Investments",
+    "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2"
+  },
   "7b0bc5f5-b7eb-4ee8-905a-aff3cc7c2c4f": {
     "applied_at": null,
     "backfilled": true,
@@ -15866,6 +16037,33 @@
     ],
     "title": "Data Science Intern",
     "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W"
+  },
+  "810a66c8-0c3f-4ac3-bec1-fb4ae6080325": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Verizon Communications",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T10:55:02.271910Z",
+    "id": "810a66c8-0c3f-4ac3-bec1-fb4ae6080325",
+    "issue_number": 540,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/540",
+    "locations": [
+      "Irving, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Scientist Intern - Fiber Engineering & Operations",
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386"
   },
   "81c8741f-a500-47e6-931a-a6cf3a2b0a65": {
     "applied_at": null,
@@ -19094,6 +19292,33 @@
     "title": "Software Engineer Intern",
     "url": "https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true"
   },
+  "9d7fba42-9b7a-428c-8e74-6c7727783d75": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Garmin",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T06:09:30Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T10:55:02.271910Z",
+    "id": "9d7fba42-9b7a-428c-8e74-6c7727783d75",
+    "issue_number": 541,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/541",
+    "locations": [
+      "Montgomery, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://careers.garmin.com/jobs/20055?icims=1"
+  },
   "9db8fac1-1656-4db7-ad48-26ccb11ca2a8": {
     "applied_at": null,
     "backfilled": false,
@@ -19429,6 +19654,34 @@
     ],
     "title": "Quantitative Risk Management Intern",
     "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4863"
+  },
+  "9f98eff6-d8a9-41cc-9d73-e31bc31c2617": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Boston Scientific",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T06:16:01Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T10:55:02.271910Z",
+    "id": "9f98eff6-d8a9-41cc-9d73-e31bc31c2617",
+    "issue_number": 542,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/542",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Development Engineer Co-op",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813674232"
   },
   "9fa2b794-7b44-4ff6-876c-7dc3d18b49b4": {
     "applied_at": null,
@@ -20257,6 +20510,7 @@
       "Master's",
       "MBA"
     ],
+    "expired_at": "2026-09-29T10:55:02.271910Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "a7e60e53-dc3b-4ded-b957-ae09dcada39f",
@@ -20265,7 +20519,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -20366,6 +20620,7 @@
       "Bachelor's",
       "Associate's"
     ],
+    "expired_at": "2026-09-29T10:55:02.271910Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "a85d564c-f039-4ff3-9785-3eb396028885",
@@ -20374,7 +20629,7 @@
     "locations": [
       "Waterloo, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -21326,6 +21581,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-09-29T10:55:02.271910Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "b0f8239a-22cb-4ff6-8e56-f1c8cfd9ae87",
@@ -21334,7 +21590,7 @@
     "locations": [
       "Des Moines, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -21859,7 +22115,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-29T10:55:02.271910Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "b60dd607-5a1b-423f-a318-f333734e8063",
     "issue_number": 416,
@@ -21867,7 +22124,7 @@
     "locations": [
       "Bala Cynwyd, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -21948,6 +22205,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-09-29T10:55:02.271910Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "b68764db-1c55-4c12-a7a8-8345bfc7aca4",
@@ -21957,7 +22215,7 @@
       "Hillsboro, OR",
       "Mountain View, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -22710,7 +22968,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-29T10:55:02.271910Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "bc4117e4-8373-4215-901c-689e3476cdfb",
     "issue_number": 110,
@@ -22718,7 +22977,7 @@
     "locations": [
       "Wilmington, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -27430,7 +27689,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-29T10:55:02.271910Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T00:31:37.039261Z",
     "id": "e3cfdda3-b161-4677-b003-df4a489fd52d",
     "issue_number": 249,
@@ -27438,7 +27698,7 @@
     "locations": [
       "Madison, WI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
