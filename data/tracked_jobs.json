@@ -55,6 +55,33 @@
     "title": "Research & Development Co-op",
     "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10635"
   },
+  "01769f39-4af0-402c-a217-88c13dd5d513": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Q2",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T21:15:14.350193Z",
+    "id": "01769f39-4af0-402c-a217-88c13dd5d513",
+    "issue_number": 543,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/543",
+    "locations": [
+      "Cary, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Science Intern",
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799"
+  },
   "0198141b-bbd1-4584-9152-523efb2cd1c8": {
     "applied_at": null,
     "backfilled": true,
@@ -282,6 +309,34 @@
     ],
     "title": "Operations Research Engineering Analytics Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502"
+  },
+  "02f8a929-c160-48c2-818b-cebd23779a18": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "CACI",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T21:15:14.350193Z",
+    "id": "02f8a929-c160-48c2-818b-cebd23779a18",
+    "issue_number": 544,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/544",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776"
   },
   "030de51d-475d-4824-8b91-aa3e6ff1c86a": {
     "applied_at": null,
@@ -4774,6 +4829,33 @@
     "title": "IT Developer Intern",
     "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1"
   },
+  "250a970b-e052-49fd-b1d5-5048c48c3200": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Foresters Financial",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T21:15:14.350193Z",
+    "id": "250a970b-e052-49fd-b1d5-5048c48c3200",
+    "issue_number": 545,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/545",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Engineer Co-op Student",
+    "url": "https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto/Software-Engineer-Co-op-Student--4-months-contract-_R-2329"
+  },
   "25230324-75c3-45fd-95c9-96e3284c06d4": {
     "applied_at": null,
     "backfilled": false,
@@ -5766,6 +5848,36 @@
     ],
     "title": "Hardware Platform Development Intern",
     "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841941002"
+  },
+  "2dda6a1e-68a5-41f2-ac16-746b5bf4d7ec": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Cigna Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T21:15:14.350193Z",
+    "id": "2dda6a1e-68a5-41f2-ac16-746b5bf4d7ec",
+    "issue_number": 546,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/546",
+    "locations": [
+      "Austin, TX",
+      "Morris Plains, NJ",
+      "St. Louis, MO"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI/ML Engineer Intern",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/AI-ML-Engineer-Intern_26010877"
   },
   "2df5e14b-371b-4fa2-bc48-20be0873449a": {
     "applied_at": null,
@@ -8105,7 +8217,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-29T21:15:14.350193Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T22:36:49.161595Z",
     "id": "3ebd187d-832e-4667-83aa-850719abfd1b",
     "issue_number": 368,
@@ -8117,7 +8230,7 @@
       "Irving, TX",
       "Wellesley, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -8587,7 +8700,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-29T21:15:14.350193Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T00:29:31.170314Z",
     "id": "40cca647-9aaa-4058-b971-a19c004a3b42",
     "issue_number": 299,
@@ -8595,7 +8709,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -9462,6 +9576,33 @@
     "title": "Data Engineer Intern",
     "url": "https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Data-Engineering-Intern_JR-000472"
   },
+  "4b9d78b3-d750-42ee-97cc-51f50e53e928": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Q2",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T21:15:14.350193Z",
+    "id": "4b9d78b3-d750-42ee-97cc-51f50e53e928",
+    "issue_number": 547,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/547",
+    "locations": [
+      "Cary, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800"
+  },
   "4bde8bc5-067e-4676-9a52-d07891e1cb78": {
     "applied_at": null,
     "backfilled": true,
@@ -9742,6 +9883,33 @@
     ],
     "title": "Data Science Intern - Network and Technology",
     "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384"
+  },
+  "4d7c07cf-6f36-47d7-ae15-1f24e64e0252": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Jefferson Health",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T21:15:14.350193Z",
+    "id": "4d7c07cf-6f36-47d7-ae15-1f24e64e0252",
+    "issue_number": 548,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/548",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Analysis Intern",
+    "url": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Philadelphia-PA/Analysis-Intern_REQ-0036582"
   },
   "4da6c9fc-cf6a-40fe-93d4-92e3a9666cf7": {
     "applied_at": null,
@@ -10199,6 +10367,34 @@
     ],
     "title": "Android Developer Intern Co-op - Winter 2027",
     "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Android-Developer--4-months-Internship-Coop--Winter-2027---_R155691"
+  },
+  "51b8b3e7-e7d0-4727-9f90-91917bc88230": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T21:15:14.350193Z",
+    "id": "51b8b3e7-e7d0-4727-9f90-91917bc88230",
+    "issue_number": 549,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/549",
+    "locations": [
+      "Woburn, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561"
   },
   "51cf3d3e-0806-455c-933f-ca151601a136": {
     "applied_at": null,
@@ -15907,6 +16103,33 @@
     "title": "Software Engineer Intern",
     "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761"
   },
+  "7f093b2f-6a53-4d35-b5f2-b8abc4cf3abe": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Invesco",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T21:15:14.350193Z",
+    "id": "7f093b2f-6a53-4d35-b5f2-b8abc4cf3abe",
+    "issue_number": 550,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/550",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Early Career Intern - Technology",
+    "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619"
+  },
   "7f0fe234-4a59-4980-bc64-704e42662ba4": {
     "applied_at": null,
     "backfilled": true,
@@ -16325,6 +16548,38 @@
     ],
     "title": "Test Engineer Intern",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Test-Engineering-Intern_R266146"
+  },
+  "832aac0c-1baa-4c0b-b658-f53d040bb204": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Wilbur-Ellis",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T21:15:14.350193Z",
+    "id": "832aac0c-1baa-4c0b-b658-f53d040bb204",
+    "issue_number": 551,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/551",
+    "locations": [
+      "Washington",
+      "Oregon",
+      "California",
+      "Texas",
+      "Colorado",
+      "Michigan"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Branded Products Intern",
+    "url": "https://wilburellis.wd12.myworkdayjobs.com/wilbur-ellis/job/Home-Office-California-United-States/Branded-Products-Intern--CA--CO--MI--OR--TX--WA-_R1884"
   },
   "8343365e-f6de-486d-9e76-f20a7d73dc15": {
     "applied_at": null,
@@ -20334,6 +20589,7 @@
       "Master's",
       "PhD"
     ],
+    "expired_at": "2026-09-29T21:15:14.350193Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "a4f155d6-42c5-4340-8b45-953fbb332d21",
@@ -20342,7 +20598,7 @@
     "locations": [
       "Skaneateles, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -20991,6 +21247,34 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c/application?embed=true"
+  },
+  "aa936ee3-4c12-406f-b3a1-806613caa5fa": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "HCSC",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T21:15:14.350193Z",
+    "id": "aa936ee3-4c12-406f-b3a1-806613caa5fa",
+    "issue_number": 552,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/552",
+    "locations": [
+      "Chicago, IL",
+      "Richardson, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Actuarial Intern - Early Careers",
+    "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Actuarial-Intern_R0059475"
   },
   "aacdb2a7-7399-4a61-a456-f1b8651ac552": {
     "applied_at": null,
@@ -21886,6 +22170,7 @@
       "Master's",
       "PhD"
     ],
+    "expired_at": "2026-09-29T21:15:14.350193Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "b2cc2a88-efd8-4b00-b346-0f29ab47dc4f",
@@ -21894,7 +22179,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -23461,6 +23746,34 @@
     "title": "AI Solutions Co-op",
     "url": "https://rodanenergysolutionsinc.applytojob.com/apply/CrbmvnkugD/AI-Solutions-Specialist-Coop-Student-Winter-2027"
   },
+  "c0e0b469-db4a-4519-953a-6872667b451d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Wabtec",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T14:09:52Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T21:15:14.350193Z",
+    "id": "c0e0b469-db4a-4519-953a-6872667b451d",
+    "issue_number": 553,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/553",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Firmware Engineer Co-op",
+    "url": "https://jobs.smartrecruiters.com/Wabtec/3743990015763486"
+  },
   "c0eb9672-bc08-4846-9ef2-741b0178ea00": {
     "applied_at": null,
     "backfilled": false,
@@ -24338,6 +24651,7 @@
       "Master's",
       "PhD"
     ],
+    "expired_at": "2026-09-29T21:15:14.350193Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "c6aad417-8a37-46d9-bd72-d1053a268ea8",
@@ -24346,7 +24660,7 @@
     "locations": [
       "Mountain View, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Fall 2026"
     ],
@@ -25648,6 +25962,60 @@
     "title": "Product Management Intern",
     "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1"
   },
+  "d27ce4c9-b5bf-4de0-a7f5-2e540532f643": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Q2",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T21:15:14.350193Z",
+    "id": "d27ce4c9-b5bf-4de0-a7f5-2e540532f643",
+    "issue_number": 554,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/554",
+    "locations": [
+      "Cary, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798"
+  },
+  "d29e1b26-6366-4790-a9fb-5c7c87927b69": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Invesco",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T21:15:14.350193Z",
+    "id": "d29e1b26-6366-4790-a9fb-5c7c87927b69",
+    "issue_number": 555,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/555",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Early Career Intern - Technology",
+    "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1"
+  },
   "d2afb367-e5e2-4a63-a963-4e920b56ac3b": {
     "applied_at": null,
     "backfilled": false,
@@ -26423,7 +26791,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-29T21:15:14.350193Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T00:29:31.170314Z",
     "id": "d824265f-dd15-4d91-8ad3-661f123098c7",
     "issue_number": 331,
@@ -26434,7 +26803,7 @@
       "Richardson, TX",
       "Bloomington, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -27384,6 +27753,35 @@
     "title": "Electrical Engineering Intern",
     "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dexter-Michigan-USA/Electrical-Engineering-Intern_R0023525"
   },
+  "e045f585-8fe2-442c-ad32-d77296ec0f53": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Draper",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-29T21:15:14.350193Z",
+    "id": "e045f585-8fe2-442c-ad32-d77296ec0f53",
+    "issue_number": 556,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/556",
+    "locations": [
+      "Cambridge, MA",
+      "Lowell, MA",
+      "Huntsville, AL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Requirements Engineering Intern - Digital Engineering",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Intern--Summer-2027-_JR002945-1"
+  },
   "e04fda0f-12a2-4117-aaa1-dc27e62a8cd0": {
     "applied_at": null,
     "backfilled": true,
@@ -27870,7 +28268,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-29T21:15:14.350193Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T22:36:49.161595Z",
     "id": "e46a25df-da75-4721-a69b-83eb3af74f1f",
     "issue_number": 376,
@@ -27881,7 +28280,7 @@
       "Woonsocket, RI",
       "Wellesley, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
