@@ -589,6 +589,33 @@
     "title": "Category Technology Intern",
     "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/MMSC-Category-Technology-Intern_R-57362"
   },
+  "04a691aa-579c-4daf-98c5-87a42434da2b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "04a691aa-579c-4daf-98c5-87a42434da2b",
+    "issue_number": 638,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/638",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986"
+  },
   "04bd8248-d247-409c-a059-4abf49ba2622": {
     "applied_at": null,
     "backfilled": false,
@@ -954,6 +981,33 @@
     ],
     "title": "Product Management Intern - Summer 2027",
     "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1"
+  },
+  "069dfa9c-8d02-4151-9206-14b22adce975": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Wellmark",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T14:07:18Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "069dfa9c-8d02-4151-9206-14b22adce975",
+    "issue_number": 639,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/639",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern - Metadata Enablement Team",
+    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000152679699"
   },
   "06c5700d-2702-4f7a-a7c1-e713c7de94a4": {
     "applied_at": null,
@@ -1452,6 +1506,33 @@
     ],
     "title": "AI Engineer Intern",
     "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003"
+  },
+  "0a405c15-cc8e-435c-92fb-7fc22c23643b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "0a405c15-cc8e-435c-92fb-7fc22c23643b",
+    "issue_number": 640,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/640",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Embedded Software Security Engineer Intern - S3E",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Eng-Intern---S3E_01878712"
   },
   "0a459dc8-e674-4c37-8920-b89a9f5ebc54": {
     "applied_at": null,
@@ -6894,7 +6975,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-30T18:03:33.574791Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-26T01:09:31.889844Z",
     "id": "30aaecc3-d600-4c24-bde5-386b4056f2ee",
     "issue_number": 473,
@@ -6902,7 +6984,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -10009,7 +10091,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-30T18:03:33.574791Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T22:36:49.161595Z",
     "id": "47ef5abc-2878-4502-b445-bf173df908ab",
     "issue_number": 370,
@@ -10017,7 +10100,7 @@
     "locations": [
       "St. Louis, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -12963,7 +13046,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-30T18:03:33.574791Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-29T04:42:08.986977Z",
     "id": "5b45c51f-8025-4c1f-9845-28a30c387ae0",
     "issue_number": 526,
@@ -12971,7 +13055,7 @@
     "locations": [
       "Duluth, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -13485,6 +13569,34 @@
     ],
     "title": "Software Developer Intern - Software",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-950---Dveloppeur-se--logiciel_123688"
+  },
+  "5ee87d96-970f-4544-9f60-1c689d45466d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "5ee87d96-970f-4544-9f60-1c689d45466d",
+    "issue_number": 641,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/641",
+    "locations": [
+      "Tewksbury, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Systems Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer---Intern--Onsite_01879053"
   },
   "5eeb71a2-4362-490d-91b2-80bec3bb466d": {
     "applied_at": null,
@@ -19193,6 +19305,33 @@
     "title": "Software Engineer Intern",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineering-Intern--Summer-2027-_01872775"
   },
+  "9072bb82-c619-4c08-bbce-0bd8e0b92cd4": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "L3Harris Technologies",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-09-30T14:07:27Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "9072bb82-c619-4c08-bbce-0bd8e0b92cd4",
+    "issue_number": 642,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/642",
+    "locations": [
+      "Waterdown, Hamilton, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Manufacturing Engineering Co-op",
+    "url": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254800/?ats=successfactors"
+  },
   "909d58de-afd4-4e68-b2a3-84c247f3cc27": {
     "applied_at": null,
     "backfilled": true,
@@ -19359,6 +19498,33 @@
     ],
     "title": "Context Developer Modeler",
     "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Context-Developer-Modeler_R0121199"
+  },
+  "92276a33-ba44-438f-8661-3acd05164584": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "L3Harris Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T14:07:28Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "92276a33-ba44-438f-8661-3acd05164584",
+    "issue_number": 643,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/643",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1435262400/?ats=successfactors"
   },
   "92981dfe-a4e6-41b8-add4-c935b4b7e72a": {
     "applied_at": null,
@@ -21743,8 +21909,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-30T12:19:49.507566Z",
     "id": "a273034e-3b57-4e7a-9eaa-23b7e5d751d3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 632,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/632",
     "locations": [
       "Northbrook, IL",
       "Chicago, IL"
@@ -22081,8 +22247,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-30T12:19:49.507566Z",
     "id": "a6d20bfd-fd5e-467c-9b88-327066eed625",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 633,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/633",
     "locations": [
       "Largo, FL"
     ],
@@ -22176,6 +22342,34 @@
     ],
     "title": "Software Development Intern",
     "url": "https://jobs.jobvite.com/tylertech/job/oKQJAfwD?nl=1&nl=1&fr=false"
+  },
+  "a7373af1-154a-4460-accf-0f684091471b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "KLA",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "a7373af1-154a-4460-accf-0f684091471b",
+    "issue_number": 644,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/644",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572"
   },
   "a77aa535-2e7b-4814-b4e8-1e16bb8c7765": {
     "applied_at": null,
@@ -22662,7 +22856,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-30T18:03:33.574791Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-29T21:15:14.350193Z",
     "id": "aa936ee3-4c12-406f-b3a1-806613caa5fa",
     "issue_number": 552,
@@ -22671,7 +22866,7 @@
       "Chicago, IL",
       "Richardson, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -23103,6 +23298,33 @@
     "title": "Hardware Engineer Co-op",
     "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Concord-Ontario-Canada/Hardware-Engineering-Co-op_R1317537"
   },
+  "af6b09bd-b87e-4688-97de-c0efa27df196": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "L3Harris Technologies",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-09-30T14:07:37Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "af6b09bd-b87e-4688-97de-c0efa27df196",
+    "issue_number": 645,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/645",
+    "locations": [
+      "Waterdown, Hamilton, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Manufacturing Engineering Co-op",
+    "url": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254600/?ats=successfactors"
+  },
   "af6e88e7-684a-47d6-bed7-ca09c24243e9": {
     "applied_at": null,
     "backfilled": false,
@@ -23207,8 +23429,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-30T12:19:49.507566Z",
     "id": "af7b23f4-17a4-4d21-9099-a8afec173586",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 634,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/634",
     "locations": [
       "Rolling Meadows, IL"
     ],
@@ -23446,6 +23668,35 @@
     ],
     "title": "Analytics Intern",
     "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479"
+  },
+  "b1ed0a55-576a-4662-ac4d-62535fe683e7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "L3Harris Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T14:07:28Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "b1ed0a55-576a-4662-ac4d-62535fe683e7",
+    "issue_number": 646,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/646",
+    "locations": [
+      "Clifton, NJ"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Clifton-Intern,-Software-Engineer-NJ-07014/1435263500/?ats=successfactors"
   },
   "b202c8f2-5559-40d4-8a8b-2326270d7097": {
     "applied_at": null,
@@ -23758,6 +24009,35 @@
     ],
     "title": "Analytics Engineering Intern",
     "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009195"
+  },
+  "b3fa8bd3-148e-47bb-a65f-f2530b2dfc41": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "L3Harris Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T14:07:27Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "b3fa8bd3-148e-47bb-a65f-f2530b2dfc41",
+    "issue_number": 647,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/647",
+    "locations": [
+      "Clifton, NJ"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Clifton-Intern,-Software-Engineer-NJ-07014/1435264000/?ats=successfactors"
   },
   "b50df64e-0d8e-4631-a2c7-2da5eb33aaa2": {
     "applied_at": null,
@@ -24103,6 +24383,33 @@
     ],
     "title": "AI Feature Development Intern - NCSG",
     "url": "https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827"
+  },
+  "b6e13db3-be91-4612-8719-470246e65112": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "MFS",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "b6e13db3-be91-4612-8719-470246e65112",
+    "issue_number": 648,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/648",
+    "locations": [
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Investment Data Engineer Co-op",
+    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Spring-2027-Investment-Data-Engineer-Co-op--January---June-_MFS-231978"
   },
   "b6fc3934-181a-4132-bdaa-096257d221fe": {
     "applied_at": null,
@@ -24528,6 +24835,34 @@
     ],
     "title": "AI Software Engineering Co-op - 6 months - 8 months",
     "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
+  },
+  "ba21bc92-2d44-433d-a0dc-0d5c254061c5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "L3Harris Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T14:07:37Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "ba21bc92-2d44-433d-a0dc-0d5c254061c5",
+    "issue_number": 649,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/649",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Product Management Intern",
+    "url": "https://jobs.l3harris.com/job/Rochester-Product-Management-Intern-(Rochester,-NY)-NY-14610-1839/1433689700/?ats=successfactors"
   },
   "ba3ab19d-8b8e-45ac-b1b6-788ddc37b1ac": {
     "applied_at": null,
@@ -25331,7 +25666,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-30T18:03:33.574791Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-29T21:15:14.350193Z",
     "id": "c0e0b469-db4a-4519-953a-6872667b451d",
     "issue_number": 553,
@@ -25339,7 +25675,7 @@
     "locations": [
       "Waltham, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -27179,8 +27515,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-30T12:19:49.507566Z",
     "id": "cfd65384-8de0-4673-9086-3e19b4843b5e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 635,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/635",
     "locations": [
       "Sioux Falls, SD"
     ],
@@ -27446,6 +27782,35 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1"
+  },
+  "d13887b1-2bb9-4152-adf1-d74dd800da12": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "L3Harris Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T14:07:23Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "d13887b1-2bb9-4152-adf1-d74dd800da12",
+    "issue_number": 650,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/650",
+    "locations": [
+      "Carlsbad, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Carlsbad-Software-Engineering-Intern-CA-92009/1435250500/?ats=successfactors"
   },
   "d1755914-48f5-47de-bfbd-54ea573f4448": {
     "applied_at": null,
@@ -27810,6 +28175,35 @@
     ],
     "title": "Hardware Engineer",
     "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R7976"
+  },
+  "d2d4f9ef-8b53-408c-8e8e-942a50e91809": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "L3Harris Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T14:07:22Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "d2d4f9ef-8b53-408c-8e8e-942a50e91809",
+    "issue_number": 651,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/651",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1413797100/?ats=successfactors"
   },
   "d2ed8bfd-47d2-42c8-a039-2a2a90b3c635": {
     "applied_at": null,
@@ -28647,8 +29041,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-30T12:19:49.507566Z",
     "id": "d9192af9-44cc-4afc-bb53-481c9e5acabf",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 636,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/636",
     "locations": [
       "Richardson, TX"
     ],
@@ -29572,6 +29966,34 @@
     ],
     "title": "Software Engineering Intern",
     "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053"
+  },
+  "e0190f47-ebc1-4e15-884d-ef5b3ddda1b3": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "KLA Corporation",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "e0190f47-ebc1-4e15-884d-ef5b3ddda1b3",
+    "issue_number": 652,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/652",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1"
   },
   "e019b0ce-4c0e-490b-b51c-9ac7e88b4472": {
     "applied_at": null,
@@ -30554,6 +30976,33 @@
     "title": "Software Development Intern - Summer 2027",
     "url": "https://jobs.jobvite.com/tylertech/job/oqQJAfwj?nl=1&nl=1&fr=false"
   },
+  "e6e68252-64e3-4113-87e6-21679405692d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "CACI",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "e6e68252-64e3-4113-87e6-21679405692d",
+    "issue_number": 653,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/653",
+    "locations": [
+      "Florham Park, NJ"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software/Network Engineering Intern",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895"
+  },
   "e6eed6a3-2c62-4035-8952-30b4577d84e3": {
     "applied_at": null,
     "backfilled": false,
@@ -30582,6 +31031,33 @@
     ],
     "title": "Software Engineer Co-op - Spring/Summer 2027",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384"
+  },
+  "e6f977e3-0c56-4d61-bd36-637f2e5d2dee": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "MFS",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "e6f977e3-0c56-4d61-bd36-637f2e5d2dee",
+    "issue_number": 654,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/654",
+    "locations": [
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Junior Software Engineer Co-op",
+    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Spring-2027-Jr-Software-Engineer-Co-op--January---June-_MFS-231979"
   },
   "e6fbfc33-cdd6-4ee6-acef-70e752008526": {
     "applied_at": null,
@@ -31598,6 +32074,35 @@
     "title": "Software Developer Intern",
     "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2"
   },
+  "ee30da52-e2dc-4cdc-b029-dec875a9b34e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "L3Harris Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T14:07:28Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-09-30T18:03:33.574791Z",
+    "id": "ee30da52-e2dc-4cdc-b029-dec875a9b34e",
+    "issue_number": 655,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/655",
+    "locations": [
+      "Clifton, NJ"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Clifton-Intern,-Software-Engineer-NJ-07014/1435263700/?ats=successfactors"
+  },
   "ee7c7524-9f03-4556-a197-bdf877a10f55": {
     "applied_at": null,
     "backfilled": false,
@@ -32302,8 +32807,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-09-30T12:19:49.507566Z",
     "id": "f478095f-4d9f-407a-8d22-d320f0186e98",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 637,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/637",
     "locations": [
       "Ottawa, ON, Canada"
     ],
