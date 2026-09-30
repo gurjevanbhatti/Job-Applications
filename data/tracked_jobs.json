@@ -1438,7 +1438,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-30T22:14:13.720148Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T00:29:31.170314Z",
     "id": "09c94917-70f6-40c1-b1e4-ad10b54d98ee",
     "issue_number": 290,
@@ -1446,7 +1447,7 @@
     "locations": [
       "Melbourne, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -10257,7 +10258,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-30T22:14:13.720148Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T05:15:17.661027Z",
     "id": "4a1157a6-d353-457f-b894-9deb47f6d3d5",
     "issue_number": 345,
@@ -10265,7 +10267,7 @@
     "locations": [
       "Plano, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -20668,7 +20670,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-09-30T22:14:13.720148Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T00:39:17.059022Z",
     "id": "9accdc5e-59fe-48e8-b800-318b388ca8ba",
     "issue_number": 589,
@@ -20676,7 +20679,7 @@
     "locations": [
       "Louisville, KY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Fall 2026"
     ],
