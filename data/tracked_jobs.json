@@ -1176,6 +1176,33 @@
     "title": "Software Developer Intern",
     "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1"
   },
+  "080ae983-f3c6-404a-9df2-ba7e7c54506e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Tesla",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T01:24:22Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "080ae983-f3c6-404a-9df2-ba7e7c54506e",
+    "issue_number": 700,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/700",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Data Engineer Intern - Data Engineer - Applications Engineering",
+    "url": "https://www.tesla.com/careers/search/job/285179"
+  },
   "0811fecf-0bc0-49dc-b96d-2a673f0a19e9": {
     "applied_at": null,
     "backfilled": true,
@@ -1731,6 +1758,34 @@
     ],
     "title": "Software Engineer Intern - AI/ML",
     "url": "https://job-boards.greenhouse.io/relaypro/jobs/8176774"
+  },
+  "0bb25d49-891c-45e8-9504-1d5c8d923aa3": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Tesla",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T01:24:14Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "0bb25d49-891c-45e8-9504-1d5c8d923aa3",
+    "issue_number": 701,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/701",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027",
+      "Spring 2027"
+    ],
+    "title": "Commercial UI Software Engineer Intern",
+    "url": "https://www.tesla.com/careers/search/job/285202"
   },
   "0c0ace06-0c5c-415d-8ea4-7c6fedad6324": {
     "applied_at": null,
@@ -7313,6 +7368,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-01T07:28:57.395087Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "32b50162-20ab-42eb-9e0c-dcff21dd5c0c",
@@ -7323,7 +7379,7 @@
       "Pittsburgh, PA",
       "NYC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -7772,6 +7828,34 @@
     ],
     "title": "Software Engineering Intern - Labeling",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8238525"
+  },
+  "365c2bd5-3150-42ec-b403-f660572c254f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Sandia Laboratory Federal Credit Union",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T01:18:48Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "365c2bd5-3150-42ec-b403-f660572c254f",
+    "issue_number": 702,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/702",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Artificial Intelligence Intern",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4542420"
   },
   "36aae917-4c22-4a80-bbe0-c200b82ee4be": {
     "applied_at": null,
@@ -8737,6 +8821,33 @@
     ],
     "title": "Product Management Intern - Artificial Intelligence Product Management",
     "url": "https://careers.zimmerbiomet.com/us/en/job/12745"
+  },
+  "3d1157f3-209d-4852-9aa5-8ef5c4ab8ab5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "3d1157f3-209d-4852-9aa5-8ef5c4ab8ab5",
+    "issue_number": 703,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/703",
+    "locations": [
+      "East Hartford, CT"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Embedded Software Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014"
   },
   "3d3c9658-794e-4e6b-a5c4-c03ae49b51fe": {
     "applied_at": null,
@@ -15358,6 +15469,35 @@
     "title": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
     "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1"
   },
+  "6afc68db-8174-4996-815c-024b34fd54b0": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Rivian",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T01:19:51Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "6afc68db-8174-4996-815c-024b34fd54b0",
+    "issue_number": 704,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/704",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Engineer Intern Co-op - Design-for-Test",
+    "url": "https://careers.rivian.com/jobs/33810?icims=1"
+  },
   "6b8dd43f-f7c6-40fc-afb7-915318ecdc76": {
     "applied_at": null,
     "backfilled": false,
@@ -17298,6 +17438,34 @@
     "title": "Data Science Intern",
     "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342"
   },
+  "7a03fb73-759e-4d0e-8ee5-88b533ee7892": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Keysight Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T06:10:55Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "7a03fb73-759e-4d0e-8ee5-88b533ee7892",
+    "issue_number": 705,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/705",
+    "locations": [
+      "Santa Rosa, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Radio Frequency IC Designer Intern",
+    "url": "https://jobs.keysight.com/jobs/54210?icims=1"
+  },
   "7a1c6145-534b-4180-a87b-447e2edd9c8f": {
     "applied_at": null,
     "backfilled": false,
@@ -18121,7 +18289,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-01T07:28:57.395087Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-29T10:55:02.271910Z",
     "id": "810a66c8-0c3f-4ac3-bec1-fb4ae6080325",
     "issue_number": 540,
@@ -18129,7 +18298,7 @@
     "locations": [
       "Irving, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -20010,6 +20179,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-01T07:28:57.395087Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "909d58de-afd4-4e68-b2a3-84c247f3cc27",
@@ -20018,7 +20188,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -20821,8 +20991,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "9782dff3-f33f-4032-ab54-8fd1ae055d4c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 681,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/681",
     "locations": [
       "Santa Clara, CA"
     ],
@@ -20989,8 +21159,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "982c416c-c960-4efd-81a7-a87081597d80",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 682,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/682",
     "locations": [
       "Rolling Meadows, IL"
     ],
@@ -21248,6 +21418,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-01T07:28:57.395087Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "9a01359d-4d56-45ec-a90a-9d2f1d40cf52",
@@ -21256,7 +21427,7 @@
     "locations": [
       "Pittsburgh, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -22836,6 +23007,33 @@
     "title": "Software Development Co-op - AI Assisted",
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40535"
   },
+  "a4bef05e-5e81-43b1-97b4-e8b5350371a4": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Southwest Airlines",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "a4bef05e-5e81-43b1-97b4-e8b5350371a4",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Dallas, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Sales Analytics Intern",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Sales-Analytics-Internship_R-2026-73022"
+  },
   "a4df1ba6-a9b3-47cb-ad51-5515e6284b2e": {
     "applied_at": null,
     "backfilled": true,
@@ -23217,8 +23415,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 683,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/683",
     "locations": [
       "Milpitas, CA"
     ],
@@ -23495,8 +23693,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "a92fa0b6-3ef2-4c58-8fc3-5597e8ac9fcb",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 684,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/684",
     "locations": [
       "Palo Alto, CA"
     ],
@@ -23608,8 +23806,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "a9e99925-f394-4b08-906d-b96b7591cbc8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 685,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/685",
     "locations": [
       "Miami, FL",
       "Chicago, IL",
@@ -24006,7 +24204,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-01T07:28:57.395087Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T05:45:16.440902Z",
     "id": "adf0a40d-85b8-4712-bc55-164c7686e667",
     "issue_number": 434,
@@ -24014,7 +24213,7 @@
     "locations": [
       "Tulsa, OK"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -24103,6 +24302,34 @@
     ],
     "title": "Electrical Engineering Co-op",
     "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Electrical-Engineering-Co-Op--Summer-2027-_R-03293-1"
+  },
+  "aee0379e-2573-4cfb-b9b3-e212ca032e4a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Rivian",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T01:19:53Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "aee0379e-2573-4cfb-b9b3-e212ca032e4a",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Software Engineer Intern Co-op - Applied AI",
+    "url": "https://careers.rivian.com/jobs/33984?icims=1"
   },
   "aefe2f3a-0441-4d40-9fe8-eb2185f12a79": {
     "applied_at": null,
@@ -25026,8 +25253,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "b584b221-8984-4b73-aa94-433363f4e9ee",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 686,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/686",
     "locations": [
       "Mequon, WI"
     ],
@@ -25141,8 +25368,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "b622890b-1757-4c2f-972b-6a6c480b909f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 687,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/687",
     "locations": [
       "Waterdown, Hamilton, ON, Canada"
     ],
@@ -25453,8 +25680,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "b7f5b1b5-57c0-4ea9-9a41-caf94e3e5ad8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 688,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/688",
     "locations": [
       "Santa Clara, CA"
     ],
@@ -25923,6 +26150,34 @@
     "title": "Software Engineering Co-op",
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957"
   },
+  "bb3c5751-35bc-4618-83e8-1af1b888f533": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Rivian",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T01:14:08Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "bb3c5751-35bc-4618-83e8-1af1b888f533",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Engineer Intern Co-op - ML Compilers",
+    "url": "https://careers.rivian.com/jobs/33829?icims=1"
+  },
   "bb4f5a3e-e4a4-465b-a9e1-fe07bfe342d3": {
     "applied_at": null,
     "backfilled": false,
@@ -25938,8 +26193,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "bb4f5a3e-e4a4-465b-a9e1-fe07bfe342d3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 689,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/689",
     "locations": [
       "Santa Clara, CA",
       "Westlake Village, CA"
@@ -26163,8 +26418,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "bc6412bd-7dbe-456e-8c67-d2002acadeaa",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 690,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/690",
     "locations": [
       "Orlando, FL"
     ],
@@ -26527,8 +26782,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "bf6dc064-bc55-48a6-8d17-7fabcfc86bef",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 691,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/691",
     "locations": [
       "Texas"
     ],
@@ -27306,6 +27561,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-01T07:28:57.395087Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "c49714fc-aeef-44fd-9c2c-b2eae660a74e",
@@ -27314,7 +27570,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -28910,8 +29166,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "d1dbaa59-82a3-42e7-a68f-6ec2a8ea58e9",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 692,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/692",
     "locations": [
       "Saline, MI"
     ],
@@ -29079,8 +29335,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "d275435a-21ef-455d-80a8-3d9afd93c8a9",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 693,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/693",
     "locations": [
       "Mountain View, CA"
     ],
@@ -29396,6 +29652,33 @@
     ],
     "title": "Research & Development Co-op",
     "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10636"
+  },
+  "d3562842-a546-495a-bbe9-da2caa4618ac": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Assurant",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-09-30T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "d3562842-a546-495a-bbe9-da2caa4618ac",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Remote in USA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product Analyst Intern - Housing",
+    "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659"
   },
   "d36d149f-2f21-4ced-b474-e6dfb0876186": {
     "applied_at": null,
@@ -30162,6 +30445,33 @@
     "title": "Software Engineer 1 Intern - Middleware",
     "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-1--Middleware--Intern-Conversion-_JR31674"
   },
+  "d9419501-0152-4c0a-81b6-645f84e65a7c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Southwest Airlines",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "d9419501-0152-4c0a-81b6-645f84e65a7c",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Dallas, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Digital Product Intern",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Product-Internship_R-2026-73049"
+  },
   "d94c84cc-d47a-4059-ba2f-57d2caabe29d": {
     "applied_at": null,
     "backfilled": true,
@@ -30895,7 +31205,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-01T07:28:57.395087Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T00:39:17.059022Z",
     "id": "df3d7f78-b1f7-4efe-99d5-136648cb5d84",
     "issue_number": 600,
@@ -30903,12 +31214,39 @@
     "locations": [
       "Chandler, AZ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
     "title": "Engineer Intern - Software",
     "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern-Engineering--Software-_R4091-26"
+  },
+  "df5171fa-1ddf-43a0-ad02-00788d2705f3": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Tesla",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T01:19:29Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "df5171fa-1ddf-43a0-ad02-00788d2705f3",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Fremont, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Data Engineer Intern - Data Engineering & Business Intelligence",
+    "url": "https://www.tesla.com/careers/search/job/285291"
   },
   "dfd5c151-a070-47ba-8591-89baeb1e6e35": {
     "applied_at": null,
@@ -31511,8 +31849,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "e30652f9-cc86-4112-b084-f0cba5f2b4ce",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 694,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/694",
     "locations": [
       "Springfield, VA",
       "Reston, VA"
@@ -31594,8 +31932,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "e3adedfc-e63e-4c53-b3bd-ad74a0c04018",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 695,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/695",
     "locations": [
       "Mequon, WI"
     ],
@@ -32055,6 +32393,34 @@
     ],
     "title": "Test Equipment & Maintenance Engineer Intern",
     "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107296"
+  },
+  "e6a8426e-49ab-4f36-8753-80765cac0304": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Keysight Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T06:10:58Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "e6a8426e-49ab-4f36-8753-80765cac0304",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "R&D Electrical Engineering Intern",
+    "url": "https://jobs.keysight.com/jobs/54664?icims=1"
   },
   "e6d2ca10-47cc-492f-bfc3-51e1c414353b": {
     "applied_at": null,
@@ -32520,8 +32886,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "e8c586d7-f281-4ffc-bd41-078c7158f059",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 696,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/696",
     "locations": [
       "Morrisville, NC"
     ],
@@ -33914,8 +34280,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "f3437876-fa5c-490c-a81a-74af68437738",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 697,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/697",
     "locations": [
       "San Diego, CA"
     ],
@@ -33943,8 +34309,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "f3b44c23-2815-4ae2-866d-2121e92087b6",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 698,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/698",
     "locations": [
       "St Paul, MN"
     ],
@@ -34141,8 +34507,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "f6413b47-1d7a-4997-ab15-c9c87ae04152",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 699,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/699",
     "locations": [
       "Richardson, TX"
     ],
@@ -34194,6 +34560,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-01T07:28:57.395087Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "f6b42284-9795-4e37-9fa2-435b51880db7",
@@ -34202,7 +34569,7 @@
     "locations": [
       "Des Moines, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -34348,6 +34715,33 @@
     ],
     "title": "Data Engineering Intern - Completions Services",
     "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008"
+  },
+  "f7ee265c-7829-48bb-acd5-5acedabc8878": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Southwest Airlines",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "f7ee265c-7829-48bb-acd5-5acedabc8878",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Dallas, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Safety Analytics Intern",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Safety-Analytics-Summer-2027-Intern_R-2026-73047"
   },
   "f818d803-75b1-4afe-a3e5-d7e9f66bbac2": {
     "applied_at": null,
@@ -34630,6 +35024,33 @@
     ],
     "title": "Work Management Capabilities & Platforms Intern",
     "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Intern--Work-Management-Capabilities---Platforms_JR-10951"
+  },
+  "f9ce3d2d-f8da-4e9d-bbe6-6b64823df085": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Southwest Airlines",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "f9ce3d2d-f8da-4e9d-bbe6-6b64823df085",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Dallas, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Customer Experience and Analytics Data Science Intern",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Customer-Experience---Analytics-Data-Science-Internship_R-2026-73023"
   },
   "f9cecf37-3d67-4284-acf1-bce7d8f9994e": {
     "applied_at": null,
@@ -34965,6 +35386,33 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819"
+  },
+  "fc9d4693-7c8b-4934-816e-ca7ca0a6b8d9": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Southwest Airlines",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-01T07:28:57.395087Z",
+    "id": "fc9d4693-7c8b-4934-816e-ca7ca0a6b8d9",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Dallas, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Digital Testing & Optimization Intern",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Testing---Optimization-Internship_R-2026-73012"
   },
   "fca16e07-f35d-408e-bda0-efffa4ba2163": {
     "applied_at": null,
