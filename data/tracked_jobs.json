@@ -2776,6 +2776,33 @@
     "title": "AI Engineer Intern - AI Platform",
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer-Intern/216223"
   },
+  "11487bbd-b590-4b02-a2f1-0d88df7fbbd2": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Northrop Grumman",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-02T20:18:41.282121Z",
+    "id": "11487bbd-b590-4b02-a2f1-0d88df7fbbd2",
+    "issue_number": 852,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/852",
+    "locations": [
+      "McLean, VA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "College Technical Intern",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146"
+  },
   "11505c09-a66c-4c86-a39d-81ffbce4b13d": {
     "applied_at": null,
     "backfilled": false,
@@ -4475,6 +4502,35 @@
     "title": "Software Engineer Intern - iOS - Summer 2027",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8142959"
   },
+  "1c799f05-b926-4be3-ae23-debd91b8eabf": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Regeneron Pharmaceuticals",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-02T20:18:41.282121Z",
+    "id": "1c799f05-b926-4be3-ae23-debd91b8eabf",
+    "issue_number": 853,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/853",
+    "locations": [
+      "Armonk, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "title": "Precision Medicine Operations Co-op",
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1"
+  },
   "1c8c6bac-3c43-4f37-aef3-01425709c4e3": {
     "applied_at": null,
     "backfilled": false,
@@ -5771,6 +5827,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-02T20:18:41.282121Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "258a5d1f-2df5-4402-8cc1-876a88c5d320",
@@ -5779,7 +5836,7 @@
     "locations": [
       "Waterloo, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -10471,8 +10528,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T15:47:40.982724Z",
     "id": "4200fef6-f177-438c-aaf7-eb7c087f048b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 844,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/844",
     "locations": [
       "Bloomington, MN"
     ],
@@ -10939,6 +10996,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-02T20:18:41.282121Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "45a5e7ef-3b5b-477d-a106-c80fcd948a14",
@@ -10947,7 +11005,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -14689,8 +14747,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T09:01:00.657226Z",
     "id": "5c721084-2430-498d-ae4c-d36aeaee8fac",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 839,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/839",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -16152,8 +16210,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T15:47:40.982724Z",
     "id": "665e2669-0a2a-4e07-9859-73f9f3e9b83d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 845,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/845",
     "locations": [
       "Malvern, PA"
     ],
@@ -17019,8 +17077,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T02:34:50.187826Z",
     "id": "6d096fd6-91d6-425b-9d76-fdb3eea54dd1",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 836,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/836",
     "locations": [
       "San Jose, CA"
     ],
@@ -18730,8 +18788,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T15:47:40.982724Z",
     "id": "78a8e115-f0ce-4ab7-be5c-d4a784e15262",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 846,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/846",
     "locations": [
       "Rochester, NY",
       "Melbourne, FL"
@@ -20049,8 +20107,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T09:01:00.657226Z",
     "id": "827ccc8c-5daf-4ca9-90a9-badca54261a8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 840,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/840",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -22617,8 +22675,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T02:34:50.187826Z",
     "id": "947e0edf-c842-4a59-b67c-747847abf090",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 837,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/837",
     "locations": [
       "McLean, VA"
     ],
@@ -23715,8 +23773,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T15:47:40.982724Z",
     "id": "9bb48f7f-80ad-4eca-8055-cc250ab3295f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 847,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/847",
     "locations": [
       "Tarrytown, NY"
     ],
@@ -24782,8 +24840,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T15:47:40.982724Z",
     "id": "a143b6e7-10b8-4742-83e7-01a55242761c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 848,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/848",
     "locations": [
       "Bloomington, MN"
     ],
@@ -25096,8 +25154,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T09:01:00.657226Z",
     "id": "a3467596-1476-4677-a459-8383949106b7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 841,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/841",
     "locations": [
       "Tewksbury, MA"
     ],
@@ -27785,6 +27843,36 @@
     "title": "Engineering Intern - R&D",
     "url": "https://ats.rippling.com/intelliguard/jobs/f7754742-8ec6-4803-b2fc-1a50c682030f"
   },
+  "b5a81fd0-a681-49ab-b2f2-7e9a18887260": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Regeneron Pharmaceuticals",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-02T20:18:41.282121Z",
+    "id": "b5a81fd0-a681-49ab-b2f2-7e9a18887260",
+    "issue_number": 854,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/854",
+    "locations": [
+      "Rensselaer, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2026",
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "title": "Data Analytics & Digital Tools Co-op",
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1"
+  },
   "b5e54246-5cf1-4854-8ea2-77816df0b012": {
     "applied_at": null,
     "backfilled": false,
@@ -28306,6 +28394,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-02T20:18:41.282121Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "b87b3f2f-c0e6-456a-a1b6-6c62b7d65970",
@@ -28314,7 +28403,7 @@
     "locations": [
       "Columbia, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -29993,8 +30082,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T09:01:00.657226Z",
     "id": "c29d0eb0-d886-48aa-910f-b36696f9f839",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 842,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/842",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -31594,8 +31683,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T15:47:40.982724Z",
     "id": "ce9d6556-a976-430c-baea-f3f22efbf0e1",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 849,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/849",
     "locations": [
       "Waltham, MA"
     ],
@@ -33480,7 +33569,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-02T20:18:41.282121Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T05:58:51.077756Z",
     "id": "d9096e87-c0da-412f-8d9c-7f060e26ee29",
     "issue_number": 623,
@@ -33488,7 +33578,7 @@
     "locations": [
       "Pittsburgh, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -35603,8 +35693,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T15:47:40.982724Z",
     "id": "e58ec8c1-6859-41aa-af05-4d0267eca597",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 850,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/850",
     "locations": [
       "Ottawa, ON, Canada"
     ],
@@ -36815,8 +36905,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T15:47:40.982724Z",
     "id": "ec2c0694-e2d1-4b6f-a0d8-8246515195c7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 851,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/851",
     "locations": [
       "Washington, DC"
     ],
@@ -37068,6 +37158,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-02T20:18:41.282121Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "ee136b4e-d0ea-497c-8861-091cb44276aa",
@@ -37076,7 +37167,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -37217,8 +37308,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T09:01:00.657226Z",
     "id": "eee7ad08-5a09-4e71-82b2-3eefe1615b80",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 843,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/843",
     "locations": [
       "Emeryville, CA"
     ],
@@ -39269,8 +39360,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T02:34:50.187826Z",
     "id": "fcbf49fa-4711-4d24-9ea9-cde58dba4d3e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 838,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/838",
     "locations": [
       "Mountain View, CA"
     ],
