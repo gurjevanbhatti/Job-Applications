@@ -1359,7 +1359,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-02T15:47:40.982724Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-21T18:54:07.988142Z",
     "id": "08b81f58-c3c3-4212-a0ac-e8bc42112895",
     "issue_number": 14,
@@ -1367,7 +1368,7 @@
     "locations": [
       "Draper, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -1441,6 +1442,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-02T15:47:40.982724Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "095cf7aa-8dee-4685-b19f-2d1df8abaa01",
@@ -1449,7 +1451,7 @@
     "locations": [
       "Victoria, BC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Summer 2027"
@@ -7964,7 +7966,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-02T15:47:40.982724Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "33fee74b-b1b5-410a-8477-e050b2b8614c",
     "issue_number": 389,
@@ -7972,7 +7975,7 @@
     "locations": [
       "Orange County, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -8409,7 +8412,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-02T15:47:40.982724Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T07:28:57.395087Z",
     "id": "365c2bd5-3150-42ec-b403-f660572c254f",
     "issue_number": 702,
@@ -8417,7 +8421,7 @@
     "locations": [
       "Albuquerque, NM"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -10451,6 +10455,33 @@
     ],
     "title": "Data Analytics / AI Intern - Summer 2027",
     "url": "https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false"
+  },
+  "4200fef6-f177-438c-aaf7-eb7c087f048b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "IDeaS",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T14:18:58Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-02T15:47:40.982724Z",
+    "id": "4200fef6-f177-438c-aaf7-eb7c087f048b",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Product Management Intern",
+    "url": "https://ideas-sas.icims.com/jobs/42648/job?mobile=true&needsRedirect=false"
   },
   "421a9b25-70bf-4a77-9100-9b4e49c43667": {
     "applied_at": null,
@@ -13324,6 +13355,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-02T15:47:40.982724Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "55c40672-d483-4af3-9244-8e8303e1f20e",
@@ -13332,7 +13364,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -14030,7 +14062,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-02T15:47:40.982724Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-29T04:42:08.986977Z",
     "id": "59c13592-23da-4c96-8a2d-f4639cfe1e1e",
     "issue_number": 525,
@@ -14038,7 +14071,7 @@
     "locations": [
       "Arden Hills, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -16103,6 +16136,34 @@
     "title": "ALM Data Management & Analytics Co-op",
     "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831"
   },
+  "665e2669-0a2a-4e07-9859-73f9f3e9b83d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Vanguard",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-02T15:47:40.982724Z",
+    "id": "665e2669-0a2a-4e07-9859-73f9f3e9b83d",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Malvern, PA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "College to Corporate IT Intern - Application Development",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757"
+  },
   "66a61359-31ec-434c-9b02-f8c2802c91b2": {
     "applied_at": null,
     "backfilled": true,
@@ -17292,7 +17353,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-02T15:47:40.982724Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "6e268c71-bdeb-4d41-99b8-3047d270ff9a",
     "issue_number": 398,
@@ -17301,7 +17363,7 @@
       "Winchester, VA",
       "Bingen, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -18135,7 +18197,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-02T15:47:40.982724Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-29T04:42:08.986977Z",
     "id": "735a5bf8-6b11-410a-8194-7e97afd9ecdb",
     "issue_number": 528,
@@ -18143,7 +18206,7 @@
     "locations": [
       "Maple Grove, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -18636,6 +18699,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-02T15:47:40.982724Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "781b4a1a-f2af-40b2-866b-03dcefc5245b",
@@ -18644,12 +18708,40 @@
     "locations": [
       "St Paul, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
     "title": "Software Development Engineer Intern",
     "url": "https://careers.tranetechnologies.com/global/en/job/JR-15648"
+  },
+  "78a8e115-f0ce-4ab7-be5c-d4a784e15262": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "L3Harris Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T14:07:39Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-02T15:47:40.982724Z",
+    "id": "78a8e115-f0ce-4ab7-be5c-d4a784e15262",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Rochester, NY",
+      "Melbourne, FL"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Artificial Intelligence Intern",
+    "url": "https://jobs.l3harris.com/job/Rochester-Intern,-Artificial-Intelligence-NY-14624/1436177900/?ats=successfactors"
   },
   "78bfe38c-e7ab-4387-af08-28aa2ecf4d6e": {
     "applied_at": null,
@@ -23607,6 +23699,35 @@
     "title": "Value Based Operations Analyst Intern - Spring 2027",
     "url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Remote-LA/CW-Value-Based-Operations-Analyst-Intern--Spring-2027-_R12138"
   },
+  "9bb48f7f-80ad-4eca-8055-cc250ab3295f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Regeneron Pharmaceuticals",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-02T15:47:40.982724Z",
+    "id": "9bb48f7f-80ad-4eca-8055-cc250ab3295f",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Tarrytown, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "title": "Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT",
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1"
+  },
   "9c40bb4c-e181-478f-94f6-bbb35c085b3b": {
     "applied_at": null,
     "backfilled": false,
@@ -24645,6 +24766,34 @@
     ],
     "title": "Data Analytics & Insights Intern Co-op",
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-op--Winter-2027-_R_1513914"
+  },
+  "a143b6e7-10b8-4742-83e7-01a55242761c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "The Toro Company",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-02T15:47:40.982724Z",
+    "id": "a143b6e7-10b8-4742-83e7-01a55242761c",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "title": "Mechatronics Engineering Co-op",
+    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechatronics-Engineering-Co-Op_JR17153"
   },
   "a16efc0d-108f-4ae3-81a2-aaf96195f8ce": {
     "applied_at": null,
@@ -26259,6 +26408,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-02T15:47:40.982724Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "ac3447c3-504f-451a-b13d-06723cc96744",
@@ -26267,7 +26417,7 @@
     "locations": [
       "Victoria, BC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -29788,8 +29938,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "c234c19a-a6a2-49d6-bec9-350a6baaf776",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 811,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/811",
     "locations": [
       "Ashburn, VA"
     ],
@@ -30181,8 +30331,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "c3ead52d-fb95-4b7d-acf2-d1d88814aa89",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 812,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/812",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -30518,8 +30668,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "c63e96f3-3234-440f-a70f-b754963dcb2c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 813,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/813",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -30738,8 +30888,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "c821a189-b150-4657-a1c7-b7a27d61e0b8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 814,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/814",
     "locations": [
       "Dedham, MA"
     ],
@@ -30963,8 +31113,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "c98ee5a9-83ca-46b0-9316-40dee3d63f62",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 815,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/815",
     "locations": [
       "Cedar Rapids, IA"
     ],
@@ -31220,8 +31370,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "cb963062-e51b-4ae6-999e-695c504dfd52",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 816,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/816",
     "locations": [
       "Seattle, WA",
       "South SF",
@@ -31332,8 +31482,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "cd797b97-31de-482a-bda6-2a5a6836dd6b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 817,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/817",
     "locations": [
       "Houston, TX"
     ],
@@ -31428,6 +31578,34 @@
     "title": "Software Developer Intern - University",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249809"
   },
+  "ce9d6556-a976-430c-baea-f3f22efbf0e1": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Wabtec",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T14:08:19Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-02T15:47:40.982724Z",
+    "id": "ce9d6556-a976-430c-baea-f3f22efbf0e1",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Waltham, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Firmware Engineer Co-op",
+    "url": "https://jobs.smartrecruiters.com/Wabtec/3743990015854776"
+  },
   "cf1edda6-e0d1-4bfc-a49a-c1dc5458e558": {
     "applied_at": null,
     "backfilled": false,
@@ -31443,8 +31621,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "cf1edda6-e0d1-4bfc-a49a-c1dc5458e558",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 818,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/818",
     "locations": [
       "Moline, IL"
     ],
@@ -32150,8 +32328,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "d24f3415-d7f3-4935-8bed-730bae30d68d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 819,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/819",
     "locations": [
       "LA"
     ],
@@ -32905,8 +33083,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "d5599c90-9e9c-4cad-bf65-0e4ab06bf6f0",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 820,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/820",
     "locations": [
       "Georgia"
     ],
@@ -33278,8 +33456,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "d8c6bf43-c4e0-4ef8-b0e0-96d5aabd362c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 821,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/821",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -33361,8 +33539,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "d91de500-e972-43a8-8bfb-c90fa6852777",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 822,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/822",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -34055,8 +34233,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "dd7f5a46-25ac-45b9-bdef-b437e2ecf6a7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 823,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/823",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -34191,7 +34369,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-02T15:47:40.982724Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T00:31:37.039261Z",
     "id": "de94d407-d9e8-4cae-a214-452707cb46ed",
     "issue_number": 248,
@@ -34199,7 +34378,7 @@
     "locations": [
       "Victor, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -34673,8 +34852,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "e0df696d-2ab2-4d0d-8651-fb2a0f1bd983",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 824,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/824",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -34918,8 +35097,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "e2eb087e-b56a-42ec-a623-0453920d302b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 825,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/825",
     "locations": [
       "Morris Plains, NJ",
       "St. Louis, MO"
@@ -35142,8 +35321,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "e424ed63-cf81-42da-b8e7-31265322ec20",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 826,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/826",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -35255,8 +35434,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "e470118f-ee2f-4095-806d-7e2252f1d4a1",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 827,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/827",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -35408,6 +35587,33 @@
     ],
     "title": "Software Engineer Co-op",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007"
+  },
+  "e58ec8c1-6859-41aa-af05-4d0267eca597": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Marvell",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-02T15:47:40.982724Z",
+    "id": "e58ec8c1-6859-41aa-af05-4d0267eca597",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Firmware Engineer Intern",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738"
   },
   "e5917857-59b3-40b5-b472-7fdb54241da4": {
     "applied_at": null,
@@ -35592,8 +35798,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "e6414b54-64ba-4d7b-b52d-df126a7170ab",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 828,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/828",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -35619,8 +35825,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "e6661949-f6d5-4e66-bdc3-369604231129",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 829,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/829",
     "locations": [
       "Palo Alto, CA",
       "Seattle, WA",
@@ -35896,7 +36102,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-02T15:47:40.982724Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "e7777af9-8bca-4dd7-b5b6-6ec86fff06f9",
     "issue_number": 426,
@@ -35904,7 +36111,7 @@
     "locations": [
       "Waltham, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -36180,7 +36387,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-02T15:47:40.982724Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T00:39:17.059022Z",
     "id": "e8dce61d-65f5-408f-9f0d-061871375cae",
     "issue_number": 605,
@@ -36188,7 +36396,7 @@
     "locations": [
       "Vandenberg Space Force Base, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -36589,6 +36797,35 @@
     ],
     "title": "Systems Engineer Intern",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003"
+  },
+  "ec2c0694-e2d1-4b6f-a0d8-8246515195c7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "American Bankers Association",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-02T15:47:40.982724Z",
+    "id": "ec2c0694-e2d1-4b6f-a0d8-8246515195c7",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Washington, DC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Quantitative Research Intern",
+    "url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614"
   },
   "ec40080b-e1ed-4756-a8ef-b3c9f2011f41": {
     "applied_at": null,
@@ -37321,8 +37558,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "f1021153-fdd3-4681-a29d-ddc5d8fcb27e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 830,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/830",
     "locations": [
       "Lake Buena Vista, FL"
     ],
@@ -37578,8 +37815,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "f28f57ef-d9b4-4201-95d1-2c55f337532f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 831,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/831",
     "locations": [
       "Roy, UT"
     ],
@@ -37717,8 +37954,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "f35300a5-06d4-4289-a277-30b4a8d300c8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 832,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/832",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -37801,8 +38038,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "f4197f17-119a-481b-8c46-5723c5f9b51d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 833,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/833",
     "locations": [
       "Boston, MA"
     ],
@@ -38082,8 +38319,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "f7007672-60be-4e79-8cc0-b6eee4d0c1f5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 834,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/834",
     "locations": [
       "Boise, ID"
     ],
@@ -38613,8 +38850,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "fa75f545-5014-41e5-8fb2-4879f9bb56bb",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 835,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/835",
     "locations": [
       "Boston, MA"
     ],
