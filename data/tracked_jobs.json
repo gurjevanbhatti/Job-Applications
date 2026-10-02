@@ -13269,8 +13269,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "5562454d-b04d-48f2-819f-22c84cd26c2c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 761,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/761",
     "locations": [
       "Trenton, NJ"
     ],
@@ -13890,8 +13890,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "59046a71-0513-4ef7-8135-b195a6fa7f3f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 762,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/762",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -14254,6 +14254,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-02T02:34:50.187826Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "5a8903ad-99db-44a3-9d28-ce841606a837",
@@ -14262,7 +14263,7 @@
     "locations": [
       "Wellesley, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -14567,8 +14568,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "5be84d73-baa7-4e86-ad5d-21e896cb6921",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 763,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/763",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -14678,8 +14679,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "5caca2df-6d23-4de9-aaef-86f0ac699741",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 764,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/764",
     "locations": [
       "Pleasant Grove, UT"
     ],
@@ -14990,8 +14991,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "5db8bd0a-d6b5-46ef-b430-298959f57fe5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 765,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/765",
     "locations": [
       "Remote in USA"
     ],
@@ -15128,8 +15129,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "5e14584d-3148-449a-b903-28b77771e883",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 766,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/766",
     "locations": [
       "Houston, TX"
     ],
@@ -15492,8 +15493,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "6150d12b-9d14-4251-a01a-b5422b9f7028",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 767,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/767",
     "locations": [
       "Boston, MA"
     ],
@@ -15919,8 +15920,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "6490f830-6cd7-42a5-9a36-ebb4d42d176b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 768,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/768",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -16003,8 +16004,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "65c6980b-4420-4767-a479-d749f5e67d26",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 769,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/769",
     "locations": [
       "Columbia, MD"
     ],
@@ -16059,8 +16060,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "6658e26b-eeeb-4403-9290-26c99a397e48",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 770,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/770",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -16610,8 +16611,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "6a49ef5e-35b1-491d-a761-59e0a5779a89",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 771,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/771",
     "locations": [
       "Cleveland, OH"
     ],
@@ -16909,6 +16910,35 @@
     "title": "Optical Engineer Intern - Electronic Systems",
     "url": "https://www.tesla.com/careers/search/job/284607"
   },
+  "6d096fd6-91d6-425b-9d76-fdb3eea54dd1": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Muon Space",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T01:09:20Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-02T02:34:50.187826Z",
+    "id": "6d096fd6-91d6-425b-9d76-fdb3eea54dd1",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Electrical Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5255112007"
+  },
   "6d1fe89e-0f46-49f6-adba-af9ae668e3cc": {
     "applied_at": null,
     "backfilled": false,
@@ -16981,8 +17011,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "6d4174dd-93f0-4edd-ac11-359515033813",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 772,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/772",
     "locations": [
       "Goodyear, AZ"
     ],
@@ -17206,8 +17236,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "6e23884c-4320-44f5-aa13-a65a10384290",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 773,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/773",
     "locations": [
       "Toronto, ON, Canada",
       "Waterloo, ON, Canada"
@@ -17625,8 +17655,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "70c5e345-3c27-4d13-be7f-38b995fcf2ce",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 774,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/774",
     "locations": [
       "Palo Alto, CA",
       "Seattle, WA",
@@ -18133,8 +18163,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "73cce5ae-4123-4752-9ad2-67b8ab0e009f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 775,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/775",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -18382,8 +18412,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "75bf9ace-02bf-45d8-be12-dd89e1b6b7ba",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 776,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/776",
     "locations": [
       "McLean, VA"
     ],
@@ -18522,8 +18552,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "7712858f-382a-45d0-b39e-96399014727b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 777,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/777",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -20737,8 +20767,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "892588bd-5d58-4233-98ac-870e65ed9287",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 778,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/778",
     "locations": [
       "Lake Buena Vista, FL"
     ],
@@ -20764,8 +20794,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "892a9689-16bc-4820-974a-056fab823d5f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 779,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/779",
     "locations": [
       "El Segundo, CA"
     ],
@@ -20792,8 +20822,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "8977681d-cb57-4fb6-a99f-55344f631bab",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 780,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/780",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -20906,8 +20936,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "89b1d0e6-d40e-4e29-857a-17f380391687",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 781,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/781",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -20931,6 +20961,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-02T02:34:50.187826Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "8a06665c-9bac-4f8e-b15b-ddde0bb9a402",
@@ -20939,7 +20970,7 @@
     "locations": [
       "West Henrietta, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -21075,8 +21106,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "8b385727-658a-459e-8709-2c4192ab4c20",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 782,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/782",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -21478,8 +21509,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "8d2d1d5d-4101-4154-8430-c9b1201db685",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 783,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/783",
     "locations": [
       "Remote in USA"
     ],
@@ -21565,8 +21596,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "8d662f47-4018-4534-bc0e-e3a416371581",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 784,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/784",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -22207,8 +22238,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "937f9f37-e581-434f-a5f4-54b33dbe72ab",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 785,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/785",
     "locations": [
       "Markham, ON, Canada"
     ],
@@ -22414,6 +22445,34 @@
     ],
     "title": "Full-Stack Software Engineer Intern - MIM Commercialized Web Applications",
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Full-Stack-Software-Engineering-Intern---MIM-Commercialized-Web-Applications_R4046583-1"
+  },
+  "947e0edf-c842-4a59-b67c-747847abf090": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Range",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T01:19:28Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-02T02:34:50.187826Z",
+    "id": "947e0edf-c842-4a59-b67c-747847abf090",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "McLean, VA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718/application?embed=true"
   },
   "94a00bb1-5246-47da-b5fe-25b3c65bc477": {
     "applied_at": null,
@@ -26932,7 +26991,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-02T02:34:50.187826Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T14:42:46.702725Z",
     "id": "b1fbdfee-17e7-4ed9-b059-62aac557bae9",
     "issue_number": 721,
@@ -26940,7 +27000,7 @@
     "locations": [
       "North Logan, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -27838,6 +27898,7 @@
       "Master's",
       "PhD"
     ],
+    "expired_at": "2026-10-02T02:34:50.187826Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "b78a3dc5-6152-4ada-8d16-092bb5750261",
@@ -27846,7 +27907,7 @@
     "locations": [
       "Mountain View, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -30921,7 +30982,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-02T02:34:50.187826Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T00:39:17.059022Z",
     "id": "ca3f8b2a-724e-44cf-8a3a-7f784c36077c",
     "issue_number": 595,
@@ -30929,7 +30991,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -32523,7 +32585,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-02T02:34:50.187826Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T22:49:28.249442Z",
     "id": "d3e5ba1e-a291-46e1-a4b3-7da47159deb3",
     "issue_number": 459,
@@ -32531,7 +32594,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -38800,6 +38863,34 @@
     ],
     "title": "Software Engineering Intern",
     "url": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088"
+  },
+  "fcbf49fa-4711-4d24-9ea9-cde58dba4d3e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Waymo",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T01:23:56Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-02T02:34:50.187826Z",
+    "id": "fcbf49fa-4711-4d24-9ea9-cde58dba4d3e",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI-driven ML Performance Engineering Intern - MS/PhD",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060"
   },
   "fcc5cf43-9a19-40b0-85ff-1c92964514c4": {
     "applied_at": null,
