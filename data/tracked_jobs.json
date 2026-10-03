@@ -12,6 +12,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-03T09:38:27.747894Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "00026218-6b9b-420f-a490-b3b29742cf17",
@@ -20,7 +21,7 @@
     "locations": [
       "Greensboro, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -1810,8 +1811,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-03T03:47:32.036984Z",
     "id": "0a9ce9b7-d5b8-4236-b53e-9b0f85df728c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 907,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/907",
     "locations": [
       "Pullman, WA"
     ],
@@ -2310,7 +2311,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T09:38:27.747894Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T11:25:02.133676Z",
     "id": "0d66888f-3087-4b82-a258-71b1163d8461",
     "issue_number": 177,
@@ -2318,7 +2320,7 @@
     "locations": [
       "La Crosse, WI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -3373,8 +3375,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-03T03:47:32.036984Z",
     "id": "1422b495-5c4c-4cc4-9cb0-74b93a01f75e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 908,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/908",
     "locations": [
       "Vancouver, WA"
     ],
@@ -3540,7 +3542,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T09:38:27.747894Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T00:29:31.170314Z",
     "id": "1536d52f-c983-4784-9564-0353ee0692ac",
     "issue_number": 292,
@@ -3548,7 +3551,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -6087,7 +6090,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T09:38:27.747894Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "25d37d61-12f2-475a-afdc-1ea80a5057aa",
     "issue_number": 860,
@@ -6095,7 +6099,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -6852,8 +6856,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-03T03:47:32.036984Z",
     "id": "29da992e-43fd-42b0-bd50-1548d9b595b3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 909,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/909",
     "locations": [
       "LA"
     ],
@@ -7411,7 +7415,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T09:38:27.747894Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "2e092fdb-ec46-491f-a0b4-0730b3e3d0d7",
     "issue_number": 659,
@@ -7419,7 +7424,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -9845,6 +9850,33 @@
     "title": "Software Engineer Intern - Camera & Robotics",
     "url": "https://www.tesla.com/careers/search/job/283274"
   },
+  "3bdfa3d0-178e-48f0-be29-54a668942c5c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Keysight Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-03T06:08:17Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-03T09:38:27.747894Z",
+    "id": "3bdfa3d0-178e-48f0-be29-54a668942c5c",
+    "issue_number": 917,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/917",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "R&D Software Engineering Intern",
+    "url": "https://jobs.keysight.com/jobs/54388?icims=1"
+  },
   "3cd3db2a-093b-4ffb-b7fb-4348927dd1e1": {
     "applied_at": null,
     "backfilled": false,
@@ -10104,7 +10136,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T09:38:27.747894Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-29T10:55:02.271910Z",
     "id": "3e456223-d5b0-4c98-9c23-c9658c558899",
     "issue_number": 536,
@@ -10112,7 +10145,7 @@
     "locations": [
       "Irving, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -12509,7 +12542,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T09:38:27.747894Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-29T10:55:02.271910Z",
     "id": "4d75efc0-61e0-48f4-955d-15ea4c188bae",
     "issue_number": 537,
@@ -12517,7 +12551,7 @@
     "locations": [
       "Irving, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -12971,8 +13005,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-03T03:47:32.036984Z",
     "id": "4fdb4466-e2bf-4f2d-9bf0-5a2352bf5dfd",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 910,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/910",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -16393,7 +16427,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T09:38:27.747894Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "62014017-f39b-4e2f-969b-4520e27dc627",
     "issue_number": 71,
@@ -16401,7 +16436,7 @@
     "locations": [
       "Warsaw, IN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -19406,8 +19441,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-03T03:47:32.036984Z",
     "id": "7510db54-c95e-441b-b7e1-b239a1119742",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 911,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/911",
     "locations": [
       "Austin, TX"
     ],
@@ -23401,8 +23436,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-03T03:47:32.036984Z",
     "id": "92c455d6-d3f6-4d95-b523-eeca0104e5a8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 912,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/912",
     "locations": [
       "Austin, TX"
     ],
@@ -24046,8 +24081,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-03T03:47:32.036984Z",
     "id": "96639e30-3a6b-465c-b60b-7ca7882e61b8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 913,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/913",
     "locations": [
       "Miramar, FL"
     ],
@@ -24951,8 +24986,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-03T03:47:32.036984Z",
     "id": "9bf08d62-9c59-4bdb-864f-47920799dc85",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 914,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/914",
     "locations": [
       "Vancouver, WA"
     ],
@@ -28980,8 +29015,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-03T03:47:32.036984Z",
     "id": "b45557a0-8993-4135-8a47-273587c395f5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 915,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/915",
     "locations": [
       "Austin, TX"
     ],
@@ -33360,7 +33395,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T09:38:27.747894Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T05:58:51.077756Z",
     "id": "d0427656-991f-42e4-96a3-51a38b3e5d8e",
     "issue_number": 622,
@@ -33368,7 +33404,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -36360,6 +36396,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-03T09:38:27.747894Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "e04fda0f-12a2-4117-aaa1-dc27e62a8cd0",
@@ -36368,7 +36405,7 @@
     "locations": [
       "United States"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -38999,6 +39036,34 @@
     "title": "Commercial Data Science & AI Co-op",
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099381"
   },
+  "ef1134c6-b8e9-4764-9153-e85268e91f72": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "AMD",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-03T06:08:20Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-03T09:38:27.747894Z",
+    "id": "ef1134c6-b8e9-4764-9153-e85268e91f72",
+    "issue_number": 918,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/918",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "title": "Masters Photonics Design Engineering Co-op",
+    "url": "https://careers.amd.com/jobs/91633?icims=1"
+  },
   "ef1d83f4-af64-48b2-8faf-822dd65f485f": {
     "applied_at": null,
     "backfilled": true,
@@ -40168,8 +40233,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "f763ceff-3ac4-4842-a597-f434b69362fa",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 905,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/905",
     "locations": [
       "Remote in USA"
     ],
@@ -40472,7 +40537,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T09:38:27.747894Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T00:39:17.059022Z",
     "id": "f97e9cc9-e342-4cbb-b39c-0628cdca1516",
     "issue_number": 608,
@@ -40480,7 +40546,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -40700,8 +40766,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "fb114fa5-9998-4bf6-a24b-a36888f142a8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 906,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/906",
     "locations": [
       "Charlotte, NC"
     ],
@@ -41212,8 +41278,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-03T03:47:32.036984Z",
     "id": "fdc152bc-2ce6-48c0-86db-6a70bc5a49f3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 916,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/916",
     "locations": [
       "Eden Prairie, MN",
       "Lisle, IL"
