@@ -2834,6 +2834,34 @@
     "title": "Software Engineer Intern",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359"
   },
+  "11026e9a-3bdc-4a1f-b5ce-7ac1a1b56e6b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Cadence Design Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-03T14:25:23.530981Z",
+    "id": "11026e9a-3bdc-4a1f-b5ce-7ac1a1b56e6b",
+    "issue_number": 919,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/919",
+    "locations": [
+      "California"
+    ],
+    "status": "new",
+    "terms": [
+      "Fall 2026"
+    ],
+    "title": "AI / Agentic AI / GenAI Intern - IT",
+    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/HOME-CA/AI---Agentic-AI---GenAI-Intern---IT--Fall-2026-_R56657"
+  },
   "1116d102-56c1-4175-a460-5d3fc735c763": {
     "applied_at": null,
     "backfilled": false,
@@ -7188,7 +7216,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T14:25:23.530981Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-26T06:09:36.986004Z",
     "id": "2c831f83-ca5c-44e8-b6b8-dce99992900e",
     "issue_number": 513,
@@ -7196,7 +7225,7 @@
     "locations": [
       "Cambridge, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -10535,7 +10564,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T14:25:23.530981Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T05:58:51.077756Z",
     "id": "3fb97c17-713f-4d82-ab2e-8174eeaebfb2",
     "issue_number": 614,
@@ -10543,7 +10573,7 @@
     "locations": [
       "Buffalo, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Fall 2026"
     ],
@@ -13280,7 +13310,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T14:25:23.530981Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-29T21:15:14.350193Z",
     "id": "51b8b3e7-e7d0-4727-9f90-91917bc88230",
     "issue_number": 549,
@@ -13288,7 +13319,7 @@
     "locations": [
       "Woburn, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -37602,7 +37633,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T14:25:23.530981Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T05:58:51.077756Z",
     "id": "e6eed6a3-2c62-4035-8952-30b4577d84e3",
     "issue_number": 624,
@@ -37610,7 +37642,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Summer 2027"
