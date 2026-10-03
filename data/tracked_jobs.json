@@ -1795,6 +1795,33 @@
     "title": "Software Developer Intern",
     "url": "https://www.interstates.com/careers/jobs?gh_jid=4218341009&gh_jid=4218341009"
   },
+  "0a9ce9b7-d5b8-4236-b53e-9b0f85df728c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Schweitzer Engineering Laboratories",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-03T03:47:32.036984Z",
+    "id": "0a9ce9b7-d5b8-4236-b53e-9b0f85df728c",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Pullman, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Hardware Engineering Intern",
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2026-23159"
+  },
   "0adb2d84-b56e-47f1-b4ca-f0267547814c": {
     "applied_at": null,
     "backfilled": true,
@@ -3331,6 +3358,33 @@
     "title": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
     "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441"
   },
+  "1422b495-5c4c-4cc4-9cb0-74b93a01f75e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Hewlett Packard",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-03T03:47:32.036984Z",
+    "id": "1422b495-5c4c-4cc4-9cb0-74b93a01f75e",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Vancouver, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "AI Applied Engineering Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670"
+  },
   "143cb976-5cd1-40e5-bc6a-0f7216e58ec1": {
     "applied_at": null,
     "backfilled": false,
@@ -3513,6 +3567,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-03T03:47:32.036984Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "15390674-0071-4415-afa1-aefebeb40531",
@@ -3521,7 +3576,7 @@
     "locations": [
       "Bolingbrook, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -6780,6 +6835,34 @@
     ],
     "title": "Electrical Engineer Intern - Hardware",
     "url": "https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply"
+  },
+  "29da992e-43fd-42b0-bd50-1548d9b595b3": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Electronic Arts",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-03T01:15:08Z",
+    "degrees": [
+      "Master's",
+      "MBA"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-03T03:47:32.036984Z",
+    "id": "29da992e-43fd-42b0-bd50-1548d9b595b3",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "LA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product Manager Intern",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272"
   },
   "29efc01f-ded3-4731-b798-5b9a09c13427": {
     "applied_at": null,
@@ -12873,6 +12956,33 @@
     "title": "Software Engineer Intern",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577"
   },
+  "4fdb4466-e2bf-4f2d-9bf0-5a2352bf5dfd": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Intel",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-03T03:47:32.036984Z",
+    "id": "4fdb4466-e2bf-4f2d-9bf0-5a2352bf5dfd",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539"
+  },
   "50204bff-aada-4d6c-9b56-96f727f6bddc": {
     "applied_at": null,
     "backfilled": false,
@@ -18536,8 +18646,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "70d761ed-4033-4ec5-ba9e-7b0f887afcfa",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 880,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/880",
     "locations": [
       "Edina, MN",
       "Chicago, IL",
@@ -18565,8 +18675,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "70f39f27-a2cd-424b-876f-4837ee7061e4",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 881,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/881",
     "locations": [
       "Indianapolis, IN",
       "Richmond, VA",
@@ -18791,8 +18901,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "7221b5ee-e8cc-4524-8eaa-271123e68f19",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 882,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/882",
     "locations": [
       "Malvern, PA"
     ],
@@ -19281,6 +19391,33 @@
     "title": "Software Engineer Intern - Enterprise Technology Services",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224"
   },
+  "7510db54-c95e-441b-b7e1-b239a1119742": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "HNTB",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-03T03:47:32.036984Z",
+    "id": "7510db54-c95e-441b-b7e1-b239a1119742",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Austin, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Business Process Developer Intern",
+    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1"
+  },
   "756c644e-8ae2-4cba-adb6-f26f5d0532ef": {
     "applied_at": null,
     "backfilled": false,
@@ -19492,8 +19629,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "76c67bd8-fe68-4164-844f-a009b786af36",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 883,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/883",
     "locations": [
       "Madison, WI",
       "Boston, MA"
@@ -20503,7 +20640,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T03:47:32.036984Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T00:39:17.059022Z",
     "id": "7e94c6d9-c88c-4d70-8bd0-51a2cc801485",
     "issue_number": 586,
@@ -20512,7 +20650,7 @@
       "Tempe, AZ",
       "McLean, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -20894,8 +21032,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "820f340e-8485-4c82-88a9-64ba5b31a76d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 884,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/884",
     "locations": [
       "Ashburn, VA"
     ],
@@ -20978,8 +21116,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "82983d30-e0d9-4a6c-b404-3761e8773222",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 885,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/885",
     "locations": [
       "Chicago, IL"
     ],
@@ -21823,8 +21961,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "889b9ca8-2b1f-4fd5-b6f6-d9ab02236f83",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 886,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/886",
     "locations": [
       "Ottawa, ON, Canada"
     ],
@@ -23248,6 +23386,33 @@
     "title": "Software Engineer Co-op",
     "url": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1432400300/?ats=successfactors"
   },
+  "92c455d6-d3f6-4d95-b523-eeca0104e5a8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "HNTB",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-03T03:47:32.036984Z",
+    "id": "92c455d6-d3f6-4d95-b523-eeca0104e5a8",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Austin, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Business Process Developer Intern",
+    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865"
+  },
   "92e0027e-a9c8-4956-82d7-791d98c9d21b": {
     "applied_at": null,
     "backfilled": true,
@@ -23377,8 +23542,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "938e1389-c62c-4512-aecc-c83536e5bea9",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 887,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/887",
     "locations": [
       "Indianapolis, IN",
       "Richmond, VA",
@@ -23408,8 +23573,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "93b4a798-697c-42d2-a104-cda1bb152b83",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 888,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/888",
     "locations": [
       "Sunnyvale, CA",
       "Warren, MI"
@@ -23865,6 +24030,33 @@
     ],
     "title": "Onboard Software Developer Intern",
     "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042"
+  },
+  "96639e30-3a6b-465c-b60b-7ca7882e61b8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Garmin",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-03T01:07:58Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-03T03:47:32.036984Z",
+    "id": "96639e30-3a6b-465c-b60b-7ca7882e61b8",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Miramar, FL"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2026"
+    ],
+    "title": "Audio Engineer Intern",
+    "url": "https://careers.garmin.com/jobs/20289?icims=1"
   },
   "968d9575-5896-484e-aa2e-3de0d3cabfa2": {
     "applied_at": null,
@@ -24743,6 +24935,33 @@
     ],
     "title": "Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT",
     "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1"
+  },
+  "9bf08d62-9c59-4bdb-864f-47920799dc85": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Hewlett Packard",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-03T03:47:32.036984Z",
+    "id": "9bf08d62-9c59-4bdb-864f-47920799dc85",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Vancouver, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "AI Applied Engineering Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2"
   },
   "9c40bb4c-e181-478f-94f6-bbb35c085b3b": {
     "applied_at": null,
@@ -25771,8 +25990,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "a105f8ab-2cdc-4f08-8687-fb4a75573615",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 889,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/889",
     "locations": [
       "Remote in Canada"
     ],
@@ -26141,8 +26360,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "a30de93c-bc93-469c-bd77-3bb267556f84",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 890,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/890",
     "locations": [
       "Milford, MI"
     ],
@@ -26169,8 +26388,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "a3297773-4d22-478c-97d6-f6f974481782",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 891,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/891",
     "locations": [
       "Byron Center, MI"
     ],
@@ -27712,6 +27931,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-03T03:47:32.036984Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "ae4d1646-e040-43a9-939a-18ab81955f9a",
@@ -27720,7 +27940,7 @@
     "locations": [
       "Bolingbrook, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -27879,8 +28099,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "af2c6dba-8d51-48ed-84a8-04702a77d384",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 892,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/892",
     "locations": [
       "SF",
       "Mountain View, CA"
@@ -28079,8 +28299,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "afb85700-ea58-43bf-99ac-13cfaadcee3e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 893,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/893",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -28745,6 +28965,33 @@
     "title": "Software Engineer Intern",
     "url": "https://jobs.l3harris.com/job/Clifton-Intern,-Software-Engineer-NJ-07014/1435264000/?ats=successfactors"
   },
+  "b45557a0-8993-4135-8a47-273587c395f5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Electronic Arts",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-03T01:15:08Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-03T03:47:32.036984Z",
+    "id": "b45557a0-8993-4135-8a47-273587c395f5",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Austin, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239"
+  },
   "b50df64e-0d8e-4631-a2c7-2da5eb33aaa2": {
     "applied_at": null,
     "backfilled": true,
@@ -29272,8 +29519,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "b761fed7-c990-47a1-884c-8d67dabdcc04",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 894,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/894",
     "locations": [
       "Lincoln, NE"
     ],
@@ -30680,8 +30927,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "bee2e809-5a33-41d9-8c9b-0dc0c44f7100",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 895,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/895",
     "locations": [
       "Westminster, CO"
     ],
@@ -34493,8 +34740,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "d6edb373-31c9-46ca-b0c8-87877dcb9d6d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 896,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/896",
     "locations": [
       "LA",
       "NYC"
@@ -34754,8 +35001,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "d8e06bef-6524-48e2-aded-87d761d5da65",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 897,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/897",
     "locations": [
       "Austin, TX"
     ],
@@ -35087,8 +35334,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "d9b64d1c-51e8-4aa5-8275-aee5eb3a274e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 898,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/898",
     "locations": [
       "Richardson, TX"
     ],
@@ -35171,8 +35418,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "d9f6166b-f239-4844-9e1a-42616d92df8b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 899,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/899",
     "locations": [
       "Indianapolis, IN"
     ],
@@ -35199,8 +35446,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "d9fd892f-4128-4b27-8d13-be649b77a0ba",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 900,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/900",
     "locations": [
       "Palo Alto, CA"
     ],
@@ -38282,8 +38529,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "ec6f72c9-7ce7-4949-86ec-9a57ac1303b2",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 901,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/901",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -38480,8 +38727,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "ede62c8f-075b-4ba3-8409-4a187f9b6f1c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 902,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/902",
     "locations": [
       "Annapolis Junction, MD"
     ],
@@ -38652,8 +38899,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "eea4ff21-9352-4ee4-a01b-10830a6c73cd",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 903,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/903",
     "locations": [
       "Ottawa, ON, Canada",
       "Remote in Canada"
@@ -39644,8 +39891,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "f59257fb-9deb-439b-867b-379bc02454b2",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 904,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/904",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -40947,6 +41194,36 @@
     ],
     "title": "Retail Lending AI Engineer Intern",
     "url": "https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply"
+  },
+  "fdc152bc-2ce6-48c0-86db-6a70bc5a49f3": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Koch Industries",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-03T01:17:12Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-03T03:47:32.036984Z",
+    "id": "fdc152bc-2ce6-48c0-86db-6a70bc5a49f3",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Eden Prairie, MN",
+      "Lisle, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product Management Intern",
+    "url": "https://koch.avature.net/en_US/careers/JobDetail/195099"
   },
   "fdf1e11e-14be-447e-a04a-23879851041d": {
     "applied_at": null,
