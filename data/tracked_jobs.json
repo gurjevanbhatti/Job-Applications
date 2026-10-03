@@ -28519,6 +28519,34 @@
     "title": "AI R&D Engineer Co-op",
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40682"
   },
+  "b0582dd7-6e1e-4816-a195-c1303b463c10": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Northern Trust",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-03T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-03T23:47:09.534021Z",
+    "id": "b0582dd7-6e1e-4816-a195-c1303b463c10",
+    "issue_number": 922,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/922",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Data & Analytics Office Intern",
+    "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1"
+  },
   "b0b2555a-638d-48e8-b2ba-b9c70b079360": {
     "applied_at": null,
     "backfilled": true,
@@ -35844,7 +35872,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T23:47:09.534021Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-26T01:09:31.889844Z",
     "id": "dbc5524e-6bc2-4690-b04a-a30cdcabb2ab",
     "issue_number": 501,
@@ -35852,7 +35881,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -35926,7 +35955,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-03T23:47:09.534021Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "dc90a21c-25c2-4735-abbe-bee451203aa2",
     "issue_number": 127,
@@ -35935,7 +35965,7 @@
       "Montpelier, VT",
       "Addison, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -38537,6 +38567,7 @@
       "Master's",
       "PhD"
     ],
+    "expired_at": "2026-10-03T23:47:09.534021Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "ec191dc6-7088-46ac-bb3d-1fec1dae6328",
@@ -38545,7 +38576,7 @@
     "locations": [
       "Pasadena, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
