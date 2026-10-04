@@ -22980,7 +22980,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-04T18:47:55.786966Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-29T04:42:08.986977Z",
     "id": "8c93ba5d-c961-40fd-96f0-71e8be7211de",
     "issue_number": 529,
@@ -22989,7 +22990,7 @@
       "Chantilly, VA",
       "El Segundo, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -25640,6 +25641,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-04T18:47:55.786966Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "9d03317c-6445-4ac3-86fb-093ab57e58ec",
@@ -25650,7 +25652,7 @@
       "Chicago, IL",
       "Columbus, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
