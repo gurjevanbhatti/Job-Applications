@@ -6277,6 +6277,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-04T15:30:14.135094Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "26b4edec-7b61-4a1b-8d51-9894d7dff1b7",
@@ -6285,7 +6286,7 @@
     "locations": [
       "Frederick, MD"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -8382,6 +8383,34 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002"
+  },
+  "3318c591-4135-42fd-aee3-50ae988fc30f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Keysight Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-04T14:11:58Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-04T15:30:14.135094Z",
+    "id": "3318c591-4135-42fd-aee3-50ae988fc30f",
+    "issue_number": 925,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/925",
+    "locations": [
+      "Santa Rosa, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Data Scientist Intern",
+    "url": "https://jobs.keysight.com/jobs/54570?icims=1"
   },
   "3326c848-c502-4081-b774-c6a6b5b8a676": {
     "applied_at": null,
@@ -11235,7 +11264,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-04T15:30:14.135094Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T15:34:57.194142Z",
     "id": "42cf540f-5281-46a8-a980-0d96219e6184",
     "issue_number": 187,
@@ -11243,7 +11273,7 @@
     "locations": [
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -11497,6 +11527,33 @@
     ],
     "title": "Associate Software Engineer Intern",
     "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334"
+  },
+  "4430d739-ddf1-4b1c-966a-d5e29f89a980": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "CoStar Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-04T15:30:14.135094Z",
+    "id": "4430d739-ddf1-4b1c-966a-d5e29f89a980",
+    "issue_number": 926,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/926",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Associate Software Engineer Intern",
+    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942"
   },
   "44631389-4603-4cbc-bb24-596433854282": {
     "applied_at": null,
@@ -14521,6 +14578,33 @@
     "title": "ASIC Design-for-Test Engineer Intern - DFT",
     "url": "https://jobs.keysight.com/jobs/54276?icims=1"
   },
+  "57409b22-372d-4871-b5ff-c7bfa79beb07": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Diversified Energy",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-04T14:12:19Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-04T15:30:14.135094Z",
+    "id": "57409b22-372d-4871-b5ff-c7bfa79beb07",
+    "issue_number": 927,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/927",
+    "locations": [
+      "Birmingham, AL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Information Technology Intern",
+    "url": "https://careers.div.energy/jobs/2734?icims=1"
+  },
   "574c67ce-ff4f-4f56-825d-6e6dc66172f6": {
     "applied_at": null,
     "backfilled": false,
@@ -15353,7 +15437,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-04T15:30:14.135094Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "5b34661b-6ae3-4276-8322-3005f82d5721",
     "issue_number": 66,
@@ -15361,7 +15446,7 @@
     "locations": [
       "Omaha, NE"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -20151,6 +20236,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-04T15:30:14.135094Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "79842cec-9840-45e7-bc4a-aacb2fa89756",
@@ -20159,7 +20245,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -22950,6 +23036,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-04T15:30:14.135094Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "8ccaa191-ad2e-454c-b701-66c75442d131",
@@ -22958,7 +23045,7 @@
     "locations": [
       "Mcconnellsburg, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -23237,7 +23324,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-04T15:30:14.135094Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "8dcf0c2f-08d7-44c1-8469-313723c64183",
     "issue_number": 93,
@@ -23245,7 +23333,7 @@
     "locations": [
       "Fremont, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -29193,7 +29281,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-04T15:30:14.135094Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T06:01:40.436533Z",
     "id": "b3dc331c-813f-42bc-8240-602c63c6e919",
     "issue_number": 170,
@@ -29201,7 +29290,7 @@
     "locations": [
       "Fremont, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -35108,7 +35197,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-04T15:30:14.135094Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "d6edb373-31c9-46ca-b0c8-87877dcb9d6d",
     "issue_number": 896,
@@ -35117,7 +35207,7 @@
       "LA",
       "NYC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -36678,6 +36768,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-04T15:30:14.135094Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "e040bce8-cb7a-4395-ae5a-4bd67a686445",
@@ -36686,7 +36777,7 @@
     "locations": [
       "Dexter, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -40718,6 +40809,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-04T15:30:14.135094Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "f82e3471-72f0-48d8-b603-88faa3e7bcc0",
@@ -40726,7 +40818,7 @@
     "locations": [
       "Medina, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -41278,6 +41370,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-04T15:30:14.135094Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "fbba7203-a983-4710-bb34-5cd0cc7d63c8",
@@ -41286,7 +41379,7 @@
     "locations": [
       "Lakeville, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
