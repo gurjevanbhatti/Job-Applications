@@ -2847,7 +2847,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-04T04:08:46.417345Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-03T14:25:23.530981Z",
     "id": "11026e9a-3bdc-4a1f-b5ce-7ac1a1b56e6b",
     "issue_number": 919,
@@ -2855,7 +2856,7 @@
     "locations": [
       "California"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Fall 2026"
     ],
@@ -11471,6 +11472,33 @@
     ],
     "title": "Validation Intern",
     "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000151680529"
+  },
+  "44d51ce5-b0d7-47ab-93d2-24148841c53d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-03T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-04T04:08:46.417345Z",
+    "id": "44d51ce5-b0d7-47ab-93d2-24148841c53d",
+    "issue_number": 923,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/923",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "AI DSP Applied Research Co-op",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016"
   },
   "4545deb5-ffdd-4032-ac96-4082299479fc": {
     "applied_at": null,
