@@ -3809,6 +3809,33 @@
     "title": "Commercial Lending AI Engineer Intern - Winter 2027",
     "url": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply"
   },
+  "16856e96-3bd9-4fee-85e4-ed92164905ae": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Primient",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-04T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T00:54:53.569587Z",
+    "id": "16856e96-3bd9-4fee-85e4-ed92164905ae",
+    "issue_number": 928,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/928",
+    "locations": [
+      "Schaumburg, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Analyst Intern",
+    "url": "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056"
+  },
   "16a226b6-b8ad-430a-8246-a9ae743ea5b9": {
     "applied_at": null,
     "backfilled": true,
@@ -9405,6 +9432,36 @@
     ],
     "title": "Ecommerce Data Analytics Intern",
     "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/eCommerce-Data-Analytics-Intern---The-Toro-Company_JR17458"
+  },
+  "39440a28-111a-4535-887b-1a683c23ef54": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Pangram Labs",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-04T22:15:24Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T00:54:53.569587Z",
+    "id": "39440a28-111a-4535-887b-1a683c23ef54",
+    "issue_number": 929,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/929",
+    "locations": [
+      "NYC",
+      "Brooklyn, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "title": "AI Research Intern",
+    "url": "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true"
   },
   "3987bb53-087a-4ba7-8495-a8dd4ff2f912": {
     "applied_at": null,
@@ -20971,7 +21028,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-05T00:54:53.569587Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T05:58:51.077756Z",
     "id": "7e4c5c71-f008-4439-8ae7-145e2b6cb5d9",
     "issue_number": 618,
@@ -20979,7 +21037,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
