@@ -10513,6 +10513,34 @@
     "title": "Software Engineer Intern - Analytics & Behavior Change",
     "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Software-Engineer---Grad-Intern-Conversion_R1055183"
   },
+  "3ec3bd30-a625-49ef-bad3-4a40b9de33ea": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Micron Technology",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-04T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T06:31:31.754439Z",
+    "id": "3ec3bd30-a625-49ef-bad3-4a40b9de33ea",
+    "issue_number": 930,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/930",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Memory Design Engineer Intern - HBM",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528"
+  },
   "3ef4e51d-c8f0-4792-b2b3-bca136dbe3bb": {
     "applied_at": null,
     "backfilled": false,
@@ -16176,7 +16204,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-05T06:31:31.754439Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "5de70651-7d69-4108-95c3-555e83062f78",
     "issue_number": 396,
@@ -16184,7 +16213,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Summer 2027"
@@ -27935,6 +27964,33 @@
     "title": "Software Engineering Co-op",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645"
   },
+  "a9abc1d3-27bf-4290-9ab4-f785087a3634": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Micron Technology",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-04T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T06:31:31.754439Z",
+    "id": "a9abc1d3-27bf-4290-9ab4-f785087a3634",
+    "issue_number": 931,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/931",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "HBM Memory Design Engineer Intern - HBM",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821"
+  },
   "a9c87258-44b4-479b-b798-056f263de8b8": {
     "applied_at": null,
     "backfilled": true,
@@ -36689,7 +36745,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-05T06:31:31.754439Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "e00317bd-78ee-4ca7-b2c0-c6f09ad8c442",
     "issue_number": 424,
@@ -36697,7 +36754,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -36716,6 +36773,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-05T06:31:31.754439Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "e003bb69-614c-449a-9ef5-1c13ce5fe4c1",
@@ -36724,7 +36782,7 @@
     "locations": [
       "Waterloo, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
