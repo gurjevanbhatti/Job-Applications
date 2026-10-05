@@ -2371,6 +2371,36 @@
     "title": "Bot Controls Intern",
     "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Bot-Controls_R7965"
   },
+  "0dede889-01be-4a98-b56b-bd0f88b5d333": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Renesas Electronics",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-05T14:09:09Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T15:17:03.303367Z",
+    "id": "0dede889-01be-4a98-b56b-bd0f88b5d333",
+    "issue_number": 932,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/932",
+    "locations": [
+      "San Jose, CA",
+      "Plano, TX",
+      "San Diego, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Analog Intern",
+    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153498869"
+  },
   "0e448097-d3c8-4048-ba9b-48eed71328d0": {
     "applied_at": null,
     "backfilled": true,
@@ -4936,6 +4966,36 @@
     "title": "Technology Enablement Analyst Co-op",
     "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774"
   },
+  "1d9a5835-3e17-4dd7-9d92-3fb319a5306f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Renesas Electronics",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-05T14:08:14Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T15:17:03.303367Z",
+    "id": "1d9a5835-3e17-4dd7-9d92-3fb319a5306f",
+    "issue_number": 933,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/933",
+    "locations": [
+      "San Jose, CA",
+      "Plano, TX",
+      "San Diego, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Analog Intern",
+    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153500409"
+  },
   "1db1012e-71c6-49b5-9a0e-3399dce55cea": {
     "applied_at": null,
     "backfilled": true,
@@ -7267,7 +7327,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-05T15:17:03.303367Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T12:19:49.507566Z",
     "id": "2c46894c-6746-42d1-9b54-2735a06d51f6",
     "issue_number": 628,
@@ -7275,7 +7336,7 @@
     "locations": [
       "Rolling Meadows, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -8452,7 +8513,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-05T15:17:03.303367Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T00:39:17.059022Z",
     "id": "3326c848-c502-4081-b774-c6a6b5b8a676",
     "issue_number": 568,
@@ -8460,7 +8522,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -10121,6 +10183,33 @@
     ],
     "title": "Product Management Intern - Artificial Intelligence Product Management",
     "url": "https://careers.zimmerbiomet.com/us/en/job/12745"
+  },
+  "3d0e6a5a-a1a8-484a-9a12-fd9fcdb36ad4": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "State of North Carolina",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-05T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T15:17:03.303367Z",
+    "id": "3d0e6a5a-a1a8-484a-9a12-fd9fcdb36ad4",
+    "issue_number": 934,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/934",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Data Science Intern",
+    "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225"
   },
   "3d1157f3-209d-4852-9aa5-8ef5c4ab8ab5": {
     "applied_at": null,
@@ -12731,6 +12820,33 @@
     "title": "Software Developer Intern - University",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249801"
   },
+  "4cf30745-6f3b-4afc-b4a7-8c156b74804c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "NVIDIA",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-05T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T15:17:03.303367Z",
+    "id": "4cf30745-6f3b-4afc-b4a7-8c156b74804c",
+    "issue_number": 935,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/935",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958"
+  },
   "4cfc6f1c-ae9e-447d-8980-a90e98153e86": {
     "applied_at": null,
     "backfilled": false,
@@ -13755,6 +13871,37 @@
     ],
     "title": "Software Engineer Intern - R&D",
     "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900"
+  },
+  "5225e58c-5696-4982-94a4-d20dfef3c850": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Ernst & Young",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-05T14:14:40Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T15:17:03.303367Z",
+    "id": "5225e58c-5696-4982-94a4-d20dfef3c850",
+    "issue_number": 936,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/936",
+    "locations": [
+      "Nashville, TN",
+      "Dallas, TX",
+      "Chicago, IL",
+      "Atlanta, GA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Tax Intern - Other Tax - Americas Tax Technology Group",
+    "url": "https://eyglobal.yello.co/jobs/yUI0hOKgEZ86mkIsV-EUdw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
   },
   "522ac210-b20d-4896-b96f-00dd172cb82a": {
     "applied_at": null,
@@ -16641,6 +16788,33 @@
     "title": "Data Science Intern - Summer 2027",
     "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114"
   },
+  "613293d2-6943-4f9a-ab4a-7bb7883891fc": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "NVIDIA",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-05T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T15:17:03.303367Z",
+    "id": "613293d2-6943-4f9a-ab4a-7bb7883891fc",
+    "issue_number": 937,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/937",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Hardware Engineering Intern",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047"
+  },
   "6150d12b-9d14-4251-a01a-b5422b9f7028": {
     "applied_at": null,
     "backfilled": false,
@@ -17323,6 +17497,34 @@
     ],
     "title": "AI Quality Co-op Intern - Evaluation & Security",
     "url": "https://careers-kinaxis.icims.com/jobs/35378/job?mobile=true&needsRedirect=false"
+  },
+  "670d8a8b-1082-42e8-9009-e35612ea924a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Motorola",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-05T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T15:17:03.303367Z",
+    "id": "670d8a8b-1082-42e8-9009-e35612ea924a",
+    "issue_number": 938,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/938",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Android Applications Developer Intern",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313"
   },
   "671df4e5-0754-4a2b-b3e8-9efd0533222b": {
     "applied_at": null,
@@ -19319,6 +19521,33 @@
     ],
     "title": "College to Corporate Investment Systems Intern",
     "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782"
+  },
+  "726360c4-caf8-48cc-bc62-9dc9ba9eaca4": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Quantum Signal AI",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-05T14:23:09Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T15:17:03.303367Z",
+    "id": "726360c4-caf8-48cc-bc62-9dc9ba9eaca4",
+    "issue_number": 939,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/939",
+    "locations": [
+      "Saline, MI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern - Tools and Prototypes",
+    "url": "https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes"
   },
   "7291b6ac-970f-4f7b-bbd8-67141ae89009": {
     "applied_at": null,
@@ -23054,6 +23283,33 @@
     "title": "Product Engineer Intern",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Product-Engineering-Intern_R0250655"
   },
+  "8c3ef60f-82b8-40a0-a8af-f49d57750b6c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "CACI",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-05T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T15:17:03.303367Z",
+    "id": "8c3ef60f-82b8-40a0-a8af-f49d57750b6c",
+    "issue_number": 940,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/940",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Development Intern",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085"
+  },
   "8c93ba5d-c961-40fd-96f0-71e8be7211de": {
     "applied_at": null,
     "backfilled": false,
@@ -24493,6 +24749,34 @@
     ],
     "title": "DRAM Technology Physical Design and Block-Level PPA Optimization Intern",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Technology-Physical-Design-and-Block-Level-PPA-Optimization_JR109584"
+  },
+  "95c1d1a0-3fe5-4666-a8b9-fd45c3237c63": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Mohawk",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-05T06:12:38Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T15:17:03.303367Z",
+    "id": "95c1d1a0-3fe5-4666-a8b9-fd45c3237c63",
+    "issue_number": 941,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/941",
+    "locations": [
+      "Calhoun, GA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product Management Intern",
+    "url": "https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors"
   },
   "95c4918c-cb96-4b7c-afa4-cb0f50c7378e": {
     "applied_at": null,
@@ -26733,6 +27017,36 @@
     "title": "Distribution Sales Reporting Co-op",
     "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Distribution-Sales-Reporting-Co-op-Spring-2027--January---June-_MFS-231926"
   },
+  "a2435fd4-323c-4c0e-8660-c4ed378664f4": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Renesas Electronics",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-05T14:08:22Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T15:17:03.303367Z",
+    "id": "a2435fd4-323c-4c0e-8660-c4ed378664f4",
+    "issue_number": 942,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/942",
+    "locations": [
+      "San Jose, CA",
+      "Plano, TX",
+      "San Diego, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Analog Intern",
+    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153497087"
+  },
   "a25b86dd-371b-427c-b699-2d39d9db3511": {
     "applied_at": null,
     "backfilled": false,
@@ -27488,6 +27802,34 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572"
+  },
+  "a74310a0-f20c-47e3-a801-788c1fc295d6": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Microsoft",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-05T06:11:28Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T15:17:03.303367Z",
+    "id": "a74310a0-f20c-47e3-a801-788c1fc295d6",
+    "issue_number": 943,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/943",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Firmware Engineer Intern",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557023161"
   },
   "a76fe4c5-ec63-4f65-a3d1-11ead25b41b2": {
     "applied_at": null,
@@ -28772,7 +29114,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-05T15:17:03.303367Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T12:19:49.507566Z",
     "id": "af7b23f4-17a4-4d21-9099-a8afec173586",
     "issue_number": 634,
@@ -28780,7 +29123,7 @@
     "locations": [
       "Rolling Meadows, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -30696,6 +31039,33 @@
     "title": "Show Control Software Intern",
     "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Control-Software-Internship--Spring-2027_10160946"
   },
+  "bb153fdc-6998-4d29-9e79-01b24c0db807": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Sikich",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-05T14:26:24Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T15:17:03.303367Z",
+    "id": "bb153fdc-6998-4d29-9e79-01b24c0db807",
+    "issue_number": 944,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/944",
+    "locations": [
+      "Remote in USA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Intelligence Transformation Intern",
+    "url": "https://jobs.jobvite.com/sikichcareers/job/oGOPAfwD?nl=1&nl=1&fr=false"
+  },
   "bb1a4a31-3d4f-474b-8718-fca0e46439d1": {
     "applied_at": null,
     "backfilled": true,
@@ -31987,7 +32357,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-05T15:17:03.303367Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "c234c19a-a6a2-49d6-bec9-350a6baaf776",
     "issue_number": 811,
@@ -31995,7 +32366,7 @@
     "locations": [
       "Ashburn, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -38122,7 +38493,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-05T15:17:03.303367Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T18:03:33.574791Z",
     "id": "e6e68252-64e3-4113-87e6-21679405692d",
     "issue_number": 653,
@@ -38130,7 +38502,7 @@
     "locations": [
       "Florham Park, NJ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -41617,6 +41989,33 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819"
+  },
+  "fc6dd952-8dfe-40dc-bb6b-bc812a95c847": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Fresenius Medical Care",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-05T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-05T15:17:03.303367Z",
+    "id": "fc6dd952-8dfe-40dc-bb6b-bc812a95c847",
+    "issue_number": 945,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/945",
+    "locations": [
+      "Lawrence, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineering Co-op",
+    "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309"
   },
   "fc9d4693-7c8b-4934-816e-ca7ca0a6b8d9": {
     "applied_at": null,
