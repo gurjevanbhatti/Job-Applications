@@ -2719,7 +2719,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-07T19:32:41.513227Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T09:12:26.011373Z",
     "id": "0d975f4a-64df-4148-98fd-46ab01f959b8",
     "issue_number": 1024,
@@ -2727,7 +2728,7 @@
     "locations": [
       "Mt Laurel Township, NJ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -5228,7 +5229,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-07T19:32:41.513227Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "1ba9c023-a121-4599-a80d-ad93c324a247",
     "issue_number": 1103,
@@ -5236,7 +5238,7 @@
     "locations": [
       "Tampa, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -7274,6 +7276,33 @@
     "title": "Operations Engineering Intern",
     "url": "https://apply.workable.com/scout-clean-energy/j/7BF0CEDF9F/apply"
   },
+  "258d5748-3766-4b86-b1f1-7672e1c66cef": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "S&C Electric Company",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-07T14:21:25Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-07T19:32:41.513227Z",
+    "id": "258d5748-3766-4b86-b1f1-7672e1c66cef",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Chicago, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374"
+  },
   "25c606c0-e37b-4e36-a6d9-5e9df8b3a2e7": {
     "applied_at": null,
     "backfilled": true,
@@ -7536,6 +7565,34 @@
     "title": "Engineering Intern",
     "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571"
   },
+  "26dd2b73-7f9e-47f3-8c63-9003aec2977e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Auto-Owners Insurance",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-07T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-07T19:32:41.513227Z",
+    "id": "26dd2b73-7f9e-47f3-8c63-9003aec2977e",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Lansing, MI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Business Intelligence Engineer Intern",
+    "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662"
+  },
   "26e8e7c9-e37c-42ee-b931-4f4a447fec2d": {
     "applied_at": null,
     "backfilled": true,
@@ -7606,7 +7663,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-07T19:32:41.513227Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "270f99a7-34f7-4b24-a868-04937e87dc59",
     "issue_number": 42,
@@ -7614,7 +7672,7 @@
     "locations": [
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -8882,7 +8940,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-07T19:32:41.513227Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T15:58:07.505507Z",
     "id": "2e5df730-d9a8-47e0-aac3-c386a7274276",
     "issue_number": 1081,
@@ -8890,7 +8949,7 @@
     "locations": [
       "North Logan, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -15296,7 +15355,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-07T19:32:41.513227Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T18:48:25.780943Z",
     "id": "4efd65a5-ab75-4d14-a2df-fe1659f9a1c1",
     "issue_number": 277,
@@ -15309,7 +15369,7 @@
       "Binghamton, NY",
       "Buffalo, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -20818,6 +20878,33 @@
     "title": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
     "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1"
   },
+  "6af42b36-f6ea-468e-9e3b-9a6e81aebbf8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Entrust",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-07T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-07T19:32:41.513227Z",
+    "id": "6af42b36-f6ea-468e-9e3b-9a6e81aebbf8",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Shakopee, MN"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Firmware Engineer Co-op",
+    "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419"
+  },
   "6afc68db-8174-4996-815c-024b34fd54b0": {
     "applied_at": null,
     "backfilled": false,
@@ -21658,7 +21745,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-07T19:32:41.513227Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T02:17:41.169451Z",
     "id": "6f20b6b4-b84b-4ed7-b608-fffb1c6e5bc0",
     "issue_number": 980,
@@ -21666,7 +21754,7 @@
     "locations": [
       "Remote in Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -22449,8 +22537,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "724bc530-f375-4c7d-8605-6ece1804c72a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1121,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1121",
     "locations": [
       "Greenville, SC",
       "Schenectady, NY"
@@ -22919,6 +23007,33 @@
     "title": "Hardware Intern - Architecture - AI HW & System on a Chip",
     "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007"
   },
+  "74c29392-8eab-44f0-a1ae-0bb1d66ec96f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Booz Allen",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-07T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-07T19:32:41.513227Z",
+    "id": "74c29392-8eab-44f0-a1ae-0bb1d66ec96f",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "San Diego, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Junior AI Software Developer Intern",
+    "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196"
+  },
   "74c6f87e-771c-4105-bcf1-13937407ee3c": {
     "applied_at": null,
     "backfilled": false,
@@ -23184,8 +23299,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "75eae133-33cf-40a0-80fd-3aabdf37a56f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1122,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1122",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -23399,6 +23514,33 @@
     "title": "Research and Development Co-op",
     "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637"
   },
+  "775d0857-7071-4787-81ca-b936613ab726": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "S&C Electric Company",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-07T14:21:28Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-07T19:32:41.513227Z",
+    "id": "775d0857-7071-4787-81ca-b936613ab726",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Chicago, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Electronics Engineer Intern",
+    "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107358"
+  },
   "7771e28f-19b8-42e9-8cfb-42c1b63e5f24": {
     "applied_at": null,
     "backfilled": false,
@@ -23453,6 +23595,33 @@
     ],
     "title": "Software Development Engineer Intern",
     "url": "https://careers.tranetechnologies.com/global/en/job/JR-15648"
+  },
+  "78a00951-890f-474e-94ee-6e0cc1a2b9f7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Northrop Grumman",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-07T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-07T19:32:41.513227Z",
+    "id": "78a00951-890f-474e-94ee-6e0cc1a2b9f7",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Developer Intern",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1"
   },
   "78a8e115-f0ce-4ab7-be5c-d4a784e15262": {
     "applied_at": null,
@@ -25306,8 +25475,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "831d2f37-f07a-4fd6-8668-e7af33c405f0",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1123,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1123",
     "locations": [
       "Arlington County, Arlington, VA"
     ],
@@ -25719,6 +25888,33 @@
     ],
     "title": "Software Intern",
     "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763"
+  },
+  "8606aed6-677f-4e1d-9f11-6e1a60e1e783": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "S&C Electric Company",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-07T14:21:19Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-07T19:32:41.513227Z",
+    "id": "8606aed6-677f-4e1d-9f11-6e1a60e1e783",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Franklin, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Test Equipment Engineering and Maintenance Intern",
+    "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107368"
   },
   "861dcad9-ed8f-4469-9f30-7137335a4cda": {
     "applied_at": null,
@@ -26490,8 +26686,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "89c95261-7ed7-445d-9298-4131cf049e2a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1124,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1124",
     "locations": [
       "Largo, FL"
     ],
@@ -26897,8 +27093,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "8c0ef699-7d3a-44ff-a89d-b28a3dd65d87",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1125,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1125",
     "locations": [
       "Morrisville, NC"
     ],
@@ -27093,8 +27289,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "8cd75c44-b1ed-4f61-9dae-69008c533d35",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1126,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1126",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -27547,8 +27743,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "900cb2e6-bb32-47f1-b267-ed7ef0f7142a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1127,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1127",
     "locations": [
       "Milwaukee, WI"
     ],
@@ -27714,8 +27910,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "90c25126-50a6-4b5d-9e2d-37ab9ecacb13",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1128,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1128",
     "locations": [
       "Shakopee, MN"
     ],
@@ -28502,8 +28698,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "94b5e8f1-5530-443f-948b-40d1d6d16a60",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1129,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1129",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -28752,8 +28948,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "95c4cff1-400b-4054-ab5a-96b8ea6662dd",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1130,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1130",
     "locations": [
       "Raleigh, NC"
     ],
@@ -29004,8 +29200,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "978a06db-60f9-4e14-8508-fd5a6dc1b731",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1131,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1131",
     "locations": [
       "Austin, TX"
     ],
@@ -29061,8 +29257,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "97ae44fe-896a-4ac9-903d-dd00769e963b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1132,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1132",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -29227,8 +29423,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "98500a46-81cc-4232-a948-20ca62544339",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1133,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1133",
     "locations": [
       "Ann Arbor, MI"
     ],
@@ -29826,8 +30022,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "9b4e37d9-a98c-45f4-bc30-a54925f62d8b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1134,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1134",
     "locations": [
       "Vancouver, BC, Canada"
     ],
@@ -30396,8 +30592,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "9e2f8163-afa0-4258-a030-46e5bc9b6ce4",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1135,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1135",
     "locations": [
       "Wright-Patterson AFB, OH"
     ],
@@ -30732,8 +30928,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "9f171e65-e548-464d-b80e-d0ff93f9ca0a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1136,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1136",
     "locations": [
       "Ottawa, ON, Canada"
     ],
@@ -30760,8 +30956,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "9f1c1a85-4cae-4368-9581-1d11c5fa2ed0",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1137,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1137",
     "locations": [
       "McKinney, TX"
     ],
@@ -30943,6 +31139,33 @@
     "title": "Integration Specialist Defense & Security Intern",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-470---Spcialiste-d-intgration-Dfense-et-scurit_120963"
   },
+  "9facd644-c8bc-46cb-bd5a-ddf808865147": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Leidos",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-07T19:32:41.513227Z",
+    "id": "9facd644-c8bc-46cb-bd5a-ddf808865147",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Remote in USA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Business Systems AI Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770"
+  },
   "9fb20034-acce-4973-b26e-0e2287dcfda6": {
     "applied_at": null,
     "backfilled": false,
@@ -31108,6 +31331,33 @@
     ],
     "title": "Business Intelligence Intern",
     "url": "https://careers-daytonfreight.icims.com/jobs/18278/job?mobile=true&needsRedirect=false"
+  },
+  "a0f4b708-8312-4d5d-b203-5379abf73c59": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Draper",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-07T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-07T19:32:41.513227Z",
+    "id": "a0f4b708-8312-4d5d-b203-5379abf73c59",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Microsystems Integration Intern",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR003002-1"
   },
   "a102db82-0608-4e45-a9d3-ab4fa8963741": {
     "applied_at": null,
@@ -33354,8 +33604,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "acc4ec77-49ca-4528-b3a8-01f51c7a1647",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1138,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1138",
     "locations": [
       "Clearwater, FL"
     ],
@@ -33381,8 +33631,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "ace29758-682c-4ca7-bf84-bdf2bcee9fbe",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1139,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1139",
     "locations": [
       "Chicago, IL"
     ],
@@ -33931,6 +34181,34 @@
     ],
     "title": "Hardware Test Engineering Intern",
     "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476"
+  },
+  "b02141a2-8d29-4f0b-b7a7-280a77592468": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GuideWell Mutual",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-07T14:16:02Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-07T19:32:41.513227Z",
+    "id": "b02141a2-8d29-4f0b-b7a7-280a77592468",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "IT Graduate Internship - Multiple Teams",
+    "url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42182"
   },
   "b02fcae4-ac36-4769-8a28-85242403362c": {
     "applied_at": null,
@@ -34547,8 +34825,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "b2d7f04b-6fe9-4f28-9170-5910cbcb245b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1140,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1140",
     "locations": [
       "Ann Arbor, MI"
     ],
@@ -34575,8 +34853,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "b2f853e1-3a69-4b5e-a66e-51596c031a7c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1141,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1141",
     "locations": [
       "Germantown, MD"
     ],
@@ -35564,7 +35842,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-07T19:32:41.513227Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T15:58:07.505507Z",
     "id": "b83f3fb8-0a55-4eed-82f6-9b98a78af0e9",
     "issue_number": 1089,
@@ -35572,7 +35851,7 @@
     "locations": [
       "North Logan, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -35733,8 +36012,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "b8fc87c8-3b31-4f8f-9917-48e4dfb05210",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1142,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1142",
     "locations": [
       "Duluth, GA"
     ],
@@ -36055,6 +36334,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-07T19:32:41.513227Z",
     "expired_issue_closed": false,
     "found_at": "2026-10-07T13:42:03.514166Z",
     "id": "ba84059f-11a6-4121-a01d-1229ff58c1c9",
@@ -36063,7 +36343,7 @@
     "locations": [
       "El Segundo, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -36952,8 +37232,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "be13a332-98f2-42f4-92da-142e19045eb5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1143,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1143",
     "locations": [
       "Mountain View, CA"
     ],
@@ -37560,8 +37840,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "c1e87875-633c-4491-b811-cb4f422cda4d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1144,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1144",
     "locations": [
       "McKinney, TX"
     ],
@@ -38009,8 +38289,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "c3e62dce-3096-481b-97f4-55b95eb49b14",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1145,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1145",
     "locations": [
       "Middletown, RI"
     ],
@@ -44951,6 +45231,33 @@
     "title": "Electrical Design Engineer Intern",
     "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641708"
   },
+  "e7f4bf5f-d2db-4cf1-a052-81c57b0543b1": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "The Federal Reserve System",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-01T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-07T19:32:41.513227Z",
+    "id": "e7f4bf5f-d2db-4cf1-a052-81c57b0543b1",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Research Intern",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Research-Intern---2027_R-0000033640"
+  },
   "e83d5205-2c76-4f34-adbc-45a543b7b26b": {
     "applied_at": null,
     "backfilled": true,
@@ -49531,7 +49838,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-07T19:32:41.513227Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T18:48:25.780943Z",
     "id": "ff6acfde-5cfa-48f1-9900-723a0df08069",
     "issue_number": 286,
@@ -49544,7 +49852,7 @@
       "Binghamton, NY",
       "Buffalo, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
