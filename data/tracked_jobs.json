@@ -3771,7 +3771,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-08T17:59:51.716262Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-26T01:09:31.889844Z",
     "id": "12f9b7bd-4f01-4770-aa3a-66a0cd9e262b",
     "issue_number": 467,
@@ -3779,7 +3780,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -4306,6 +4307,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-08T17:59:51.716262Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "160f6780-2483-4f8a-ae8b-b31c4eceb81e",
@@ -4314,7 +4316,7 @@
     "locations": [
       "Lake St Louis, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -11216,6 +11218,33 @@
     "title": "Software Developer Intern",
     "url": "https://jobs.keysight.com/jobs/54638?icims=1"
   },
+  "38c7776b-a885-4f1e-af66-2816ed57ba66": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Gordon Food Service",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-08T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-08T17:59:51.716262Z",
+    "id": "38c7776b-a885-4f1e-af66-2816ed57ba66",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Wyoming, MI"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Intern - Transportation Routing",
+    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374"
+  },
   "390b577f-8b47-4020-9b35-f850536b8fa2": {
     "applied_at": null,
     "backfilled": false,
@@ -14842,7 +14871,8 @@
       "Bachelor's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-08T17:59:51.716262Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "4a8a719e-9beb-43af-a0b2-81dadab3ba35",
     "issue_number": 755,
@@ -14850,7 +14880,7 @@
     "locations": [
       "Pittsburgh, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2026",
       "Summer 2026"
@@ -17926,7 +17956,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-08T17:59:51.716262Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T14:42:46.702725Z",
     "id": "57ef5166-18ab-48f2-a9ae-c53346079716",
     "issue_number": 718,
@@ -17934,7 +17965,7 @@
     "locations": [
       "El Segundo, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -20536,6 +20567,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-08T17:59:51.716262Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "641f64cb-e677-4df1-af7f-bdd1c841f0cd",
@@ -20544,7 +20576,7 @@
     "locations": [
       "Reno, NV"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -21452,6 +21484,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-08T17:59:51.716262Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "69ea85f3-65e9-45c2-aa5c-55508565467d",
@@ -21460,7 +21493,7 @@
     "locations": [
       "El Segundo, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -22460,6 +22493,33 @@
     ],
     "title": "Humanoid Robotics Intern",
     "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Humanoid-Robotics-Intern_R00264476"
+  },
+  "6ef197b4-1ae6-4a42-a81e-80e6283959fd": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Lowe's",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-08T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-08T17:59:51.716262Z",
+    "id": "6ef197b4-1ae6-4a42-a81e-80e6283959fd",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Mooresville, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "PRO Services Reporting Intern",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/PRO-Services-Reporting-Intern---Undergrad-Internship---Summer-2027-_JR-02672698"
   },
   "6eff6a24-903f-4e0d-9c37-9391aca12788": {
     "applied_at": null,
@@ -25488,6 +25548,34 @@
     "title": "Design Verification Engineer",
     "url": "https://jobs.apple.com/en-us/details/200686449"
   },
+  "7e68ac6d-e42d-4ba4-9cdf-eb5b44a8c6e4": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "MSA Safety",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-08T14:10:43Z",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-08T17:59:51.716262Z",
+    "id": "7e68ac6d-e42d-4ba4-9cdf-eb5b44a8c6e4",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Cranberry Township, PA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Electrical Engineering Technology Co-op",
+    "url": "https://careers.msasafety.com/jobs/10162?icims=1"
+  },
   "7e8680d0-6421-49b3-b24c-f418b5cb0a37": {
     "applied_at": null,
     "backfilled": false,
@@ -25897,8 +25985,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "80e937f9-b321-42fa-98f7-8b8e97d42209",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1221,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1221",
     "locations": [
       "Pittsburgh, PA",
       "Columbus, OH",
@@ -26524,8 +26612,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "8361ff2b-f33d-4bba-ba6a-756c0fda60f4",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1222,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1222",
     "locations": [
       "Bloomfield Hills, MI",
       "Framingham, MA",
@@ -26785,8 +26873,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "855eab6a-3d70-435e-adbb-95789fabe3d2",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1223,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1223",
     "locations": [
       "Bloomfield Hills, MI",
       "Framingham, MA",
@@ -27153,8 +27241,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "876c9bab-5273-42b9-94c4-323238fbe1a8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1224,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1224",
     "locations": [
       "Raleigh, NC"
     ],
@@ -27401,8 +27489,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "88c35a9d-49a1-4c8d-8ae9-ccf6f2386bee",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1225,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1225",
     "locations": [
       "Houston, TX"
     ],
@@ -27509,8 +27597,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "8938d4f1-3093-43eb-a443-bd11de15a159",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1226,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1226",
     "locations": [
       "Remote in USA",
       "Reston, VA"
@@ -28253,6 +28341,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-08T17:59:51.716262Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "8c988a2d-c958-4ab4-bca3-72276613b164",
@@ -28261,7 +28350,7 @@
     "locations": [
       "Falls Church, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -28958,7 +29047,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-08T17:59:51.716262Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "90c25126-50a6-4b5d-9e2d-37ab9ecacb13",
     "issue_number": 1128,
@@ -28966,7 +29056,7 @@
     "locations": [
       "Shakopee, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -29222,6 +29312,33 @@
     "title": "Software Engineer Co-op",
     "url": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1432400300/?ats=successfactors"
   },
+  "92b36766-febe-474d-941e-0bf16bc2ecc0": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Leidos",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-08T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-08T17:59:51.716262Z",
+    "id": "92b36766-febe-474d-941e-0bf16bc2ecc0",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Atlantic City, NJ"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Systems Integration and Software Engineer Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152"
+  },
   "92c455d6-d3f6-4d95-b523-eeca0104e5a8": {
     "applied_at": null,
     "backfilled": false,
@@ -29452,6 +29569,34 @@
     ],
     "title": "Software Engineer Intern - AV/AI Platform",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696"
+  },
+  "93c487ce-79a1-4da5-86f6-3cfebea198ed": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "MSA Safety",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-08T14:10:43Z",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-08T17:59:51.716262Z",
+    "id": "93c487ce-79a1-4da5-86f6-3cfebea198ed",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Cranberry Township, PA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Electrical Engineering Co-op",
+    "url": "https://careers.msasafety.com/jobs/10163?icims=1"
   },
   "93c766dc-482e-4560-9810-1490cf9f572f": {
     "applied_at": null,
@@ -30026,8 +30171,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "96039401-b0c0-4ddf-a059-20346b54ebd6",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1227,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1227",
     "locations": [
       "Tempe, AZ"
     ],
@@ -31613,8 +31758,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "9d58c016-deec-47ad-adab-db768f2e513e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1228,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1228",
     "locations": [
       "Canton, MS"
     ],
@@ -31724,7 +31869,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-08T17:59:51.716262Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "9e2f8163-afa0-4258-a030-46e5bc9b6ce4",
     "issue_number": 1135,
@@ -31732,7 +31878,7 @@
     "locations": [
       "Wright-Patterson AFB, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -32455,8 +32601,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "a09d5d2b-9532-4945-a5a3-fd9ced82b420",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1229,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1229",
     "locations": [
       "Cedar Rapids, IA"
     ],
@@ -33081,8 +33227,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "a3bc2e02-54a9-46bc-8322-c42571a8600b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1230,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1230",
     "locations": [
       "Chantilly, VA",
       "El Segundo, CA"
@@ -33300,7 +33446,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-08T17:59:51.716262Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T07:28:57.395087Z",
     "id": "a4bef05e-5e81-43b1-97b4-e8b5350371a4",
     "issue_number": 706,
@@ -33308,7 +33455,7 @@
     "locations": [
       "Dallas, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -34090,8 +34237,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "a8655c72-8299-4087-b0ad-d93807cef979",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1231,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1231",
     "locations": [
       "Eden Prairie, MN"
     ],
@@ -34620,8 +34767,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "aabefc1e-0371-47db-9e90-a6428f01409b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1232,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1232",
     "locations": [
       "El Segundo, CA"
     ],
@@ -34678,8 +34825,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "aaf54e0c-45cd-4fa4-9e9e-8de1fcb0d270",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1233,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1233",
     "locations": [
       "Austin, TX",
       "Fort Collins, CO"
@@ -35757,8 +35904,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "b10edb5a-e520-4da4-988d-a8a730bef747",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1234,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1234",
     "locations": [
       "Longmont, CO"
     ],
@@ -36094,7 +36241,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-08T17:59:51.716262Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-26T01:09:31.889844Z",
     "id": "b2c8b202-8ba9-47a8-a1a3-b7233606a7e7",
     "issue_number": 491,
@@ -36102,7 +36250,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -37315,8 +37463,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "b8e998a3-d1d0-4dfe-a9fe-d72ab136f1f9",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1235,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1235",
     "locations": [
       "Trenton, NJ"
     ],
@@ -37631,8 +37779,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "ba21fb5b-f6ae-4a75-a5ce-cb99ba4a0b97",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1236,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1236",
     "locations": [
       "Longmont, CO"
     ],
@@ -38362,8 +38510,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "bccbd358-b05e-473c-84a8-cefa760bf0c2",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1237,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1237",
     "locations": [
       "Cedar Rapids, IA"
     ],
@@ -38559,7 +38707,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-08T17:59:51.716262Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "bdbe894f-7bb6-4c44-89a5-a1fe503a66ba",
     "issue_number": 807,
@@ -38567,7 +38716,7 @@
     "locations": [
       "New Kensington, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -39985,8 +40134,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "c5e542fe-ee8a-4e19-9642-374aa9b2fde6",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1238,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1238",
     "locations": [
       "Dallas, TX"
     ],
@@ -40316,7 +40465,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-08T17:59:51.716262Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T06:17:02.997547Z",
     "id": "c7796ea0-4118-410b-bdfc-3321a9f772a8",
     "issue_number": 1173,
@@ -40324,7 +40474,7 @@
     "locations": [
       "Bohemia, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Fall 2026"
     ],
@@ -40569,8 +40719,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "c8f21f2d-6090-47e0-9b3c-d232b71af4e6",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1239,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1239",
     "locations": [
       "Mountain View, CA"
     ],
@@ -40737,8 +40887,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "c9a8571f-f0d0-4e85-8b0c-67a3a310a864",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1240,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1240",
     "locations": [
       "Brooklyn, OH"
     ],
@@ -40793,8 +40943,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "c9c3308f-9420-4e90-8786-127a791a70e2",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1241,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1241",
     "locations": [
       "Franklin, TN"
     ],
@@ -41093,6 +41243,34 @@
     "title": "Data Analyst Intern",
     "url": "https://stripe.com/jobs/search?gh_jid=8194291"
   },
+  "cc8ac2c6-0874-480d-89fe-1ba79e6af0d9": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Koch Industries",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-08T14:22:42Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-08T17:59:51.716262Z",
+    "id": "cc8ac2c6-0874-480d-89fe-1ba79e6af0d9",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Science Intern",
+    "url": "https://koch.avature.net/en_US/careers/JobDetail/195341"
+  },
   "ccb4ec66-4171-4da4-883b-e8d9465464ac": {
     "applied_at": null,
     "backfilled": true,
@@ -41164,8 +41342,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "cd27a28a-afa5-420b-9dec-9dda2b442c94",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1242,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1242",
     "locations": [
       "Cedar Rapids, IA"
     ],
@@ -41582,7 +41760,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-08T17:59:51.716262Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T12:19:49.507566Z",
     "id": "cfd65384-8de0-4673-9086-3e19b4843b5e",
     "issue_number": 635,
@@ -41590,7 +41769,7 @@
     "locations": [
       "Sioux Falls, SD"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -41956,8 +42135,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "d145d88e-f6ed-460e-b257-a01adef1548e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1243,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1243",
     "locations": [
       "Cedar Rapids, IA"
     ],
@@ -43574,8 +43753,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "d831db7e-e453-435d-b948-9f6d570d4061",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1244,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1244",
     "locations": [
       "Chicago, IL"
     ],
@@ -44273,8 +44452,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "daa90d5b-5345-4efa-a41c-9939aa72f4da",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1245,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1245",
     "locations": [
       "Winnipeg, MB, Canada"
     ],
@@ -44774,6 +44953,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-08T17:59:51.716262Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "ddf6cf13-0a0b-4f97-93eb-c88083de5316",
@@ -44783,7 +44963,7 @@
       "Lake St Louis, MO",
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -45011,6 +45191,33 @@
     ],
     "title": "Data Engineer Intern - Data Engineering & Business Intelligence",
     "url": "https://www.tesla.com/careers/search/job/285291"
+  },
+  "dfc7a1cd-bf8f-4cd5-8d69-b87cf833ec72": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Cox",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-08T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-08T17:59:51.716262Z",
+    "id": "dfc7a1cd-bf8f-4cd5-8d69-b87cf833ec72",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Data Scientist Co-op",
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Co-op_R202683033"
   },
   "dfd5c151-a070-47ba-8591-89baeb1e6e35": {
     "applied_at": null,
@@ -46062,7 +46269,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-08T17:59:51.716262Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T00:29:31.170314Z",
     "id": "e3fdb2df-5e0d-4317-9acc-91d19f0c62f1",
     "issue_number": 334,
@@ -46070,7 +46278,7 @@
     "locations": [
       "Charlottesville, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
