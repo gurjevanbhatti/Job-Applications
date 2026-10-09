@@ -1007,6 +1007,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-09T21:40:35.424850Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "058f883b-7a38-49f1-8ad9-45811313157b",
@@ -1015,7 +1016,7 @@
     "locations": [
       "Wyoming, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -15449,7 +15450,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-09T21:40:35.424850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-09T03:00:39.417270Z",
     "id": "4a8d6fcb-64cb-4dcc-95f0-1a43cb373d70",
     "issue_number": 1321,
@@ -15457,7 +15459,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -39827,7 +39829,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-09T21:40:35.424850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T09:12:26.011373Z",
     "id": "bc23c1eb-3ab0-4b67-a4a5-290a31053a40",
     "issue_number": 1064,
@@ -39835,7 +39838,7 @@
     "locations": [
       "San Jose, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -46389,7 +46392,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-09T21:40:35.424850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-08T23:15:16.038697Z",
     "id": "db2eb29a-0c4b-4164-a226-eb8dbfc81719",
     "issue_number": 1310,
@@ -46397,7 +46401,7 @@
     "locations": [
       "Tempe, AZ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -47397,7 +47401,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-09T21:40:35.424850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-29T21:15:14.350193Z",
     "id": "e045f585-8fe2-442c-ad32-d77296ec0f53",
     "issue_number": 556,
@@ -47407,7 +47412,7 @@
       "Lowell, MA",
       "Huntsville, AL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
