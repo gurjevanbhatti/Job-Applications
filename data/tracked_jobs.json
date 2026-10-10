@@ -48949,6 +48949,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-10T21:47:17.494000Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "e019b0ce-4c0e-490b-b51c-9ac7e88b4472",
@@ -48958,7 +48959,7 @@
       "Sioux Center, IA",
       "Sioux Falls, SD"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
