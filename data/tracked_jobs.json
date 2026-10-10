@@ -4375,7 +4375,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-10T13:56:09.106722Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "150214d3-3452-4e54-8a52-141228277978",
     "issue_number": 1200,
@@ -4383,7 +4384,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Fall 2026"
     ],
@@ -12878,6 +12879,34 @@
     "title": "Software Engineer Intern - Camera & Robotics",
     "url": "https://www.tesla.com/careers/search/job/283274"
   },
+  "3bcb752a-418d-4efe-88b2-389292a7eed0": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Workday",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-09T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-10T13:56:09.106722Z",
+    "id": "3bcb752a-418d-4efe-88b2-389292a7eed0",
+    "issue_number": 1406,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1406",
+    "locations": [
+      "Pleasanton, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product Manager Intern",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813"
+  },
   "3bdfa3d0-178e-48f0-be29-54a668942c5c": {
     "applied_at": null,
     "backfilled": false,
@@ -14913,7 +14942,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-10T13:56:09.106722Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "43bf967e-805b-45b1-af2d-493750d8e32f",
     "issue_number": 868,
@@ -14921,7 +14951,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -15109,8 +15139,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-10T07:28:52.074006Z",
     "id": "4513c863-7b6b-483e-a7ff-f04c90abc55e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1396,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1396",
     "locations": [
       "Austin, TX"
     ],
@@ -20459,7 +20489,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-10T13:56:09.106722Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "5c8d0ded-4292-4bc3-847b-d136759a9a5d",
     "issue_number": 1217,
@@ -20467,7 +20498,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -21025,7 +21056,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-10T13:56:09.106722Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "5e14584d-3148-449a-b903-28b77771e883",
     "issue_number": 766,
@@ -21033,7 +21065,7 @@
     "locations": [
       "Houston, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -24310,6 +24342,33 @@
     "title": "Embedded Hardware Intern",
     "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151"
   },
+  "6f1a27e9-3515-4a43-a644-80dbddacc4bb": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Arizona State University",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-10T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-10T13:56:09.106722Z",
+    "id": "6f1a27e9-3515-4a43-a644-80dbddacc4bb",
+    "issue_number": 1407,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1407",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Student Web Developer & Content Specialist Intern",
+    "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Developer---Content-Specialist_R1546"
+  },
   "6f20b6b4-b84b-4ed7-b608-fffb1c6e5bc0": {
     "applied_at": null,
     "backfilled": false,
@@ -27327,8 +27386,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-10T07:28:52.074006Z",
     "id": "7d29e9a8-e116-43c5-a3b9-267f864cddfc",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1397,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1397",
     "locations": [
       "Pleasanton, CA"
     ],
@@ -31374,8 +31433,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-10T07:28:52.074006Z",
     "id": "9187fc2c-03e7-4644-8d01-d1d0a44fc73d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1398,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1398",
     "locations": [
       "Toronto, ON, Canada",
       "Vancouver, BC, Canada"
@@ -32135,8 +32194,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-10T07:28:52.074006Z",
     "id": "94a30c63-9e16-4706-b9bb-9713c9b0afd0",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1399,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1399",
     "locations": [
       "Vancouver, BC, Canada"
     ],
@@ -32696,8 +32755,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-10T07:28:52.074006Z",
     "id": "978157d4-2173-4f60-a1c7-5b7e4bab53ea",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1400,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1400",
     "locations": [
       "Ontario, Canada",
       "Waterloo, ON, Canada",
@@ -32975,7 +33034,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-10T13:56:09.106722Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "982c416c-c960-4efd-81a7-a87081597d80",
     "issue_number": 682,
@@ -32983,7 +33043,7 @@
     "locations": [
       "Rolling Meadows, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -33175,8 +33235,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-10T07:28:52.074006Z",
     "id": "99659b1b-083d-4434-963c-184b68a27b48",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1401,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1401",
     "locations": [
       "Garden Grove, CA"
     ],
@@ -35587,8 +35647,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-10T07:28:52.074006Z",
     "id": "a2992424-eba5-4abe-a57d-d8c6c12fc0ce",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1402,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1402",
     "locations": [
       "Vancouver, BC, Canada"
     ],
@@ -36485,7 +36545,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-10T13:56:09.106722Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T18:03:33.574791Z",
     "id": "a7373af1-154a-4460-accf-0f684091471b",
     "issue_number": 644,
@@ -36493,7 +36554,7 @@
     "locations": [
       "Milpitas, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -36513,7 +36574,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-10T13:56:09.106722Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-05T15:17:03.303367Z",
     "id": "a74310a0-f20c-47e3-a801-788c1fc295d6",
     "issue_number": 943,
@@ -36521,7 +36583,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -44478,6 +44540,34 @@
     "title": "Software Developer Intern - University",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249809"
   },
+  "ce67de6b-014f-45b0-8b18-54b623767679": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-09T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-10T13:56:09.106722Z",
+    "id": "ce67de6b-014f-45b0-8b18-54b623767679",
+    "issue_number": 1408,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1408",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineering Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467"
+  },
   "ce9d6556-a976-430c-baea-f3f22efbf0e1": {
     "applied_at": null,
     "backfilled": false,
@@ -44522,8 +44612,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-10T07:28:52.074006Z",
     "id": "cedb1575-2b84-471a-8de3-e8f8bb3be3ce",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1403,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1403",
     "locations": [
       "Boise, ID"
     ],
@@ -50101,7 +50191,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-10T13:56:09.106722Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "e58b01bd-a4bc-456f-b9b0-546a0288c6d3",
     "issue_number": 1152,
@@ -50110,7 +50201,7 @@
       "Marlborough, MA",
       "Tewksbury, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -51061,7 +51152,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-10T13:56:09.106722Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "e8c586d7-f281-4ffc-bd41-078c7158f059",
     "issue_number": 696,
@@ -51069,7 +51161,7 @@
     "locations": [
       "Morrisville, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -51859,8 +51951,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-10T07:28:52.074006Z",
     "id": "ed0e6ec5-7165-477e-8fba-4a7e20450a6f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1404,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1404",
     "locations": [
       "Liberty Lake, WA"
     ],
@@ -55947,8 +56039,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-10T07:28:52.074006Z",
     "id": "ffc142d8-54ce-4628-b359-7770b0566d0e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1405,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1405",
     "locations": [
       "Austin, TX"
     ],
