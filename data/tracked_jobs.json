@@ -6832,7 +6832,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-11T18:16:11.040066Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T02:17:41.169451Z",
     "id": "206b933c-d14d-4bf7-952c-895af8edc9ac",
     "issue_number": 956,
@@ -6841,7 +6842,7 @@
       "Milford, MI",
       "Warren, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -15759,7 +15760,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-11T18:16:11.040066Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "4913c550-8d67-43b2-b8e5-63063de8ada6",
     "issue_number": 1211,
@@ -15767,7 +15769,7 @@
     "locations": [
       "Warren, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -15927,7 +15929,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-11T18:16:11.040066Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "4a6e8ef4-3dae-4beb-a21a-7d28fe814b98",
     "issue_number": 1212,
@@ -15936,7 +15939,7 @@
       "Milford, MI",
       "Warren, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -31381,7 +31384,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-11T18:16:11.040066Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-10T01:16:06.398349Z",
     "id": "91251409-4b30-4f80-a849-57426b7a2c9c",
     "issue_number": 1373,
@@ -31389,7 +31393,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -31773,7 +31777,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-11T18:16:11.040066Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-08T23:15:16.038697Z",
     "id": "9336555d-472f-4804-b5f7-a1e52e004ac6",
     "issue_number": 1296,
@@ -31781,7 +31786,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -48231,7 +48236,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-11T18:16:11.040066Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-10T01:16:06.398349Z",
     "id": "dc5c3700-b9be-4f68-91f9-b1dc509c147b",
     "issue_number": 1385,
@@ -48239,7 +48245,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
