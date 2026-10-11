@@ -8663,7 +8663,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-11T13:18:23.155450Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T11:25:02.133676Z",
     "id": "278aa60f-1a49-4c26-8bcc-a2a44ca6e2ec",
     "issue_number": 178,
@@ -8672,7 +8673,7 @@
       "Campbell, CA",
       "NYC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -15332,7 +15333,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-11T13:18:23.155450Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T00:31:37.039261Z",
     "id": "466d606e-55bf-40df-ad34-e280d5969e79",
     "issue_number": 213,
@@ -15340,7 +15342,7 @@
     "locations": [
       "New Brunswick, NJ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Spring 2027",
@@ -24665,7 +24667,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-11T13:18:23.155450Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "7041f2db-7b76-4047-a3f8-ffe4cfe4d262",
     "issue_number": 1119,
@@ -24673,7 +24676,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -28836,6 +28839,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-11T13:18:23.155450Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "84093f11-2319-4e29-a63b-6c4a03dc4ee7",
@@ -28844,7 +28848,7 @@
     "locations": [
       "Palo Alto, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -38294,7 +38298,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-11T13:18:23.155450Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-08T23:15:16.038697Z",
     "id": "afaa987d-d54c-4cdc-8c41-ada69f27d011",
     "issue_number": 1303,
@@ -38302,7 +38307,7 @@
     "locations": [
       "McClellan Park, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -40281,7 +40286,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-11T13:18:23.155450Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "b8e998a3-d1d0-4dfe-a9fe-d72ab136f1f9",
     "issue_number": 1235,
@@ -40289,7 +40295,7 @@
     "locations": [
       "Trenton, NJ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
