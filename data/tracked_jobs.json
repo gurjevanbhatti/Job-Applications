@@ -29819,7 +29819,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-12T07:42:00.445152Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T02:17:41.169451Z",
     "id": "897af61a-be0c-4ac9-85ea-cf48d2aec386",
     "issue_number": 992,
@@ -29827,7 +29828,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -31342,6 +31343,34 @@
     ],
     "title": "Machine Learning Engineer Intern - Road Understanding",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746"
+  },
+  "9102f3b7-93b5-45dc-a78f-663455e6e36d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Tencent",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-11T00:00:00Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-12T07:42:00.445152Z",
+    "id": "9102f3b7-93b5-45dc-a78f-663455e6e36d",
+    "issue_number": 1412,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1412",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Data Science Intern",
+    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213"
   },
   "91247b54-ac3d-4bae-a026-d7d1b1f59880": {
     "applied_at": null,
@@ -40688,6 +40717,34 @@
     "title": "Entry-Level C++ Software Engineer Intern",
     "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085"
   },
+  "ba7ed36a-7da0-4b9e-bed8-8f369041684d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Bosch Home Comfort",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-12T06:06:41Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-12T07:42:00.445152Z",
+    "id": "ba7ed36a-7da0-4b9e-bed8-8f369041684d",
+    "issue_number": 1413,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1413",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Robotics Research Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154911489"
+  },
   "ba84059f-11a6-4121-a01d-1229ff58c1c9": {
     "applied_at": null,
     "backfilled": false,
@@ -42150,7 +42207,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-12T07:42:00.445152Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T15:58:07.505507Z",
     "id": "c0f389e5-99cf-4fb0-a67e-06d06d9a36b2",
     "issue_number": 1090,
@@ -42158,7 +42216,7 @@
     "locations": [
       "Madison, WI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -42905,7 +42963,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-12T07:42:00.445152Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T05:58:51.077756Z",
     "id": "c436ae49-cb5b-447d-9947-7f790cb0c8d9",
     "issue_number": 621,
@@ -42913,7 +42972,7 @@
     "locations": [
       "Menlo Park, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
