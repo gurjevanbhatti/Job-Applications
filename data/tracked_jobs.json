@@ -22825,6 +22825,35 @@
     "title": "Software Engineer Intern",
     "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501273"
   },
+  "68895e12-9a1f-4ca5-8dfb-b050f2ea8a43": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Google",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-12T14:18:41Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-12T17:01:07.360178Z",
+    "id": "68895e12-9a1f-4ca5-8dfb-b050f2ea8a43",
+    "issue_number": 1414,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1414",
+    "locations": [
+      "NYC",
+      "Sunnyvale, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Forward Deployed Engineer Intern",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958"
+  },
   "688fb9b4-365c-4e25-b93a-9c4d8abb8f59": {
     "applied_at": null,
     "backfilled": false,
@@ -26342,7 +26371,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-12T17:01:07.360178Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T19:32:41.513227Z",
     "id": "775d0857-7071-4787-81ca-b936613ab726",
     "issue_number": 1192,
@@ -26350,7 +26380,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -29920,6 +29950,33 @@
     ],
     "title": "Embedded Software Engineer Intern",
     "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950"
+  },
+  "89b2788a-307f-4b1d-b6cc-95f5495d7a89": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-12T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-12T17:01:07.360178Z",
+    "id": "89b2788a-307f-4b1d-b6cc-95f5495d7a89",
+    "issue_number": 1415,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1415",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282-1"
   },
   "89c95261-7ed7-445d-9298-4131cf049e2a": {
     "applied_at": null,
@@ -41820,7 +41877,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-12T17:01:07.360178Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "be7a85db-d805-4c2a-b5d3-9e65f0e50f15",
     "issue_number": 808,
@@ -41828,7 +41886,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -48843,6 +48901,33 @@
     "title": "Data & Analytics Consulting Intern",
     "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167540004"
   },
+  "df3768d8-aca4-41b1-bdc0-2874bc2151d2": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Crown Innovations",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-12T09:42:23Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-12T17:01:07.360178Z",
+    "id": "df3768d8-aca4-41b1-bdc0-2874bc2151d2",
+    "issue_number": 1416,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1416",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Intern",
+    "url": "https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144112445"
+  },
   "df3d7f78-b1f7-4efe-99d5-136648cb5d84": {
     "applied_at": null,
     "backfilled": false,
@@ -50378,7 +50463,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-12T17:01:07.360178Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-02T15:47:40.982724Z",
     "id": "e58ec8c1-6859-41aa-af05-4d0267eca597",
     "issue_number": 850,
@@ -50386,7 +50472,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -50998,7 +51084,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-12T17:01:07.360178Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "e7e5340d-7429-4968-a924-69f08afda503",
     "issue_number": 1153,
@@ -51006,7 +51093,7 @@
     "locations": [
       "Ann Arbor, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
