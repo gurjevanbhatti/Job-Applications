@@ -652,6 +652,36 @@
     "title": "Systems Engineer Intern",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01881158"
   },
+  "03a462fa-9718-48c0-a23a-12c1003d5c8d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Expedia Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-12T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-13T03:53:16.784108Z",
+    "id": "03a462fa-9718-48c0-a23a-12c1003d5c8d",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Seattle, WA",
+      "Austin, TX",
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Mobile Engineer Intern",
+    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306-1"
+  },
   "03a8913b-a007-4657-8f59-bc29a722beda": {
     "applied_at": null,
     "backfilled": false,
@@ -2343,6 +2373,35 @@
     ],
     "title": "AI Engineering Co-op",
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40808"
+  },
+  "0ad43f00-594b-4b01-876b-4b6f89a23b2e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Realty Income",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-12T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-13T03:53:16.784108Z",
+    "id": "0ad43f00-594b-4b01-876b-4b6f89a23b2e",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "San Diego, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026",
+      "Summer 2027"
+    ],
+    "title": "Technology Intern",
+    "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Technology-Intern---Multiple-Opportunities_R-100339"
   },
   "0adb2d84-b56e-47f1-b4ca-f0267547814c": {
     "applied_at": null,
@@ -5805,7 +5864,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-13T03:53:16.784108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-10T01:16:06.398349Z",
     "id": "1b33c845-07cb-4af5-b2c6-61e8d9510af2",
     "issue_number": 1352,
@@ -5813,7 +5873,7 @@
     "locations": [
       "Portland, OR"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -7951,6 +8011,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-13T03:53:16.784108Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "248dffa0-4755-4dbd-a127-1ac20357bca6",
@@ -7959,7 +8020,7 @@
     "locations": [
       "Conway, AR"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -9850,7 +9911,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-13T03:53:16.784108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-09T17:10:58.757879Z",
     "id": "2c3f5dd7-36fd-40f7-a178-66ba6ac4ffea",
     "issue_number": 1338,
@@ -9858,7 +9920,7 @@
     "locations": [
       "Dallas, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -16091,7 +16153,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-13T03:53:16.784108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "47ea17c5-d569-4f0f-9e06-9fb0a6790033",
     "issue_number": 754,
@@ -16099,7 +16162,7 @@
     "locations": [
       "Charlotte, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -18041,6 +18104,33 @@
     ],
     "title": "Software Engineer Intern - Energy Engineering",
     "url": "https://www.tesla.com/careers/search/job/283950"
+  },
+  "50be2257-187c-46a4-aedc-d35d1f37a185": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Schweitzer Engineering Laboratories",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-12T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-13T03:53:16.784108Z",
+    "id": "50be2257-187c-46a4-aedc-d35d1f37a185",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Boise, ID"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22958"
   },
   "5128ff22-0d67-4cac-b57c-437fd5ab220d": {
     "applied_at": null,
@@ -22665,8 +22755,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "62caaf3c-8790-4860-a95b-27666f834974",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1442,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1442",
     "locations": [
       "Santa Clara, CA"
     ],
@@ -22723,8 +22813,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "63568a2f-00b4-4b19-97a6-35eaaa8d2367",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1443,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1443",
     "locations": [
       "Phoenix, AZ"
     ],
@@ -24238,8 +24328,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "6b312831-205c-40b2-bb44-e02ee5c53de8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1444,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1444",
     "locations": [
       "Ann Arbor, MI"
     ],
@@ -24293,8 +24383,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "6b7cee21-6bc2-48ee-ae5b-6a9d9abab9e3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1445,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1445",
     "locations": [
       "Falls Church, VA"
     ],
@@ -25884,8 +25974,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "71dbd73f-4fbe-4df9-986b-c986496cf7c5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1446,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1446",
     "locations": [
       "Mason, OH"
     ],
@@ -26163,8 +26253,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "728bca38-c0a6-4b60-baa5-ecc12a0cb932",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1447,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1447",
     "locations": [
       "Kanata, Ottawa, ON, Canada"
     ],
@@ -27213,8 +27303,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "772c0e61-65f5-403e-8737-69e4486960d5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1448,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1448",
     "locations": [
       "Pennsylvania"
     ],
@@ -27352,8 +27442,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "784b5f74-a3d4-4c11-bd1b-374e89e11e58",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1449,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1449",
     "locations": [
       "Warren, MI"
     ],
@@ -28712,8 +28802,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "7f3fadd1-4c8b-404a-9792-1d8ad16fd265",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1450,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1450",
     "locations": [
       "Austin, TX"
     ],
@@ -29005,6 +29095,36 @@
     ],
     "title": "Data Scientist Intern - Fiber Engineering & Operations",
     "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386"
+  },
+  "811e791b-0d29-4d96-91a5-b3046f372674": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Expedia Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-12T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-13T03:53:16.784108Z",
+    "id": "811e791b-0d29-4d96-91a5-b3046f372674",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Seattle, WA",
+      "Austin, TX",
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Development Engineer Intern",
+    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311-1"
   },
   "8120fc44-373b-4776-a9f9-c08c4a7fa35d": {
     "applied_at": null,
@@ -30527,8 +30647,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "885c31c2-b9cf-41f2-be56-c1727400c1da",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1451,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1451",
     "locations": [
       "Falls Church, VA"
     ],
@@ -31058,8 +31178,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "8a7c2086-8c95-4a79-9b9e-433050b10788",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1452,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1452",
     "locations": [
       "Cedar Rapids, IA"
     ],
@@ -31127,6 +31247,34 @@
     ],
     "title": "Associate Product Manager Intern",
     "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002"
+  },
+  "8ab72468-1cea-4680-a6b4-0f4ac1744e1a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Astera Labs",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-13T01:07:30Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-13T03:53:16.784108Z",
+    "id": "8ab72468-1cea-4680-a6b4-0f4ac1744e1a",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Analog/Mixed Signal System Test Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005"
   },
   "8ae81b2e-5edf-4abd-a7bb-22ca99648273": {
     "applied_at": null,
@@ -31979,8 +32127,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "8e3330e9-1267-45f5-8a01-d7176af93f96",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1453,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1453",
     "locations": [
       "Tucson, AZ"
     ],
@@ -32396,8 +32544,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "90b46656-655e-4002-b29e-4cd358328a8e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1454,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1454",
     "locations": [
       "Seattle, WA",
       "Austin, TX",
@@ -33748,8 +33896,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "965d9d0a-6d28-4b11-877b-698242e3b2d3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1455,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1455",
     "locations": [
       "Parsippany-Troy Hills, NJ"
     ],
@@ -34941,8 +35089,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "9b2b1358-6a3c-48e5-afa1-219bc271af07",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1456,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1456",
     "locations": [
       "Ann Arbor, MI"
     ],
@@ -35023,8 +35171,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "9ba04a62-bce1-4e8e-9029-48979b8e443a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1457,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1457",
     "locations": [
       "Aurora, CO"
     ],
@@ -35163,8 +35311,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "9c64ea05-ef86-4f4e-a20c-74a25b071a10",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1458,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1458",
     "locations": [
       "Austin, TX"
     ],
@@ -35590,8 +35738,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "9d869222-f96c-43a5-8aae-4150d28e05af",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1459,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1459",
     "locations": [
       "Parsippany-Troy Hills, NJ"
     ],
@@ -36323,8 +36471,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "9fe5cb59-10c4-44a8-80e4-6cb6542c2889",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1460,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1460",
     "locations": [
       "Kanata, Ottawa, ON, Canada"
     ],
@@ -36473,6 +36621,35 @@
     ],
     "title": "Software Engineer Co-op",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739"
+  },
+  "a0cbd2f3-6e67-4bfa-9e70-7c35bd897cff": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-12T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-13T03:53:16.784108Z",
+    "id": "a0cbd2f3-6e67-4bfa-9e70-7c35bd897cff",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "title": "Electrical Engineer Co-op",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineer-Co-Op--Summer-Fall-2027-_01873470"
   },
   "a0d1ae40-cc95-41c1-b7b0-1b9c30b2ce8a": {
     "applied_at": null,
@@ -36669,6 +36846,33 @@
     ],
     "title": "Data Analytics & Insights Intern Co-op",
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-op--Winter-2027-_R_1513914"
+  },
+  "a13245a8-c3d3-4790-9835-386cfb36742e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GAF",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-12T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-13T03:53:16.784108Z",
+    "id": "a13245a8-c3d3-4790-9835-386cfb36742e",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Parsippany-Troy Hills, NJ"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "IT Data Analytics Intern",
+    "url": "https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/IT-Data-Analytics-Intern_26422"
   },
   "a1324c8d-f859-49dc-8ba8-d7b1259b054e": {
     "applied_at": null,
@@ -37595,8 +37799,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "a5a56d2e-e396-48fb-a44e-ddd1461cf086",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1461,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1461",
     "locations": [
       "Franklin, TN"
     ],
@@ -38295,8 +38499,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "a8a98251-a69d-4ce6-a139-e90ed9636073",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1462,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1462",
     "locations": [
       "Roseville, CA"
     ],
@@ -39194,8 +39398,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "ad04fe43-1999-4f2e-b16a-2420d5395dfe",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1463,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1463",
     "locations": [
       "Charlotte, NC"
     ],
@@ -39423,8 +39627,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "aea07001-c82a-489e-acfd-63739fbbbb08",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1464,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1464",
     "locations": [
       "Rosemont, IL"
     ],
@@ -40730,8 +40934,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "b45b9da0-cc0f-4e38-a00f-91d59ef8fd73",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1465,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1465",
     "locations": [
       "Grand Rapids, MI",
       "Southfield, MI",
@@ -42900,6 +43104,36 @@
     "title": "Software Engineering Co-op",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726"
   },
+  "bce02604-8033-424f-83ad-bc2253ce0840": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "American Family Insurance Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-12T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-13T03:53:16.784108Z",
+    "id": "bce02604-8033-424f-83ad-bc2253ce0840",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Madison, WI",
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Application Development Intern - Application Development",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Application-Development--Hybrid-_R39458"
+  },
   "bd67b0ae-4054-4285-a5c6-d177c44acd54": {
     "applied_at": null,
     "backfilled": true,
@@ -43363,8 +43597,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "bf2a73c1-b34b-4153-805d-6d8f185ae0de",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1466,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1466",
     "locations": [
       "Grand Rapids, MI",
       "Southfield, MI",
@@ -45932,6 +46166,34 @@
     ],
     "title": "Data Science Intern",
     "url": "https://koch.avature.net/en_US/careers/JobDetail/195341"
+  },
+  "cc8e42c1-1ad7-4a31-baee-ff8bf0e5dba8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Astera Labs",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-13T01:07:30Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-13T03:53:16.784108Z",
+    "id": "cc8e42c1-1ad7-4a31-baee-ff8bf0e5dba8",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Analog/Mixed-Signal IC Design Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005"
   },
   "ccb4ec66-4171-4da4-883b-e8d9465464ac": {
     "applied_at": null,
@@ -50149,7 +50411,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-13T03:53:16.784108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T00:39:17.059022Z",
     "id": "dc8b6b01-6bdc-4f5b-ba9e-1e07e8968f70",
     "issue_number": 599,
@@ -50157,7 +50420,7 @@
     "locations": [
       "St. John's, NL, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -55548,7 +55811,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-13T03:53:16.784108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-08T23:15:16.038697Z",
     "id": "f47413a2-57f3-47b6-bf52-f5fe59da4e45",
     "issue_number": 1316,
@@ -55556,7 +55820,7 @@
     "locations": [
       "Irving, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -56838,6 +57102,33 @@
     ],
     "title": "Product Management Advisor Intern",
     "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Management-Advisor-Intern_R0121653"
+  },
+  "fa83958a-99f4-4d30-87ef-ddc825b7e1ae": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Azul Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-13T01:09:23Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-13T03:53:16.784108Z",
+    "id": "fa83958a-99f4-4d30-87ef-ddc825b7e1ae",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "IT Intern \u2013 AI and Operations",
+    "url": "https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db/apply"
   },
   "fad9fce5-3ae4-4bc8-b290-7a858a041a0a": {
     "applied_at": null,
