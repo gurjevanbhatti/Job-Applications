@@ -1234,7 +1234,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T21:15:22.009953Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "05c29d98-1be6-40fd-a754-fa374b2a3774",
     "issue_number": 28,
@@ -1242,7 +1243,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -9614,7 +9615,8 @@
       "Master's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T21:15:22.009953Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "27c7b2da-9496-41b2-9789-0dbc38114638",
     "issue_number": 1426,
@@ -9622,7 +9624,7 @@
     "locations": [
       "Falls Church, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -11792,7 +11794,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T21:15:22.009953Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T02:17:41.169451Z",
     "id": "31cc6d53-82a9-4c54-b9da-84406b320237",
     "issue_number": 962,
@@ -11800,7 +11803,7 @@
     "locations": [
       "Indianapolis, IN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -20764,7 +20767,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T21:15:22.009953Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T18:48:25.780943Z",
     "id": "56176872-3480-423d-9dd5-9d705a881462",
     "issue_number": 278,
@@ -20777,7 +20781,7 @@
       "Binghamton, NY",
       "Buffalo, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
