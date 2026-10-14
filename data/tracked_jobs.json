@@ -7891,6 +7891,36 @@
     "title": "Data Scientist Co-op",
     "url": "https://job-boards.greenhouse.io/momentenergy/jobs/4421775009"
   },
+  "22830755-c5a1-4259-baed-bbd862daa791": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Tenstorrent",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-14T09:02:18Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-14T12:51:58.822714Z",
+    "id": "22830755-c5a1-4259-baed-bbd862daa791",
+    "issue_number": 1584,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1584",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Systems Intern - Multiple Teams",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007"
+  },
   "229689bf-b48d-4ba7-876d-c683215799d0": {
     "applied_at": null,
     "backfilled": false,
@@ -9807,7 +9837,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T12:51:58.822714Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "2913f51c-b047-4d51-9c43-d25fb9b7f7f0",
     "issue_number": 1427,
@@ -9815,7 +9846,7 @@
     "locations": [
       "Schaumburg, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -33063,7 +33094,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T12:51:58.822714Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T06:01:40.436533Z",
     "id": "8bc66f1e-97cf-452d-b8ff-de662e473691",
     "issue_number": 165,
@@ -33073,7 +33105,7 @@
       "The Woodlands, TX",
       "Little Rock, AR"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -56800,7 +56832,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T12:51:58.822714Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "ecf95502-69a2-4794-8e31-ac3ffc9a0b8f",
     "issue_number": 1155,
@@ -56808,7 +56841,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -59946,6 +59979,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-14T12:51:58.822714Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "fb558c48-2236-4414-8b4a-bfdb26b31409",
@@ -59954,7 +59988,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
