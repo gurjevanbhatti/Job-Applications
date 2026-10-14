@@ -1810,6 +1810,34 @@
     "title": "Supplier Process Engineer Co-op",
     "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298595"
   },
+  "08348ecb-6917-4687-aa67-6d71cdd2be04": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "KION Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-14T17:45:46.491669Z",
+    "id": "08348ecb-6917-4687-aa67-6d71cdd2be04",
+    "issue_number": 1585,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1585",
+    "locations": [
+      "Grand Rapids, MI",
+      "Wauwatosa, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732"
+  },
   "084d6f5d-6737-409a-9864-db2d5fb418c4": {
     "applied_at": null,
     "backfilled": false,
@@ -2653,6 +2681,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-14T17:45:46.491669Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "0b2f3c82-2d4d-43f4-a00c-a4f3cf62a217",
@@ -2661,7 +2690,7 @@
     "locations": [
       "Raleigh, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -5555,7 +5584,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T17:45:46.491669Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-09T17:10:58.757879Z",
     "id": "18bad5bf-089e-4921-991f-09e20254da1d",
     "issue_number": 1335,
@@ -5563,7 +5593,7 @@
     "locations": [
       "Champaign, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -6460,7 +6490,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T17:45:46.491669Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T09:12:26.011373Z",
     "id": "1c419947-956c-474c-b688-7c5fecc0c2ca",
     "issue_number": 1028,
@@ -6470,7 +6501,7 @@
       "Arlington County, Arlington, VA",
       "San Diego, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -8355,6 +8386,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-14T17:45:46.491669Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "23eccfe8-4364-45b3-a8ef-cb8127b89e2c",
@@ -8363,7 +8395,7 @@
     "locations": [
       "Parsippany-Troy Hills, NJ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -16165,6 +16197,35 @@
     "title": "SRAM Software Engineer Intern",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760"
   },
+  "42f5973e-2aff-404f-84c2-f2aaba6998d1": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GE Vernova",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-14T17:45:46.491669Z",
+    "id": "42f5973e-2aff-404f-84c2-f2aaba6998d1",
+    "issue_number": 1586,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1586",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Post-Training and Model Alignment Intern",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2"
+  },
   "430ed618-501d-4c53-ba90-e19adb770e58": {
     "applied_at": null,
     "backfilled": true,
@@ -16648,6 +16709,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-14T17:45:46.491669Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "4552c6b4-8bda-4519-9764-dcd28af299cf",
@@ -16656,7 +16718,7 @@
     "locations": [
       "Parsippany-Troy Hills, NJ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -17696,7 +17758,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T17:45:46.491669Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "4bad26ec-b922-4992-b057-7e08001e70a9",
     "issue_number": 756,
@@ -17704,7 +17767,7 @@
     "locations": [
       "United States"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -19902,6 +19965,35 @@
     "title": "Software Developer Co-op - Software Developer",
     "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Software-Developer--4-8-Months_R-0000184501-3"
   },
+  "52d27012-e8f4-44a4-a41e-6b12bff77a14": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GE Vernova",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-14T17:45:46.491669Z",
+    "id": "52d27012-e8f4-44a4-a41e-6b12bff77a14",
+    "issue_number": 1587,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1587",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Evaluation & Benchmarking Intern - AGI",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-1"
+  },
   "52fc1b33-8804-46c4-866a-ae0a49c0a920": {
     "applied_at": null,
     "backfilled": true,
@@ -20053,7 +20145,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T17:45:46.491669Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-09T17:10:58.757879Z",
     "id": "5324f558-2578-41cd-af4f-40087ac7ea7b",
     "issue_number": 1340,
@@ -20061,7 +20154,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -21381,7 +21474,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T17:45:46.491669Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T02:17:41.169451Z",
     "id": "5880290d-76ca-4275-a87f-5c15736fcf49",
     "issue_number": 973,
@@ -21389,7 +21483,7 @@
     "locations": [
       "Hazelwood, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -25882,6 +25976,40 @@
     "title": "Software Engineer Intern - FIS University Program",
     "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512"
   },
+  "6c74498a-09f5-4f4d-8cbc-8697e435f29d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Johnson & Johnson",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-14T17:45:46.491669Z",
+    "id": "6c74498a-09f5-4f4d-8cbc-8697e435f29d",
+    "issue_number": 1588,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1588",
+    "locations": [
+      "Boston, MA",
+      "Barcelona, Spain",
+      "Spring House, PA",
+      "New Brunswick, NJ",
+      "Madrid, Spain",
+      "NYC",
+      "High Wycombe, UK"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "AI/ML/Data Science Intern",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/AI-ML-Data-Science-Intern_R-104697"
+  },
   "6cc1324d-857f-49fa-89d0-5499ccbfa78b": {
     "applied_at": null,
     "backfilled": false,
@@ -28067,6 +28195,35 @@
     ],
     "title": "Data Pipeline / Splunk Engineer Intern",
     "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193992"
+  },
+  "74ab41ac-2b49-458f-98f3-d3c4172f9e1f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GE Vernova",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-14T17:45:46.491669Z",
+    "id": "74ab41ac-2b49-458f-98f3-d3c4172f9e1f",
+    "issue_number": 1589,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1589",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Evaluation & Benchmarking Intern",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2"
   },
   "74c29392-8eab-44f0-a1ae-0bb1d66ec96f": {
     "applied_at": null,
@@ -32186,7 +32343,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T17:45:46.491669Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T09:12:26.011373Z",
     "id": "881872b3-5779-4104-a358-a391a551b338",
     "issue_number": 1052,
@@ -32194,7 +32352,7 @@
     "locations": [
       "Mt Laurel Township, NJ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -39250,6 +39408,35 @@
     "title": "Product Management Intern",
     "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Product-Management--Winter-2027-_26WD101442-2"
   },
+  "a42bb64b-5118-4414-b5bb-ebe063b71b10": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GE Vernova",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-14T17:45:46.491669Z",
+    "id": "a42bb64b-5118-4414-b5bb-ebe063b71b10",
+    "issue_number": 1590,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1590",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Power System Intern",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-2"
+  },
   "a4432340-1e42-4079-be3e-d590b4a323ec": {
     "applied_at": null,
     "backfilled": true,
@@ -42179,6 +42366,33 @@
     "title": "SCS Commercial Strategy & Growth Intern",
     "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-1"
   },
+  "b135be7e-bf73-4526-9c91-0158ffed7bce": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Parsons",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-14T17:45:46.491669Z",
+    "id": "b135be7e-bf73-4526-9c91-0158ffed7bce",
+    "issue_number": 1591,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1591",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299"
+  },
   "b15a4185-e784-44e5-a958-a5b71658fc15": {
     "applied_at": null,
     "backfilled": false,
@@ -43309,7 +43523,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T17:45:46.491669Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T15:58:07.505507Z",
     "id": "b685eb9a-3c67-46fe-b44d-24dc58e134a4",
     "issue_number": 1088,
@@ -43317,7 +43532,7 @@
     "locations": [
       "Duluth, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -47136,7 +47351,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-14T17:45:46.491669Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "c61201f4-b86e-4bb7-b84f-193387bd5c65",
     "issue_number": 1550,
@@ -47146,7 +47362,7 @@
       "Schaumburg, IL",
       "Illinois"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -53417,6 +53633,35 @@
     "title": "Data Engineer Intern - Data Engineering & Business Intelligence",
     "url": "https://www.tesla.com/careers/search/job/285291"
   },
+  "dfc6d5d9-fa48-468c-999b-1116299c47c2": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GE Vernova",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-14T17:45:46.491669Z",
+    "id": "dfc6d5d9-fa48-468c-999b-1116299c47c2",
+    "issue_number": 1592,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1592",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Post-Training and Model Alignment Intern",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1"
+  },
   "dfc7a1cd-bf8f-4cd5-8d69-b87cf833ec72": {
     "applied_at": null,
     "backfilled": false,
@@ -53671,6 +53916,35 @@
     ],
     "title": "Software Engineer Intern Co-op - Product Lifecycle Management",
     "url": "https://careers.rivian.com/jobs/33746?icims=1"
+  },
+  "e03ff208-7120-46eb-9f94-cf23a4aa840e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GE Vernova",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-14T17:45:46.491669Z",
+    "id": "e03ff208-7120-46eb-9f94-cf23a4aa840e",
+    "issue_number": 1593,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1593",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Grid Foundational Models Intern - AGI",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3"
   },
   "e040bce8-cb7a-4395-ae5a-4bd67a686445": {
     "applied_at": null,
@@ -58664,6 +58938,34 @@
     ],
     "title": "Software Developer Intern - University",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249805"
+  },
+  "f61cb2b1-1f8c-4df4-b629-ac92ac784f82": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "KION Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-14T17:45:46.491669Z",
+    "id": "f61cb2b1-1f8c-4df4-b629-ac92ac784f82",
+    "issue_number": 1594,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1594",
+    "locations": [
+      "Grand Rapids, MI",
+      "Wauwatosa, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732-1"
   },
   "f6413b47-1d7a-4997-ab15-c9c87ae04152": {
     "applied_at": null,
