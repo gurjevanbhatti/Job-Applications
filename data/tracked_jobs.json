@@ -5385,7 +5385,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T18:29:03.110419Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-05T00:54:53.569587Z",
     "id": "16856e96-3bd9-4fee-85e4-ed92164905ae",
     "issue_number": 928,
@@ -5393,7 +5394,7 @@
     "locations": [
       "Schaumburg, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -5608,7 +5609,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T18:29:03.110419Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T09:12:26.011373Z",
     "id": "1748e528-227f-4607-81ef-3e2b89c74a28",
     "issue_number": 1026,
@@ -5616,7 +5618,7 @@
     "locations": [
       "San Jose, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -7738,6 +7740,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-15T18:29:03.110419Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "1fd55c35-12bd-4a17-bcff-319013a0ddf5",
@@ -7746,7 +7749,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -9405,6 +9408,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-15T18:29:03.110419Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "26b3de5f-72c0-4567-8e63-fac11ea93bff",
@@ -9413,7 +9417,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -19841,6 +19845,34 @@
     "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539"
   },
+  "5006bca9-5a65-4bba-ae3e-89a860ed29ad": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Deloitte",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-15T14:35:07Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-15T18:29:03.110419Z",
+    "id": "5006bca9-5a65-4bba-ae3e-89a860ed29ad",
+    "issue_number": 1667,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1667",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Audit & Assurance Intern - Valuation & Analytics",
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Valuation-Analytics-Winter-2027/361853"
+  },
   "50204bff-aada-4d6c-9b56-96f727f6bddc": {
     "applied_at": null,
     "backfilled": false,
@@ -23674,6 +23706,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-15T18:29:03.110419Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "5d469294-b2e6-427c-b2dd-8da3dad68eee",
@@ -23682,7 +23715,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -26652,7 +26685,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T18:29:03.110419Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "6b7cee21-6bc2-48ee-ae5b-6a9d9abab9e3",
     "issue_number": 1445,
@@ -26660,7 +26694,7 @@
     "locations": [
       "Falls Church, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -30088,7 +30122,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T18:29:03.110419Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T18:25:46.334388Z",
     "id": "78bdfaa5-c862-4fd6-82c5-58458a87eabf",
     "issue_number": 1509,
@@ -30096,7 +30131,7 @@
     "locations": [
       "Hampton, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -33408,7 +33443,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T18:29:03.110419Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "885c31c2-b9cf-41f2-be56-c1727400c1da",
     "issue_number": 1451,
@@ -33416,7 +33452,7 @@
     "locations": [
       "Falls Church, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -33712,7 +33748,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T18:29:03.110419Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "8979d060-2c5b-44d4-9801-4d95ce44a26f",
     "issue_number": 91,
@@ -33720,7 +33757,7 @@
     "locations": [
       "O'Fallon, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -40812,6 +40849,34 @@
     "title": "Government Programs Network Intern",
     "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Government-Programs-Network_JR101489-1"
   },
+  "a4a4b9ce-2dc8-4dbf-9f01-4db345c9fcd7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "LSEG",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-15T00:00:00Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-15T18:29:03.110419Z",
+    "id": "a4a4b9ce-2dc8-4dbf-9f01-4db345c9fcd7",
+    "issue_number": 1668,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1668",
+    "locations": [
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Quant Analyst Intern",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Quant-Analyst_R0123224"
+  },
   "a4acdb05-a0e2-422c-b3fd-249925d03ea8": {
     "applied_at": null,
     "backfilled": false,
@@ -45196,6 +45261,34 @@
     ],
     "title": "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance",
     "url": "https://lifeattiktok.com/search/7694360101507762485"
+  },
+  "b7b016e9-8f7b-4690-9e09-20381c2d0342": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Motorola Solutions",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-15T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-15T18:29:03.110419Z",
+    "id": "b7b016e9-8f7b-4690-9e09-20381c2d0342",
+    "issue_number": 1669,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1669",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Electronics Design Co-op",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design-Co-Op_R69811"
   },
   "b7be327f-10fa-4775-8a1c-183ea4b062ce": {
     "applied_at": null,
@@ -50508,7 +50601,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T18:29:03.110419Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-10T07:28:52.074006Z",
     "id": "cedb1575-2b84-471a-8de3-e8f8bb3be3ce",
     "issue_number": 1403,
@@ -50516,7 +50610,7 @@
     "locations": [
       "Boise, ID"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -50926,7 +51020,8 @@
       "Bachelor's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T18:29:03.110419Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "d08dd87d-40ca-4a83-836d-c5003f3f8cc8",
     "issue_number": 1639,
@@ -50934,7 +51029,7 @@
     "locations": [
       "San Antonio, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -54071,7 +54166,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T18:29:03.110419Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "da7d3279-c791-439f-9eef-0970e4a0d0cb",
     "issue_number": 1553,
@@ -54079,7 +54175,7 @@
     "locations": [
       "Milpitas, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -58236,6 +58332,34 @@
     "title": "Analysis Intern Co-op",
     "url": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Philadelphia-PA/Student--Drexel-Co-Op_REQ-0037416"
   },
+  "e99712c5-59cd-459b-98d7-7a0e135127da": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Symbotic",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-15T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-15T18:29:03.110419Z",
+    "id": "e99712c5-59cd-459b-98d7-7a0e135127da",
+    "issue_number": 1670,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1670",
+    "locations": [
+      "Wilmington, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Robot Manipulation Co-op",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Robot-Manipulation_R8257"
+  },
   "e99b784e-8115-4c4d-a6d5-084115592c66": {
     "applied_at": null,
     "backfilled": false,
@@ -58973,6 +59097,34 @@
     ],
     "title": "People Analytics Intern",
     "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033"
+  },
+  "ed30d6d7-5570-45a3-abec-96d92e44b388": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Deloitte",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-15T14:35:07Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-15T18:29:03.110419Z",
+    "id": "ed30d6d7-5570-45a3-abec-96d92e44b388",
+    "issue_number": 1671,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1671",
+    "locations": [
+      "LA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Audit & Assurance Intern - AI and Data Science",
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857"
   },
   "ed9c9453-52b1-4241-ac91-0065c19d9baf": {
     "applied_at": null,
@@ -60125,7 +60277,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T18:29:03.110419Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "f1a75938-3a7f-4507-b0b9-d2e5f9932f37",
     "issue_number": 141,
@@ -60133,7 +60286,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -62231,6 +62384,34 @@
     ],
     "title": "Claims Intern - Data",
     "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Data-_R6552-1"
+  },
+  "fb42ad3c-f69a-42ba-b790-411847657113": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Draper",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-15T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-15T18:29:03.110419Z",
+    "id": "fb42ad3c-f69a-42ba-b790-411847657113",
+    "issue_number": 1672,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1672",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Integrated Circuit Intern",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR003036"
   },
   "fb45fa75-a012-436e-948a-62c6eb99715d": {
     "applied_at": null,
