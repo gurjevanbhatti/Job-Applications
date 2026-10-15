@@ -17830,7 +17830,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T14:18:03.486039Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T11:22:42.469222Z",
     "id": "477479e1-4853-4810-823b-f0882a016745",
     "issue_number": 1499,
@@ -17838,7 +17839,7 @@
     "locations": [
       "Falls Church, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -29778,7 +29779,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T14:18:03.486039Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "772c0e61-65f5-403e-8737-69e4486960d5",
     "issue_number": 1448,
@@ -29786,7 +29788,7 @@
     "locations": [
       "Pennsylvania"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -33515,7 +33517,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T14:18:03.486039Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "891648a3-4448-4a46-8766-35e298d86a6e",
     "issue_number": 1541,
@@ -33523,7 +33526,7 @@
     "locations": [
       "Allentown, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -33851,7 +33854,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T14:18:03.486039Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T17:01:07.360178Z",
     "id": "89b2788a-307f-4b1d-b6cc-95f5495d7a89",
     "issue_number": 1415,
@@ -33859,7 +33863,7 @@
     "locations": [
       "Tucson, AZ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -34915,7 +34919,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T14:18:03.486039Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "8e3330e9-1267-45f5-8a01-d7176af93f96",
     "issue_number": 1453,
@@ -34923,7 +34928,7 @@
     "locations": [
       "Tucson, AZ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -39827,7 +39832,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T14:18:03.486039Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T03:53:16.784108Z",
     "id": "a0cbd2f3-6e67-4bfa-9e70-7c35bd897cff",
     "issue_number": 1489,
@@ -39835,7 +39841,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027",
       "Fall 2027"
@@ -49145,6 +49151,7 @@
     "degrees": [
       "Master's"
     ],
+    "expired_at": "2026-10-15T14:18:03.486039Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "c77797e7-41f1-4224-9711-d6f08c7a8176",
@@ -49153,7 +49160,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -55325,7 +55332,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T14:18:03.486039Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-08T17:59:51.716262Z",
     "id": "dfc7a1cd-bf8f-4cd5-8d69-b87cf833ec72",
     "issue_number": 1269,
@@ -55333,7 +55341,7 @@
     "locations": [
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
