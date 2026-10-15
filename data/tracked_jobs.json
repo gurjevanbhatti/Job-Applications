@@ -5127,6 +5127,34 @@
     "title": "VLSI Design Verification Intern",
     "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Design-Verification-Internship_1213400"
   },
+  "15c6a273-873e-4b66-ad2d-52b5e8db3043": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Rockwell Automation",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-15T04:36:03.721668Z",
+    "id": "15c6a273-873e-4b66-ad2d-52b5e8db3043",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Chelmsford, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "title": "Electrical Engineer Co-op",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706-1"
+  },
   "160dce7d-d418-4675-8ae3-901527a5de03": {
     "applied_at": null,
     "backfilled": true,
@@ -8019,7 +8047,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T04:36:03.721668Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "2216540f-0c95-48ab-9ac1-9a2581596dce",
     "issue_number": 1104,
@@ -8027,7 +8056,7 @@
     "locations": [
       "Seattle, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -12139,6 +12168,34 @@
     ],
     "title": "Model Risk Governance & Validation Intern",
     "url": "https://career-schwab.icims.com/jobs/126262/job?mobile=true&needsRedirect=false"
+  },
+  "316cfbb8-4b14-4903-b22f-b5d43306650c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Rockwell Automation",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-15T04:36:03.721668Z",
+    "id": "316cfbb8-4b14-4903-b22f-b5d43306650c",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Test Engineering Intern",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553"
   },
   "31a0fc19-0802-4ac8-8ade-8e82adc4d1a9": {
     "applied_at": null,
@@ -21198,6 +21255,34 @@
     "title": "Data Engineer Co-op",
     "url": "https://job-boards.greenhouse.io/foundenergy/jobs/4719227006"
   },
+  "554a8d6f-461f-46af-a16c-958c34f78906": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "General Motors",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-15T04:36:03.721668Z",
+    "id": "554a8d6f-461f-46af-a16c-958c34f78906",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410"
+  },
   "5562454d-b04d-48f2-819f-22c84cd26c2c": {
     "applied_at": null,
     "backfilled": false,
@@ -26210,8 +26295,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "6a52bbeb-8e4d-4bdc-a47d-146909ee1af7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1620,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1620",
     "locations": [
       "Seattle, WA"
     ],
@@ -28791,8 +28876,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "741a3736-0994-46fa-a2e1-80cd78dc6722",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1621,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1621",
     "locations": [
       "Pittsburgh, PA"
     ],
@@ -29384,8 +29469,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "7667ab73-65ee-42b0-96d1-cbf12853d654",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1622,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1622",
     "locations": [
       "Champaign, IL"
     ],
@@ -29698,8 +29783,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "77d8fe89-cf3c-44d0-bb1b-617d54c2e182",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1623,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1623",
     "locations": [
       "West Des Moines, IA"
     ],
@@ -32015,8 +32100,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "82b9b534-5821-4221-a411-921d4751ae32",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1624,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1624",
     "locations": [
       "Mason, OH"
     ],
@@ -32989,7 +33074,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-15T04:36:03.721668Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "876c9bab-5273-42b9-94c4-323238fbe1a8",
     "issue_number": 1224,
@@ -32997,7 +33083,7 @@
     "locations": [
       "Raleigh, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -34902,6 +34988,34 @@
     "title": "Applied Science Intern",
     "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Applied-Science-Intern---Masters---2027---Austin--San-Jose--Seattle_R-110379"
   },
+  "8efc5434-3c49-410a-90f6-5f6124037e2b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "General Motors",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Master's",
+      "MBA"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-15T04:36:03.721668Z",
+    "id": "8efc5434-3c49-410a-90f6-5f6124037e2b",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product Management Intern - Vehicle Autonomy",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449"
+  },
   "8f0d6c7d-782e-4a89-ac98-ead97c6d0633": {
     "applied_at": null,
     "backfilled": false,
@@ -35113,8 +35227,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "90438a15-7320-4a5c-9809-6a3af8f144b3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1625,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1625",
     "locations": [
       "Ottawa, ON, Canada"
     ],
@@ -35730,8 +35844,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "92df1c73-b83b-4d1f-9366-ef07d2fa6bd7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1626,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1626",
     "locations": [
       "Atlanta, GA"
     ],
@@ -35789,8 +35903,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "92e9545b-71c8-4dda-aea6-8cfaf7374068",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1627,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1627",
     "locations": [
       "Reston, VA"
     ],
@@ -36423,6 +36537,33 @@
     ],
     "title": "Data Analytics Intern",
     "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Data-Analytics-Intern-Summer-2027_R0190389"
+  },
+  "9502dcc3-6ca9-499c-8b33-b8fc0cb96b60": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-15T04:36:03.721668Z",
+    "id": "9502dcc3-6ca9-499c-8b33-b8fc0cb96b60",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Saint-Hubert, Longueuil, QC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Repair & Overhaul Customer Solutions Group Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage-Hiver-2027---Groupe-Solutions-Client--Rparation-et-Rvision-----Internship-Winter-2027---Repair---Overhaul-Customer-Solutions-Group-_01867393-1"
   },
   "9513cd12-01dd-4e85-99be-9b990a943ae9": {
     "applied_at": null,
@@ -37553,8 +37694,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "99d9f40c-43fa-4ed7-9813-99c784ef3e43",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1628,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1628",
     "locations": [
       "Hopewell Junction, NY"
     ],
@@ -37980,6 +38121,34 @@
     "title": "Value Based Operations Analyst Intern - Spring 2027",
     "url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Remote-LA/CW-Value-Based-Operations-Analyst-Intern--Spring-2027-_R12138"
   },
+  "9ba037f5-1b2b-4904-a711-458c06bb1fd3": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Rockwell Automation",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-15T04:36:03.721668Z",
+    "id": "9ba037f5-1b2b-4904-a711-458c06bb1fd3",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Chelmsford, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "title": "Electrical Engineer Co-op",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706"
+  },
   "9ba04a62-bce1-4e8e-9029-48979b8e443a": {
     "applied_at": null,
     "backfilled": false,
@@ -38054,8 +38223,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "9bd3bc29-77ef-440c-9c59-3f852606c72c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1629,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1629",
     "locations": [
       "Boston, MA"
     ],
@@ -41332,8 +41501,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "a82e8f66-23ec-4c7e-a091-3b34f4635e0f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1630,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1630",
     "locations": [
       "Florham Park, NJ"
     ],
@@ -42993,8 +43162,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "af90df40-7750-4ed6-bbb9-dec33e43d333",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1631,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1631",
     "locations": [
       "New Berlin, WI"
     ],
@@ -43160,8 +43329,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "b0226d52-6b25-4b8e-a451-6b06c628f659",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1632,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1632",
     "locations": [
       "Seattle, WA"
     ],
@@ -44424,6 +44593,34 @@
     "title": "Software Development Engineer Intern",
     "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311"
   },
+  "b5c82d6a-e2fe-4495-9700-19dfe4ae3422": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Rockwell Automation",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-15T04:36:03.721668Z",
+    "id": "b5c82d6a-e2fe-4495-9700-19dfe4ae3422",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Test Engineering Intern",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1"
+  },
   "b5e54246-5cf1-4854-8ea2-77816df0b012": {
     "applied_at": null,
     "backfilled": false,
@@ -44872,8 +45069,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "b7a2ad59-b10e-44b4-bc5c-53410f04e335",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1633,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1633",
     "locations": [
       "Seattle, WA"
     ],
@@ -47069,8 +47266,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "c04624a0-a7cb-44c1-92eb-ef543a7db13b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1634,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1634",
     "locations": [
       "Mayfield Heights, OH"
     ],
@@ -47378,8 +47575,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "c14572f8-b00e-4e62-8392-acc04ab71fb7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1635,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1635",
     "locations": [
       "Sparks, NV"
     ],
@@ -47767,8 +47964,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "c2cb4e52-0a06-45a3-beff-da2436315c4d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1636,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1636",
     "locations": [
       "Miami, FL",
       "Chicago, IL",
@@ -47881,8 +48078,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "c3531726-3761-43df-9283-622508689b62",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1637,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1637",
     "locations": [
       "Remote in USA"
     ],
@@ -49888,8 +50085,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "cd4adf61-4026-464d-8208-c2d4c6258943",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1638,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1638",
     "locations": [
       "Cambridge, MA"
     ],
@@ -50587,8 +50784,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "d08dd87d-40ca-4a83-836d-c5003f3f8cc8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1639,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1639",
     "locations": [
       "San Antonio, TX"
     ],
@@ -52168,8 +52365,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "d55e2c80-cc43-4f0d-b77b-2bb8884e57b0",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1640,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1640",
     "locations": [
       "Seattle, WA"
     ],
@@ -54458,8 +54655,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "dd696d72-8a61-4391-a4a0-3677ae2b6157",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1641,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1641",
     "locations": [
       "Santa Clara, CA"
     ],
@@ -55390,8 +55587,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "e0a6f7fd-1e2d-4420-80b3-10efc9577f23",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1642,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1642",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -56007,8 +56204,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "e353be7e-8339-439c-b6fe-4aab0727eae0",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1643,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1643",
     "locations": [
       "Goleta, CA"
     ],
@@ -56258,8 +56455,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "e403ba00-5510-4bef-bb10-1139a69f459a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1644,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1644",
     "locations": [
       "Champaign, IL"
     ],
