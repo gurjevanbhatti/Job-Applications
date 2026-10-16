@@ -5978,7 +5978,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "18e3866d-2742-4686-b497-2f6ec0eaa835",
     "issue_number": 1675,
@@ -5986,7 +5987,7 @@
     "locations": [
       "Ann Arbor, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -14365,7 +14366,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "39bae66b-6dad-496c-bd59-19b0d064eac5",
     "issue_number": 1432,
@@ -14373,7 +14375,7 @@
     "locations": [
       "Milpitas, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -18600,7 +18602,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "4a1cce05-0e88-4ce6-8234-4504fd1eac70",
     "issue_number": 869,
@@ -18608,7 +18611,7 @@
     "locations": [
       "Casper, WY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -20084,7 +20087,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "4f6c38aa-af24-4222-9bc8-745ccd365dc1",
     "issue_number": 1533,
@@ -20092,7 +20096,7 @@
     "locations": [
       "Ann Arbor, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -20732,7 +20736,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "51f8bc81-fb4a-4a5c-90e5-46bcc29060d5",
     "issue_number": 1684,
@@ -20740,7 +20745,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -21779,7 +21784,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T04:36:03.721668Z",
     "id": "554a8d6f-461f-46af-a16c-958c34f78906",
     "issue_number": 1656,
@@ -21787,7 +21793,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -22092,7 +22098,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "5641eed2-7dd2-4dc6-8834-2db9066a87f3",
     "issue_number": 1535,
@@ -22100,7 +22107,7 @@
     "locations": [
       "Ann Arbor, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -23645,7 +23652,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "5bd58f05-8a17-476f-a4c0-656a474b97fd",
     "issue_number": 1685,
@@ -23653,7 +23661,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -27336,7 +27344,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "6be326d4-b4e5-4d1a-9440-abd55d5a377d",
     "issue_number": 1686,
@@ -27344,7 +27353,7 @@
     "locations": [
       "Warren, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -30036,7 +30045,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "75bf9ace-02bf-45d8-be12-dd89e1b6b7ba",
     "issue_number": 776,
@@ -30044,7 +30054,7 @@
     "locations": [
       "McLean, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -30662,7 +30672,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-14T07:03:50.178104Z",
     "id": "78691202-f306-42da-9b0e-d9c0e191b452",
     "issue_number": 1579,
@@ -30670,7 +30681,7 @@
     "locations": [
       "Milpitas, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -30975,6 +30986,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-16T22:50:30.988783Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "79929aaa-80e8-47fb-b60e-00e27e8051d9",
@@ -30983,7 +30995,7 @@
     "locations": [
       "Waterloo, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -31479,7 +31491,8 @@
       "Master's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "7c9b6750-0d26-497a-bb9c-75cbaede0d91",
     "issue_number": 1538,
@@ -31487,7 +31500,7 @@
     "locations": [
       "Sterling, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -31508,7 +31521,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-03T18:06:14.747830Z",
     "id": "7ca0d74d-4cb3-4ad6-80ae-61921c8aeff6",
     "issue_number": 920,
@@ -31516,7 +31530,7 @@
     "locations": [
       "El Segundo, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -31909,7 +31923,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "7e70fdba-0509-4c0b-9de0-754fffa84596",
     "issue_number": 1539,
@@ -31917,7 +31932,7 @@
     "locations": [
       "Ann Arbor, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -33213,6 +33228,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-16T22:50:30.988783Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "8343365e-f6de-486d-9e76-f20a7d73dc15",
@@ -33221,7 +33237,7 @@
     "locations": [
       "Waterloo, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -34769,7 +34785,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "8a7c2086-8c95-4a79-9b9e-433050b10788",
     "issue_number": 1452,
@@ -34777,7 +34794,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -35944,7 +35961,8 @@
       "Master's",
       "MBA"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T04:36:03.721668Z",
     "id": "8efc5434-3c49-410a-90f6-5f6124037e2b",
     "issue_number": 1657,
@@ -35952,7 +35970,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -38056,7 +38074,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "97155fa4-c205-4f75-ba62-c9f3ba9428e0",
     "issue_number": 788,
@@ -38064,7 +38083,7 @@
     "locations": [
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -38311,6 +38330,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-16T22:50:30.988783Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "97c6d8b7-2c87-4add-ba42-556232991c09",
@@ -38319,7 +38339,7 @@
     "locations": [
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -38451,7 +38471,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "98500a46-81cc-4232-a948-20ca62544339",
     "issue_number": 1133,
@@ -38459,7 +38480,7 @@
     "locations": [
       "Ann Arbor, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -39163,7 +39184,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "9b2b1358-6a3c-48e5-afa1-219bc271af07",
     "issue_number": 1456,
@@ -39171,7 +39193,7 @@
     "locations": [
       "Ann Arbor, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -45379,7 +45401,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "b2e84c57-98b1-4ca5-8c5e-4be0368bca64",
     "issue_number": 1702,
@@ -45387,7 +45410,7 @@
     "locations": [
       "Shiloh, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -46266,7 +46289,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "b731d89f-de32-476b-8f27-2de284b5110d",
     "issue_number": 1703,
@@ -46274,7 +46298,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -49164,7 +49188,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "c191a9d6-9b36-4a73-8c8d-003126f28df7",
     "issue_number": 114,
@@ -49172,7 +49197,7 @@
     "locations": [
       "Kansas City, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -49442,7 +49467,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "c2cb4e52-0a06-45a3-beff-da2436315c4d",
     "issue_number": 1636,
@@ -49452,7 +49478,7 @@
       "Chicago, IL",
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -51704,7 +51730,8 @@
       "Bachelor's",
       "MBA"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "cd4adf61-4026-464d-8208-c2d4c6258943",
     "issue_number": 1638,
@@ -51712,7 +51739,7 @@
     "locations": [
       "Cambridge, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -57115,7 +57142,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T18:03:33.574791Z",
     "id": "e0190f47-ebc1-4e15-884d-ef5b3ddda1b3",
     "issue_number": 652,
@@ -57123,7 +57151,7 @@
     "locations": [
       "Milpitas, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -60368,7 +60396,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "ebfe5ed5-c6f8-4877-9e23-ba749cca96fe",
     "issue_number": 1716,
@@ -60376,7 +60405,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -60794,7 +60823,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "ed9e210c-cd7d-439c-a71c-72609cf1bb48",
     "issue_number": 1717,
@@ -60802,7 +60832,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -62020,7 +62050,8 @@
       "Bachelor's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T22:50:30.988783Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "f25ac517-b641-4c69-87e1-685fcf4b4dbc",
     "issue_number": 1560,
@@ -62028,7 +62059,7 @@
     "locations": [
       "Ann Arbor, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
