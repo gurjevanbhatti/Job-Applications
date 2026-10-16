@@ -6232,7 +6232,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T13:14:20.752400Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T18:25:46.334388Z",
     "id": "19c22c7f-5af3-4bed-806e-2ee412ae0d63",
     "issue_number": 1505,
@@ -6240,7 +6241,7 @@
     "locations": [
       "Arden Hills, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -17413,7 +17414,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T13:14:20.752400Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-10T01:16:06.398349Z",
     "id": "43be7a06-92b6-472f-b521-42354bc0a727",
     "issue_number": 1357,
@@ -17421,7 +17423,7 @@
     "locations": [
       "Longmont, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -19928,7 +19930,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T13:14:20.752400Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T00:39:17.059022Z",
     "id": "4ef4ca83-8d9c-4cd1-8e29-f387730d3a3b",
     "issue_number": 575,
@@ -19937,7 +19940,7 @@
       "Monticello, MN",
       "Welch, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -34737,7 +34740,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T13:14:20.752400Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T11:25:02.133676Z",
     "id": "8a8f9aee-a750-4b17-a552-e19c07344085",
     "issue_number": 180,
@@ -34745,7 +34749,7 @@
     "locations": [
       "Mooresville, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -42634,7 +42638,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T13:14:20.752400Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
     "issue_number": 683,
@@ -42642,7 +42647,7 @@
     "locations": [
       "Milpitas, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -45514,7 +45519,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T13:14:20.752400Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-03T03:47:32.036984Z",
     "id": "b45557a0-8993-4135-8a47-273587c395f5",
     "issue_number": 915,
@@ -45522,7 +45528,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -62673,6 +62679,33 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732-1"
+  },
+  "f6398163-4e7d-4ddd-aaab-04adafd0ee67": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "KLA",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-16T13:14:20.752400Z",
+    "id": "f6398163-4e7d-4ddd-aaab-04adafd0ee67",
+    "issue_number": 1733,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1733",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Research Scientist Intern - Plasma Light Source Characterization",
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033"
   },
   "f6413b47-1d7a-4997-ab15-c9c87ae04152": {
     "applied_at": null,
