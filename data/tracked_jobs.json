@@ -4740,7 +4740,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T08:03:00.891425Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "1379e1b7-e282-4180-bee2-043f56139dd9",
     "issue_number": 857,
@@ -4751,7 +4752,7 @@
       "Chicago, IL",
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -21832,8 +21833,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-16T02:59:09.190669Z",
     "id": "556c54ce-3ed2-4037-9012-4012781317b8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1723,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1723",
     "locations": [
       "Playa Vista, LA"
     ],
@@ -21944,8 +21945,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-16T02:59:09.190669Z",
     "id": "55d8577a-649c-47a8-a60f-2fc353841220",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1724,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1724",
     "locations": [
       "Houston, TX"
     ],
@@ -24798,8 +24799,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-16T02:59:09.190669Z",
     "id": "60586a8f-1805-4d07-843a-cf86f0b22f46",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1725,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1725",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -25626,7 +25627,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T08:03:00.891425Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "638db733-b6c2-4e36-b1ad-1d4b6b77df9b",
     "issue_number": 874,
@@ -25637,7 +25639,7 @@
       "Chicago, IL",
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -27766,8 +27768,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-16T02:59:09.190669Z",
     "id": "6dee80eb-5b2d-4684-8dd3-8c5324036443",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1726,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1726",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -28669,7 +28671,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T08:03:00.891425Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "70f39f27-a2cd-424b-876f-4837ee7061e4",
     "issue_number": 881,
@@ -28680,7 +28683,7 @@
       "Chicago, IL",
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -36190,8 +36193,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-16T02:59:09.190669Z",
     "id": "9087bc41-b156-4019-8980-d8b788c06190",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1727,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1727",
     "locations": [
       "Santa Rosa, CA"
     ],
@@ -37003,7 +37006,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T08:03:00.891425Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "938e1389-c62c-4512-aecc-c83536e5bea9",
     "issue_number": 887,
@@ -37014,7 +37018,7 @@
       "Chicago, IL",
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -38541,6 +38545,33 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2"
+  },
+  "99625c56-8f56-42c3-a5d9-6eb33cfa33fa": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Hewlett Packard Enterprise",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-15T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-16T08:03:00.891425Z",
+    "id": "99625c56-8f56-42c3-a5d9-6eb33cfa33fa",
+    "issue_number": 1732,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1732",
+    "locations": [
+      "Spring, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "AI & HPC Performance Engineering Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397"
   },
   "99659b1b-083d-4434-963c-184b68a27b48": {
     "applied_at": null,
@@ -42830,8 +42861,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-16T02:59:09.190669Z",
     "id": "a8967f38-53a7-4716-80c1-8ba4fc0fb06b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1728,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1728",
     "locations": [
       "Bellevue, WA"
     ],
@@ -44889,7 +44920,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T08:03:00.891425Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T00:39:17.059022Z",
     "id": "b18b60ce-5815-4336-86cf-a0ace83b8289",
     "issue_number": 591,
@@ -44897,7 +44929,7 @@
     "locations": [
       "Clifton, NJ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -48345,8 +48377,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-16T02:59:09.190669Z",
     "id": "beddfbb4-6c11-44f3-907f-f17ecccb14b4",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1729,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1729",
     "locations": [
       "Surrey, BC, Canada"
     ],
@@ -49801,8 +49833,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-16T02:59:09.190669Z",
     "id": "c4962657-fd94-4f66-91cf-5669446b920d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1730,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1730",
     "locations": [
       "Santa Monica, CA"
     ],
@@ -50395,8 +50427,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-16T02:59:09.190669Z",
     "id": "c6cf89af-fd3e-48e3-b886-b14efade21e6",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1731,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1731",
     "locations": [
       "San Jose, CA"
     ],
