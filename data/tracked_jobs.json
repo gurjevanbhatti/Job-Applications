@@ -1879,6 +1879,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-16T17:28:12.897847Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "0811fecf-0bc0-49dc-b96d-2a673f0a19e9",
@@ -1887,7 +1888,7 @@
     "locations": [
       "Conway, AR"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -20587,7 +20588,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T17:28:12.897847Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "518eb063-8156-4ee0-82dc-173594892c67",
     "issue_number": 759,
@@ -20595,7 +20597,7 @@
     "locations": [
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Fall 2027",
@@ -23006,6 +23008,34 @@
     ],
     "title": "Software Developer Intern - .NET",
     "url": "https://careers-berkley.icims.com/jobs/14444/job?mobile=true&needsRedirect=false"
+  },
+  "59893888-211a-4a3c-9b02-8095e93f2051": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Hilb Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-16T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-16T17:28:12.897847Z",
+    "id": "59893888-211a-4a3c-9b02-8095e93f2051",
+    "issue_number": 1734,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1734",
+    "locations": [
+      "Hunt Valley, Cockeysville, MD"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Benefits Analytics Intern",
+    "url": "https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866"
   },
   "59c13592-23da-4c96-8a2d-f4639cfe1e1e": {
     "applied_at": null,
@@ -32404,6 +32434,33 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382"
+  },
+  "80ec84ab-f0da-4549-85fb-07466041ed4a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "J.M. Smucker",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-16T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-16T17:28:12.897847Z",
+    "id": "80ec84ab-f0da-4549-85fb-07466041ed4a",
+    "issue_number": 1735,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1735",
+    "locations": [
+      "Orrville, OH"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Finance Technology Intern",
+    "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016"
   },
   "810a66c8-0c3f-4ac3-bec1-fb4ae6080325": {
     "applied_at": null,
@@ -44837,7 +44894,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T17:28:12.897847Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-14T17:45:46.491669Z",
     "id": "b135be7e-bf73-4526-9c91-0158ffed7bce",
     "issue_number": 1591,
@@ -44845,7 +44903,7 @@
     "locations": [
       "Huntsville, AL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -51343,6 +51401,34 @@
     "title": "Engineering Intern",
     "url": "https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false"
   },
+  "caf45b3a-d589-430c-816a-22a700822dd6": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Boston Scientific",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-16T14:16:13Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-16T17:28:12.897847Z",
+    "id": "caf45b3a-d589-430c-816a-22a700822dd6",
+    "issue_number": 1736,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1736",
+    "locations": [
+      "Maple Grove, MN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Marketing Analytics Intern",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813777926"
+  },
   "caf607e7-c4db-41eb-b84a-606fa07f4ae6": {
     "applied_at": null,
     "backfilled": true,
@@ -51476,7 +51562,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-16T17:28:12.897847Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-08T17:59:51.716262Z",
     "id": "cc8ac2c6-0874-480d-89fe-1ba79e6af0d9",
     "issue_number": 1268,
@@ -51484,7 +51571,7 @@
     "locations": [
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -62144,6 +62231,33 @@
     ],
     "title": "Software Engineering Co-op",
     "url": "https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false"
+  },
+  "f351f3ac-9b5b-4f88-b7bf-8c3cce1a1df0": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Nutanix",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-16T14:06:10Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-16T17:28:12.897847Z",
+    "id": "f351f3ac-9b5b-4f88-b7bf-8c3cce1a1df0",
+    "issue_number": 1737,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1737",
+    "locations": [
+      "Durham, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Support Analytics & Operations Intern",
+    "url": "https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false"
   },
   "f35300a5-06d4-4289-a277-30b4a8d300c8": {
     "applied_at": null,
