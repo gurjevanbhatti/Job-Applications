@@ -19456,6 +19456,7 @@
       "Master's",
       "PhD"
     ],
+    "expired_at": "2026-10-17T13:12:57.785981Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "4c2e5fe2-a3e6-4d00-ac53-11343dc121dc",
@@ -19464,7 +19465,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -34024,6 +34025,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-17T13:12:57.785981Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "8367abf1-0004-45dc-9b38-6d41c668730a",
@@ -34034,7 +34036,7 @@
       "Minneapolis, MN",
       "Denver, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
