@@ -3303,6 +3303,7 @@
       "MBA",
       "PhD"
     ],
+    "expired_at": "2026-10-17T09:40:51.065078Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "0ce857da-f2c3-408f-9dff-60465fa37f40",
@@ -3311,7 +3312,7 @@
     "locations": [
       "Arlington, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -5667,6 +5668,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-17T09:40:51.065078Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "16a226b6-b8ad-430a-8246-a9ae743ea5b9",
@@ -5675,7 +5677,7 @@
     "locations": [
       "Arlington, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -9484,7 +9486,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-17T09:40:51.065078Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "258b1734-67f6-4bc5-8017-6bd816a41b1e",
     "issue_number": 859,
@@ -9492,7 +9495,7 @@
     "locations": [
       "Boulder, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -14987,6 +14990,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-17T09:40:51.065078Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "3aafe9c0-e14d-4259-82c1-58a96d23552b",
@@ -14995,7 +14999,7 @@
     "locations": [
       "Arlington, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -25625,6 +25629,7 @@
       "Master's",
       "PhD"
     ],
+    "expired_at": "2026-10-17T09:40:51.065078Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "612d47bb-ecd4-42e3-8669-3af521907136",
@@ -25635,7 +25640,7 @@
       "Charlotte, NC",
       "Hartford, CT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -30141,6 +30146,33 @@
     "title": "Digitalization Intern",
     "url": "https://careers-usa-titanmaterials.icims.com/jobs/26920/job?mobile=true&needsRedirect=false"
   },
+  "73b77dc7-3276-4d7b-87c8-394b4520f7ac": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Ascension",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-17T06:26:03Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-17T09:40:51.065078Z",
+    "id": "73b77dc7-3276-4d7b-87c8-394b4520f7ac",
+    "issue_number": 1790,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1790",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Managed Care Analytics Intern",
+    "url": "https://jobs.ascension.org/us/en/job/15636"
+  },
   "73cce5ae-4123-4752-9ad2-67b8ab0e009f": {
     "applied_at": null,
     "backfilled": false,
@@ -30634,7 +30666,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-17T09:40:51.065078Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "757dfc28-33db-490b-9b72-b2438d16f3b7",
     "issue_number": 401,
@@ -30642,7 +30675,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -31092,7 +31125,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-17T09:40:51.065078Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-08T23:15:16.038697Z",
     "id": "7738444f-ee47-4c3e-9082-2464bf8d12df",
     "issue_number": 1293,
@@ -31100,7 +31134,7 @@
     "locations": [
       "Sterling, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -31260,7 +31294,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-17T09:40:51.065078Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-14T07:03:50.178104Z",
     "id": "785bc0ed-564f-4e73-bdae-30e780d1629b",
     "issue_number": 1578,
@@ -31268,7 +31303,7 @@
     "locations": [
       "Annapolis, MD"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -34249,7 +34284,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-17T09:40:51.065078Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "85784523-0c03-4666-ae02-7febc36bc65c",
     "issue_number": 1691,
@@ -34257,7 +34293,7 @@
     "locations": [
       "Milwaukee, WI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -45783,7 +45819,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-17T09:40:51.065078Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T02:17:41.169451Z",
     "id": "b1048256-c61c-403f-80b6-70efb51fdd0e",
     "issue_number": 1005,
@@ -45792,7 +45829,7 @@
       "Remote in USA",
       "Remote in Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -46183,7 +46220,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-17T09:40:51.065078Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-14T07:03:50.178104Z",
     "id": "b2a3e977-0e6f-4197-bdb3-0b8a20ef4317",
     "issue_number": 1581,
@@ -46191,7 +46229,7 @@
     "locations": [
       "Mississauga, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -49465,7 +49503,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-17T09:40:51.065078Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "bf2a73c1-b34b-4153-805d-6d8f185ae0de",
     "issue_number": 1466,
@@ -49475,7 +49514,7 @@
       "Southfield, MI",
       "St Joseph, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -52882,8 +52921,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-17T05:35:28.888084Z",
     "id": "cd4de95f-f5ac-42d3-a41f-91aae3438968",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1788,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1788",
     "locations": [
       "Scottsdale, AZ"
     ],
@@ -56217,8 +56256,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-17T05:35:28.888084Z",
     "id": "d8f8330d-c76c-4d26-8acf-c5fd027f5f25",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1789,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1789",
     "locations": [
       "San Jose, CA"
     ],
@@ -58124,7 +58163,8 @@
       "Bachelor's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-17T09:40:51.065078Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "dee53517-7a25-472e-9506-b74ec638bac4",
     "issue_number": 1476,
@@ -58132,7 +58172,7 @@
     "locations": [
       "Grand Rapids, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -63756,7 +63796,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-17T09:40:51.065078Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T06:17:02.997547Z",
     "id": "f3b565a6-e92b-41cc-aee4-4099b4c83171",
     "issue_number": 1176,
@@ -63765,7 +63806,7 @@
       "Seattle, WA",
       "SF"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
