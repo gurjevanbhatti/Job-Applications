@@ -47567,7 +47567,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-18T21:53:04.064330Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "b7f5b1b5-57c0-4ea9-9a41-caf94e3e5ad8",
     "issue_number": 688,
@@ -47575,7 +47576,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
