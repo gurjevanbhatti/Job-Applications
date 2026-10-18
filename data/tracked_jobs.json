@@ -30215,7 +30215,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-18T05:52:45.853649Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "73cce5ae-4123-4752-9ad2-67b8ab0e009f",
     "issue_number": 775,
@@ -30223,7 +30224,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
