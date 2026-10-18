@@ -16147,7 +16147,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-18T14:05:38.544109Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T00:31:37.039261Z",
     "id": "3e9bc6fa-0837-4aef-9543-d3529a2c2943",
     "issue_number": 210,
@@ -16155,7 +16156,7 @@
     "locations": [
       "Minneapolis, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -19683,7 +19684,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-18T14:05:38.544109Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-05T15:17:03.303367Z",
     "id": "4cf30745-6f3b-4afc-b4a7-8c156b74804c",
     "issue_number": 935,
@@ -19691,7 +19693,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -49540,7 +49542,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-18T14:05:38.544109Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "bee2e809-5a33-41d9-8c9b-0dc0c44f7100",
     "issue_number": 895,
@@ -49548,7 +49551,7 @@
     "locations": [
       "Westminster, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
