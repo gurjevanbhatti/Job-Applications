@@ -23181,7 +23181,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-18T19:31:27.593475Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-08T23:15:16.038697Z",
     "id": "5816604a-fdad-469c-b01d-7ee4621ca78e",
     "issue_number": 1287,
@@ -23189,7 +23190,7 @@
     "locations": [
       "Seattle, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
