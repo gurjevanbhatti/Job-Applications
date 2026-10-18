@@ -11692,6 +11692,35 @@
     "title": "Data Engineer Intern",
     "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job"
   },
+  "2d44df47-4fb1-4120-a4ac-7fbcc5f6c103": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Tesla",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-18T09:37:26Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-18T10:19:34.172875Z",
+    "id": "2d44df47-4fb1-4120-a4ac-7fbcc5f6c103",
+    "issue_number": 1793,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1793",
+    "locations": [
+      "Austin, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure",
+    "url": "https://www.tesla.com/careers/search/job/287024"
+  },
   "2d557827-15c8-4aae-b17a-37a7ad82b3ec": {
     "applied_at": null,
     "backfilled": false,
@@ -17985,7 +18014,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-18T10:19:34.172875Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "450e4484-4377-400a-9da6-573dd1196e57",
     "issue_number": 1681,
@@ -17993,7 +18023,7 @@
     "locations": [
       "Marlborough, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -27103,6 +27133,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-18T10:19:34.172875Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "68c18319-478a-4870-9d8b-35cc4d650e90",
@@ -27111,7 +27142,7 @@
     "locations": [
       "Langley, BC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -37809,6 +37840,34 @@
     ],
     "title": "AI Engineer Intern",
     "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521"
+  },
+  "931408fb-5cb7-4179-8c33-35a242bbc266": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Tesla",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-18T09:37:21Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-18T10:19:34.172875Z",
+    "id": "931408fb-5cb7-4179-8c33-35a242bbc266",
+    "issue_number": 1794,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1794",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "title": "Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027",
+    "url": "https://www.tesla.com/careers/search/job/286986"
   },
   "932473fd-b2c2-4043-94aa-f69318eda3f1": {
     "applied_at": null,
