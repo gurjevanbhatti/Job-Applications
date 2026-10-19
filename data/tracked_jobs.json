@@ -6293,7 +6293,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T08:50:01.532811Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "19542c33-d5eb-4d1e-9aad-4ac45c6b09be",
     "issue_number": 1421,
@@ -6301,7 +6302,7 @@
     "locations": [
       "Denver, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -7510,7 +7511,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T08:50:01.532811Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "1d938bfb-bee6-422b-9ba6-6fa75f0b6751",
     "issue_number": 858,
@@ -7518,7 +7520,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -11113,7 +11115,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T08:50:01.532811Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T02:17:41.169451Z",
     "id": "2a5a98d4-8075-447d-b561-c0e2b294b0a4",
     "issue_number": 960,
@@ -11121,7 +11124,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -13914,7 +13917,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T08:50:01.532811Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "3633ac91-cc9e-4744-991d-3263b145bab8",
     "issue_number": 1680,
@@ -13922,7 +13926,7 @@
     "locations": [
       "Sterling, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -18385,7 +18389,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T08:50:01.532811Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-14T07:03:50.178104Z",
     "id": "468b0b25-a717-4435-bfd6-105806b9b5e4",
     "issue_number": 1577,
@@ -18393,7 +18398,7 @@
     "locations": [
       "Chantilly, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -41147,7 +41152,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T08:50:01.532811Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T02:17:41.169451Z",
     "id": "9e56dcfc-a790-4a64-8f68-0c5d098d75fa",
     "issue_number": 997,
@@ -41155,7 +41161,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -43716,7 +43722,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T08:50:01.532811Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "a76fe4c5-ec63-4f65-a3d1-11ead25b41b2",
     "issue_number": 798,
@@ -43724,7 +43731,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -52567,6 +52574,34 @@
     "title": "Connected Car Business Development Intern",
     "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Connected-Car-Business-Development-Intern---Summer-2027---Franklin--TN_R00214270"
   },
+  "c9f2736c-ca54-46f8-98a1-81570a3bd159": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Johnson & Johnson",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-19T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-19T08:50:01.532811Z",
+    "id": "c9f2736c-ca54-46f8-98a1-81570a3bd159",
+    "issue_number": 1799,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1799",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Quality Data Science Co-op",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629"
+  },
   "c9f2fee3-e5c3-40a0-8238-50c86087fdbe": {
     "applied_at": null,
     "backfilled": false,
@@ -60515,7 +60550,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T08:50:01.532811Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "e6414b54-64ba-4d7b-b52d-df126a7170ab",
     "issue_number": 828,
@@ -60523,7 +60559,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
