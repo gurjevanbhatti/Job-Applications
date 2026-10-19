@@ -169,6 +169,35 @@
     "title": "Software Engineer Part-Time Student",
     "url": "https://johndeere.eightfold.ai/careers/job/137483583981"
   },
+  "01715d82-9e8f-436e-956d-164b5e0aceb2": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GM financial",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-19T14:19:17Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-19T16:09:38.189315Z",
+    "id": "01715d82-9e8f-436e-956d-164b5e0aceb2",
+    "issue_number": 1800,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1800",
+    "locations": [
+      "Fort Worth, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Portfolio Analytics Intern",
+    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773"
+  },
   "0173534b-1a00-43bf-8929-2a7c5bfa842d": {
     "applied_at": null,
     "backfilled": false,
@@ -8658,6 +8687,33 @@
     ],
     "title": "Design for Test Engineer",
     "url": "https://jobs.apple.com/en-us/details/200683646"
+  },
+  "226b2e00-45e3-4969-ae52-9edd0338ac22": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Marvell",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-19T00:00:00Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-19T16:09:38.189315Z",
+    "id": "226b2e00-45e3-4969-ae52-9edd0338ac22",
+    "issue_number": 1801,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1801",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Data Science Intern",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1"
   },
   "22726e24-c6c4-4f17-ac39-fecbc1551a52": {
     "applied_at": null,
@@ -18445,7 +18501,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T16:09:38.189315Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "46b35ec8-88e8-4800-ad1a-d17665e52fa1",
     "issue_number": 1616,
@@ -18453,7 +18510,7 @@
     "locations": [
       "Goleta, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -21249,6 +21306,34 @@
     "title": "Data Engineering Intern",
     "url": "https://careers.garmin.com/jobs/20188?icims=1"
   },
+  "51e30f02-0f7a-463f-a7e9-bbd16abb42bc": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-19T14:18:44Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-19T16:09:38.189315Z",
+    "id": "51e30f02-0f7a-463f-a7e9-bbd16abb42bc",
+    "issue_number": 1802,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1802",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Electrical and Computer Engineer Intern",
+    "url": "https://careers.jhuapl.edu/jobs/60390?icims=1"
+  },
   "51f8bc81-fb4a-4a5c-90e5-46bcc29060d5": {
     "applied_at": null,
     "backfilled": false,
@@ -21984,6 +22069,33 @@
     ],
     "title": "Software Engineer Intern - Technology Health Plan",
     "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000156043218"
+  },
+  "5360208a-9885-42bb-a092-21121b730e84": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Bracebridge Capital",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-19T14:34:13Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-19T16:09:38.189315Z",
+    "id": "5360208a-9885-42bb-a092-21121b730e84",
+    "issue_number": 1803,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1803",
+    "locations": [
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Co-op - Application Development",
+    "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005"
   },
   "53b80883-d4d1-4b69-9bce-15f9ddb4d132": {
     "applied_at": null,
@@ -35990,6 +36102,33 @@
     "title": "Business Intelligence Consulting Intern",
     "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Business-Intelligence-Consulting-Intern---Summer-2027_JR121327"
   },
+  "8bad299b-1228-41e1-92f9-d56c2e26c840": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "FanDuel",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-19T14:23:04Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-19T16:09:38.189315Z",
+    "id": "8bad299b-1228-41e1-92f9-d56c2e26c840",
+    "issue_number": 1804,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1804",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Product Co-op",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8285180"
+  },
   "8bc66f1e-97cf-452d-b8ff-de662e473691": {
     "applied_at": null,
     "backfilled": false,
@@ -43440,7 +43579,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T16:09:38.189315Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "a6857214-22fd-466c-b0e6-cfacc0ffaf82",
     "issue_number": 1545,
@@ -43448,7 +43588,7 @@
     "locations": [
       "Manhattan Beach, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -46196,6 +46336,33 @@
     "title": "Software Engineer Intern",
     "url": "https://jobs.l3harris.com/job/Clifton-Intern,-Software-Engineer-NJ-07014/1434802800/?ats=successfactors"
   },
+  "b18ea2c9-9c02-4095-924c-d220e62b930e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Leidos",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-19T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-19T16:09:38.189315Z",
+    "id": "b18ea2c9-9c02-4095-924c-d220e62b930e",
+    "issue_number": 1805,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1805",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Electrical Hardware Design Engineer Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00194798"
+  },
   "b19ed1eb-aa8f-4af1-a327-0008140019c7": {
     "applied_at": null,
     "backfilled": true,
@@ -46805,7 +46972,8 @@
       "Bachelor's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T16:09:38.189315Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "b45b9da0-cc0f-4e38-a00f-91d59ef8fd73",
     "issue_number": 1465,
@@ -46815,7 +46983,7 @@
       "Southfield, MI",
       "St Joseph, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -48160,6 +48328,33 @@
     ],
     "title": "Embedded Software Co-op",
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40172"
+  },
+  "b9d84998-3a7f-4698-a344-64d97d9d9381": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Bracebridge Capital",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-19T14:34:13Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-19T16:09:38.189315Z",
+    "id": "b9d84998-3a7f-4698-a344-64d97d9d9381",
+    "issue_number": 1806,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1806",
+    "locations": [
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer: Business Intelligence Co-op",
+    "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005"
   },
   "b9e02195-e8aa-4296-8ba7-766a14912486": {
     "applied_at": null,
@@ -50803,6 +50998,33 @@
     ],
     "title": "Business Intelligence Analyst Intern - Innovation & Data Science",
     "url": "https://www.businessolver.com/careers/openings/?gh_jid=8281727"
+  },
+  "c35aada5-ad17-4000-baae-c7099528eabb": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Marvell",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-19T00:00:00Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-19T16:09:38.189315Z",
+    "id": "c35aada5-ad17-4000-baae-c7099528eabb",
+    "issue_number": 1807,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1807",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Data Science Intern",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846"
   },
   "c378ab68-3965-4a8e-bcab-6b9125680eea": {
     "applied_at": null,
@@ -53992,6 +54214,33 @@
     "title": "Data Science Intern",
     "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1933902"
   },
+  "d0a36b27-0b6f-4956-9ecb-4952e191ed55": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "BorgWarner",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-19T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-19T16:09:38.189315Z",
+    "id": "d0a36b27-0b6f-4956-9ecb-4952e191ed55",
+    "issue_number": 1808,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1808",
+    "locations": [
+      "Auburn Hills, MI"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "EPMO Support Intern",
+    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/EPM-Support-Intern--Year-Round-_R2026-4129"
+  },
   "d0abf4dd-4e5e-46d9-8066-74d1f5d593ec": {
     "applied_at": null,
     "backfilled": false,
@@ -54334,6 +54583,34 @@
     "title": "SRAM Circuit Design Intern - MS",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083-1"
   },
+  "d19bf91f-90c0-4799-9c56-302b3703168a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Robert Bosch Venture Capital",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-19T14:08:39Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-19T16:09:38.189315Z",
+    "id": "d19bf91f-90c0-4799-9c56-302b3703168a",
+    "issue_number": 1809,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1809",
+    "locations": [
+      "Fountain Inn, SC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineering Co-op",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156311682"
+  },
   "d1ab33ae-00ef-4a5c-9f42-af71a13f9f68": {
     "applied_at": null,
     "backfilled": false,
@@ -54601,6 +54878,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-19T16:09:38.189315Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "d2523aa1-10fc-427f-9b41-d6b061aafdd9",
@@ -54609,7 +54887,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -58100,7 +58378,8 @@
       "Associate's",
       "Certificate"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T16:09:38.189315Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-09T10:31:05.131706Z",
     "id": "ddb3be51-5802-4866-a26c-72803474d6d4",
     "issue_number": 1332,
@@ -58108,7 +58387,7 @@
     "locations": [
       "Denver, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -63693,6 +63972,34 @@
     ],
     "title": "Software Development Intern",
     "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456"
+  },
+  "f2273a00-fd36-44f4-b959-cffdf589df8a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-19T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-19T16:09:38.189315Z",
+    "id": "f2273a00-fd36-44f4-b959-cffdf589df8a",
+    "issue_number": 1810,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1810",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499"
   },
   "f23c59b8-2691-43f7-a310-a6ca54c5b6a1": {
     "applied_at": null,
