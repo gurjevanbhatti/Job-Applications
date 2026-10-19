@@ -6689,6 +6689,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-19T21:02:24.005194Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "1a99b100-e38e-443b-a9cc-1be8ada5aa7f",
@@ -6697,7 +6698,7 @@
     "locations": [
       "Colorado Springs, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -8112,6 +8113,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-19T21:02:24.005194Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "1fba75f6-b4bb-4fa7-a2d8-c3345b3169a4",
@@ -8120,7 +8122,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -14571,7 +14573,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T21:02:24.005194Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "3907d445-1dab-4abd-b818-4a2fef38adab",
     "issue_number": 1431,
@@ -14579,7 +14582,7 @@
     "locations": [
       "Inver Grove Heights, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -18106,7 +18109,8 @@
       "Bachelor's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T21:02:24.005194Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T01:00:40.264360Z",
     "id": "44dd1fb4-a841-4fac-8e43-3f124917e7b4",
     "issue_number": 1746,
@@ -18114,7 +18118,7 @@
     "locations": [
       "Kitchener, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -20461,7 +20465,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T21:02:24.005194Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "4ee9bbfd-bd96-4660-9f4b-3fb000ccd885",
     "issue_number": 1532,
@@ -20469,7 +20474,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -24627,7 +24632,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T21:02:24.005194Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T19:51:09.842462Z",
     "id": "5ca3d9ed-7ea0-42ca-87f3-9791668c9ee4",
     "issue_number": 732,
@@ -24635,7 +24641,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -58799,7 +58805,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T21:02:24.005194Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T17:01:07.360178Z",
     "id": "df3768d8-aca4-41b1-bdc0-2874bc2151d2",
     "issue_number": 1416,
@@ -58807,7 +58814,7 @@
     "locations": [
       "Mountain View, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -63393,7 +63400,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T21:02:24.005194Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "efd2f9e3-b980-4849-8985-5bf81191291e",
     "issue_number": 1559,
@@ -63401,7 +63409,7 @@
     "locations": [
       "Santa Rosa, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -64269,7 +64277,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-19T21:02:24.005194Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-16T17:28:12.897847Z",
     "id": "f351f3ac-9b5b-4f88-b7bf-8c3cce1a1df0",
     "issue_number": 1737,
@@ -64277,7 +64286,7 @@
     "locations": [
       "Durham, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
