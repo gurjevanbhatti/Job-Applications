@@ -1690,8 +1690,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-20T05:05:56.604758Z",
     "id": "06a1048d-ddec-418d-98b1-b199c9191c4d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1864,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1864",
     "locations": [
       "Roseville, CA"
     ],
@@ -11665,7 +11665,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-20T10:02:36.615327Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "2aca0513-4399-42cb-9896-91871273e679",
     "issue_number": 1107,
@@ -11673,7 +11674,7 @@
     "locations": [
       "Torrance, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -14265,8 +14266,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-20T05:05:56.604758Z",
     "id": "3555c695-037a-494d-b111-9652b4b91a08",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1865,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1865",
     "locations": [
       "Kirkland, WA"
     ],
@@ -27473,8 +27474,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-20T05:05:56.604758Z",
     "id": "649995a2-a18c-401a-9cc3-062fa58dc1b3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1866,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1866",
     "locations": [
       "Arden Hills, MN"
     ],
@@ -33154,7 +33155,8 @@
       "Master's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-20T10:02:36.615327Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-20T00:18:53.109573Z",
     "id": "7b0c7936-f5ca-4813-a556-483b1e6edbf0",
     "issue_number": 1840,
@@ -33162,7 +33164,7 @@
     "locations": [
       "Egg Harbor Township, NJ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -35870,8 +35872,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-20T05:05:56.604758Z",
     "id": "867adbe3-13d7-47ed-afa5-ba371ac9eaae",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1867,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1867",
     "locations": [
       "Roseville, CA"
     ],
@@ -39877,7 +39879,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-20T10:02:36.615327Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T04:36:03.721668Z",
     "id": "9502dcc3-6ca9-499c-8b33-b8fc0cb96b60",
     "issue_number": 1658,
@@ -39885,7 +39888,7 @@
     "locations": [
       "Saint-Hubert, Longueuil, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -42854,8 +42857,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-20T05:05:56.604758Z",
     "id": "9f100b0b-5ea2-4aea-b312-c15d32e8e8c8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1868,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1868",
     "locations": [
       "Fort Wayne, IN"
     ],
@@ -45023,7 +45026,8 @@
       "Bachelor's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-20T10:02:36.615327Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T02:17:41.169451Z",
     "id": "a6dfb4bb-3901-447a-ac14-bb9b92ef4d21",
     "issue_number": 1001,
@@ -45031,7 +45035,7 @@
     "locations": [
       "Glendale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -58074,8 +58078,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-20T05:05:56.604758Z",
     "id": "d7a85e33-f117-40b4-a249-aec08587e7cf",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1869,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1869",
     "locations": [
       "Minneapolis, MN"
     ],
@@ -66501,8 +66505,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-20T00:18:53.109573Z",
     "id": "f5b59029-db98-4468-a347-16a833889859",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1861,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1861",
     "locations": [
       "Richardson, TX"
     ],
@@ -66726,8 +66730,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-20T00:18:53.109573Z",
     "id": "f69b1fe1-5609-456a-a106-4867c3437ee0",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1862,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1862",
     "locations": [
       "Milwaukee, WI"
     ],
@@ -67357,6 +67361,36 @@
     "title": "Enterprise Data Analyst Intern",
     "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505"
   },
+  "f9299641-0cec-447d-8ed6-26445441d4ec": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "JP Morgan Chase",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-20T09:11:27Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-20T10:02:36.615327Z",
+    "id": "f9299641-0cec-447d-8ed6-26445441d4ec",
+    "issue_number": 1870,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1870",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "NYC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Machine Learning Summer Associate Intern - NLP",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790"
+  },
   "f9425a33-0fd0-4dcb-8403-642a08c2e836": {
     "applied_at": null,
     "backfilled": true,
@@ -67605,8 +67639,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-20T00:18:53.109573Z",
     "id": "f9f21daf-13a6-4cdb-b1f1-5244a1757fa4",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1863,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1863",
     "locations": [
       "Bridgewater, NJ"
     ],
