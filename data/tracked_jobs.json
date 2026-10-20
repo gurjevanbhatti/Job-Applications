@@ -2187,7 +2187,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-20T19:15:08.207903Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-09T17:10:58.757879Z",
     "id": "08534f02-cdda-4163-8227-8adc00591296",
     "issue_number": 1334,
@@ -2195,7 +2196,7 @@
     "locations": [
       "Huntsville, AL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -4220,6 +4221,34 @@
     ],
     "title": "Machine Learning Engineer Intern",
     "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965"
+  },
+  "10497907-6a16-498a-a06a-e40113931577": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Space Dynamics Laboratory",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-20T14:34:07Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-20T19:15:08.207903Z",
+    "id": "10497907-6a16-498a-a06a-e40113931577",
+    "issue_number": 1881,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1881",
+    "locations": [
+      "North Logan, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI-Enabled Requirements Engineering Intern",
+    "url": "https://spacedynamicslaboratory.applytojob.com/apply/HgIOie6SBP/AIEnabled-Requirements-Engineering-Intern"
   },
   "10517de5-4d11-4bce-9255-0c5b06231c18": {
     "applied_at": null,
@@ -11188,6 +11217,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-20T19:15:08.207903Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "294d72a8-7250-41fe-bd01-3c9b0ba1996e",
@@ -11196,7 +11226,7 @@
     "locations": [
       "Pittsford, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -12637,6 +12667,34 @@
     ],
     "title": "Software Engineer Intern - AI Enabled Software Development",
     "url": "https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development"
+  },
+  "2e5e07c1-0b7d-4211-bca8-0ac7c3663a1a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Texas Instruments",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-20T14:36:32Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-20T19:15:08.207903Z",
+    "id": "2e5e07c1-0b7d-4211-bca8-0ac7c3663a1a",
+    "issue_number": 1882,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1882",
+    "locations": [
+      "Sugar Land, TX",
+      "United States"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Intern - Compiler",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103"
   },
   "2e670f26-fa85-4586-a044-ad138d073cf3": {
     "applied_at": null,
@@ -27200,7 +27258,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-20T19:15:08.207903Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T01:00:40.264360Z",
     "id": "62db3487-4588-43de-9701-4d551607be08",
     "issue_number": 1754,
@@ -27208,7 +27267,7 @@
     "locations": [
       "Houston, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -30800,7 +30859,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-20T19:15:08.207903Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T18:25:46.334388Z",
     "id": "71d10136-22a9-4798-89cd-9df17b662d88",
     "issue_number": 1508,
@@ -30808,7 +30868,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -43298,7 +43358,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-20T19:15:08.207903Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "9fa8f7b4-6cba-43a1-b610-c1a9bb1bd56c",
     "issue_number": 102,
@@ -43306,7 +43367,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -43715,7 +43776,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-20T19:15:08.207903Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T19:32:41.513227Z",
     "id": "a0f4b708-8312-4d5d-b203-5379abf73c59",
     "issue_number": 1196,
@@ -43723,7 +43785,7 @@
     "locations": [
       "Cambridge, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -44652,7 +44714,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-20T19:15:08.207903Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T18:29:03.110419Z",
     "id": "a4a4b9ce-2dc8-4dbf-9f01-4db345c9fcd7",
     "issue_number": 1668,
@@ -44660,7 +44723,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -46297,6 +46360,33 @@
     ],
     "title": "Firmware Engineer Intern",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4601309006"
+  },
+  "aaac9d8b-db6b-4050-ad94-8cb5584c0bbd": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Cigna Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-20T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-20T19:15:08.207903Z",
+    "id": "aaac9d8b-db6b-4050-ad94-8cb5584c0bbd",
+    "issue_number": 1883,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1883",
+    "locations": [
+      "Bloomfield, CT"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Business Analytics Intern",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472"
   },
   "aabefc1e-0371-47db-9e90-a6428f01409b": {
     "applied_at": null,
@@ -53179,6 +53269,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-20T19:15:08.207903Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "c54c66c0-44fb-477d-906d-1544410c81ce",
@@ -53187,7 +53278,7 @@
     "locations": [
       "Nashville, TN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -53619,6 +53710,36 @@
     ],
     "title": "Data Science Intern",
     "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459"
+  },
+  "c6a828f1-5ffe-4585-929f-87f96db8518b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Vertex Pharmaceuticals",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-20T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-20T19:15:08.207903Z",
+    "id": "c6a828f1-5ffe-4585-929f-87f96db8518b",
+    "issue_number": 1884,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1884",
+    "locations": [
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027",
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "title": "Commercial Analytics Co-op - Commercial Analytics",
+    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1"
   },
   "c6aad417-8a37-46d9-bd72-d1053a268ea8": {
     "applied_at": null,
