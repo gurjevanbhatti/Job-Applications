@@ -2574,6 +2574,34 @@
     "title": "Software Engineer Intern",
     "url": "https://jobs.l3harris.com/job/Melbourne-Intern,-Software-Engineer-FL-32904/1433003500/?ats=successfactors"
   },
+  "09d77bd3-845b-4ffb-bc37-c77d9ed70dd6": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-21T15:28:59.575943Z",
+    "id": "09d77bd3-845b-4ffb-bc37-c77d9ed70dd6",
+    "issue_number": 1952,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1952",
+    "locations": [
+      "Tewksbury, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127"
+  },
   "09f40dda-2ded-4174-ba81-78b97c133f7e": {
     "applied_at": null,
     "backfilled": true,
@@ -4591,6 +4619,33 @@
     ],
     "title": "Call Routing Optimization Engineering Intern",
     "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394"
+  },
+  "10eb3ac4-0a87-4e8b-ba4d-5cc363d3d846": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Uline",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-21T15:28:59.575943Z",
+    "id": "10eb3ac4-0a87-4e8b-ba4d-5cc363d3d846",
+    "issue_number": 1953,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1953",
+    "locations": [
+      "Pleasant Prairie, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Executive Operations Analyst Intern",
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Analyst-Internship---Summer-2027_R268434"
   },
   "11026e9a-3bdc-4a1f-b5ce-7ac1a1b56e6b": {
     "applied_at": null,
@@ -9597,6 +9652,33 @@
     ],
     "title": "Product Engineer Intern - Applications Engineering",
     "url": "https://www.tesla.com/careers/search/job/283298"
+  },
+  "23198c94-9b16-48f0-9708-09ccb2a77fa9": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Marvell",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-21T15:28:59.575943Z",
+    "id": "23198c94-9b16-48f0-9708-09ccb2a77fa9",
+    "issue_number": 1954,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1954",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Silicon Validation Intern",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1"
   },
   "231bce7f-9106-478b-baf4-5af5b77f9cd1": {
     "applied_at": null,
@@ -18785,7 +18867,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-21T15:28:59.575943Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T00:44:15.781283Z",
     "id": "42bed99f-4c2b-48e8-8628-267f69e7eaca",
     "issue_number": 1893,
@@ -18793,7 +18876,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -27645,6 +27728,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-21T15:28:59.575943Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "61b7386b-1994-439e-a17e-9346d940148d",
@@ -27653,7 +27737,7 @@
     "locations": [
       "Golden, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -38335,6 +38419,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-21T15:28:59.575943Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "8b5f96a8-b90d-4f41-9ff7-1c4b1bc8089b",
@@ -38343,7 +38428,7 @@
     "locations": [
       "Golden, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -41925,6 +42010,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-21T15:28:59.575943Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "97d67a9f-ceb5-40f2-9511-3c86c813689a",
@@ -41933,7 +42019,7 @@
     "locations": [
       "Golden, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -44798,6 +44884,33 @@
     ],
     "title": "Software Engineer Co-op",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739"
+  },
+  "a0a234ba-306d-4be2-b894-fa0f79172c2c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "DP World",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-21T14:23:34Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-21T15:28:59.575943Z",
+    "id": "a0a234ba-306d-4be2-b894-fa0f79172c2c",
+    "issue_number": 1955,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1955",
+    "locations": [
+      "Itasca, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Application Analyst Intern",
+    "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400"
   },
   "a0c93f2d-63da-4cc6-ae93-f2fdf6fc64cd": {
     "applied_at": null,
@@ -48379,6 +48492,34 @@
     ],
     "title": "Catastrophe Modeling & Data Analytics Intern",
     "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Catastrophe-Modeling---Data-Analytics-Intern--Spring-2027-_R9576"
+  },
+  "ae9b02e7-d087-43fd-aea6-d8e99a8307aa": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Expedia Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-21T15:28:59.575943Z",
+    "id": "ae9b02e7-d087-43fd-aea6-d8e99a8307aa",
+    "issue_number": 1956,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1956",
+    "locations": [
+      "Springfield, MO"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Developer 1 Intern",
+    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635"
   },
   "aea07001-c82a-489e-acfd-63739fbbbb08": {
     "applied_at": null,
@@ -52307,7 +52448,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-21T15:28:59.575943Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T00:44:15.781283Z",
     "id": "bc33b19a-c530-4a54-8133-36436abba0f9",
     "issue_number": 1917,
@@ -52315,7 +52457,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -64493,7 +64635,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-21T15:28:59.575943Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-20T15:04:09.483490Z",
     "id": "e63307f6-52eb-4edb-a2ea-1448402f84ef",
     "issue_number": 1880,
@@ -64501,7 +64644,7 @@
     "locations": [
       "Dartmouth, NS, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -65335,6 +65478,34 @@
     ],
     "title": "Software Engineering Intern",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026"
+  },
+  "e8c2c05e-b1c6-4cd0-abd2-6957ccda9ab8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Fidelity Investments",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-21T00:00:00Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-21T15:28:59.575943Z",
+    "id": "e8c2c05e-b1c6-4cd0-abd2-6957ccda9ab8",
+    "issue_number": 1957,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1957",
+    "locations": [
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Machine Learning Co-op",
+    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135960"
   },
   "e8c586d7-f281-4ffc-bd41-078c7158f059": {
     "applied_at": null,
@@ -68353,7 +68524,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-21T15:28:59.575943Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "f4473dfb-1d23-48f0-8ea4-3bf930c7328d",
     "issue_number": 1720,
@@ -68361,7 +68533,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -69071,6 +69243,34 @@
     ],
     "title": "Financial Operations Analyst Intern",
     "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Financial-Operations-Analyst-Intern_R-2025-236"
+  },
+  "f724ecc9-e5c4-47e4-9e6d-3584b691bd12": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Massachusetts School Building Authority",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-21T14:41:10Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-21T15:28:59.575943Z",
+    "id": "f724ecc9-e5c4-47e4-9e6d-3584b691bd12",
+    "issue_number": 1958,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1958",
+    "locations": [
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Capital Planning Data Assistant Co-op",
+    "url": "https://jobs.lever.co/massschoolbuildings/d50b947b-cfb4-463a-8a1b-44fcbe26de6e/apply"
   },
   "f73893bf-cad5-4a20-9e0c-3f0b18a456d7": {
     "applied_at": null,
@@ -70095,6 +70295,34 @@
     ],
     "title": "IT Intern \u2013 AI and Operations",
     "url": "https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db/apply"
+  },
+  "fa9f1de2-6097-4e3f-9d78-36635f2d80de": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Northrop Grumman",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-21T15:28:59.575943Z",
+    "id": "fa9f1de2-6097-4e3f-9d78-36635f2d80de",
+    "issue_number": 1959,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1959",
+    "locations": [
+      "Roy, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053"
   },
   "fad9fce5-3ae4-4bc8-b290-7a858a041a0a": {
     "applied_at": null,
