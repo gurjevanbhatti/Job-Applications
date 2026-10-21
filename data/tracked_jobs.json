@@ -3332,6 +3332,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-21T19:30:35.573624Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "0c7e299c-ffc6-40e5-8fd6-e8e2e744740a",
@@ -3340,7 +3341,7 @@
     "locations": [
       "Golden, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -9137,7 +9138,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-21T19:30:35.573624Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T12:19:49.507566Z",
     "id": "21792146-80f9-45a6-ade2-d26fd0098c49",
     "issue_number": 627,
@@ -9145,7 +9147,7 @@
     "locations": [
       "Kansas City, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -12442,6 +12444,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-21T19:30:35.573624Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "2bcbafa1-71bc-4c04-97b2-9914eca0662c",
@@ -12450,7 +12453,7 @@
     "locations": [
       "Waterdown, Hamilton, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -14731,6 +14734,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-21T19:30:35.573624Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "34fe1394-8cf0-4ff3-9681-80bb4fa055dd",
@@ -14739,7 +14743,7 @@
     "locations": [
       "Golden, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -21614,7 +21618,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-21T19:30:35.573624Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "4dc69fa1-8510-4bd9-b77b-9a4d8f07f1f3",
     "issue_number": 1437,
@@ -21622,7 +21627,7 @@
     "locations": [
       "Falls Church, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -24761,7 +24766,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-21T19:30:35.573624Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-29T04:42:08.986977Z",
     "id": "574c67ce-ff4f-4f56-825d-6e6dc66172f6",
     "issue_number": 523,
@@ -24769,7 +24775,7 @@
     "locations": [
       "Kansas City, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -32514,7 +32520,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-21T19:30:35.573624Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "74129f26-3f29-4069-9bd9-234810c4491a",
     "issue_number": 1687,
@@ -32522,7 +32529,7 @@
     "locations": [
       "Lone Tree, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -67481,7 +67488,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-21T19:30:35.573624Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T09:12:26.011373Z",
     "id": "f03758e3-efb5-4de3-adfe-a9160a034ace",
     "issue_number": 1078,
@@ -67489,7 +67497,7 @@
     "locations": [
       "San Jose, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -69624,6 +69632,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-21T19:30:35.573624Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "f85c6116-26b1-4c2a-bd7c-23dbdc6559ce",
@@ -69632,7 +69641,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
