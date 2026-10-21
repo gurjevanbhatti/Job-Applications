@@ -1411,8 +1411,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "058f10b5-7e10-4926-bb72-004c74c2a665",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1935,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1935",
     "locations": [
       "Bellevue, WA"
     ],
@@ -5038,6 +5038,34 @@
     ],
     "title": "AI & Data Co-op",
     "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653"
+  },
+  "12d5d73d-0f5a-459e-aede-1f15093ed6ed": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "NVIDIA",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-20T00:00:00Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-21T10:25:35.434387Z",
+    "id": "12d5d73d-0f5a-459e-aede-1f15093ed6ed",
+    "issue_number": 1947,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1947",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Applied Research Intern - Integrated Sensing and Communications",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027"
   },
   "12d9afc7-b167-4592-b10d-36bd9702bb6d": {
     "applied_at": null,
@@ -10928,8 +10956,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "274daa15-b592-485a-8d98-cc56d12ebdca",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1936,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1936",
     "locations": [
       "Plano, TX"
     ],
@@ -14340,8 +14368,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "33d259a8-0a0b-4a4c-9875-dd5206ee2317",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1937,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1937",
     "locations": [
       "Richardson, TX"
     ],
@@ -17351,6 +17379,35 @@
     ],
     "title": "Product Management Intern",
     "url": "https://job-boards.greenhouse.io/solutions/jobs/4715294006"
+  },
+  "3e95934a-d25a-49d5-af4b-1a2eeb4b3eef": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Robert Bosch Venture Capital",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-21T06:17:18Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-21T10:25:35.434387Z",
+    "id": "3e95934a-d25a-49d5-af4b-1a2eeb4b3eef",
+    "issue_number": 1948,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1948",
+    "locations": [
+      "Farmington Hills, MI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "title": "Calibration Process Optimization Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156585075"
   },
   "3e9a8bd4-d778-4339-a586-68df696939f2": {
     "applied_at": null,
@@ -20991,8 +21048,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "4c21866b-8acd-4bce-b804-6482c07400fa",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1938,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1938",
     "locations": [
       "San Diego, CA"
     ],
@@ -23833,8 +23890,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "54dbab29-b27b-45d6-9211-b2a1dddbff2b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1939,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1939",
     "locations": [
       "Renton, WA"
     ],
@@ -24228,8 +24285,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "5635b14b-45dd-4bb0-925f-0231622eb338",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1940,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1940",
     "locations": [
       "Mountain View, CA"
     ],
@@ -28490,6 +28547,34 @@
     "title": "Engineering Co-op",
     "url": "https://apply.workable.com/mistywest/j/5D68DE0118/apply"
   },
+  "66380619-8481-4fe4-947a-26176558c345": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "NVIDIA",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-20T00:00:00Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-21T10:25:35.434387Z",
+    "id": "66380619-8481-4fe4-947a-26176558c345",
+    "issue_number": 1949,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1949",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Systems Software Intern - Aerial PHY",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530"
+  },
   "6658e26b-eeeb-4403-9290-26c99a397e48": {
     "applied_at": null,
     "backfilled": false,
@@ -30606,6 +30691,33 @@
     "title": "Software Engineer Intern",
     "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008"
   },
+  "6e49745f-bd43-4f9c-86b7-ac3cd8172873": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Hewlett Packard Enterprise",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-20T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-21T10:25:35.434387Z",
+    "id": "6e49745f-bd43-4f9c-86b7-ac3cd8172873",
+    "issue_number": 1950,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1950",
+    "locations": [
+      "Roseville, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Embedded Software Engineer Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088"
+  },
   "6ea50b0f-5bb0-46f9-9acf-2cb906b4da62": {
     "applied_at": null,
     "backfilled": false,
@@ -32063,7 +32175,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-21T10:25:35.434387Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T01:00:40.264360Z",
     "id": "732644b7-8839-4c00-a810-134934432245",
     "issue_number": 1757,
@@ -32071,7 +32184,7 @@
     "locations": [
       "Maple Grove, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -32828,8 +32941,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "75c1c665-cda7-40b3-8db3-ce25f1ddd6ea",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1941,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1941",
     "locations": [
       "Irving, TX"
     ],
@@ -45804,7 +45917,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-21T10:25:35.434387Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T02:17:41.169451Z",
     "id": "a4acdb05-a0e2-422c-b3fd-249925d03ea8",
     "issue_number": 1000,
@@ -45812,7 +45926,7 @@
     "locations": [
       "Calgary, AB, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -48447,8 +48561,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "af4c13fb-d5b5-4e8e-a1b6-5fa1aacbf330",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1942,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1942",
     "locations": [
       "San Diego, CA"
     ],
@@ -49681,6 +49795,35 @@
     ],
     "title": "Hypersonic RF Software Engineer Intern",
     "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993"
+  },
+  "b3c0d835-cfc4-48e9-8841-d656e80fb21c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Rhoda AI",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-21T06:12:43Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-21T10:25:35.434387Z",
+    "id": "b3c0d835-cfc4-48e9-8841-d656e80fb21c",
+    "issue_number": 1951,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1951",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Intern - Inference",
+    "url": "https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4/application?embed=true"
   },
   "b3c4fc62-5cbd-42be-b9b8-29d4c01e63ff": {
     "applied_at": null,
@@ -53800,8 +53943,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "c289fea9-67db-45d8-ab27-d9aa699b67cc",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1943,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1943",
     "locations": [
       "Santa Clara, CA"
     ],
@@ -54616,8 +54759,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "c57abcec-5e89-47ba-b6c2-a19d6a94917b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1944,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1944",
     "locations": [
       "San Diego, CA"
     ],
@@ -56271,7 +56414,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-21T10:25:35.434387Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-16T17:28:12.897847Z",
     "id": "caf45b3a-d589-430c-816a-22a700822dd6",
     "issue_number": 1736,
@@ -56279,7 +56423,7 @@
     "locations": [
       "Maple Grove, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -69453,8 +69597,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "f8f882fd-ee8e-4b25-ae90-0f2a5746e3ed",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1945,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1945",
     "locations": [
       "Seattle, WA",
       "SF",
@@ -70998,8 +71142,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "fe2202cb-de4d-41d9-a08c-ef2fd1dfe049",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 1946,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1946",
     "locations": [
       "San Jose, CA",
       "Folsom, CA"
