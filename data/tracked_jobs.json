@@ -267,7 +267,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T16:34:17.572145Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T02:17:41.169451Z",
     "id": "0173534b-1a00-43bf-8929-2a7c5bfa842d",
     "issue_number": 947,
@@ -275,7 +276,7 @@
     "locations": [
       "Alpharetta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -1590,6 +1591,34 @@
     ],
     "title": "AI Intern - AI",
     "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1"
+  },
+  "060c5b3e-72e6-4565-8196-5327e4baf243": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Qualcomm",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-22T14:12:12Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T16:34:17.572145Z",
+    "id": "060c5b3e-72e6-4565-8196-5327e4baf243",
+    "issue_number": 2008,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2008",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Applied AI Engineering Intern - Hardware Systems",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721678733"
   },
   "060cce42-b4fc-4077-b683-76594bb1607d": {
     "applied_at": null,
@@ -4307,6 +4336,33 @@
     ],
     "title": "Engineering Intern - Multiple Teams",
     "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-2"
+  },
+  "0feda082-a3a6-4e55-8793-5ef9cafd6978": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "EQT Corporation",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-22T14:14:44Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T16:34:17.572145Z",
+    "id": "0feda082-a3a6-4e55-8793-5ef9cafd6978",
+    "issue_number": 2009,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2009",
+    "locations": [
+      "Canonsburg, PA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Midstream Services Intern",
+    "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5459572008"
   },
   "0ff85d31-6c19-40f4-ad7a-e27a92172e0f": {
     "applied_at": null,
@@ -7106,7 +7162,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T16:34:17.572145Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "19e66723-f0ca-497d-881a-e6d544f3ab31",
     "issue_number": 1517,
@@ -7114,7 +7171,7 @@
     "locations": [
       "Malta, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -17248,6 +17305,33 @@
     "title": "ASIC Intern",
     "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034"
   },
+  "3cccbd25-d96e-4da8-bc1a-bb46049aeaf4": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Draper",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-19T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T16:34:17.572145Z",
+    "id": "3cccbd25-d96e-4da8-bc1a-bb46049aeaf4",
+    "issue_number": 2010,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2010",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Optoelectronics Electrical Engineer Co-op",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optoelectronics-Electrical-Engineering-Co-Op_JR003044-1"
+  },
   "3cd3db2a-093b-4ffb-b7fb-4348927dd1e1": {
     "applied_at": null,
     "backfilled": false,
@@ -23161,6 +23245,33 @@
     "title": "AI Hardware RTL Design Engineer Intern - AI Hardware",
     "url": "https://www.tesla.com/careers/search/job/285089"
   },
+  "515ae061-c5fc-417c-8093-4d0c6e420ba5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Qualcomm",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-22T14:12:12Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T16:34:17.572145Z",
+    "id": "515ae061-c5fc-417c-8093-4d0c6e420ba5",
+    "issue_number": 2011,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2011",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Camera Design Implementation Intern",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721678727"
+  },
   "515f1b04-c8f4-4920-ba4c-8564e312dca9": {
     "applied_at": null,
     "backfilled": false,
@@ -25695,7 +25806,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T16:34:17.572145Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T06:06:41.278687Z",
     "id": "58d62252-3525-471b-8267-bdac7ba2d764",
     "issue_number": 2000,
@@ -25703,7 +25815,7 @@
     "locations": [
       "Markham, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -28125,7 +28237,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T16:34:17.572145Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "60dc162c-a256-4cc0-bc15-a69b8366e773",
     "issue_number": 69,
@@ -28133,7 +28246,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -30051,7 +30164,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T16:34:17.572145Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "69682d02-afa7-43f7-b8b0-6e14272666ff",
     "issue_number": 1118,
@@ -30059,7 +30173,7 @@
     "locations": [
       "Calgary, AB, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -36986,6 +37100,34 @@
     "title": "Product Engineer Intern - DRAM Technology - Node Development",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Node-Development-Product-Engineer---DRAM-Technology_JR111846"
   },
+  "82f904be-26cf-4cbf-9612-5a99c8771fd0": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "International Rescue Committee",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-22T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T16:34:17.572145Z",
+    "id": "82f904be-26cf-4cbf-9612-5a99c8771fd0",
+    "issue_number": 2012,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2012",
+    "locations": [
+      "Silver Spring, MD"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Development Data and Research Intern",
+    "url": "https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development-Data-and-Research-Intern----Spring2027-_JR00005497"
+  },
   "8309b5a0-8e75-434e-b1e6-419b51f357ae": {
     "applied_at": null,
     "backfilled": false,
@@ -39493,6 +39635,33 @@
     "title": "Software Development Intern",
     "url": "https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085"
   },
+  "8c79b347-4be7-4551-8b17-0eee3a073dc5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Nutanix",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-22T14:18:32Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T16:34:17.572145Z",
+    "id": "8c79b347-4be7-4551-8b17-0eee3a073dc5",
+    "issue_number": 2013,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2013",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Software Developer Co-op",
+    "url": "https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false"
+  },
   "8c93ba5d-c961-40fd-96f0-71e8be7211de": {
     "applied_at": null,
     "backfilled": false,
@@ -41003,7 +41172,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T16:34:17.572145Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T06:06:41.278687Z",
     "id": "92137443-d00e-4f65-8dae-89ee6c4dc0af",
     "issue_number": 2002,
@@ -41011,7 +41181,7 @@
     "locations": [
       "Markham, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -42314,6 +42484,34 @@
     ],
     "title": "Capital Markets Intern - Quantitative Technology Services",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer--Raleigh_R-0000189675"
+  },
+  "95d0fbdb-14f6-4eaf-a46b-3f06591a562b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "L3Harris Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-22T14:06:04Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T16:34:17.572145Z",
+    "id": "95d0fbdb-14f6-4eaf-a46b-3f06591a562b",
+    "issue_number": 2014,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2014",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Image Processing Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1442671200/?ats=successfactors"
   },
   "96039401-b0c0-4ddf-a059-20346b54ebd6": {
     "applied_at": null,
@@ -48396,6 +48594,34 @@
     "title": "Firmware Engineer Intern",
     "url": "https://job-boards.greenhouse.io/mill/jobs/4733709005"
   },
+  "a9482eaf-0940-4198-b8c8-e65d2e136819": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "FedEx Freight",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-22T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T16:34:17.572145Z",
+    "id": "a9482eaf-0940-4198-b8c8-e65d2e136819",
+    "issue_number": 2015,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2015",
+    "locations": [
+      "United States"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Media & Web Development Intern - Marketing",
+    "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600"
+  },
   "a9a76fae-a7c1-48c3-8229-1804f208d98d": {
     "applied_at": null,
     "backfilled": false,
@@ -52835,7 +53061,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T16:34:17.572145Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T11:49:31.831071Z",
     "id": "ba701556-a87f-4ed9-897d-c2d99fb1a04d",
     "issue_number": 2004,
@@ -52843,7 +53070,7 @@
     "locations": [
       "Saint-Laurent, Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -58287,6 +58514,34 @@
     "title": "Data & Analytics Engineering Intern",
     "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101"
   },
+  "ce026bae-c60a-419e-8307-847eafa898fd": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-22T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T16:34:17.572145Z",
+    "id": "ce026bae-c60a-419e-8307-847eafa898fd",
+    "issue_number": 2016,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2016",
+    "locations": [
+      "Aurora, CO"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520"
+  },
   "ce049c8e-cbb5-4b0e-b4e2-4f3706fcf0b7": {
     "applied_at": null,
     "backfilled": true,
@@ -58653,6 +58908,33 @@
     ],
     "title": "Software Engineering Intern - AI Solutions",
     "url": "https://jobs.keysight.com/jobs/54322?icims=1"
+  },
+  "cfa0ad0d-5137-49c2-9578-79f159b122c1": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Oshkosh",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-22T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T16:34:17.572145Z",
+    "id": "cfa0ad0d-5137-49c2-9578-79f159b122c1",
+    "issue_number": 2017,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2017",
+    "locations": [
+      "Spartanburg, SC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Digital Manufacturing Intern",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065"
   },
   "cfa3eeec-b62b-4d82-b747-367a111bb184": {
     "applied_at": null,
@@ -66183,7 +66465,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T16:34:17.572145Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T11:49:31.831071Z",
     "id": "e719d8fb-c202-4b96-9086-53406bbab0f7",
     "issue_number": 2007,
@@ -66191,7 +66474,7 @@
     "locations": [
       "Saint-Laurent, Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -69251,7 +69534,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T16:34:17.572145Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-19T16:09:38.189315Z",
     "id": "f2273a00-fd36-44f4-b959-cffdf589df8a",
     "issue_number": 1810,
@@ -69259,7 +69543,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
