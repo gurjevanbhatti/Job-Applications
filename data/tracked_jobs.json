@@ -5868,7 +5868,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T11:49:31.831071Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T01:10:29.668738Z",
     "id": "156f07db-f266-4f91-89ee-41d3d1e7d650",
     "issue_number": 1983,
@@ -5876,7 +5877,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -9950,7 +9951,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T11:49:31.831071Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-08T23:15:16.038697Z",
     "id": "2355c32e-a301-4b8a-bf6b-352e71daf514",
     "issue_number": 1275,
@@ -9958,7 +9960,7 @@
     "locations": [
       "Wilmington, DE"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -33138,7 +33140,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T11:49:31.831071Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T09:40:51.065078Z",
     "id": "73b77dc7-3276-4d7b-87c8-394b4520f7ac",
     "issue_number": 1790,
@@ -33146,7 +33149,7 @@
     "locations": [
       "St. Louis, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -40832,7 +40835,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T11:49:31.831071Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T15:34:57.194142Z",
     "id": "914d1c0b-d8fa-4b99-acb4-a54d4c96b960",
     "issue_number": 190,
@@ -40840,7 +40844,7 @@
     "locations": [
       "Cambridge, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -42692,7 +42696,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T11:49:31.831071Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "978a06db-60f9-4e14-8508-fd5a6dc1b731",
     "issue_number": 1131,
@@ -42700,7 +42705,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -52817,6 +52822,33 @@
     ],
     "title": "Entry-Level C++ Software Engineer Intern",
     "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085"
+  },
+  "ba701556-a87f-4ed9-897d-c2d99fb1a04d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Hewlett Packard Enterprise",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T11:49:31.831071Z",
+    "id": "ba701556-a87f-4ed9-897d-c2d99fb1a04d",
+    "issue_number": 2004,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2004",
+    "locations": [
+      "Saint-Laurent, Montreal, QC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Development Intern - AI-Assisted Development",
+    "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294"
   },
   "ba7ed36a-7da0-4b9e-bed8-8f369041684d": {
     "applied_at": null,
@@ -65139,6 +65171,37 @@
     "title": "Agricultural Business Analytics Intern",
     "url": "https://careers.agcocorp.com/job/Champaign-Agricultural-Business-Analytics-Intern-Summer-2027-IL/1440135500/?ats=successfactors"
   },
+  "e41fbb04-5d3a-4afb-bf00-859f48e0a2aa": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Uline",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-22T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T11:49:31.831071Z",
+    "id": "e41fbb04-5d3a-4afb-bf00-859f48e0a2aa",
+    "issue_number": 2005,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2005",
+    "locations": [
+      "Waukegan, IL",
+      "Milwaukee, WI",
+      "Glenview, IL",
+      "Pleasant Prairie, WI",
+      "Kenosha, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Developer Intern",
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537"
+  },
   "e424ed63-cf81-42da-b8e7-31265322ec20": {
     "applied_at": null,
     "backfilled": false,
@@ -65509,6 +65572,33 @@
     ],
     "title": "Software Engineer Co-op",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007"
+  },
+  "e55cdbec-8071-4669-8bde-c2507d6275ee": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Aptiv",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-22T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T11:49:31.831071Z",
+    "id": "e55cdbec-8071-4669-8bde-c2507d6275ee",
+    "issue_number": 2006,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2006",
+    "locations": [
+      "Troy, MI"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Development Intern",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861"
   },
   "e58b01bd-a4bc-456f-b9b0-546a0288c6d3": {
     "applied_at": null,
@@ -66080,6 +66170,33 @@
     ],
     "title": "AI Engineering Associate Software Engineer Intern",
     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889"
+  },
+  "e719d8fb-c202-4b96-9086-53406bbab0f7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Hewlett Packard Enterprise",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T11:49:31.831071Z",
+    "id": "e719d8fb-c202-4b96-9086-53406bbab0f7",
+    "issue_number": 2007,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2007",
+    "locations": [
+      "Saint-Laurent, Montreal, QC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Development Intern - AI-Assisted Development",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1"
   },
   "e7350a2d-fa26-4da5-908e-82eb0a7a4b34": {
     "applied_at": null,
@@ -70148,7 +70265,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T11:49:31.831071Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-16T13:14:20.752400Z",
     "id": "f6398163-4e7d-4ddd-aaab-04adafd0ee67",
     "issue_number": 1733,
@@ -70156,7 +70274,7 @@
     "locations": [
       "Ann Arbor, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
