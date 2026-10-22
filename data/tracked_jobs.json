@@ -9226,7 +9226,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T20:18:12.588722Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "20e60473-ab0b-483d-8db0-683b9665e97c",
     "issue_number": 383,
@@ -9234,7 +9235,7 @@
     "locations": [
       "Beavercreek, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -19261,7 +19262,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T20:18:12.588722Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T22:45:10.445503Z",
     "id": "424885bf-4524-42f8-aae0-88ebf8504142",
     "issue_number": 1968,
@@ -19269,7 +19271,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -22724,7 +22726,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T20:18:12.588722Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-20T00:18:53.109573Z",
     "id": "4f25a257-64eb-4345-9093-29d28e199773",
     "issue_number": 1832,
@@ -22732,7 +22735,7 @@
     "locations": [
       "Columbus, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -33571,7 +33574,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T20:18:12.588722Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T19:32:41.513227Z",
     "id": "74c29392-8eab-44f0-a1ae-0bb1d66ec96f",
     "issue_number": 1191,
@@ -33579,7 +33583,7 @@
     "locations": [
       "San Diego, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
