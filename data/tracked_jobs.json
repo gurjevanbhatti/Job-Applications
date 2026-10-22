@@ -9351,6 +9351,34 @@
     "title": "Co-op - Multiple Teams",
     "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/DallasFt-Worth-TX/XMLNAME-2027-Spring-Summer-Co-op-Opportunities---Dallas_182410"
   },
+  "21f222bb-e42b-4075-a232-98dfa6d74053": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Tesla",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-22T01:47:07Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T06:06:41.278687Z",
+    "id": "21f222bb-e42b-4075-a232-98dfa6d74053",
+    "issue_number": 1999,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/1999",
+    "locations": [
+      "Palo Alto, CA",
+      "Fremont, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Internship - Electrical Engineer - Embedded Systems & Test Engineering - Supply Chain - Winter/Spring 2027",
+    "url": "https://www.tesla.com/careers/search/job/287407"
+  },
   "220c7f99-8555-4e94-9c2e-db2152ace8d4": {
     "applied_at": null,
     "backfilled": true,
@@ -25652,6 +25680,34 @@
     "title": "People Analytics Intern",
     "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/People-Analytics-Intern---Summer-2027---Franklin--TN_R00214301"
   },
+  "58d62252-3525-471b-8267-bdac7ba2d764": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Qualcomm",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-22T01:26:46Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T06:06:41.278687Z",
+    "id": "58d62252-3525-471b-8267-bdac7ba2d764",
+    "issue_number": 2000,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2000",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Applied AI Engineer Intern",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721664194"
+  },
   "58e8369f-2689-4d99-a38e-37e807ad938d": {
     "applied_at": null,
     "backfilled": true,
@@ -34161,7 +34217,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T06:06:41.278687Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T09:12:26.011373Z",
     "id": "7771e28f-19b8-42e9-8cfb-42c1b63e5f24",
     "issue_number": 1048,
@@ -34169,7 +34226,7 @@
     "locations": [
       "Seattle, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -34881,6 +34938,35 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-24190"
+  },
+  "7a944b5d-00b3-4976-a381-49c8b71abe4c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Keysight Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-22T01:03:34Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T06:06:41.278687Z",
+    "id": "7a944b5d-00b3-4976-a381-49c8b71abe4c",
+    "issue_number": 2001,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2001",
+    "locations": [
+      "Calabasas, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.keysight.com/jobs/55115?icims=1"
   },
   "7a9f7982-9536-42a1-ad3a-254aa198c46d": {
     "applied_at": null,
@@ -36825,7 +36911,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T06:06:41.278687Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "82b7074b-3840-4347-a125-e4d8ed0f7c3a",
     "issue_number": 675,
@@ -36833,7 +36920,7 @@
     "locations": [
       "Champaign, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -40900,6 +40987,33 @@
     "title": "AI/ML Software Engineer Co-op Intern",
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234"
   },
+  "92137443-d00e-4f65-8dae-89ee6c4dc0af": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Qualcomm",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-22T01:26:46Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T06:06:41.278687Z",
+    "id": "92137443-d00e-4f65-8dae-89ee6c4dc0af",
+    "issue_number": 2002,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2002",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Camera Design Implementation Intern",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721664170"
+  },
   "921e3c38-a66c-4423-a933-42a7eac1a1fb": {
     "applied_at": null,
     "backfilled": false,
@@ -41421,7 +41535,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T06:06:41.278687Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T09:12:26.011373Z",
     "id": "93c766dc-482e-4560-9810-1490cf9f572f",
     "issue_number": 1057,
@@ -41429,7 +41544,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -44295,6 +44410,34 @@
     ],
     "title": "Undergraduate Internship - Software",
     "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524"
+  },
+  "9cb6b50a-7e6d-4b91-8ef9-070a5fd9004f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "TikTok",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-22T01:22:28Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-22T06:06:41.278687Z",
+    "id": "9cb6b50a-7e6d-4b91-8ef9-070a5fd9004f",
+    "issue_number": 2003,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Product-Led-Growth Product Manager Project Intern",
+    "url": "https://lifeattiktok.com/search/7655421207605889333"
   },
   "9cb80a43-fcfd-473d-8145-5aba8bb71782": {
     "applied_at": null,
@@ -50375,7 +50518,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T06:06:41.278687Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-19T16:09:38.189315Z",
     "id": "b18ea2c9-9c02-4095-924c-d220e62b930e",
     "issue_number": 1805,
@@ -50383,7 +50527,7 @@
     "locations": [
       "Huntsville, AL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -53729,7 +53873,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T06:06:41.278687Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T09:12:26.011373Z",
     "id": "bdaf339e-2338-4004-8c3d-30f3f5541a4c",
     "issue_number": 1066,
@@ -53737,7 +53882,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -62361,7 +62506,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-22T06:06:41.278687Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "db110739-54fa-4657-865d-d24209219851",
     "issue_number": 1710,
@@ -62369,7 +62515,7 @@
     "locations": [
       "Huntsville, AL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
