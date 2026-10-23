@@ -41,7 +41,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-23T06:54:12.986469Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "0017fea4-31d8-44fc-a69d-2af57be2290e",
     "issue_number": 1934,
@@ -49,7 +50,7 @@
     "locations": [
       "Annapolis, MD"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -5362,8 +5363,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T01:49:00.661019Z",
     "id": "12ebf494-b5e8-4c8c-bb32-e1607f0a81ec",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2071,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2071",
     "locations": [
       "San Jose, CA"
     ],
@@ -6230,7 +6231,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-23T06:54:12.986469Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T05:11:24.769052Z",
     "id": "1612b1ec-0741-41c1-b8d3-31f1060dc2aa",
     "issue_number": 257,
@@ -6238,7 +6240,7 @@
     "locations": [
       "Charlotte, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -6691,6 +6693,38 @@
     ],
     "title": "Product Management Intern",
     "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784"
+  },
+  "180099af-2203-4310-be0d-11ae56d10f78": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Amazon",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T01:45:38Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "180099af-2203-4310-be0d-11ae56d10f78",
+    "issue_number": 2079,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2079",
+    "locations": [
+      "United States"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027",
+      "Winter 2027",
+      "Fall 2027"
+    ],
+    "title": "Software Engineer Intern - Embedded Systems",
+    "url": "https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa"
   },
   "18052ece-e9bc-41d6-bcd9-f20ab241dcc2": {
     "applied_at": null,
@@ -9199,7 +9233,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-23T06:54:12.986469Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T00:44:15.781283Z",
     "id": "20670d26-2afd-4769-b533-a3e5ff77ca0c",
     "issue_number": 1889,
@@ -9207,7 +9242,7 @@
     "locations": [
       "Largo, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -10904,6 +10939,34 @@
     ],
     "title": "ASIC Verification Engineer Intern",
     "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Engineering-Intern_1214219"
+  },
+  "25f26c89-68c7-42c7-8b1c-a1e4d61f5525": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Amazon",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T01:45:31Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "25f26c89-68c7-42c7-8b1c-a1e4d61f5525",
+    "issue_number": 2080,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2080",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Junior Software Development Engineer Intern - Jr. Developer Program",
+    "url": "https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program"
   },
   "26421879-2b39-4d9e-bb39-48c7ed152482": {
     "applied_at": null,
@@ -12743,6 +12806,36 @@
     "title": "AI Systems Engineer Intern - Summer 2027",
     "url": "https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506"
   },
+  "2b19951c-67c9-4606-b94a-7ad022323200": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Amazon",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-23T01:45:40Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "2b19951c-67c9-4606-b94a-7ad022323200",
+    "issue_number": 2081,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2081",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Systems Development Engineer Intern",
+    "url": "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027"
+  },
   "2b316c3e-9a1f-4f4d-8a89-0bfaccfe907a": {
     "applied_at": null,
     "backfilled": false,
@@ -12813,8 +12906,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T01:49:00.661019Z",
     "id": "2b6122fb-77de-497a-bba7-432617dc755b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2072,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2072",
     "locations": [
       "Mequon, WI",
       "Eden Prairie, MN"
@@ -19278,6 +19371,35 @@
     "title": "Sparse Linear Algebra Libraries Intern",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429"
   },
+  "4169c155-cad3-467e-b8f4-6435181c35ba": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Amazon",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T01:45:42Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "4169c155-cad3-467e-b8f4-6435181c35ba",
+    "issue_number": 2082,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2082",
+    "locations": [
+      "United States"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027",
+      "Winter 2027",
+      "Fall 2027"
+    ],
+    "title": "Software Engineer Intern - AWS Database",
+    "url": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us"
+  },
   "417baa72-1cf6-47fe-b9ee-2201b52d1846": {
     "applied_at": null,
     "backfilled": false,
@@ -21462,7 +21584,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-23T06:54:12.986469Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-20T00:18:53.109573Z",
     "id": "4a03c3b4-e8cb-45c4-acd4-f7ee8701bf6b",
     "issue_number": 1831,
@@ -21470,7 +21593,7 @@
     "locations": [
       "Holtsville, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -22043,6 +22166,35 @@
     ],
     "title": "Business Data Analyst Intern - Strategy & Planning",
     "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360"
+  },
+  "4c1e849b-6ed3-4fc8-a84b-1f9dd177b17a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Amazon",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T01:45:28Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "4c1e849b-6ed3-4fc8-a84b-1f9dd177b17a",
+    "issue_number": 2083,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2083",
+    "locations": [
+      "Arlington County, Arlington, VA",
+      "NYC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Associate Delivery Consultant Intern - AWS Professional Services",
+    "url": "https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services"
   },
   "4c21866b-8acd-4bce-b804-6482c07400fa": {
     "applied_at": null,
@@ -24917,6 +25069,34 @@
     ],
     "title": "Software Engineer Co-op",
     "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663-1"
+  },
+  "5466f04d-9bfa-47d7-8f24-e4492d1a699c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Amazon",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T01:49:12Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "5466f04d-9bfa-47d7-8f24-e4492d1a699c",
+    "issue_number": 2084,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2084",
+    "locations": [
+      "North Reading, MA",
+      "Westborough, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Embedded Firmware Co-op",
+    "url": "https://amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027"
   },
   "548a25ac-0c5d-42d4-ac4b-08d7a25340c3": {
     "applied_at": null,
@@ -28298,8 +28478,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T01:49:00.661019Z",
     "id": "5f8e95d8-b5c0-4d21-9ec0-a25bd2e3943f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2073,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2073",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -31694,8 +31874,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T01:49:00.661019Z",
     "id": "6cc5f70b-3a8d-4c8f-af87-5d2ff7d1a983",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2074,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2074",
     "locations": [
       "Mequon, WI",
       "Eden Prairie, MN"
@@ -35599,6 +35779,36 @@
     "title": "Data Science Intern",
     "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342"
   },
+  "79f3969b-886f-4281-9e1a-926e475353e8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Amazon",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T01:45:37Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "79f3969b-886f-4281-9e1a-926e475353e8",
+    "issue_number": 2085,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2085",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "title": "Hardware Development Engineer Intern",
+    "url": "https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027"
+  },
   "7a03fb73-759e-4d0e-8ee5-88b533ee7892": {
     "applied_at": null,
     "backfilled": false,
@@ -39231,6 +39441,36 @@
     "title": "Software Development Intern",
     "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405-2"
   },
+  "8878ddd1-1e49-42ed-bfb2-82a00cd15970": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Amazon",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T01:50:22Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "8878ddd1-1e49-42ed-bfb2-82a00cd15970",
+    "issue_number": 2086,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2086",
+    "locations": [
+      "Seattle, WA",
+      "Austin, TX",
+      "Cupertino, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "ASIC Engineer Early Career Intern",
+    "url": "https://amazon.jobs/en/jobs/10558918/asic-engineer-i-annapurna-labs-early-career-2027"
+  },
   "889b9ca8-2b1f-4fd5-b6f6-d9ab02236f83": {
     "applied_at": null,
     "backfilled": false,
@@ -39462,7 +39702,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-23T06:54:12.986469Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-20T00:18:53.109573Z",
     "id": "89301830-3360-4f46-9be6-c3f71c2be86b",
     "issue_number": 1844,
@@ -39470,7 +39711,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -46124,8 +46365,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T01:49:00.661019Z",
     "id": "9e4636b4-4768-4f2d-9f37-957a86be35e0",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2075,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2075",
     "locations": [
       "LA"
     ],
@@ -46520,8 +46761,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T01:49:00.661019Z",
     "id": "9f034677-a3d3-4f7d-9504-7620ce4703fa",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2076,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2076",
     "locations": [
       "Mequon, WI",
       "Eden Prairie, MN"
@@ -50568,7 +50809,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-23T06:54:12.986469Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "ad04fe43-1999-4f2e-b16a-2420d5395dfe",
     "issue_number": 1463,
@@ -50576,7 +50818,7 @@
     "locations": [
       "Charlotte, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -51799,6 +52041,34 @@
     "title": "Software Engineer Intern",
     "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299"
   },
+  "b14e0231-d0b8-4267-b36d-5954003ab300": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Amazon",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T01:45:39Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "b14e0231-d0b8-4267-b36d-5954003ab300",
+    "issue_number": 2087,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2087",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "ASIC Engineer Intern",
+    "url": "https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027"
+  },
   "b15a4185-e784-44e5-a958-a5b71658fc15": {
     "applied_at": null,
     "backfilled": false,
@@ -52682,6 +52952,38 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188474"
+  },
+  "b528e2b6-04c3-46be-bd21-cac3f2e018bb": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Amazon",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T01:45:40Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PharmD",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "b528e2b6-04c3-46be-bd21-cac3f2e018bb",
+    "issue_number": 2088,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2088",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027",
+      "Summer 2027"
+    ],
+    "title": "Systems Development Engineer Intern",
+    "url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027"
   },
   "b5399343-6879-4858-98ed-d087567c8913": {
     "applied_at": null,
@@ -53967,6 +54269,33 @@
     "title": "Embedded Software Co-op",
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40172"
   },
+  "b9d691cf-e9a6-406c-a287-7cd9b08afc07": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Hewlett Packard Enterprise",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-22T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "b9d691cf-e9a6-406c-a287-7cd9b08afc07",
+    "issue_number": 2089,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2089",
+    "locations": [
+      "Chippewa Falls, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Electrical Hardware Engineer Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electrical-Hardware-Engineering-Intern_1213409"
+  },
   "b9d84998-3a7f-4698-a344-64d97d9d9381": {
     "applied_at": null,
     "backfilled": false,
@@ -55051,8 +55380,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T01:49:00.661019Z",
     "id": "bc7d8bd5-8a92-4609-ab88-b1fe213fc0a4",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2077,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2077",
     "locations": [
       "Greenville, SC"
     ],
@@ -56236,7 +56565,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-23T06:54:12.986469Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T00:29:31.170314Z",
     "id": "c101ff9c-9897-4854-bc18-a135671acfc2",
     "issue_number": 320,
@@ -56244,7 +56574,7 @@
     "locations": [
       "Arlington, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -59972,6 +60302,35 @@
     ],
     "title": "Firmware Engineer Co-op",
     "url": "https://jobs.smartrecruiters.com/Wabtec/3743990015854776"
+  },
+  "ceb699dc-3064-45df-b7bc-da8b373ba861": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Amazon",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T01:51:46Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "ceb699dc-3064-45df-b7bc-da8b373ba861",
+    "issue_number": 2090,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2090",
+    "locations": [
+      "Austin, TX",
+      "Cupertino, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Cloud Hardware Development Engineer Intern",
+    "url": "https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027"
   },
   "cedb1575-2b84-471a-8de3-e8f8bb3be3ce": {
     "applied_at": null,
@@ -66436,6 +66795,36 @@
     "title": "Software Engineer Intern - Engine",
     "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220919"
   },
+  "e25e3b00-f4dd-4ad2-8886-c75ae8fb511e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Amazon",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T01:51:46Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "e25e3b00-f4dd-4ad2-8886-c75ae8fb511e",
+    "issue_number": 2091,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2091",
+    "locations": [
+      "Seattle, WA",
+      "Austin, TX",
+      "Cupertino, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "ASIC Engineer Intern",
+    "url": "https://amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027"
+  },
   "e278710f-d6bb-4179-bc3d-fb012be95ca4": {
     "applied_at": null,
     "backfilled": false,
@@ -68051,6 +68440,37 @@
     ],
     "title": "IT / AI Engineer Intern",
     "url": "https://jobs.aon.com/jobs/110099?icims=1"
+  },
+  "e7367bf7-aaea-4883-ab30-ea927d7b66a9": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Amazon",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T01:45:40Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "e7367bf7-aaea-4883-ab30-ea927d7b66a9",
+    "issue_number": 2092,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2092",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa"
   },
   "e74e980e-faf5-426c-a5cf-798bb67b7ab6": {
     "applied_at": null,
@@ -70221,7 +70641,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-23T06:54:12.986469Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T09:26:13.134349Z",
     "id": "eed65ade-e9b6-4281-bfea-94e030327a6d",
     "issue_number": 1666,
@@ -70230,7 +70651,7 @@
       "New Brunswick, NJ",
       "Hopewell Township, NJ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -71800,6 +72221,33 @@
     "title": "Software Engineer Intern",
     "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757"
   },
+  "f4933265-5ae6-420b-b9b2-7b0c2bb825af": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Amazon",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T01:45:44Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T06:54:12.986469Z",
+    "id": "f4933265-5ae6-420b-b9b2-7b0c2bb825af",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Seattle, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Applied Science Intern - Master's Student Science",
+    "url": "https://amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting"
+  },
   "f4b3cda9-f601-4fa9-a4ef-1dfbda2de5e3": {
     "applied_at": null,
     "backfilled": false,
@@ -72661,8 +73109,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-22T23:29:05.860462Z",
     "id": "f7ab51e5-51b0-4110-bafa-eedb30aa6138",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2068,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2068",
     "locations": [
       "Wilmington, MA"
     ],
@@ -73234,7 +73682,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-23T06:54:12.986469Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T00:29:31.170314Z",
     "id": "f9aac5d5-d4f2-4936-93fc-e6a1cf4306f6",
     "issue_number": 337,
@@ -73242,7 +73691,7 @@
     "locations": [
       "Houston, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -73713,8 +74162,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-22T23:29:05.860462Z",
     "id": "fb282c27-08b8-4404-bb54-4650d4cd56d7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2069,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2069",
     "locations": [
       "Kanata, Ottawa, ON, Canada"
     ],
@@ -74369,8 +74818,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-22T23:29:05.860462Z",
     "id": "fd09f346-c36c-4ce5-8491-1ad9de70aabd",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2070,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2070",
     "locations": [
       "Berthoud, CO"
     ],
@@ -74479,8 +74928,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T01:49:00.661019Z",
     "id": "fd78e3e6-910d-4b18-aa5f-460b8a65012f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2078,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2078",
     "locations": [
       "Mequon, WI",
       "Eden Prairie, MN"
@@ -74795,7 +75244,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-23T06:54:12.986469Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T01:00:40.264360Z",
     "id": "fe413853-4493-4bf0-a4af-5723d1b9fdbc",
     "issue_number": 1783,
@@ -74803,7 +75253,7 @@
     "locations": [
       "Aurora, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
