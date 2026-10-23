@@ -71,7 +71,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-23T20:33:51.688573Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T02:17:41.169451Z",
     "id": "005abe0f-5c5a-4363-bfc4-bbff60db6d64",
     "issue_number": 946,
@@ -79,7 +80,7 @@
     "locations": [
       "Phoenix, AZ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -1427,6 +1428,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-23T20:33:51.688573Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "057dd9da-1280-4dab-a6a2-a29c81fedad0",
@@ -1436,7 +1438,7 @@
       "Boston, MA",
       "Somerville, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -6395,6 +6397,34 @@
     ],
     "title": "Commercial Lending AI Engineer Intern - Winter 2027",
     "url": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply"
+  },
+  "167db85e-f882-442a-a140-67ddb1c5b800": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Robert Bosch Venture Capital",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T14:10:14Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T20:33:51.688573Z",
+    "id": "167db85e-f882-442a-a140-67ddb1c5b800",
+    "issue_number": 2095,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2095",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Agentic AI Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157483412"
   },
   "16856e96-3bd9-4fee-85e4-ed92164905ae": {
     "applied_at": null,
@@ -12104,6 +12134,34 @@
     ],
     "title": "Software Engineer Intern - Receiver Exciter and Processing Architecture",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484"
+  },
+  "28e9b3bb-4e8d-47e3-b752-d6a0e06de51b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-22T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T20:33:51.688573Z",
+    "id": "28e9b3bb-4e8d-47e3-b752-d6a0e06de51b",
+    "issue_number": 2096,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2096",
+    "locations": [
+      "McKinney, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Mission Analyst Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Mission-Analyst-Intern---Summer-2027--Onsite-_01883059"
   },
   "290dbd18-b2d1-4c4d-b9a7-99c6c3b2511a": {
     "applied_at": null,
@@ -30210,6 +30268,34 @@
     "title": "R&D Software Engineer Intern",
     "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563514"
   },
+  "649da7dc-7cfd-4077-a34e-20558b15bdfc": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GE Vernova",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T20:33:51.688573Z",
+    "id": "649da7dc-7cfd-4077-a34e-20558b15bdfc",
+    "issue_number": 2097,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2097",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product Management Intern",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1"
+  },
   "64ae06b6-64fe-47e8-bae2-98b8c700c590": {
     "applied_at": null,
     "backfilled": false,
@@ -34710,7 +34796,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-23T20:33:51.688573Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-14T17:45:46.491669Z",
     "id": "74ab41ac-2b49-458f-98f3-d3c4172f9e1f",
     "issue_number": 1589,
@@ -34718,7 +34805,7 @@
     "locations": [
       "Bellevue, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -37757,6 +37844,33 @@
     ],
     "title": "Commercial Analytics Co-op - Market Access",
     "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics--Market-Access_REQ-31008-1"
+  },
+  "803b306d-364e-4c89-90ae-c3f32c7cd40a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Coretek Services",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T14:09:30Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T20:33:51.688573Z",
+    "id": "803b306d-364e-4c89-90ae-c3f32c7cd40a",
+    "issue_number": 2098,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2098",
+    "locations": [
+      "Remote in USA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "AI & Data Automation Developer Co-op",
+    "url": "https://apply.workable.com/coretek-services/j/21D19CC253/apply"
   },
   "80c856e0-3ec4-4026-9444-8ee61d28bf1e": {
     "applied_at": null,
@@ -43924,6 +44038,38 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102446"
+  },
+  "95437628-8de3-4f6f-ba65-44f3b0ed0be8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "MongoDB",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T14:29:53Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T20:33:51.688573Z",
+    "id": "95437628-8de3-4f6f-ba65-44f3b0ed0be8",
+    "issue_number": 2099,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2099",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "SF",
+      "Austin, TX",
+      "NYC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134"
   },
   "95542b2a-559f-4043-9abf-11784ddc524b": {
     "applied_at": null,
@@ -50636,7 +50782,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-23T20:33:51.688573Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T00:31:37.039261Z",
     "id": "aa53868c-7316-4c11-b2d1-387065247bb1",
     "issue_number": 236,
@@ -50644,7 +50791,7 @@
     "locations": [
       "Johnston, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -52777,6 +52924,34 @@
     ],
     "title": "Development Engineer Intern",
     "url": "https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694-1"
+  },
+  "b2385634-acd5-4fc2-b5b1-74b8054923c7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Marvell",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T20:33:51.688573Z",
+    "id": "b2385634-acd5-4fc2-b5b1-74b8054923c7",
+    "issue_number": 2100,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2100",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Design Verification Intern",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/CA-ON---Ontario---Toronto/Design-Verification-Intern_2603984"
   },
   "b26371db-d53d-469b-b8e0-1f50db3f6004": {
     "applied_at": null,
@@ -64175,6 +64350,34 @@
     ],
     "title": "Software Engineering Intern - Research & Development Engineering",
     "url": "https://eaton.eightfold.ai/careers/job/687239256127"
+  },
+  "d8b9f547-837d-4189-801a-d05610addf86": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GE Vernova",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-23T20:33:51.688573Z",
+    "id": "d8b9f547-837d-4189-801a-d05610addf86",
+    "issue_number": 2101,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2101",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product Management Intern",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2"
   },
   "d8c6bf43-c4e0-4ef8-b0e0-96d5aabd362c": {
     "applied_at": null,
@@ -76084,7 +76287,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-23T20:33:51.688573Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T22:49:28.249442Z",
     "id": "fec9533c-b5cc-4a22-b148-01e36f9516d4",
     "issue_number": 462,
@@ -76092,7 +76296,7 @@
     "locations": [
       "Irvine, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
