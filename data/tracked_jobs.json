@@ -48865,7 +48865,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-24T15:48:19.524337Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T19:32:41.513227Z",
     "id": "9facd644-c8bc-46cb-bd5a-ddf808865147",
     "issue_number": 1195,
@@ -48873,7 +48874,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -54963,6 +54964,33 @@
     ],
     "title": "Digital Services Development Support and Operations Internship",
     "url": "https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Development-Support-and-Operations-Internship-Summer-2027_R227468"
+  },
+  "b45ea2d4-167c-47bc-bce8-92927650a1bc": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "The Federal Reserve System",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-20T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-24T15:48:19.524337Z",
+    "id": "b45ea2d4-167c-47bc-bce8-92927650a1bc",
+    "issue_number": 2169,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2169",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Policy & Analysis Intern",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766"
   },
   "b50df64e-0d8e-4631-a2c7-2da5eb33aaa2": {
     "applied_at": null,
@@ -71266,7 +71294,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-24T15:48:19.524337Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T19:32:41.513227Z",
     "id": "e7f4bf5f-d2db-4cf1-a052-81c57b0543b1",
     "issue_number": 1198,
@@ -71274,7 +71303,7 @@
     "locations": [
       "Cleveland, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -76545,7 +76574,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-24T15:48:19.524337Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T02:17:41.169451Z",
     "id": "fa6b1c85-77ab-4c0f-abf9-2175172bb65b",
     "issue_number": 1021,
@@ -76553,7 +76583,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
