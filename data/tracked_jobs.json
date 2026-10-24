@@ -7387,6 +7387,33 @@
     "title": "Payments Product Intern",
     "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Payments-Product-intern_REQ-2389"
   },
+  "19189a03-be12-41d8-85ab-ff66a343ee22": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Aptiv",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-24T01:14:05Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-24T01:59:00.829770Z",
+    "id": "19189a03-be12-41d8-85ab-ff66a343ee22",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Kanata, Ottawa, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Engineering Intern",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693010"
+  },
   "191ec10e-48aa-42a6-a296-acd2f1d46586": {
     "applied_at": null,
     "backfilled": false,
@@ -10023,7 +10050,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-24T01:59:00.829770Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T06:06:41.278687Z",
     "id": "21f222bb-e42b-4075-a232-98dfa6d74053",
     "issue_number": 1999,
@@ -10032,7 +10060,7 @@
       "Palo Alto, CA",
       "Fremont, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -30285,8 +30313,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "61fa0744-4831-4c97-9f73-b7fff685dfe2",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2127,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2127",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -30426,8 +30454,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "6281c5f1-143a-4432-91f9-73a2383d82a2",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2128,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2128",
     "locations": [
       "Mountain View, CA"
     ],
@@ -31775,8 +31803,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "68798195-c0ff-48d5-9008-b0518e01e992",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2129,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2129",
     "locations": [
       "Boston, MA"
     ],
@@ -32286,8 +32314,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "69f01b48-7d56-4df4-946d-c163ffc2eacc",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2130,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2130",
     "locations": [
       "Lansing, MI"
     ],
@@ -33607,8 +33635,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "6e2e7956-6e84-46a8-8180-82443de62914",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2131,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2131",
     "locations": [
       "Rochester, MN"
     ],
@@ -34804,8 +34832,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "7214eb70-898d-47c5-a40b-c7d29bea42dd",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2132,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2132",
     "locations": [
       "Milpitas, CA"
     ],
@@ -36261,8 +36289,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "76ebac3b-92ba-48b2-b5ad-c3ea2b664381",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2133,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2133",
     "locations": [
       "Milpitas, CA"
     ],
@@ -36805,8 +36833,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "78f2f6fd-9234-4b7c-a26c-189023b24ca7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2134,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2134",
     "locations": [
       "Burlingame, CA"
     ],
@@ -37207,8 +37235,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "7a312bde-0d90-40b2-a5f6-afdd500d25d4",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2135,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2135",
     "locations": [
       "Milpitas, CA"
     ],
@@ -37486,7 +37514,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-24T01:59:00.829770Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T06:01:40.436533Z",
     "id": "7b20c4df-f10b-41f9-8eb8-e8d3f55d3f10",
     "issue_number": 164,
@@ -37494,7 +37523,7 @@
     "locations": [
       "Palo Alto, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -38095,8 +38124,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "7d6bf1c5-976f-4398-b41d-4408341be367",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2136,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2136",
     "locations": [
       "Cambridge, MA"
     ],
@@ -40240,6 +40269,35 @@
     "title": "Test Equipment Engineering and Maintenance Intern",
     "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107368"
   },
+  "860a5d35-fd73-4f09-9dab-71f9950473cf": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Sardine",
+    "countries": [
+      "Canada",
+      "USA"
+    ],
+    "date_posted": "2026-10-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-24T01:59:00.829770Z",
+    "id": "860a5d35-fd73-4f09-9dab-71f9950473cf",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Remote in USA",
+      "Remote in Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true"
+  },
   "8617ce4d-04fe-4f3d-ab6d-ea8c0dba1bea": {
     "applied_at": null,
     "backfilled": false,
@@ -40396,8 +40454,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "8668b886-e169-4a45-ae60-da68a6f0eabd",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2137,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2137",
     "locations": [
       "Jacksonville, FL"
     ],
@@ -44869,8 +44927,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "94d98aed-f229-4614-bd75-a53c2673f538",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2138,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2138",
     "locations": [
       "Milpitas, CA"
     ],
@@ -48918,8 +48976,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "a03eaf41-3ae1-4ad5-9fcd-cd0626da84e9",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2139,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2139",
     "locations": [
       "Cedar Rapids, IA"
     ],
@@ -48942,6 +49000,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-24T01:59:00.829770Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "a0411f20-98d8-4615-8a27-21bcd5d82808",
@@ -48950,7 +49009,7 @@
     "locations": [
       "Palo Alto, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -49397,8 +49456,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "a14ceb22-49c8-4897-9a3b-4ae3041a00fc",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2140,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2140",
     "locations": [
       "United States"
     ],
@@ -49633,8 +49692,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "a24fa92a-b961-4436-95e4-01e762b32a0b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2141,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2141",
     "locations": [
       "Essex Junction, VT"
     ],
@@ -51906,8 +51965,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "aa2d539c-b01a-4bba-9dab-3b2698bcd970",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2142,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2142",
     "locations": [
       "Milpitas, CA"
     ],
@@ -51989,8 +52048,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "aa6b3f61-8852-49af-89cc-be95af37f033",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2143,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2143",
     "locations": [
       "Richardson, TX"
     ],
@@ -52214,8 +52273,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "ab021d50-65d1-4111-9f0c-fcf7641972ea",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2144,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2144",
     "locations": [
       "Calabasas, CA"
     ],
@@ -53570,8 +53629,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "b03555c3-944d-4213-aab1-95db2f80fabf",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2145,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2145",
     "locations": [
       "Milpitas, CA"
     ],
@@ -53975,8 +54034,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "b1897deb-37b0-4282-a948-8d6248118a62",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2146,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2146",
     "locations": [
       "Burlingame, CA"
     ],
@@ -54201,8 +54260,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "b2378902-0565-466e-8c16-f3e53b4f62e3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2147,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2147",
     "locations": [
       "Tampa, FL"
     ],
@@ -54545,8 +54604,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "b35550ea-675d-4f18-9d38-420465a05389",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2148,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2148",
     "locations": [
       "Santa Rosa, CA"
     ],
@@ -55294,8 +55353,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "b62acb8f-73bb-4503-905b-d785adc23fe0",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2149,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2149",
     "locations": [
       "Remote in USA"
     ],
@@ -59754,8 +59813,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "c56751ac-6762-423d-9796-8d62264d5cac",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2150,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2150",
     "locations": [
       "Princeton, NJ"
     ],
@@ -59868,8 +59927,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "c5d18f1d-65ab-49c8-86ae-b293e6a1c377",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2151,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2151",
     "locations": [
       "Pensacola, FL",
       "Vienna, VA"
