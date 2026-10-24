@@ -20012,6 +20012,34 @@
     "title": "IT Data Services Co-op",
     "url": "https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26157"
   },
+  "40dd1519-1e93-4ce3-bc14-101198366afa": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Aptiv",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-24T11:59:38.622584Z",
+    "id": "40dd1519-1e93-4ce3-bc14-101198366afa",
+    "issue_number": 2167,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2167",
+    "locations": [
+      "Kanata, Ottawa, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Engineering Intern",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704367"
+  },
   "40f11b76-b951-46c8-a71e-e8182aa18926": {
     "applied_at": null,
     "backfilled": false,
@@ -34831,7 +34859,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-24T11:59:38.622584Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T00:29:31.170314Z",
     "id": "720a793e-c47a-4855-ba94-f7a3b6ca695f",
     "issue_number": 308,
@@ -34839,7 +34868,7 @@
     "locations": [
       "Eden Prairie, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -76095,6 +76124,34 @@
     ],
     "title": "Enterprise Data Analyst Intern",
     "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505"
+  },
+  "f8f71cc8-e182-498b-820d-39dc4e013c32": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Aptiv",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-24T11:59:38.622584Z",
+    "id": "f8f71cc8-e182-498b-820d-39dc4e013c32",
+    "issue_number": 2168,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2168",
+    "locations": [
+      "Kanata, Ottawa, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Engineering Intern",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704357"
   },
   "f8f882fd-ee8e-4b25-ae90-0f2a5746e3ed": {
     "applied_at": null,
