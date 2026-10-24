@@ -6,6 +6,14 @@ on:
 
 permissions:
   contents: write
+  issues: write
+
+concurrency:
+  # Shared with find-internships.yml and sync-checklist.yml -- all three
+  # commit to data/tracked_jobs.json + APPLICATIONS.md, so they must never
+  # race on git push.
+  group: internship-tracker-state
+  cancel-in-progress: false
 
 jobs:
   mark-applied:
@@ -26,6 +34,7 @@ jobs:
       - name: Update tracker status
         working-directory: scripts
         env:
+          GH_TOKEN: ${{ github.token }}
           ISSUE_ACTION: ${{ github.event.action }}
           ISSUE_BODY: ${{ github.event.issue.body }}
           ISSUE_CLOSED_AT: ${{ github.event.issue.closed_at }}
