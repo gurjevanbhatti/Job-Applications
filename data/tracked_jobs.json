@@ -3852,7 +3852,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-25T06:11:35.414273Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T09:26:13.134349Z",
     "id": "0ce0d1ff-2fd1-40c7-92db-51ffc1568e80",
     "issue_number": 1662,
@@ -3860,7 +3861,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -12689,7 +12690,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-25T06:11:35.414273Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T09:26:13.134349Z",
     "id": "294c6370-06b0-4fa2-9bb1-16d259be7a1b",
     "issue_number": 1664,
@@ -12697,7 +12699,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -15073,7 +15075,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-25T06:11:35.414273Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T22:36:49.161595Z",
     "id": "304f593d-cf05-46f9-aea4-676aa29e105e",
     "issue_number": 365,
@@ -15081,7 +15084,7 @@
     "locations": [
       "Indianapolis, IN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
