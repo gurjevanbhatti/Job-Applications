@@ -1487,7 +1487,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-26T13:49:58.405849Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "058f10b5-7e10-4926-bb72-004c74c2a665",
     "issue_number": 1935,
@@ -1495,7 +1496,7 @@
     "locations": [
       "Bellevue, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
