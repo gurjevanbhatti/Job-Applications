@@ -4614,6 +4614,36 @@
     "title": "Test Engineer 1 Intern",
     "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Test-Engineer-I--For-SNC-Summer-2026-Interns-Only-_R0030967"
   },
+  "0fc49c44-851b-47a8-b7cb-547458b4ec29": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Royal Bank of Canada",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-26T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD",
+      "Associate's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-26T19:42:48.222996Z",
+    "id": "0fc49c44-851b-47a8-b7cb-547458b4ec29",
+    "issue_number": 2174,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2174",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Engineer Intern - Amplify 2027",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198"
+  },
   "0fd4122e-ceb7-4f97-8f55-aaab32d000d7": {
     "applied_at": null,
     "backfilled": true,
@@ -4825,7 +4855,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-26T19:42:48.222996Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-20T19:15:08.207903Z",
     "id": "10497907-6a16-498a-a06a-e40113931577",
     "issue_number": 1881,
@@ -4833,7 +4864,7 @@
     "locations": [
       "North Logan, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -13665,6 +13696,36 @@
     "title": "Architecture Research Intern - Optimization & Decision Modelling",
     "url": "https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Optimization---Decision-Modelling---12-months_JR102920-1"
   },
+  "2bb61f16-8e2d-442a-868b-8aafa19032b7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Royal Bank of Canada",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-26T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD",
+      "Associate's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-26T19:42:48.222996Z",
+    "id": "2bb61f16-8e2d-442a-868b-8aafa19032b7",
+    "issue_number": 2175,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2175",
+    "locations": [
+      "Halifax Regional Municipality, NS, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Engineer Intern",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000191195-1"
+  },
   "2bc31101-6642-4ce8-9de0-bd8422a0ea1e": {
     "applied_at": null,
     "backfilled": false,
@@ -17667,6 +17728,35 @@
     ],
     "title": "Marketing Analyst Intern",
     "url": "https://versa.applytojob.com/apply/RubO4m2wfp/Marketing-Analyst-Intern"
+  },
+  "3a3e1cad-1c4e-4313-b167-c5db6f4ab4fb": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Leidos",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-26T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-26T19:42:48.222996Z",
+    "id": "3a3e1cad-1c4e-4313-b167-c5db6f4ab4fb",
+    "issue_number": 2176,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2176",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Electrical Design Engineer Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400"
   },
   "3a6b71e3-b56e-41f1-a0a1-d14156245466": {
     "applied_at": null,
@@ -22986,6 +23076,33 @@
     "title": "Software Engineer Intern",
     "url": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application?embed=true"
   },
+  "4bc89fb6-aa1c-4885-baa5-14d7ba2a7849": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "CVS Health",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-26T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-26T19:42:48.222996Z",
+    "id": "4bc89fb6-aa1c-4885-baa5-14d7ba2a7849",
+    "issue_number": 2177,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2177",
+    "locations": [
+      "Irving, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Innovation & Technology Intern - Data Engineering",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1"
+  },
   "4bc949a8-4e60-4c6b-90c8-fb7077b8a2b2": {
     "applied_at": null,
     "backfilled": false,
@@ -26690,6 +26807,7 @@
     "degrees": [
       "Master's"
     ],
+    "expired_at": "2026-10-26T19:42:48.222996Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "563ce3fa-deec-437a-883e-6c9179763ddc",
@@ -26698,7 +26816,7 @@
     "locations": [
       "Folsom, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -29709,7 +29827,8 @@
       "Master's",
       "MBA"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-26T19:42:48.222996Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "5fc82b78-d6a1-44a0-90b1-c3d3e2a8ffee",
     "issue_number": 2126,
@@ -29717,7 +29836,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -31665,7 +31784,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-26T19:42:48.222996Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-05T15:17:03.303367Z",
     "id": "670d8a8b-1082-42e8-9009-e35612ea924a",
     "issue_number": 938,
@@ -31673,7 +31793,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -38310,6 +38430,35 @@
     "title": "Software Development Intern",
     "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"
   },
+  "7e450fbd-9292-460d-988b-8583bf42ae43": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Wells Fargo",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-26T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-26T19:42:48.222996Z",
+    "id": "7e450fbd-9292-460d-988b-8583bf42ae43",
+    "issue_number": 2178,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2178",
+    "locations": [
+      "Iselin, Woodbridge Township, NJ",
+      "Charlotte, NC",
+      "Irving, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Technology Intern - Early Careers - Data Engineering",
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066"
+  },
   "7e4c5c71-f008-4439-8ae7-145e2b6cb5d9": {
     "applied_at": null,
     "backfilled": false,
@@ -38942,6 +39091,33 @@
     "title": "Data Science Intern",
     "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W"
   },
+  "8005e595-614b-4b9a-9c29-cb113c52566a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "PTC",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-26T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-26T19:42:48.222996Z",
+    "id": "8005e595-614b-4b9a-9c29-cb113c52566a",
+    "issue_number": 2179,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2179",
+    "locations": [
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943"
+  },
   "80351725-89cb-4be1-bc76-7efb15c12f6c": {
     "applied_at": null,
     "backfilled": false,
@@ -38983,7 +39159,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-26T19:42:48.222996Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T20:33:51.688573Z",
     "id": "803b306d-364e-4c89-90ae-c3f32c7cd40a",
     "issue_number": 2098,
@@ -38991,7 +39168,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -41067,6 +41244,36 @@
     "title": "Software Systems Engineer Intern",
     "url": "https://idtus.pinpointhq.com/en/postings/58417813-ec8f-4d3b-9728-40b13c6b358d?ats=pinpointhq"
   },
+  "883dffb0-d441-4366-84c2-251689ff5b5a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Royal Bank of Canada",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-26T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD",
+      "Associate's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-26T19:42:48.222996Z",
+    "id": "883dffb0-d441-4366-84c2-251689ff5b5a",
+    "issue_number": 2180,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2180",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Engineer Intern",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1"
+  },
   "885c31c2-b9cf-41f2-be56-c1727400c1da": {
     "applied_at": null,
     "backfilled": false,
@@ -41661,6 +41868,33 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282-1"
+  },
+  "89b3498d-d513-460c-aae2-950c5bfec033": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Pattern",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-26T14:43:34Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-26T19:42:48.222996Z",
+    "id": "89b3498d-d513-460c-aae2-950c5bfec033",
+    "issue_number": 2181,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2181",
+    "locations": [
+      "Lehi, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Revenue Operations Data Analyst Intern",
+    "url": "https://jobs.lever.co/pattern/84c10630-d414-4ad6-a195-05b0691fa97a/apply"
   },
   "89c95261-7ed7-445d-9298-4131cf049e2a": {
     "applied_at": null,
@@ -43677,7 +43911,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-26T19:42:48.222996Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T01:00:40.264360Z",
     "id": "90c9b86b-3740-422b-a46c-661dfe775ed0",
     "issue_number": 1762,
@@ -43685,7 +43920,7 @@
     "locations": [
       "Richardson, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -54439,7 +54674,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-26T19:42:48.222996Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T20:33:51.688573Z",
     "id": "b2385634-acd5-4fc2-b5b1-74b8054923c7",
     "issue_number": 2100,
@@ -54447,7 +54683,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -55531,7 +55767,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-26T19:42:48.222996Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "b62acb8f-73bb-4503-905b-d785adc23fe0",
     "issue_number": 2149,
@@ -55539,7 +55776,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -63046,7 +63283,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-26T19:42:48.222996Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T01:10:29.668738Z",
     "id": "d005c265-e4c0-4cfe-a117-fe33afe73f8a",
     "issue_number": 1996,
@@ -63055,7 +63293,7 @@
       "Remote in USA",
       "Stafford, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -67877,7 +68115,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-26T19:42:48.222996Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "dd696d72-8a61-4391-a4a0-3677ae2b6157",
     "issue_number": 1641,
@@ -67885,7 +68124,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -70417,7 +70656,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-26T19:42:48.222996Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "e564ea1f-97d3-4cd1-99bd-c1445f56925a",
     "issue_number": 2160,
@@ -70425,7 +70665,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -72198,7 +72438,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-26T19:42:48.222996Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-26T01:09:31.889844Z",
     "id": "ea082e48-c78b-42c1-9849-f0c07749c260",
     "issue_number": 504,
@@ -72206,7 +72447,7 @@
     "locations": [
       "Bloomington, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
