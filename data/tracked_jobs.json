@@ -2305,7 +2305,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-26T06:46:49.059700Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T23:29:05.860462Z",
     "id": "07eb8881-ab4b-4a72-8e1c-57b6954651cc",
     "issue_number": 2019,
@@ -2313,7 +2314,7 @@
     "locations": [
       "San Jose, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -5304,7 +5305,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-26T06:46:49.059700Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "11846b59-c0ac-4965-be95-f5739e54abcf",
     "issue_number": 2111,
@@ -5312,7 +5314,7 @@
     "locations": [
       "Morrisville, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -12677,6 +12679,33 @@
     ],
     "title": "Embedded Software Engineer Intern",
     "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276"
+  },
+  "29141e11-18f3-454f-9ef4-99bb74ed9da2": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Teledyne",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-26T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-26T06:46:49.059700Z",
+    "id": "29141e11-18f3-454f-9ef4-99bb74ed9da2",
+    "issue_number": 2172,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2172",
+    "locations": [
+      "Woodridge, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Engineering Intern - Technical",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ36728"
   },
   "294c6370-06b0-4fa2-9bb1-16d259be7a1b": {
     "applied_at": null,
@@ -75016,6 +75045,35 @@
     ],
     "title": "Software Engineering Co-op",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882137"
+  },
+  "f4b511b1-6685-48f6-b83f-a24aa441a213": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Hewlett Packard Enterprise",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-26T06:46:49.059700Z",
+    "id": "f4b511b1-6685-48f6-b83f-a24aa441a213",
+    "issue_number": 2173,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2173",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "AI/ML Developer Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413"
   },
   "f4ec9754-f694-4e49-89d1-e4e407d7d2ff": {
     "applied_at": null,
