@@ -244,7 +244,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-27T14:30:27.597506Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-19T16:09:38.189315Z",
     "id": "01715d82-9e8f-436e-956d-164b5e0aceb2",
     "issue_number": 1800,
@@ -252,7 +253,7 @@
     "locations": [
       "Fort Worth, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -13127,7 +13128,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-27T14:30:27.597506Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T20:33:51.688573Z",
     "id": "28e9b3bb-4e8d-47e3-b752-d6a0e06de51b",
     "issue_number": 2096,
@@ -13135,7 +13137,7 @@
     "locations": [
       "McKinney, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -32704,6 +32706,34 @@
     "title": "Firmware Engineer Intern - Optical",
     "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738565005"
   },
+  "6700105f-c97f-4e96-a186-4814ab00fa72": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Visa",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-27T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-27T14:30:27.597506Z",
+    "id": "6700105f-c97f-4e96-a186-4814ab00fa72",
+    "issue_number": 2256,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2256",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Science Intern - Data and AI Team",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W"
+  },
   "670d8a8b-1082-42e8-9009-e35612ea924a": {
     "applied_at": null,
     "backfilled": false,
@@ -35830,6 +35860,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-10-27T14:30:27.597506Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "71cfea4b-117a-411b-abcb-252b359ec034",
@@ -35838,7 +35869,7 @@
     "locations": [
       "Regina, SK, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -47797,7 +47828,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-27T14:30:27.597506Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T23:29:05.860462Z",
     "id": "989d5de4-7861-4fd9-83e3-58b9395fdd59",
     "issue_number": 2049,
@@ -47805,7 +47837,7 @@
     "locations": [
       "Dulles, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -48623,6 +48655,34 @@
     ],
     "title": "Software Developer Co-op",
     "url": "https://apply.workable.com/semios/j/4B5D1FB613/apply"
+  },
+  "9b71b062-0254-4731-8c73-14ea6becaeb3": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Visa",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-27T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-27T14:30:27.597506Z",
+    "id": "9b71b062-0254-4731-8c73-14ea6becaeb3",
+    "issue_number": 2257,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2257",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Science Intern - Data and AI Team",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1"
   },
   "9b8baf0a-0a8c-4351-9fcc-ed44351e77e5": {
     "applied_at": null,
@@ -60016,6 +60076,34 @@
     "title": "Firmware Engineer Intern - MS - Summer 2027",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1"
   },
+  "be8d5807-1506-4439-94ef-cbbc4820f02b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Visa",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-27T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-27T14:30:27.597506Z",
+    "id": "be8d5807-1506-4439-94ef-cbbc4820f02b",
+    "issue_number": 2258,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2258",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product Management Intern - Data and AI Team",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W"
+  },
   "be947cb8-0a95-43aa-bc3b-e77243d0e655": {
     "applied_at": null,
     "backfilled": false,
@@ -61207,7 +61295,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-27T14:30:27.597506Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "c289fea9-67db-45d8-ab27-d9aa699b67cc",
     "issue_number": 1943,
@@ -61215,7 +61304,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -66161,6 +66250,34 @@
     ],
     "title": "Performance Enablement AI/ML Intern",
     "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656"
+  },
+  "d23757ff-eac9-4620-bfc5-fc65e0a43ed5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Visa",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-27T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-27T14:30:27.597506Z",
+    "id": "d23757ff-eac9-4620-bfc5-fc65e0a43ed5",
+    "issue_number": 2259,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2259",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product Management Intern - Data and AI Team",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1"
   },
   "d24f3415-d7f3-4935-8bed-730bae30d68d": {
     "applied_at": null,
@@ -71379,6 +71496,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-27T14:30:27.597506Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "e0b8e129-86f6-4001-9587-d113110e4e9c",
@@ -71393,7 +71511,7 @@
       "Essex, ON, Canada",
       "Rivi\u00e8re-du-Loup, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
