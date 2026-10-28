@@ -4131,7 +4131,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-28T20:34:35.890173Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "0cb46991-9b38-40a6-b1ff-9fa21895f597",
     "issue_number": 2106,
@@ -4139,7 +4140,7 @@
     "locations": [
       "Milpitas, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -27237,6 +27238,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-28T20:34:35.890173Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "521152f4-a049-4209-bcea-27cff986e55f",
@@ -27245,7 +27247,7 @@
     "locations": [
       "St. Louis, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -37791,7 +37793,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-28T20:34:35.890173Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "731a0491-8cb0-4279-a27e-9e40fcaff5da",
     "issue_number": 2318,
@@ -37799,7 +37802,7 @@
     "locations": [
       "Massachusetts"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -40022,7 +40025,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-28T20:34:35.890173Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "7a312bde-0d90-40b2-a5f6-afdd500d25d4",
     "issue_number": 2135,
@@ -40030,7 +40034,7 @@
     "locations": [
       "Milpitas, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -65146,7 +65150,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-28T20:34:35.890173Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T01:00:40.264360Z",
     "id": "c667509a-a75f-4862-a9ae-d0ca20846b62",
     "issue_number": 1768,
@@ -65154,7 +65159,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -73275,7 +73280,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-28T20:34:35.890173Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "de7fa612-c692-41df-bee6-384a28885a20",
     "issue_number": 2340,
@@ -73283,7 +73289,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
