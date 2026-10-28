@@ -12096,6 +12096,34 @@
     "title": "Software Engineer Intern",
     "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1418569700/?ats=successfactors"
   },
+  "2507d753-2e29-4433-be1b-355a19295f16": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Shield AI",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-26T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-28T08:50:09.925661Z",
+    "id": "2507d753-2e29-4433-be1b-355a19295f16",
+    "issue_number": 2354,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2354",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true"
+  },
   "250a970b-e052-49fd-b1d5-5048c48c3200": {
     "applied_at": null,
     "backfilled": false,
@@ -17515,7 +17543,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-28T08:50:09.925661Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T00:44:15.781283Z",
     "id": "352ca30a-f20a-448d-8092-68c1f8720f68",
     "issue_number": 1891,
@@ -17523,7 +17552,7 @@
     "locations": [
       "Kirkland, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -17599,7 +17628,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-28T08:50:09.925661Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-20T05:05:56.604758Z",
     "id": "3555c695-037a-494d-b111-9652b4b91a08",
     "issue_number": 1865,
@@ -17607,7 +17637,7 @@
     "locations": [
       "Kirkland, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -20131,6 +20161,34 @@
     ],
     "title": "Software Development Intern",
     "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359"
+  },
+  "3d71e6c6-0c7a-4c03-b33e-1aa5b68f53e8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "CAMS",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-28T06:04:14Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-28T08:50:09.925661Z",
+    "id": "3d71e6c6-0c7a-4c03-b33e-1aa5b68f53e8",
+    "issue_number": 2355,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2355",
+    "locations": [
+      "Houston, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Application Performance Monitoring Predictive Analytics Engineer Intern",
+    "url": "https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9/apply"
   },
   "3d74d34b-cf5a-4c64-b08a-73afd63a61f6": {
     "applied_at": null,
@@ -24180,8 +24238,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-28T02:17:01.653424Z",
     "id": "49e57c55-743b-457d-b17f-64d6b36a90c6",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2346,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2346",
     "locations": [
       "Chillicothe, OH"
     ],
@@ -34321,6 +34379,35 @@
     "title": "Data Analytics Intern",
     "url": "https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Data-Analytics-Intern--Spring-2027--Full-time-Hours-_R20062776"
   },
+  "693a6a23-1e61-491b-a7ff-abae565448eb": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Quadric",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-28T08:50:09.925661Z",
+    "id": "693a6a23-1e61-491b-a7ff-abae565448eb",
+    "issue_number": 2356,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2356",
+    "locations": [
+      "Burlingame, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "RTL Intern",
+    "url": "https://jobs.ashbyhq.com/quadric/8bc97324-bcdb-4680-a03c-4c6e590644c2/application?embed=true"
+  },
   "695c330c-a16f-4490-93fc-2f34b8d874ce": {
     "applied_at": null,
     "backfilled": false,
@@ -38692,6 +38779,35 @@
     "title": "Data Science Intern",
     "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1"
   },
+  "769f3e01-48d4-4918-acae-525b67212820": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Quadric",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-28T08:50:09.925661Z",
+    "id": "769f3e01-48d4-4918-acae-525b67212820",
+    "issue_number": 2357,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2357",
+    "locations": [
+      "Burlingame, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Design Verification Intern",
+    "url": "https://jobs.ashbyhq.com/quadric/42074f13-dab4-4203-99a7-8fa3186de168/application?embed=true"
+  },
   "76c67bd8-fe68-4164-844f-a009b786af36": {
     "applied_at": null,
     "backfilled": false,
@@ -40613,6 +40729,35 @@
     "title": "Machine Learning Engineer Intern",
     "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812"
   },
+  "7d4422bd-d3e5-46bf-aab9-1aa024e2e435": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Quadric",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-28T08:50:09.925661Z",
+    "id": "7d4422bd-d3e5-46bf-aab9-1aa024e2e435",
+    "issue_number": 2358,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2358",
+    "locations": [
+      "Burlingame, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Deep Learning Compiler Intern",
+    "url": "https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52/application?embed=true"
+  },
   "7d5c4b26-9d58-4de0-b0fe-0ee845b9d45e": {
     "applied_at": null,
     "backfilled": false,
@@ -41942,8 +42087,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-28T02:17:01.653424Z",
     "id": "82185a0f-af48-47f8-a2bc-af676ba67dc3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2347,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2347",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -42812,8 +42957,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-28T02:17:01.653424Z",
     "id": "8463f3ca-a1af-4b4a-93b8-145006e74a83",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2348,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2348",
     "locations": [
       "San Jose, CA"
     ],
@@ -46314,8 +46459,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-28T02:17:01.653424Z",
     "id": "901b53ec-fba2-40bc-89d6-a7200607ee62",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2349,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2349",
     "locations": [
       "Carson, CA"
     ],
@@ -53870,8 +54015,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-28T02:17:01.653424Z",
     "id": "a5292077-b7c5-403d-ab85-8809ba8c335c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2350,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2350",
     "locations": [
       "Seattle, WA"
     ],
@@ -56105,8 +56250,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-28T02:17:01.653424Z",
     "id": "abdc08b7-985c-4809-b5df-e1cf7cfea0dd",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2351,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2351",
     "locations": [
       "Albuquerque, NM"
     ],
@@ -61333,8 +61478,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-28T02:17:01.653424Z",
     "id": "bbafedf8-3027-4b87-9939-79a79a2b3655",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2352,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2352",
     "locations": [
       "Marlborough, MA"
     ],
@@ -62113,6 +62258,33 @@
     ],
     "title": "Technical Intern",
     "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192448"
+  },
+  "be409c15-d7f8-4de9-a9eb-56f6fd1af705": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Wabtec",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-28T03:21:34Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-28T08:50:09.925661Z",
+    "id": "be409c15-d7f8-4de9-a9eb-56f6fd1af705",
+    "issue_number": 2359,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2359",
+    "locations": [
+      "Schenectady, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Software Engineering Co-op",
+    "url": "https://jobs.smartrecruiters.com/Wabtec/3743990016452226"
   },
   "be51da92-a8a9-4585-8a3b-45dbd20c462d": {
     "applied_at": null,
@@ -64236,8 +64408,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "c540896e-d8dc-431e-9e58-ce35607392a3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2335,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2335",
     "locations": [
       "Boston, MA"
     ],
@@ -65823,8 +65995,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "c99de1e7-b978-4456-ac51-8ec949d1c941",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2336,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2336",
     "locations": [
       "Azusa, CA"
     ],
@@ -68384,8 +68556,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "d1eb6cb3-969b-432d-bc33-ab75d1d2130f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2337,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2337",
     "locations": [
       "Waltham, MA"
     ],
@@ -68411,8 +68583,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "d1eb886b-0de3-4b44-a75f-e5b3c10bdb23",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2338,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2338",
     "locations": [
       "Cincinnati, OH"
     ],
@@ -71661,8 +71833,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "da7bf188-3e70-455c-973d-25bf668ed458",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2339,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2339",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -72905,8 +73077,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "de7fa612-c692-41df-bee6-384a28885a20",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2340,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2340",
     "locations": [
       "Austin, TX"
     ],
@@ -75326,8 +75498,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "e56fc6cf-2283-4163-bd37-3a76a7894bb5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2341,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2341",
     "locations": [
       "Devens, MA"
     ],
@@ -75780,8 +75952,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "e659fec5-e932-49f7-941c-34d29c17ac98",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2342,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2342",
     "locations": [
       "Beaverton, OR"
     ],
@@ -77146,6 +77318,35 @@
     ],
     "title": "Machine Learning Engineer Intern",
     "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667"
+  },
+  "e9ea1661-68e7-422e-8093-f10f51fb0d07": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Quadric",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-28T08:50:09.925661Z",
+    "id": "e9ea1661-68e7-422e-8093-f10f51fb0d07",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Burlingame, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "AI Kernel Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c/application?embed=true"
   },
   "e9f546eb-b3e3-41c9-a5e3-a9d8841f75c1": {
     "applied_at": null,
@@ -79078,8 +79279,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "f1415371-af62-4b5e-af66-6016b5535562",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2343,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2343",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -79251,8 +79452,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "f1955656-636a-4216-bb1b-4d00ed2fa24a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2344,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2344",
     "locations": [
       "Austin, TX"
     ],
@@ -80671,8 +80872,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-28T02:17:01.653424Z",
     "id": "f659fed4-5d48-4ce0-9d80-bbaecf78e22d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2353,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2353",
     "locations": [
       "San Jose, CA"
     ],
@@ -83093,8 +83294,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "fd3e5ca2-3243-4edf-840d-babb8e3a1568",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2345,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2345",
     "locations": [
       "Boise, ID"
     ],
