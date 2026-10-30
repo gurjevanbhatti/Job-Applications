@@ -4105,8 +4105,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T02:35:18.104140Z",
     "id": "0c2e08ec-3a20-496f-8117-21a7031cbe20",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2499,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2499",
     "locations": [
       "Des Moines, IA"
     ],
@@ -7979,8 +7979,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T02:35:18.104140Z",
     "id": "17267928-46c8-4fc2-b987-5b361fefad93",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2500,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2500",
     "locations": [
       "Wilton, CT"
     ],
@@ -19363,8 +19363,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T02:35:18.104140Z",
     "id": "38434b2b-bfda-48cf-ad0e-25b8565b11c2",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2501,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2501",
     "locations": [
       "Ottawa, ON, Canada"
     ],
@@ -47216,8 +47216,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T02:35:18.104140Z",
     "id": "8a9e6891-293e-40a9-b0cc-86a38defec9c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2502,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2502",
     "locations": [
       "Seattle, WA",
       "Arlington County, Arlington, VA"
@@ -59236,6 +59236,33 @@
     ],
     "title": "Electrical Engineer Intern",
     "url": "https://job-boards.greenhouse.io/mill/jobs/4737766005"
+  },
+  "ac27249b-0f36-44ff-a07c-513168c4e98b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Stratolaunch",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-30T04:21:37Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-30T08:59:50.064436Z",
+    "id": "ac27249b-0f36-44ff-a07c-513168c4e98b",
+    "issue_number": 2503,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2503",
+    "locations": [
+      "Mojave, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Manufacturing Systems & Data Intern - Systems",
+    "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008"
   },
   "ac3447c3-504f-451a-b13d-06723cc96744": {
     "applied_at": null,
@@ -72238,6 +72265,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-30T08:59:50.064436Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "d25191cb-2a6a-41b6-aebd-15d609a98d7b",
@@ -72246,7 +72274,7 @@
     "locations": [
       "Danvers, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -76648,8 +76676,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "de793f53-2fa1-4d89-8615-3d0110b3e96a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2492,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2492",
     "locations": [
       "Roseville, CA"
     ],
@@ -77360,8 +77388,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "e01f6d33-bc5a-49f1-b93b-27f40c1eba9b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2493,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2493",
     "locations": [
       "Redmond, WA"
     ],
@@ -78071,8 +78099,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "e1cafb2f-2420-4d7e-9cc6-5c161ba89dd3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2494,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2494",
     "locations": [
       "Cincinnati, OH"
     ],
@@ -79074,8 +79102,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "e4e949a2-d0a8-497c-a7db-0da3ab81acb4",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2495,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2495",
     "locations": [
       "San Mateo, CA"
     ],
@@ -79754,8 +79782,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "e6698a06-642e-483b-8dfb-1d1b5ec9299c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2496,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2496",
     "locations": [
       "Seattle, WA"
     ],
@@ -81532,8 +81560,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "ead75aa9-984d-4541-9ae4-b274528493c0",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2497,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2497",
     "locations": [
       "Peachtree City, GA"
     ],
@@ -83277,7 +83305,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T08:59:50.064436Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T00:31:37.039261Z",
     "id": "f1704ba8-4913-4db0-9ecc-28b25d7e465d",
     "issue_number": 253,
@@ -83285,7 +83314,7 @@
     "locations": [
       "Iowa"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -84186,7 +84215,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T08:59:50.064436Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "f47bf68f-08e3-4d92-ade8-eff54ae7c108",
     "issue_number": 429,
@@ -84194,7 +84224,7 @@
     "locations": [
       "Tempe, AZ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027",
       "Spring 2028",
@@ -85632,8 +85662,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "f85e3825-ee60-4f0f-8fca-cb96f23760d0",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2498,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2498",
     "locations": [
       "Bentonville, AR"
     ],
