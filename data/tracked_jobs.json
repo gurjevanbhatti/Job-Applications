@@ -20134,7 +20134,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T20:21:43.931566Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T19:42:48.222996Z",
     "id": "3a3e1cad-1c4e-4313-b167-c5db6f4ab4fb",
     "issue_number": 2176,
@@ -20142,7 +20143,7 @@
     "locations": [
       "Huntsville, AL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -42207,7 +42208,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T20:21:43.931566Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T00:44:15.781283Z",
     "id": "7a73e6f4-b7ad-4f5e-990c-f6638569032e",
     "issue_number": 1902,
@@ -42215,7 +42217,7 @@
     "locations": [
       "Pullman, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -59908,7 +59910,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T20:21:43.931566Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "ae05080d-5298-4731-9bce-6c0748537d01",
     "issue_number": 2481,
@@ -59916,7 +59919,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -67472,7 +67475,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T20:21:43.931566Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "c3ab4f77-d094-4084-bb94-7d744ca3e728",
     "issue_number": 2487,
@@ -67480,7 +67484,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
