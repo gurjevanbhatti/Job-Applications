@@ -4571,6 +4571,34 @@
     "title": "Product Management Intern",
     "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065"
   },
+  "0d21e8b2-0056-4b2f-98f1-e4bb4d29f89b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "AtriCure",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-30T13:43:17Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-30T15:47:43.363948Z",
+    "id": "0d21e8b2-0056-4b2f-98f1-e4bb4d29f89b",
+    "issue_number": 2504,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2504",
+    "locations": [
+      "Mason, OH"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "IT ERP Data Migration Co-op",
+    "url": "https://job-boards.greenhouse.io/co-op_intern/jobs/4473614009"
+  },
   "0d2ca455-3d54-4b58-b8ec-00f32efcc930": {
     "applied_at": null,
     "backfilled": false,
@@ -11663,6 +11691,34 @@
     "title": "Internship - Electrical Engineer - Embedded Systems & Test Engineering - Supply Chain - Winter/Spring 2027",
     "url": "https://www.tesla.com/careers/search/job/287407"
   },
+  "22021546-205a-467d-b274-f4cf864649f6": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Astera Labs",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-30T14:19:31Z",
+    "degrees": [
+      "Master's",
+      "MBA"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-30T15:47:43.363948Z",
+    "id": "22021546-205a-467d-b274-f4cf864649f6",
+    "issue_number": 2505,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2505",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "AI Product Management Intern",
+    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005"
+  },
   "220c7f99-8555-4e94-9c2e-db2152ace8d4": {
     "applied_at": null,
     "backfilled": true,
@@ -13446,7 +13502,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T15:47:43.363948Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T14:42:46.702725Z",
     "id": "26a963c1-18c0-4267-9ad5-5d3daee62918",
     "issue_number": 716,
@@ -13455,7 +13512,7 @@
       "Madison, WI",
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -28043,6 +28100,33 @@
     "title": "Data Science Intern",
     "url": "https://boards.greenhouse.io/embed/job_app?token=6866538002"
   },
+  "515bc7ee-5cb6-4df0-904a-19e675ac3476": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SageSure",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-27T20:17:26Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-30T15:47:43.363948Z",
+    "id": "515bc7ee-5cb6-4df0-904a-19e675ac3476",
+    "issue_number": 2506,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2506",
+    "locations": [
+      "Fairfield, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Data Science Product Analyst Intern",
+    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006"
+  },
   "515f1b04-c8f4-4920-ba4c-8564e312dca9": {
     "applied_at": null,
     "backfilled": false,
@@ -29524,6 +29608,33 @@
     ],
     "title": "Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software",
     "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005"
+  },
+  "54bf1db6-ad2a-4a55-8eba-9726ba4c9e1c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-30T13:16:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-30T15:47:43.363948Z",
+    "id": "54bf1db6-ad2a-4a55-8eba-9726ba4c9e1c",
+    "issue_number": 2507,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2507",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Robotics Engineer Intern - Maritime Systems",
+    "url": "https://careers.jhuapl.edu/jobs/60742?icims=1"
   },
   "54c83f6c-0c22-45e4-8f12-5db6bf3defd8": {
     "applied_at": null,
@@ -46900,7 +47011,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T15:47:43.363948Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T00:25:28.115604Z",
     "id": "899a6a36-b872-414e-bbce-aa5bc5b85fdc",
     "issue_number": 2400,
@@ -46908,7 +47020,7 @@
     "locations": [
       "Boise, ID"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -59683,7 +59795,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T15:47:43.363948Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "adbedd81-f1ff-4fb4-b2f8-57640c235a16",
     "issue_number": 2480,
@@ -59691,7 +59804,7 @@
     "locations": [
       "Columbus, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -62685,7 +62798,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T15:47:43.363948Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T23:22:16.490839Z",
     "id": "b65c767b-a542-408b-8821-3378b57afe82",
     "issue_number": 2227,
@@ -62693,7 +62807,7 @@
     "locations": [
       "Arden Hills, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -62995,6 +63109,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-30T15:47:43.363948Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "b7692605-3675-4ede-ac05-2e35ccc95ce8",
@@ -63003,7 +63118,7 @@
     "locations": [
       "Westfield, IN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -64681,7 +64796,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T15:47:43.363948Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-28T02:17:01.653424Z",
     "id": "bbafedf8-3027-4b87-9939-79a79a2b3655",
     "issue_number": 2352,
@@ -64689,7 +64805,7 @@
     "locations": [
       "Marlborough, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -65686,6 +65802,33 @@
     ],
     "title": "Product Management Intern",
     "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893"
+  },
+  "bf045bbb-19b5-4bf0-a8de-2d2a06103832": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Nissan",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-30T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-30T15:47:43.363948Z",
+    "id": "bf045bbb-19b5-4bf0-a8de-2d2a06103832",
+    "issue_number": 2508,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2508",
+    "locations": [
+      "Franklin, TN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Purchasing Transformation Intern",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Transformation-Intern---Summer-2027---Franklin--TN_R00214282"
   },
   "bf0ea2ee-b924-45bc-bbd7-c84d4eba7fd4": {
     "applied_at": null,
@@ -69422,7 +69565,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T15:47:43.363948Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "c99de1e7-b978-4456-ac51-8ec949d1c941",
     "issue_number": 2336,
@@ -69430,7 +69574,7 @@
     "locations": [
       "Azusa, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -72745,6 +72889,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-10-30T15:47:43.363948Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "d36d149f-2f21-4ced-b474-e6dfb0876186",
@@ -72753,7 +72898,7 @@
     "locations": [
       "Palo Alto, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -80200,6 +80345,35 @@
     "title": "System Validation Engineer Intern",
     "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724488005"
   },
+  "e75ca516-ca3e-442d-abeb-ef72c3259eb0": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GlobalFoundries",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-30T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-30T15:47:43.363948Z",
+    "id": "e75ca516-ca3e-442d-abeb-ef72c3259eb0",
+    "issue_number": 2509,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2509",
+    "locations": [
+      "Malta, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Device Engineering Intern - Silicon Photonics",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263"
+  },
   "e76320a7-376a-4fcb-a89b-c5f1d4aca9a7": {
     "applied_at": null,
     "backfilled": false,
@@ -80456,6 +80630,35 @@
     "title": "Research Intern",
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Research-Intern---2027_R-0000033640"
   },
+  "e80cf952-ea40-42d7-ba9b-35bc354becaa": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Lila Sciences",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-30T12:36:02Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-30T15:47:43.363948Z",
+    "id": "e80cf952-ea40-42d7-ba9b-35bc354becaa",
+    "issue_number": 2510,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2510",
+    "locations": [
+      "Cambridge, MA",
+      "SF"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Bayesian Methods Co-op",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4469148009"
+  },
   "e8314098-af0f-4c4a-988b-ea69c0698a13": {
     "applied_at": null,
     "backfilled": false,
@@ -80509,6 +80712,33 @@
     ],
     "title": "Data Center SSD Firmware Intern",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461"
+  },
+  "e85773e5-be39-450d-a53f-459b77948b4d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Nissan",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-30T00:00:00Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-30T15:47:43.363948Z",
+    "id": "e85773e5-be39-450d-a53f-459b77948b4d",
+    "issue_number": 2511,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2511",
+    "locations": [
+      "Franklin, TN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Procurement Transformation Intern",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Procurement-Transformation---Summer-2027---Franklin--TN_R00214279"
   },
   "e85e2ad7-ddcf-4c1c-84f4-84d1985e0cd0": {
     "applied_at": null,
