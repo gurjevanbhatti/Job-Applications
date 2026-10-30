@@ -4090,6 +4090,33 @@
     "title": "Software Engineer Intern - .NET/Web",
     "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Madison-WI/XMLNAME-2026-Summer-Intern---IT-Software-Engineer---NET-Web_R23106"
   },
+  "0c2e08ec-3a20-496f-8117-21a7031cbe20": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Dee Zee",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-30T02:35:18.104140Z",
+    "id": "0c2e08ec-3a20-496f-8117-21a7031cbe20",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Development Intern",
+    "url": "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471"
+  },
   "0c313974-08f1-4243-ba93-7f56899641c0": {
     "applied_at": null,
     "backfilled": false,
@@ -7935,6 +7962,35 @@
     "title": "Software Development Intern",
     "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false"
   },
+  "17267928-46c8-4fc2-b987-5b361fefad93": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "ASML",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-29T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-30T02:35:18.104140Z",
+    "id": "17267928-46c8-4fc2-b987-5b361fefad93",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Wilton, CT"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Optical Engineer Co-op Intern",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00355324"
+  },
   "17267c54-883e-4270-aa47-9c1ba310d244": {
     "applied_at": null,
     "backfilled": false,
@@ -9062,7 +9118,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T02:35:18.104140Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T06:17:02.997547Z",
     "id": "1a70f3d5-9b7c-4830-81a5-6da2c80e7c16",
     "issue_number": 1164,
@@ -9070,7 +9127,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -19289,6 +19346,34 @@
     ],
     "title": "Quantitative Intern - Portfolio Engineering and Analytics",
     "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-2"
+  },
+  "38434b2b-bfda-48cf-ad0e-25b8565b11c2": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Qualcomm",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-10-30T01:06:51Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-30T02:35:18.104140Z",
+    "id": "38434b2b-bfda-48cf-ad0e-25b8565b11c2",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Soft IP Engineer Co-op Intern",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721862542"
   },
   "38659e34-903e-4ed1-b655-6563767f4724": {
     "applied_at": null,
@@ -35145,8 +35230,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "652f3077-6f25-4999-8c39-03aeffa12c53",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2467,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2467",
     "locations": [
       "Austin, TX"
     ],
@@ -35711,8 +35796,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "6741026d-0ab5-4a2b-aa49-6d94c28deb0d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2468,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2468",
     "locations": [
       "Los Altos, CA"
     ],
@@ -36583,8 +36668,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "6a04f366-4e42-4fe5-bb4f-c88ef2a7db83",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2469,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2469",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -36863,7 +36948,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T02:35:18.104140Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T23:22:16.490839Z",
     "id": "6af75cb5-069d-4604-8cdf-ace14944602a",
     "issue_number": 2207,
@@ -36872,7 +36958,7 @@
       "SF",
       "Mountain View, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Fall 2027"
     ],
@@ -37068,8 +37154,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "6ba1d622-dff1-406f-b2d2-00d66540c3f3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2470,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2470",
     "locations": [
       "Santa Clara, CA",
       "United States"
@@ -37390,8 +37476,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "6cb8334b-aefe-49d7-8abf-7622722ab92f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2471,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2471",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -40277,8 +40363,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "74cd9507-ee47-4d9c-bb5d-efda4ecf666a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2472,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2472",
     "locations": [
       "Charlotte, NC"
     ],
@@ -42041,8 +42127,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "7a79986f-d936-441f-8d1a-33380dad3688",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2473,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2473",
     "locations": [
       "Milpitas, CA"
     ],
@@ -42300,8 +42386,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "7b33b6fd-f6cc-443d-908d-c217c9767ef6",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2474,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2474",
     "locations": [
       "Ottawa, ON, Canada"
     ],
@@ -46253,8 +46339,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "885be8ec-ef4d-460f-bb51-b7108e24caa9",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2475,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2475",
     "locations": [
       "Dallas, TX"
     ],
@@ -47114,6 +47200,34 @@
     ],
     "title": "Store Operations Corporate Facilities Intern",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Corporate-Facilities---Undergrad-Internship---Summer-2027_JR-02650834-1"
+  },
+  "8a9e6891-293e-40a9-b0cc-86a38defec9c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Axon",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-30T00:39:54Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-30T02:35:18.104140Z",
+    "id": "8a9e6891-293e-40a9-b0cc-86a38defec9c",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Seattle, WA",
+      "Arlington County, Arlington, VA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003"
   },
   "8a9edd16-81d0-4406-9c23-6a35909b252b": {
     "applied_at": null,
@@ -50031,8 +50145,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "93157a2c-d04f-4785-b701-eb8a4beb6fd7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2476,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2476",
     "locations": [
       "Cincinnati, OH"
     ],
@@ -50690,8 +50804,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "947ecf5c-75d7-40ab-9352-13a2b8e00ce5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2477,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2477",
     "locations": [
       "Cincinnati, OH"
     ],
@@ -56910,8 +57024,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "a5c09908-c437-4b31-badf-24f0d4accd96",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2478,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2478",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -59168,8 +59282,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "ac529c5f-3436-4b43-ae06-72c731ff821c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2479,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2479",
     "locations": [
       "Fort Wayne, IN"
     ],
@@ -59223,7 +59337,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T02:35:18.104140Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-26T01:09:31.889844Z",
     "id": "acafb8f1-75b4-44f1-8450-4628ddf3b8a1",
     "issue_number": 490,
@@ -59233,7 +59348,7 @@
       "Reston, VA",
       "Denver, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -59544,8 +59659,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "adbedd81-f1ff-4fb4-b2f8-57640c235a16",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2480,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2480",
     "locations": [
       "Columbus, OH"
     ],
@@ -59656,8 +59771,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "ae05080d-5298-4731-9bce-6c0748537d01",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2481,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2481",
     "locations": [
       "Ottawa, ON, Canada"
     ],
@@ -60503,8 +60618,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "aff7fd01-67e4-478b-82b8-3177bd859bcf",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2482,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2482",
     "locations": [
       "Fort Wayne, IN"
     ],
@@ -61993,8 +62108,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "b4f1d153-4ecd-4b94-884f-4d49046d3e01",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2483,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2483",
     "locations": [
       "St. Louis, MO"
     ],
@@ -63512,8 +63627,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "b9797b22-811f-4d42-b0c1-22917f860e5a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2484,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2484",
     "locations": [
       "Woodland Hills, LA"
     ],
@@ -66061,8 +66176,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "c046c566-ea70-44a3-b3fc-9df2cf7260b8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2485,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2485",
     "locations": [
       "Overland Park, KS"
     ],
@@ -66597,8 +66712,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "c1ba6f20-fc24-4161-a598-49b44171c273",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2486,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2486",
     "locations": [
       "Cincinnati, OH"
     ],
@@ -67048,7 +67163,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-30T02:35:18.104140Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-19T16:09:38.189315Z",
     "id": "c35aada5-ad17-4000-baae-c7099528eabb",
     "issue_number": 1807,
@@ -67056,7 +67172,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -67189,8 +67305,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "c3ab4f77-d094-4084-bb94-7d744ca3e728",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2487,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2487",
     "locations": [
       "Ottawa, ON, Canada"
     ],
@@ -69855,8 +69971,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "cb472a4d-abf7-424b-8a9b-bb782e1f01c8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2488,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2488",
     "locations": [
       "Arlington, TX"
     ],
@@ -70855,8 +70971,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "cf7a2bca-feb2-42fe-9871-19712bca4274",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2489,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2489",
     "locations": [
       "Austin, TX"
     ],
@@ -74181,8 +74297,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "d7f013fa-b28d-47cf-9489-7aa4ba9828a1",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2490,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2490",
     "locations": [
       "Annapolis Junction, MD"
     ],
@@ -75882,8 +75998,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "dc50db69-9b07-4a79-9e9f-e3c04664cc2a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2491,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2491",
     "locations": [
       "San Jose, CA"
     ],
