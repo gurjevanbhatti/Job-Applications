@@ -730,7 +730,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T10:30:40.196360Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T19:38:45.370720Z",
     "id": "02949bdd-a9da-44b8-9c23-836dbfc84187",
     "issue_number": 2261,
@@ -738,7 +739,7 @@
     "locations": [
       "Woburn, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -10028,7 +10029,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T10:30:40.196360Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "1c64f541-300e-43be-8269-a585d62556e0",
     "issue_number": 2451,
@@ -10036,7 +10038,7 @@
     "locations": [
       "East Hartford, CT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -12956,7 +12958,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T10:30:40.196360Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T23:22:16.490839Z",
     "id": "24acfe0f-88f2-4bb9-886e-3ea454518e2c",
     "issue_number": 2190,
@@ -12964,7 +12967,7 @@
     "locations": [
       "Beavercreek, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -14690,7 +14693,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T10:30:40.196360Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T18:56:55.974827Z",
     "id": "28764194-7d52-4d45-b292-fc66a47c6503",
     "issue_number": 2432,
@@ -14698,7 +14702,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -25312,6 +25316,34 @@
     "title": "Laboratory Automation Systems Intern",
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027"
   },
+  "47d45caa-b7cf-4f72-b59d-2b3c52395472": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "First Citizens BancShares",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-30T16:22:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-31T10:30:40.196360Z",
+    "id": "47d45caa-b7cf-4f72-b59d-2b3c52395472",
+    "issue_number": 2557,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2557",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Summer Intern - AI Innovation",
+    "url": "https://firstcitizens.jibeapply.com/jobs/36311?icims=1"
+  },
   "47ea17c5-d569-4f0f-9e06-9fb0a6790033": {
     "applied_at": null,
     "backfilled": false,
@@ -34246,7 +34278,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T10:30:40.196360Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "60bb015a-5f71-421c-9d8e-f15a0576fa7b",
     "issue_number": 1440,
@@ -34254,7 +34287,7 @@
     "locations": [
       "Madison, WI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -35555,7 +35588,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T10:30:40.196360Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "64999ff5-4dc0-43c7-933d-f69336e99970",
     "issue_number": 2466,
@@ -35563,7 +35597,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -35926,7 +35960,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T10:30:40.196360Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T10:25:35.434387Z",
     "id": "66380619-8481-4fe4-947a-26176558c345",
     "issue_number": 1949,
@@ -35934,7 +35969,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -37220,7 +37255,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T10:30:40.196360Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "6a49ef5e-35b1-491d-a761-59e0a5779a89",
     "issue_number": 771,
@@ -37228,7 +37264,7 @@
     "locations": [
       "Cleveland, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -56431,7 +56467,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T10:30:40.196360Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "a14ceb22-49c8-4897-9a3b-4ae3041a00fc",
     "issue_number": 2140,
@@ -56439,7 +56476,7 @@
     "locations": [
       "United States"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -74334,7 +74371,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T10:30:40.196360Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-08T04:19:42.866226Z",
     "id": "d4e3c76d-f9b8-472c-9d21-a01ad5a58623",
     "issue_number": 1254,
@@ -74342,7 +74380,7 @@
     "locations": [
       "Redmond, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -77136,6 +77174,34 @@
     ],
     "title": "Product Intern",
     "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900"
+  },
+  "dc225990-b400-400e-a1e3-c5d7dadb10f2": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "First Citizens BancShares",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-27T13:01:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-31T10:30:40.196360Z",
+    "id": "dc225990-b400-400e-a1e3-c5d7dadb10f2",
+    "issue_number": 2558,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2558",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Analyst Intern - Enterprise Data Analyst - Data Products",
+    "url": "https://firstcitizens.jibeapply.com/jobs/36230?icims=1"
   },
   "dc50db69-9b07-4a79-9e9f-e3c04664cc2a": {
     "applied_at": null,
@@ -81695,6 +81761,33 @@
     "title": "Research Intern",
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Research-Intern---2027_R-0000033640"
   },
+  "e7fe0540-3440-4b19-aae2-451f5e23bca8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "First Citizens BancShares",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-30T21:57:00Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-31T10:30:40.196360Z",
+    "id": "e7fe0540-3440-4b19-aae2-451f5e23bca8",
+    "issue_number": 2559,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2559",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Quantitative Modeling Intern",
+    "url": "https://firstcitizens.jibeapply.com/jobs/36317?icims=1"
+  },
   "e80cf952-ea40-42d7-ba9b-35bc354becaa": {
     "applied_at": null,
     "backfilled": false,
@@ -85866,6 +85959,33 @@
     ],
     "title": "Technology Summer Analyst Intern - Application Development",
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395"
+  },
+  "f4f35bed-74e7-4e07-a1ef-07c8f4fbf615": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Systems Planning and Analysis",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-28T21:45:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-31T10:30:40.196360Z",
+    "id": "f4f35bed-74e7-4e07-a1ef-07c8f4fbf615",
+    "issue_number": 2560,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2560",
+    "locations": [
+      "Alexandria, VA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Engineer Intern",
+    "url": "https://spa.jibeapply.com/jobs/23698?icims=1"
   },
   "f50d5ac0-0164-4400-866c-7c952f2086b9": {
     "applied_at": null,
