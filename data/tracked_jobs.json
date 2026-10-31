@@ -59481,7 +59481,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T15:52:47.566501Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T19:38:45.370720Z",
     "id": "aabec184-6bb9-483c-a9cb-d16e4cea6a01",
     "issue_number": 2279,
@@ -59489,7 +59490,7 @@
     "locations": [
       "Goleta, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -64528,7 +64529,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T15:52:47.566501Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "b9797b22-811f-4d42-b0c1-22917f860e5a",
     "issue_number": 2484,
@@ -64536,7 +64538,7 @@
     "locations": [
       "Woodland Hills, LA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -65529,7 +65531,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T15:52:47.566501Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "bb94a732-f483-4037-8b53-5bc77b5cb33f",
     "issue_number": 1547,
@@ -65537,7 +65540,7 @@
     "locations": [
       "Indianapolis, IN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -82329,6 +82332,34 @@
     "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Live",
     "url": "https://lifeattiktok.com/search/7694360097210861829"
   },
+  "e8f323c9-7a0d-4a50-9915-19d7661ecb06": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Northrop Grumman",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-30T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-31T15:52:47.566501Z",
+    "id": "e8f323c9-7a0d-4a50-9915-19d7661ecb06",
+    "issue_number": 2561,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2561",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Scientist Intern - Product Support",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679"
+  },
   "e90daa3f-ccbc-4cb4-a7b9-b19d4eaf6594": {
     "applied_at": null,
     "backfilled": false,
@@ -89160,7 +89191,8 @@
       "PhD",
       "JD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T15:52:47.566501Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-26T01:09:31.889844Z",
     "id": "fdf1e11e-14be-447e-a04a-23879851041d",
     "issue_number": 509,
@@ -89168,7 +89200,7 @@
     "locations": [
       "Foster City, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
