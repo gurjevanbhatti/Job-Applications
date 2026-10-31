@@ -259,6 +259,34 @@
     "title": "Masters AI Training Software & Performance Co-op",
     "url": "https://careers.amd.com/jobs/93476?icims=1"
   },
+  "016fa4b5-f0be-4f7d-9eaa-5a420aa83638": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Firework",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-31T01:45:55Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-10-31T04:19:56.137182Z",
+    "id": "016fa4b5-f0be-4f7d-9eaa-5a420aa83638",
+    "issue_number": 2556,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2556",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Data Engineer Intern",
+    "url": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09/apply"
+  },
   "01715d82-9e8f-436e-956d-164b5e0aceb2": {
     "applied_at": null,
     "backfilled": false,
@@ -6593,7 +6621,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T04:19:56.137182Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T10:25:35.434387Z",
     "id": "12d5d73d-0f5a-459e-aede-1f15093ed6ed",
     "issue_number": 1947,
@@ -6601,7 +6630,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -47822,7 +47851,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T04:19:56.137182Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-30T02:35:18.104140Z",
     "id": "8a9e6891-293e-40a9-b0cc-86a38defec9c",
     "issue_number": 2502,
@@ -47831,7 +47861,7 @@
       "Seattle, WA",
       "Arlington County, Arlington, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -49700,7 +49730,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T04:19:56.137182Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T02:16:21.957791Z",
     "id": "905af909-78ec-4575-99ed-2c821a3b2d62",
     "issue_number": 2248,
@@ -49708,7 +49739,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -64868,8 +64899,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "ba489eda-1455-478f-a4f5-c3cfc0b0675e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2537,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2537",
     "locations": [
       "Ottawa, ON, Canada"
     ],
@@ -68252,8 +68283,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "c3be7442-0bf7-46ea-8122-a4469f408e61",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2538,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2538",
     "locations": [
       "Vancouver, BC, Canada"
     ],
@@ -68675,8 +68706,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "c5138e81-eb36-45f4-8460-5c616a7abbf5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2539,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2539",
     "locations": [
       "Boston, MA",
       "Seattle, WA",
@@ -69396,8 +69427,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "c6cac530-3934-498d-9f3d-5af062252215",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2540,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2540",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -70049,8 +70080,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "c8c7f423-8401-4ef2-a8d6-cab40eedbb2b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2541,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2541",
     "locations": [
       "Cupertino, CA"
     ],
@@ -71214,8 +71245,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "ccd783d4-b8da-44c9-93bd-529368e9b01c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2542,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2542",
     "locations": [
       "Gastonia, NC"
     ],
@@ -71981,8 +72012,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "cf471dc3-8d26-4e89-9b32-03b6cf179664",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2543,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2543",
     "locations": [
       "West Union, SC"
     ],
@@ -72997,7 +73028,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T04:19:56.137182Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T23:29:05.860462Z",
     "id": "d1be84ff-99a4-4274-afd8-f207f914871e",
     "issue_number": 2057,
@@ -73005,7 +73037,7 @@
     "locations": [
       "Ruston, LA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -73137,8 +73169,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "d210e485-f763-4930-9896-9d8cc1c298c7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2544,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2544",
     "locations": [
       "Folsom, CA"
     ],
@@ -76956,8 +76988,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "dbeafa51-a003-4564-a8fc-6820ab41231b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2545,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2545",
     "locations": [
       "Houston, TX"
     ],
@@ -78222,8 +78254,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "df757bc2-dbbd-4572-b2e8-78356ee1a5f4",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2546,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2546",
     "locations": [
       "Wilmington, MA"
     ],
@@ -80389,7 +80421,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-10-31T04:19:56.137182Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "e56fc6cf-2283-4163-bd37-3a76a7894bb5",
     "issue_number": 2341,
@@ -80397,7 +80430,7 @@
     "locations": [
       "Devens, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -80961,8 +80994,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "e6c43401-ebb5-456a-a86a-953146274922",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2547,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2547",
     "locations": [
       "San Jose, CA"
     ],
@@ -81622,8 +81655,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "e7f4a849-c09d-4fed-bde0-08835ca77125",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2548,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2548",
     "locations": [
       "Rosemont, IL"
     ],
@@ -81875,8 +81908,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "e88e381b-32ec-46fc-8a8e-504bf0183afb",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2549,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2549",
     "locations": [
       "Roseville, CA"
     ],
@@ -83275,8 +83308,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "eca74c97-b4a2-47c3-9c47-d2ac8fe296cf",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2550,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2550",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -83363,8 +83396,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "ecea9da4-9f7c-4d0c-b6d4-365719c8aa35",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2551,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2551",
     "locations": [
       "Indianapolis, IN"
     ],
@@ -85081,8 +85114,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "f335ac5c-ae3f-4e1c-a8b2-adfeda3f6d75",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2552,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2552",
     "locations": [
       "Milford, OH"
     ],
@@ -85419,8 +85452,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "f3ea53ba-e5c9-4206-8d4c-5aa29ea06ebd",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2553,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2553",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -88174,8 +88207,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "fb4ff940-a824-4d20-bce3-e3331a46768e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2554,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2554",
     "locations": [
       "Spokane, WA"
     ],
@@ -88428,8 +88461,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "fc31f420-a553-440f-b4e2-14bf2e7fdf26",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2555,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2555",
     "locations": [
       "New Brunswick, NJ"
     ],
