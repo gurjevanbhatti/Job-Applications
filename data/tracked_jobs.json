@@ -6510,7 +6510,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-01T08:38:52.045340Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-26T01:09:31.889844Z",
     "id": "127d880c-e16b-43e4-b4b6-c0788fbe90ae",
     "issue_number": 465,
@@ -6519,7 +6520,7 @@
       "Southlake, TX",
       "Kansas City, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -6960,6 +6961,7 @@
     "degrees": [
       "Master's"
     ],
+    "expired_at": "2026-11-01T08:38:52.045340Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "13b8ede0-0485-42c1-a03a-c2fda0c4459b",
@@ -6969,7 +6971,7 @@
       "Kansas City, MO",
       "NYC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -21419,7 +21421,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-01T08:38:52.045340Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-05T15:17:03.303367Z",
     "id": "3d0e6a5a-a1a8-484a-9a12-fd9fcdb36ad4",
     "issue_number": 934,
@@ -21427,7 +21430,7 @@
     "locations": [
       "Raleigh, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -29651,7 +29654,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-01T08:38:52.045340Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T02:16:21.957791Z",
     "id": "53c80701-fd03-4de6-b3d7-defc622faa0b",
     "issue_number": 2247,
@@ -29659,7 +29663,7 @@
     "locations": [
       "Rochester, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -70644,7 +70648,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-01T08:38:52.045340Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-19T08:50:01.532811Z",
     "id": "c9f2736c-ca54-46f8-98a1-81570a3bd159",
     "issue_number": 1799,
@@ -70652,7 +70657,7 @@
     "locations": [
       "Cincinnati, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -79462,7 +79467,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-01T08:38:52.045340Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T02:16:21.957791Z",
     "id": "e2505b77-7cf2-4649-ad34-77ec15332d45",
     "issue_number": 2252,
@@ -79470,7 +79476,7 @@
     "locations": [
       "Greenville, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
