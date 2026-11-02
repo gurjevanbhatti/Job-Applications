@@ -3224,6 +3224,33 @@
     "title": "Robotics Engineering Co-op",
     "url": "https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008"
   },
+  "09939e91-4c36-4e3b-ace2-9d0117e05b68": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Microsoft",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-02T07:34:35Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-02T09:57:20.152796Z",
+    "id": "09939e91-4c36-4e3b-ace2-9d0117e05b68",
+    "issue_number": 2565,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2565",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Explore Program Engineering Intern",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823"
+  },
   "099a34f8-de36-4008-b851-c1546eb7f942": {
     "applied_at": null,
     "backfilled": false,
@@ -6342,7 +6369,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-02T09:57:20.152796Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "11bca8ee-75aa-40f1-b539-6f28ff39106d",
     "issue_number": 2300,
@@ -6350,7 +6378,7 @@
     "locations": [
       "Colorado Springs, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -16535,7 +16563,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-02T09:57:20.152796Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-02T02:39:49.513652Z",
     "id": "2d8cadab-63ca-494f-bf8b-b7d5b157d376",
     "issue_number": 2562,
@@ -16543,7 +16572,7 @@
     "locations": [
       "Clearwater, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -43640,7 +43669,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-02T09:57:20.152796Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "7d6bf1c5-976f-4398-b41d-4408341be367",
     "issue_number": 2136,
@@ -43648,7 +43678,7 @@
     "locations": [
       "Cambridge, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -47100,7 +47130,8 @@
       "Bachelor's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-02T09:57:20.152796Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "889b9ca8-2b1f-4fd5-b6f6-d9ab02236f83",
     "issue_number": 886,
@@ -47108,7 +47139,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -66694,7 +66725,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-02T09:57:20.152796Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-02T02:39:49.513652Z",
     "id": "bf1ec0ef-494e-419c-abea-be20337732b0",
     "issue_number": 2563,
@@ -66702,7 +66734,7 @@
     "locations": [
       "Clearwater, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -76065,6 +76097,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-02T09:57:20.152796Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "d94c84cc-d47a-4059-ba2f-57d2caabe29d",
@@ -76073,7 +76106,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -76290,6 +76323,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-11-02T09:57:20.152796Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "d9edb3e4-6445-4b89-ba23-ab519604de04",
@@ -76298,7 +76332,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -80781,7 +80815,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-02T09:57:20.152796Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T23:22:16.490839Z",
     "id": "e5c5bd51-aad4-46ef-a77b-0dd49bee8594",
     "issue_number": 2239,
@@ -80789,7 +80824,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -83436,7 +83471,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-02T09:57:20.152796Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-26T01:09:31.889844Z",
     "id": "ec4c3e54-19ef-459b-a915-d355cb2863b2",
     "issue_number": 506,
@@ -83444,7 +83480,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -84077,6 +84113,33 @@
     "title": "Data and Computer Engineering/Computer Science Intern",
     "url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false"
   },
+  "ee9ecff7-1a10-4b66-ae21-f2afcc5ac4a0": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Roku",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-02T06:36:03Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-02T09:57:20.152796Z",
+    "id": "ee9ecff7-1a10-4b66-ae21-f2afcc5ac4a0",
+    "issue_number": 2566,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2566",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern - AI Engineering",
+    "url": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241"
+  },
   "eea4ff21-9352-4ee4-a01b-10830a6c73cd": {
     "applied_at": null,
     "backfilled": false,
@@ -84178,7 +84241,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-02T09:57:20.152796Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "eef6ecab-80f1-4954-a0d1-165cc62c51ed",
     "issue_number": 138,
@@ -84186,7 +84250,7 @@
     "locations": [
       "Franksville, Caledonia, WI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -86150,7 +86214,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-02T09:57:20.152796Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T00:25:28.115604Z",
     "id": "f51c760b-2cc4-48c5-b54a-fb26ce4db7ed",
     "issue_number": 2422,
@@ -86158,7 +86223,7 @@
     "locations": [
       "Sterling, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -87474,7 +87539,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-02T09:57:20.152796Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "f8e5913f-abf8-4eed-838d-d784c5b7907b",
     "issue_number": 1160,
@@ -87482,7 +87548,7 @@
     "locations": [
       "Cary, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -88728,7 +88794,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-02T09:57:20.152796Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "fc5e6607-4ac0-4e9c-9d0d-429cb1076eee",
     "issue_number": 1163,
@@ -88736,7 +88803,7 @@
     "locations": [
       "Cary, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
