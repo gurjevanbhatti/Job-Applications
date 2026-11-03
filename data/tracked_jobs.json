@@ -9199,7 +9199,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T09:49:16.468173Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "1993c458-75cd-45ce-b37e-7ce3a800bdab",
     "issue_number": 2448,
@@ -9207,7 +9208,7 @@
     "locations": [
       "Sterling, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -11500,7 +11501,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T09:49:16.468173Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T19:38:45.370720Z",
     "id": "1fb4d9a5-8f47-4cb1-9c46-d18894dde905",
     "issue_number": 2263,
@@ -11508,7 +11510,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -12892,7 +12894,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T09:49:16.468173Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T09:12:26.011373Z",
     "id": "23764b79-51c3-44e3-a40a-69ae9da3a545",
     "issue_number": 1031,
@@ -12900,7 +12903,7 @@
     "locations": [
       "San Jose, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -17652,6 +17655,35 @@
     "title": "Software Engineer Intern - Summer 2027",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Software-Engineer-Intern---Summer-2027_R68679"
   },
+  "2f789670-e408-4083-8c56-78c3954a15f2": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GenMD",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-03T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-03T09:49:16.468173Z",
+    "id": "2f789670-e408-4083-8c56-78c3954a15f2",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Member of Technical Staff Intern - Applied AI",
+    "url": "https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c/application?embed=true"
+  },
   "2f7f0d05-4984-4739-ad90-66a2e6cb8c2c": {
     "applied_at": null,
     "backfilled": true,
@@ -18108,6 +18140,34 @@
     ],
     "title": "Data Analyst Intern",
     "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8551"
+  },
+  "30d5ee82-f9e5-43e2-907b-56d37014983a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Micron Technology",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-03T09:49:16.468173Z",
+    "id": "30d5ee82-f9e5-43e2-907b-56d37014983a",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Boise, ID"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "System Engineer Intern",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469"
   },
   "3152ae06-a916-4744-ac21-2db63ab6e278": {
     "applied_at": null,
@@ -25737,6 +25797,35 @@
     ],
     "title": "Software Engineer Co-op - Engineering",
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277"
+  },
+  "46fd3fa6-a273-49da-b7ac-7cb7fcf894a9": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "NVIDIA",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-03T09:49:16.468173Z",
+    "id": "46fd3fa6-a273-49da-b7ac-7cb7fcf894a9",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Austin, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Compiler and Kernel Intern",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1"
   },
   "4746059c-ea14-45da-b685-80d31e68d2e2": {
     "applied_at": null,
@@ -34495,8 +34584,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "5e330896-c4d5-49b9-815e-79ff21bc19c7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2604,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2604",
     "locations": [
       "Alpharetta, GA"
     ],
@@ -35885,8 +35974,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "62bf04c8-18c9-48d2-911d-93ed5a597077",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2605,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2605",
     "locations": [
       "Holtsville, NY"
     ],
@@ -36841,6 +36930,33 @@
     "title": "Data Science Intern",
     "url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Data-Science-Intern_JY2627711"
   },
+  "65952a38-1cc8-471c-92f6-5f0ce2d07896": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "onsemi",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-03T07:15:24Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-03T09:49:16.468173Z",
+    "id": "65952a38-1cc8-471c-92f6-5f0ce2d07896",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Device Characterization Intern",
+    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506292"
+  },
   "65c6980b-4420-4767-a479-d749f5e67d26": {
     "applied_at": null,
     "backfilled": false,
@@ -37704,8 +37820,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "68d32af7-600a-49b2-9bb3-80b69bc55477",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2606,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2606",
     "locations": [
       "Portland, OR"
     ],
@@ -40527,8 +40643,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "7119d05b-82f8-4636-8a9f-426c89f7a8c5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2607,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2607",
     "locations": [
       "Totowa, NJ"
     ],
@@ -40555,8 +40671,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "711d6384-7fdd-499a-b385-531aa8968393",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2608,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2608",
     "locations": [
       "Aurora, IL"
     ],
@@ -41268,8 +41384,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "72e029a1-e47a-477e-a7d0-cb53cdd3468c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2609,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2609",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -41355,8 +41471,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "73205f44-451a-4bd5-add5-2cba415a4dbf",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2610,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2610",
     "locations": [
       "Deerfield Beach, FL"
     ],
@@ -41526,8 +41642,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "7358be13-bdfe-4e65-a931-2e842c76a8c3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2611,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2611",
     "locations": [
       "Austin, TX"
     ],
@@ -42662,8 +42778,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "76a9adb2-de1f-4c13-8134-c6ae9614a37d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2612,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2612",
     "locations": [
       "Philadelphia, PA"
     ],
@@ -42963,6 +43079,33 @@
     ],
     "title": "Software Engineer Consulting Intern - AI Concentration",
     "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6173003004"
+  },
+  "7772f70d-d994-4fdf-8874-04f00ed5e24b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "ASML",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-03T09:49:16.468173Z",
+    "id": "7772f70d-d994-4fdf-8874-04f00ed5e24b",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Wilton, CT"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Electrical Engineer Co-op Intern",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/CoOp---Electrical-Engineer--Internship-_J-00356208"
   },
   "7798bf2e-3ece-4347-8e89-2b3368142206": {
     "applied_at": null,
@@ -43438,8 +43581,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "796ede1c-0de1-4a97-8960-314076f5c8a0",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2613,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2613",
     "locations": [
       "Milpitas, CA",
       "Austin, TX"
@@ -43524,8 +43667,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "79843752-f9b8-4cb9-8ddd-379c0fa9fc96",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2614,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2614",
     "locations": [
       "Golden Valley, MN"
     ],
@@ -44120,8 +44263,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "7b190fdf-cbaa-48da-afc3-bdbf0f06287d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2615,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2615",
     "locations": [
       "Framingham, MA"
     ],
@@ -45925,8 +46068,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "80f18dd7-dd58-4635-88b5-28ffe8a06439",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2616,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2616",
     "locations": [
       "Austin, TX"
     ],
@@ -47219,8 +47362,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "84e1f7e3-978b-4ff1-a360-302ecd1faf1e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2617,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2617",
     "locations": [
       "Durham, NC"
     ],
@@ -47272,7 +47415,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T09:49:16.468173Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-02T20:02:00.005279Z",
     "id": "852bd1df-9c2a-4356-bd93-fde6c1c519b2",
     "issue_number": 2573,
@@ -47280,7 +47424,7 @@
     "locations": [
       "Burlington, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -49348,8 +49492,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "8ad9e96e-bea3-4507-906f-f3d01f27b92c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2618,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2618",
     "locations": [
       "Dallas, TX"
     ],
@@ -49811,8 +49955,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "8c36b3e9-bb7e-465c-8e59-8add0c4ab3da",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2619,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2619",
     "locations": [
       "Durham, NC",
       "Burlington, NC"
@@ -53590,8 +53734,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "95f6ee82-d1a7-4d33-8f7d-6f060135baa6",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2620,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2620",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -53629,6 +53773,34 @@
     ],
     "title": "Marketing Analyst Intern",
     "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000154171486"
+  },
+  "96473a10-c969-46e3-93de-64ab0f07a746": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GlobalFoundries",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-02T00:00:00Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-03T09:49:16.468173Z",
+    "id": "96473a10-c969-46e3-93de-64ab0f07a746",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Malta, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Device Engineer Intern - Silicon Photonics",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2605131"
   },
   "965788be-07b4-4640-984c-ea792247b602": {
     "applied_at": null,
@@ -53759,8 +53931,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "969fad49-3d84-4fbc-9700-8d9045078201",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2621,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2621",
     "locations": [
       "Toronto, ON, Canada"
     ],
@@ -53988,8 +54160,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "9769870e-4b9e-4899-a798-7811da36ffe5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2622,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2622",
     "locations": [
       "Durham, NC",
       "Burlington, NC"
@@ -55197,8 +55369,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "9aff2860-cf5d-4547-b10b-b5330f2655ee",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2623,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2623",
     "locations": [
       "Issaquah, WA"
     ],
@@ -56136,8 +56308,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "9d1b1bbe-f17b-45fa-9f6e-c944caa8f7eb",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2624,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2624",
     "locations": [
       "Philadelphia, PA"
     ],
@@ -58241,8 +58413,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "a242ca0c-6422-4dea-bea2-2aa135bf80cc",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2625,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2625",
     "locations": [
       "Arlington County, Arlington, VA"
     ],
@@ -59720,8 +59892,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "a6d1ed14-ec30-404a-88c2-2d7d1ab83a77",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2626,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2626",
     "locations": [
       "Arlington County, Arlington, VA"
     ],
@@ -60042,6 +60214,38 @@
     ],
     "title": "Engineering Operations Intern",
     "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors"
+  },
+  "a76e7223-bb98-4ed6-af28-3ae42d23856a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "NVIDIA",
+    "countries": [
+      "Canada",
+      "USA"
+    ],
+    "date_posted": "2026-11-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-03T09:49:16.468173Z",
+    "id": "a76e7223-bb98-4ed6-af28-3ae42d23856a",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Canada",
+      "Santa Clara, CA",
+      "United States"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Math Libraries Intern",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449"
   },
   "a76fe4c5-ec63-4f65-a3d1-11ead25b41b2": {
     "applied_at": null,
@@ -61554,8 +61758,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "abb438b3-abf6-4919-bac8-060f8260ed22",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2627,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2627",
     "locations": [
       "Valley, NE"
     ],
@@ -62353,8 +62557,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "ae59bf1a-6bc0-4208-9390-f2775cf89664",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2628,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2628",
     "locations": [
       "Holtsville, NY",
       "Lincolnshire, IL"
@@ -63442,6 +63646,34 @@
     ],
     "title": "AI/ML for Cybersecurity Intern",
     "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563"
+  },
+  "b07e10e9-36f7-459e-aefc-6c0628655233": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GlobalFoundries",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-03T09:49:16.468173Z",
+    "id": "b07e10e9-36f7-459e-aefc-6c0628655233",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Malta, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Silicon Photonics Advanced Packaging Intern",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2605136"
   },
   "b0b2555a-638d-48e8-b2ba-b9c70b079360": {
     "applied_at": null,
@@ -74291,6 +74523,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-03T09:49:16.468173Z",
     "expired_issue_closed": false,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "cffd0bd5-d650-4e9e-ae41-cde4ff1d94d3",
@@ -74299,7 +74532,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Fall 2026"
     ],
@@ -81537,7 +81770,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T09:49:16.468173Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-28T15:42:03.415053Z",
     "id": "e20b7038-01d7-4798-a53d-313f94bd9e80",
     "issue_number": 2368,
@@ -81546,7 +81780,7 @@
       "Marlborough, MA",
       "Tewksbury, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Summer 2027"
@@ -86524,6 +86758,33 @@
     "title": "Hardware Electrical Engineer Intern - Crypto and Cross Domain Solutions",
     "url": "https://careers-gdms.icims.com/jobs/74787/job?mobile=true&needsRedirect=false"
   },
+  "ef31b232-5a78-40fe-9d4a-b2cca861468f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Paccar",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-03T07:47:57Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-03T09:49:16.468173Z",
+    "id": "ef31b232-5a78-40fe-9d4a-b2cca861468f",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Denton, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Developer Intern",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors"
+  },
   "ef447dbd-c6a9-410f-9409-c1bd4fd27261": {
     "applied_at": null,
     "backfilled": false,
@@ -88713,6 +88974,34 @@
     ],
     "title": "Thermal Mechanical Engineering Intern - GPU Platforms",
     "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Thermal-Mechanical-Engineering-Undergraduate-Intern--GPU-Platforms_JR0287516"
+  },
+  "f59645fd-b938-4a04-8aa8-1bf0b5d46760": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "GlobalFoundries",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-02T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-03T09:49:16.468173Z",
+    "id": "f59645fd-b938-4a04-8aa8-1bf0b5d46760",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Malta, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "PDK Design Engineering Intern - Silicon Photonics",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/PDK-Design-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2605133"
   },
   "f5a57f30-b133-43ba-b8f8-1de07dc17078": {
     "applied_at": null,
