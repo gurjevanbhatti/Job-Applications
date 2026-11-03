@@ -3914,6 +3914,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-03T22:29:10.564626Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "0adb2d84-b56e-47f1-b4ca-f0267547814c",
@@ -3922,7 +3923,7 @@
     "locations": [
       "Trenton, NJ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -5544,8 +5545,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T17:29:40.328773Z",
     "id": "0fafd493-8e5a-4e86-87ae-617311283122",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2662,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2662",
     "locations": [
       "Lithia, FL"
     ],
@@ -13128,8 +13129,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T17:29:40.328773Z",
     "id": "242cf8f3-3e86-497c-9929-78f7c704959b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2663,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2663",
     "locations": [
       "Montreal, QC, Canada"
     ],
@@ -13631,7 +13632,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T22:29:10.564626Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "2550c060-9118-4f3e-9d5f-4654e2b82b0a",
     "issue_number": 2116,
@@ -13639,7 +13641,7 @@
     "locations": [
       "Cambridge, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -15118,8 +15120,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T17:29:40.328773Z",
     "id": "2898b74c-bc91-4f06-b910-1d62bdba0c18",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2664,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2664",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -16814,7 +16816,8 @@
       "Bachelor's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T22:29:10.564626Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "2ceb1cdc-f5a5-4650-8fd1-1c54af7450ce",
     "issue_number": 1522,
@@ -16822,7 +16825,7 @@
     "locations": [
       "Ann Arbor, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -23885,8 +23888,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T17:29:40.328773Z",
     "id": "413fa3ea-a5c0-4c3d-b1db-e01f70015c85",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2665,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2665",
     "locations": [
       "Denton, TX"
     ],
@@ -25925,8 +25928,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T09:49:16.468173Z",
     "id": "46fd3fa6-a273-49da-b7ac-7cb7fcf894a9",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2654,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2654",
     "locations": [
       "Austin, TX"
     ],
@@ -30240,7 +30243,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T22:29:10.564626Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "531577c4-883e-4ac7-9563-ab1ef47be527",
     "issue_number": 760,
@@ -30248,7 +30252,7 @@
     "locations": [
       "Cleveland, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -31256,7 +31260,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T22:29:10.564626Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T00:25:28.115604Z",
     "id": "55838bcc-4e75-4ae8-99c1-4842181f1a8f",
     "issue_number": 2385,
@@ -31264,7 +31269,7 @@
     "locations": [
       "Pleasanton, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -32990,7 +32995,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T22:29:10.564626Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T09:59:32.122379Z",
     "id": "5a07cf07-d505-4525-bec1-6e0fa482b1d9",
     "issue_number": 265,
@@ -32998,7 +33004,7 @@
     "locations": [
       "Richardson, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -37055,8 +37061,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T09:49:16.468173Z",
     "id": "65952a38-1cc8-471c-92f6-5f0ce2d07896",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2655,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2655",
     "locations": [
       "San Jose, CA"
     ],
@@ -38010,6 +38016,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-03T22:29:10.564626Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "68f37988-b392-417d-94b1-cd0b9aab5609",
@@ -38018,7 +38025,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -38292,7 +38299,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T22:29:10.564626Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "69b42d08-e4e9-42d5-9ead-00f3e47e8e81",
     "issue_number": 2316,
@@ -38301,7 +38309,7 @@
       "Arkansas",
       "Ohio"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -38775,7 +38783,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T22:29:10.564626Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T23:37:10.450722Z",
     "id": "6b312831-205c-40b2-bb44-e02ee5c53de8",
     "issue_number": 1444,
@@ -38783,7 +38792,7 @@
     "locations": [
       "Ann Arbor, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -42713,7 +42722,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T22:29:10.564626Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T23:22:16.490839Z",
     "id": "765cf08e-bec4-4b7c-b810-b06b2b3d4040",
     "issue_number": 2208,
@@ -42721,7 +42731,7 @@
     "locations": [
       "Dayton, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -43205,8 +43215,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T09:49:16.468173Z",
     "id": "7772f70d-d994-4fdf-8874-04f00ed5e24b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2656,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2656",
     "locations": [
       "Wilton, CT"
     ],
@@ -50834,8 +50844,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T17:29:40.328773Z",
     "id": "8e77f653-a96d-4c5f-abc0-06ffb62f8a73",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2666,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2666",
     "locations": [
       "Arlington County, Arlington, VA"
     ],
@@ -53927,8 +53937,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T09:49:16.468173Z",
     "id": "96473a10-c969-46e3-93de-64ab0f07a746",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2657,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2657",
     "locations": [
       "Malta, NY"
     ],
@@ -59173,6 +59183,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-03T22:29:10.564626Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "a4432340-1e42-4079-be3e-d590b4a323ec",
@@ -59181,7 +59192,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -60224,7 +60235,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T22:29:10.564626Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "a71102ca-4c4d-4bc3-8084-fcf5d09cf645",
     "issue_number": 105,
@@ -60232,7 +60244,7 @@
     "locations": [
       "Lubbock, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -60370,8 +60382,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T09:49:16.468173Z",
     "id": "a76e7223-bb98-4ed6-af28-3ae42d23856a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2658,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2658",
     "locations": [
       "Canada",
       "Santa Clara, CA",
@@ -63453,7 +63465,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T22:29:10.564626Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "afcdf74f-6a05-4576-a4ca-e000980ec578",
     "issue_number": 2331,
@@ -63462,7 +63475,7 @@
       "Arkansas",
       "Ohio"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -63800,8 +63813,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T09:49:16.468173Z",
     "id": "b07e10e9-36f7-459e-aefc-6c0628655233",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2659,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2659",
     "locations": [
       "Malta, NY"
     ],
@@ -69322,7 +69335,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T22:29:10.564626Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-28T15:42:03.415053Z",
     "id": "bff9a492-ed06-4a94-8f0d-75a782dcefd8",
     "issue_number": 2367,
@@ -69330,7 +69344,7 @@
     "locations": [
       "Oak Brook, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -73952,7 +73966,8 @@
       "Master's",
       "MBA"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T22:29:10.564626Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T00:44:15.781283Z",
     "id": "cde3a717-b612-4994-bbd5-0272b6a0df41",
     "issue_number": 1922,
@@ -73960,7 +73975,7 @@
     "locations": [
       "Lincolnshire, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -86911,8 +86926,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T09:49:16.468173Z",
     "id": "ef31b232-5a78-40fe-9d4a-b2cca861468f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2660,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2660",
     "locations": [
       "Denton, TX"
     ],
@@ -89129,8 +89144,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-03T09:49:16.468173Z",
     "id": "f59645fd-b938-4a04-8aa8-1bf0b5d46760",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2661,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2661",
     "locations": [
       "Malta, NY"
     ],
@@ -91312,7 +91327,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-03T22:29:10.564626Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "fb4ff940-a824-4d20-bce3-e3331a46768e",
     "issue_number": 2554,
@@ -91320,7 +91336,7 @@
     "locations": [
       "Spokane, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
