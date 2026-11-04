@@ -1849,7 +1849,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T22:54:20.373287Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T00:25:28.115604Z",
     "id": "05b8b7d6-5bbd-48e6-866d-42664b9adfe5",
     "issue_number": 2371,
@@ -1857,7 +1858,7 @@
     "locations": [
       "San Jose, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -6141,7 +6142,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T22:54:20.373287Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-02T20:02:00.005279Z",
     "id": "10c72e68-a2b9-4a9a-9ec6-f4a30060d277",
     "issue_number": 2567,
@@ -6149,7 +6151,7 @@
     "locations": [
       "Raleigh, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -13606,7 +13608,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T22:54:20.373287Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "24d68083-3cb9-4678-ae53-e6a2fcd638fe",
     "issue_number": 2115,
@@ -13614,7 +13617,7 @@
     "locations": [
       "Madison, WI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -15769,7 +15772,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T22:54:20.373287Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T18:56:55.974827Z",
     "id": "29824d46-1292-4645-be50-863c4e2b43f8",
     "issue_number": 2433,
@@ -15777,7 +15781,7 @@
     "locations": [
       "Cambridge, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -15796,7 +15800,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T22:54:20.373287Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "29a95b15-0c3d-48df-b7cf-6a72e17df163",
     "issue_number": 2519,
@@ -15804,7 +15809,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -52774,7 +52779,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T22:54:20.373287Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T23:52:40.142777Z",
     "id": "90d4be1a-888d-4b8c-a5e7-f07c01f135bb",
     "issue_number": 1694,
@@ -52782,7 +52788,7 @@
     "locations": [
       "Columbus, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -55988,7 +55994,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T22:54:20.373287Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "99711ceb-b4a5-4878-b79e-1d211bd64a29",
     "issue_number": 2690,
@@ -55996,7 +56003,7 @@
     "locations": [
       "Houston, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Fall 2026",
       "Winter 2027"
@@ -61284,7 +61291,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T22:54:20.373287Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "a6d1ed14-ec30-404a-88c2-2d7d1ab83a77",
     "issue_number": 2626,
@@ -61292,7 +61300,7 @@
     "locations": [
       "Arlington County, Arlington, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -70224,7 +70232,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T22:54:20.373287Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "be949df0-0657-4f39-b1f3-e45962a3eee3",
     "issue_number": 809,
@@ -70232,7 +70241,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -90300,7 +90309,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T22:54:20.373287Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "f3ea53ba-e5c9-4206-8d4c-5aa29ea06ebd",
     "issue_number": 2553,
@@ -90308,7 +90318,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
