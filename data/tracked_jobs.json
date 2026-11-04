@@ -2389,7 +2389,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T09:51:20.482064Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T00:25:28.115604Z",
     "id": "06cae492-38dc-4006-8d0c-4e89e122c1f5",
     "issue_number": 2372,
@@ -2397,7 +2398,7 @@
     "locations": [
       "Overland Park, KS"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -9282,7 +9283,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T09:51:20.482064Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "198b1795-11c2-45d8-aedf-4794abe8f889",
     "issue_number": 2447,
@@ -9290,7 +9292,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Summer 2027",
@@ -19775,6 +19777,34 @@
     "title": "Software Engineer Intern - MS/PhD - Systems Intelligence & Machine Learning",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746"
   },
+  "354fa9d8-b057-4738-8d2f-90507d404a89": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Northrop Grumman",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-04T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-04T09:51:20.482064Z",
+    "id": "354fa9d8-b057-4738-8d2f-90507d404a89",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Sykesville, MD"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Embedded Engineering Intern",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553"
+  },
   "3555c695-037a-494d-b111-9652b4b91a08": {
     "applied_at": null,
     "backfilled": false,
@@ -21392,7 +21422,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T09:51:20.482064Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "3a491712-efae-41c7-9cf5-9e0c3367e9e1",
     "issue_number": 2591,
@@ -21400,7 +21431,7 @@
     "locations": [
       "Denton, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -22827,6 +22858,33 @@
     ],
     "title": "Product Engineer Intern",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839-1"
+  },
+  "3e173799-74c8-4ce9-9379-d3eade04b17b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Itron",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-03T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-04T09:51:20.482064Z",
+    "id": "3e173799-74c8-4ce9-9379-d3eade04b17b",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Liberty Lake, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Analytics and Automation Intern - Finance",
+    "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Analytics-and-Automation--Finance_JR103020-1"
   },
   "3e255e6f-7b4c-4d0b-9c5f-cc5980d7f16c": {
     "applied_at": null,
@@ -32080,6 +32138,33 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169"
+  },
+  "563a912d-6959-424f-a0d4-5647249b9904": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Itron",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-03T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-04T09:51:20.482064Z",
+    "id": "563a912d-6959-424f-a0d4-5647249b9904",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Liberty Lake, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Analytics and Automation Intern - Finance",
+    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Analytics-and-Automation--Finance_JR103020"
   },
   "563ce3fa-deec-437a-883e-6c9179763ddc": {
     "applied_at": null,
@@ -44287,6 +44372,35 @@
     ],
     "title": "People Analytics Co-op - Human Resources",
     "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/HR--People-Analytics-Co-Op_R94815-1"
+  },
+  "79477bc2-76a3-4678-90ed-8684e8e45c02": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Etched",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-04T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-04T09:51:20.482064Z",
+    "id": "79477bc2-76a3-4678-90ed-8684e8e45c02",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Fall 2027"
+    ],
+    "title": "IA Research Engineer Intern - Kernels",
+    "url": "https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440/application?embed=true"
   },
   "796ede1c-0de1-4a97-8960-314076f5c8a0": {
     "applied_at": null,
@@ -58728,8 +58842,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "a0b8884a-5b8e-414d-8606-98972b7a41e3",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2692,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2692",
     "locations": [
       "Westford, MA"
     ],
@@ -59040,8 +59154,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "a1299f50-47e3-4269-9aba-1d8e8952b516",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2693,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2693",
     "locations": [
       "New Mexico",
       "Washington",
@@ -59259,8 +59373,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "a19a4570-bd0a-4738-87b9-d8c994bdb88a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2694,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2694",
     "locations": [
       "Santa Clara, CA"
     ],
@@ -60146,8 +60260,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "a4762cb5-97a1-457e-a071-427b1e9dd672",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2695,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2695",
     "locations": [
       "Deerfield Beach, FL"
     ],
@@ -60774,8 +60888,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "a6442bf8-bef9-418e-8d8d-c02521c3e1d9",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2696,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2696",
     "locations": [
       "Waltham, MA"
     ],
@@ -61457,8 +61571,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "a8192ed5-e5e9-415e-a09c-8bbc96ebe4bd",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2697,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2697",
     "locations": [
       "Cambridge, MA"
     ],
@@ -64428,8 +64542,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "afca41c6-cdfa-48a4-a053-f66e3f7e6cd2",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2698,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2698",
     "locations": [
       "Milwaukee, WI",
       "Kansas City, MO",
@@ -66984,8 +67098,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "b755e258-8ae6-49cf-b552-d6de8879e61d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2699,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2699",
     "locations": [
       "Framingham, MA"
     ],
@@ -67326,8 +67440,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "b82ef27e-9f0e-4f70-a352-4c20f5888772",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2700,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2700",
     "locations": [
       "Richland, WA"
     ],
@@ -67435,8 +67549,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "b8432b20-f015-4b66-b965-dc6b0b91ae1d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2701,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2701",
     "locations": [
       "Bellevue, WA"
     ],
@@ -68411,8 +68525,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "bace5e25-f7c7-40db-875f-96e30740cd4b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2702,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2702",
     "locations": [
       "Frisco, TX"
     ],
@@ -68438,8 +68552,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "bad0ee21-806f-4cc1-9377-dc097e9bb3f8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2703,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2703",
     "locations": [
       "Colorado Springs, CO"
     ],
@@ -72566,8 +72680,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "c5e86824-dfe7-4736-af3b-f8a7222c6536",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2704,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2704",
     "locations": [
       "Redondo Beach, CA"
     ],
@@ -73646,8 +73760,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "c8b528c0-9e2b-41f1-b70b-f51830b754e2",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2705,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2705",
     "locations": [
       "Halifax Regional Municipality, NS, Canada"
     ],
@@ -73973,7 +74087,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T09:51:20.482064Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T06:11:18.021606Z",
     "id": "c97976da-bd27-48d0-88a3-6bfed6a0287c",
     "issue_number": 2424,
@@ -73981,7 +74096,7 @@
     "locations": [
       "Arden Hills, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -74839,8 +74954,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "ccbcded9-12dc-495b-93d1-4e65ca22448b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2706,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2706",
     "locations": [
       "Bellevue, WA"
     ],
@@ -78103,8 +78218,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "d54af37c-a5fe-446f-bb32-9109e3a29f7c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2707,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2707",
     "locations": [
       "Santa Clara, CA"
     ],
@@ -78199,6 +78314,34 @@
     "title": "Software Engineer Intern",
     "url": "https://careers.itw.com/global/en/job/JR10122"
   },
+  "d56d3b77-c61d-40dc-9b97-f80a57775765": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Zurn Elkay Water Solutions",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-03T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-04T09:51:20.482064Z",
+    "id": "d56d3b77-c61d-40dc-9b97-f80a57775765",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Downers Grove, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Electrical & Electronics Engineering Intern",
+    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Electrical---Electronics-Engineering-Intern--Summer-2027-_REQ-020097"
+  },
   "d57fb9b7-232f-4e54-b2f8-fbd358ebe6c4": {
     "applied_at": null,
     "backfilled": false,
@@ -78241,8 +78384,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "d5833357-34bc-4fcd-83c8-6158cb05a53b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2708,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2708",
     "locations": [
       "North Vancouver, BC, Canada"
     ],
@@ -78909,8 +79052,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "d72dce77-ec3e-4046-b385-66b478ca3a5f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2709,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2709",
     "locations": [
       "Ottawa, ON, Canada"
     ],
@@ -85484,8 +85627,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "e76577d0-95e5-4dca-baf2-86a80fd28131",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2710,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2710",
     "locations": [
       "Chesterfield, MO"
     ],
@@ -87392,8 +87535,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "ec682ade-102c-4bca-9824-a71e73c64c13",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2711,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2711",
     "locations": [
       "Philadelphia, PA"
     ],
@@ -87813,8 +87956,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "edcb0851-74cc-4eda-8752-622b149fc905",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2712,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2712",
     "locations": [
       "Dayton, OH"
     ],
@@ -88876,8 +89019,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "f107f36b-2d7b-4407-a73c-6eccd1a4a0fa",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2713,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2713",
     "locations": [
       "Mountain View, CA"
     ],
@@ -88972,6 +89115,36 @@
     ],
     "title": "Product Management Intern - FIS University Program",
     "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Product-Management--FIS-University-Program_JR0309691"
+  },
+  "f146a3b4-2917-4401-b676-6fcd54b001cd": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-04T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-04T09:51:20.482064Z",
+    "id": "f146a3b4-2917-4401-b676-6fcd54b001cd",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Jupiter, FL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Control/Diagnostic Software Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840"
   },
   "f1498361-ba76-45f9-9d85-dfac75b061a9": {
     "applied_at": null,
@@ -89782,7 +89955,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-04T09:51:20.482064Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T00:25:28.115604Z",
     "id": "f3c001a6-09ca-4767-b14e-d993af289699",
     "issue_number": 2420,
@@ -89790,7 +89964,7 @@
     "locations": [
       "Madison, WI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -89813,8 +89987,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "f3d897bf-f136-496c-9994-5a34953c7c3b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2714,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2714",
     "locations": [
       "Manhattan Beach, CA"
     ],
@@ -90328,8 +90502,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "f5113035-5f0f-4f0c-970b-772d643acbf6",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2715,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2715",
     "locations": [
       "Greensboro, NC"
     ],
@@ -90596,8 +90770,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "f55ba2e1-e436-475d-8d27-c4fbd34fd773",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2716,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2716",
     "locations": [
       "Brecksville, OH"
     ],
