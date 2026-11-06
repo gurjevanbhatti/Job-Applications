@@ -1121,6 +1121,35 @@
     "title": "Generative AI Software Development Intern",
     "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1"
   },
+  "03bd77d2-3d33-47c7-93cd-c8cc83b1d94f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "ASM International",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-06T04:17:49Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-06T12:44:14.145717Z",
+    "id": "03bd77d2-3d33-47c7-93cd-c8cc83b1d94f",
+    "issue_number": 2865,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2865",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Product Intelligence Engineering Intern - AI/ML",
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=5029228101"
+  },
   "03eb8bf0-819f-42fb-9468-e63bf47f7af3": {
     "applied_at": null,
     "backfilled": false,
@@ -1219,6 +1248,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-06T12:44:14.145717Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "044235a0-420e-4de8-b8f8-d03207616f48",
@@ -1227,7 +1257,7 @@
     "locations": [
       "Palo Alto, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -13590,6 +13620,33 @@
     "title": "IT Engineer Intern",
     "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern_R0190464"
   },
+  "2416143a-d182-47ca-9121-739744610d0a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "TikTok",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-06T10:34:54Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-06T12:44:14.145717Z",
+    "id": "2416143a-d182-47ca-9121-739744610d0a",
+    "issue_number": 2866,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2866",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "POI Content Product Manager Intern",
+    "url": "https://lifeattiktok.com/search/7696000179569854725"
+  },
   "2426eed2-a847-4eb5-b42b-1e4063ee6925": {
     "applied_at": null,
     "backfilled": false,
@@ -17581,7 +17638,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-06T12:44:14.145717Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "2d8c299e-32f6-48b9-96af-74653d10e44a",
     "issue_number": 2673,
@@ -17589,7 +17647,7 @@
     "locations": [
       "West Valley City, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -27236,7 +27294,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-06T12:44:14.145717Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "46c77ff4-d626-47a9-bdb5-d46938c07a50",
     "issue_number": 391,
@@ -27244,7 +27303,7 @@
     "locations": [
       "Danvers, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -27461,7 +27520,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-06T12:44:14.145717Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-24T07:07:14.282128Z",
     "id": "47b1aeb6-587f-4d70-974c-6dd226fbf9e7",
     "issue_number": 2166,
@@ -27469,7 +27529,7 @@
     "locations": [
       "Spring House, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -28037,7 +28097,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-06T12:44:14.145717Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-28T02:17:01.653424Z",
     "id": "49e57c55-743b-457d-b17f-64d6b36a90c6",
     "issue_number": 2346,
@@ -28045,7 +28106,7 @@
     "locations": [
       "Chillicothe, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -38044,7 +38105,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-06T12:44:14.145717Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "62bf04c8-18c9-48d2-911d-93ed5a597077",
     "issue_number": 2605,
@@ -38052,7 +38114,7 @@
     "locations": [
       "Holtsville, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -39471,7 +39533,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-06T12:44:14.145717Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T14:30:27.597506Z",
     "id": "6700105f-c97f-4e96-a186-4814ab00fa72",
     "issue_number": 2256,
@@ -39479,7 +39542,7 @@
     "locations": [
       "Foster City, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -45407,6 +45470,34 @@
     ],
     "title": "Enterprise Data Intern - Enablement, Service & Support",
     "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39510"
+  },
+  "77127d50-fe05-4069-a053-a1d3aed35a10": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "HoYoverse",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-06T00:00:00Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-06T12:44:14.145717Z",
+    "id": "77127d50-fe05-4069-a053-a1d3aed35a10",
+    "issue_number": 2867,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2867",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Research Scientist Intern - Video Generation",
+    "url": "https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true"
   },
   "7712858f-382a-45d0-b39e-96399014727b": {
     "applied_at": null,
@@ -53671,7 +53762,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-06T12:44:14.145717Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T03:06:05.330905Z",
     "id": "8e15af49-188a-4ef1-8b9f-b49ae39efded",
     "issue_number": 2758,
@@ -53679,7 +53771,7 @@
     "locations": [
       "Westerville, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -54481,7 +54573,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-06T12:44:14.145717Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "905705a1-d2c7-4fa5-8e63-beef794c9d9c",
     "issue_number": 2324,
@@ -54489,7 +54582,7 @@
     "locations": [
       "Chillicothe, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -58987,7 +59080,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-06T12:44:14.145717Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T14:30:27.597506Z",
     "id": "9b71b062-0254-4731-8c73-14ea6becaeb3",
     "issue_number": 2257,
@@ -58995,7 +59089,7 @@
     "locations": [
       "Foster City, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -66383,7 +66477,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-06T12:44:14.145717Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "ae59bf1a-6bc0-4208-9390-f2775cf89664",
     "issue_number": 2628,
@@ -66392,7 +66487,7 @@
       "Holtsville, NY",
       "Lincolnshire, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -67568,6 +67663,33 @@
     ],
     "title": "Module Test Instrumentation & Automation Engineer",
     "url": "https://jobs.apple.com/en-us/details/200684185"
+  },
+  "b0d0060c-2d0c-4a83-874e-ea2eb2436956": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Molina Healthcare",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-30T22:50:56Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-06T12:44:14.145717Z",
+    "id": "b0d0060c-2d0c-4a83-874e-ea2eb2436956",
+    "issue_number": 2868,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2868",
+    "locations": [
+      "Remote in USA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Electronic Data Interchange Intern",
+    "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040156"
   },
   "b0deb0f8-293e-4d40-add9-69e719586391": {
     "applied_at": null,
@@ -72670,7 +72792,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-06T12:44:14.145717Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "be146f78-4172-4dbd-9839-b35a87ef06be",
     "issue_number": 2634,
@@ -72678,7 +72801,7 @@
     "locations": [
       "Lincolnshire, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -72809,7 +72932,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-06T12:44:14.145717Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T14:30:27.597506Z",
     "id": "be8d5807-1506-4439-94ef-cbbc4820f02b",
     "issue_number": 2258,
@@ -72817,7 +72941,7 @@
     "locations": [
       "Foster City, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -75663,7 +75787,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-06T12:44:14.145717Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "c5e86824-dfe7-4736-af3b-f8a7222c6536",
     "issue_number": 2704,
@@ -75671,7 +75796,7 @@
     "locations": [
       "Redondo Beach, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -77080,8 +77205,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-06T04:56:36.996085Z",
     "id": "c924f746-7ad7-4688-a1d2-00db70c70823",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2860,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2860",
     "locations": [
       "Foster City, CA"
     ],
@@ -80437,7 +80562,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-06T12:44:14.145717Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T14:30:27.597506Z",
     "id": "d23757ff-eac9-4620-bfc5-fc65e0a43ed5",
     "issue_number": 2259,
@@ -80445,7 +80571,7 @@
     "locations": [
       "Foster City, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -82952,8 +83078,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-06T04:56:36.996085Z",
     "id": "d8cc7189-431c-4e08-938a-58fd924c969f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2861,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2861",
     "locations": [
       "Atlanta, GA"
     ],
@@ -85767,6 +85893,33 @@
     "title": "AI Research Intern",
     "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1"
   },
+  "df5eafa1-788e-43eb-a0cd-755cec712155": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Molina Healthcare",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-10-30T22:50:55Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-06T12:44:14.145717Z",
+    "id": "df5eafa1-788e-43eb-a0cd-755cec712155",
+    "issue_number": 2869,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2869",
+    "locations": [
+      "United States"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Analytics Intern",
+    "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040160"
+  },
   "df757bc2-dbbd-4572-b2e8-78356ee1a5f4": {
     "applied_at": null,
     "backfilled": false,
@@ -86153,8 +86306,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-06T04:56:36.996085Z",
     "id": "e038b171-9e84-4c1a-af41-0c25c39b27cc",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2862,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2862",
     "locations": [
       "Tempe, AZ"
     ],
@@ -89062,6 +89215,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-06T12:44:14.145717Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "e6fbfc33-cdd6-4ee6-acef-70e752008526",
@@ -89070,7 +89224,7 @@
     "locations": [
       "Menlo Park, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -93029,8 +93183,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-06T04:56:36.996085Z",
     "id": "f175936e-7cd2-44d3-8f3d-2c881af188ce",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2863,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2863",
     "locations": [
       "Reno, NV"
     ],
@@ -93909,8 +94063,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-06T04:56:36.996085Z",
     "id": "f3e15602-3c1f-4278-b98d-3516f883676e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2864,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2864",
     "locations": [
       "Mountain View, CA"
     ],
