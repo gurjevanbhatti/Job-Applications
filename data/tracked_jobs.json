@@ -20079,7 +20079,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T16:56:55.305078Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T00:25:28.115604Z",
     "id": "3338e211-5030-4319-9e46-aba103ce8cbd",
     "issue_number": 2378,
@@ -20087,7 +20088,7 @@
     "locations": [
       "San Diego, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -38254,6 +38255,33 @@
     "title": "Software Engineer Co-op",
     "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111"
   },
+  "60fd1301-4412-4891-b853-6eec26f242df": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Tesla",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-07T11:09:59Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-07T16:56:55.305078Z",
+    "id": "60fd1301-4412-4891-b853-6eec26f242df",
+    "issue_number": 2935,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2935",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern - SI Reinforcement Learning",
+    "url": "https://www.tesla.com/careers/search/job/289241"
+  },
   "61044b56-5584-4118-b985-879aa9c86501": {
     "applied_at": null,
     "backfilled": true,
@@ -44109,7 +44137,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T16:56:55.305078Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T17:43:14.321957Z",
     "id": "715edfbe-9e25-4d5c-b17b-230a7cd1efa2",
     "issue_number": 2729,
@@ -44117,7 +44146,7 @@
     "locations": [
       "Roy, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -51443,7 +51472,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T16:56:55.305078Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T03:06:05.330905Z",
     "id": "85773b47-5ed9-48dd-abb9-1d1c91adb439",
     "issue_number": 2755,
@@ -51451,7 +51481,7 @@
     "locations": [
       "McClellan Park, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -81841,7 +81871,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T16:56:55.305078Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T23:22:16.490839Z",
     "id": "d1de8028-28e6-48cb-8e97-084b44da57ce",
     "issue_number": 2234,
@@ -81849,7 +81880,7 @@
     "locations": [
       "Bradenton, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
