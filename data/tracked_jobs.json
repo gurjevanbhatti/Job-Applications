@@ -5429,7 +5429,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "0def15fc-cae9-402b-85fd-6b0139206423",
     "issue_number": 2582,
@@ -5437,7 +5438,7 @@
     "locations": [
       "United States"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -13052,7 +13053,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T17:43:14.321957Z",
     "id": "2241ec96-bc3b-4561-b94a-4e27e020422c",
     "issue_number": 2725,
@@ -13060,7 +13062,7 @@
     "locations": [
       "Holtsville, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -14535,7 +14537,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "2565907b-9dfe-4eb9-8edf-80ae650ac2ad",
     "issue_number": 2305,
@@ -14543,7 +14546,7 @@
     "locations": [
       "Deerfield Beach, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -18981,7 +18984,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T17:43:14.321957Z",
     "id": "2f96e3d6-e7b7-4c8f-ac5d-832fdca16735",
     "issue_number": 2726,
@@ -18989,7 +18993,7 @@
     "locations": [
       "Denton, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -20727,7 +20731,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T09:51:20.482064Z",
     "id": "354fa9d8-b057-4738-8d2f-90507d404a89",
     "issue_number": 2718,
@@ -20735,7 +20740,7 @@
     "locations": [
       "Sykesville, MD"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -23250,7 +23255,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T03:06:05.330905Z",
     "id": "3bb515cc-bf19-4065-84f7-a2267d491859",
     "issue_number": 2739,
@@ -23258,7 +23264,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -23842,7 +23848,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T03:06:05.330905Z",
     "id": "3d71ef5f-cb4f-44eb-88bf-4d43eeb0b33c",
     "issue_number": 2740,
@@ -23850,7 +23857,7 @@
     "locations": [
       "Ann Arbor, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -27018,7 +27025,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T02:16:21.957791Z",
     "id": "449e7a2b-969a-4ba0-9cdd-34a30c283b96",
     "issue_number": 2246,
@@ -27026,7 +27034,7 @@
     "locations": [
       "Deerfield Beach, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -33350,7 +33358,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "555a6f45-0d0f-46e0-a4a3-d09256541f1c",
     "issue_number": 2682,
@@ -33358,7 +33367,7 @@
     "locations": [
       "Holtsville, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -47117,7 +47126,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T17:43:14.321957Z",
     "id": "792c0825-337f-4b99-aa3f-bf1c72df18ac",
     "issue_number": 2730,
@@ -47125,7 +47135,7 @@
     "locations": [
       "Germantown, MD"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -54595,7 +54605,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-06T04:56:36.996085Z",
     "id": "8d4cae73-29ee-4941-9cf4-db0240fa681a",
     "issue_number": 2852,
@@ -54603,7 +54614,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -62762,7 +62773,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "a0ddb14f-98ec-41f1-bbab-d1f83200a5ba",
     "issue_number": 2328,
@@ -62770,7 +62782,7 @@
     "locations": [
       "Deerfield Beach, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -71059,7 +71071,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T10:52:45.516678Z",
     "id": "b6c102ff-263e-4702-96a9-65f26a42bb79",
     "issue_number": 2798,
@@ -71067,7 +71080,7 @@
     "locations": [
       "Tempe, AZ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Summer 2027",
@@ -95441,8 +95454,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-07T04:28:56.979087Z",
     "id": "f303399c-a772-4484-a337-6a409adfe1bf",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2933,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2933",
     "locations": [
       "San Jose, CA"
     ],
@@ -96791,8 +96804,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-07T04:28:56.979087Z",
     "id": "f5b8482b-aa0c-4812-b838-360a26040662",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 2934,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2934",
     "locations": [
       "Cincinnati, OH"
     ],
@@ -98948,7 +98961,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T17:43:14.321957Z",
     "id": "fb3b0be5-05d3-471f-8734-bfaa6cfe7c70",
     "issue_number": 2734,
@@ -98956,7 +98970,7 @@
     "locations": [
       "Kennesaw, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -100294,7 +100308,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-07T11:16:27.262497Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T10:52:45.516678Z",
     "id": "fe8d2783-4265-46f3-bf32-0172e2ddfe65",
     "issue_number": 2812,
@@ -100302,7 +100317,7 @@
     "locations": [
       "Champaign, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Summer 2027",
