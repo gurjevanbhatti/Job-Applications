@@ -3490,7 +3490,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-08T12:07:41.853039Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-02T09:57:20.152796Z",
     "id": "09939e91-4c36-4e3b-ace2-9d0117e05b68",
     "issue_number": 2565,
@@ -3498,7 +3499,7 @@
     "locations": [
       "Redmond, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -17930,7 +17931,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-08T12:07:41.853039Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "2da5da2b-d4bb-411a-9edc-521c81a36a7a",
     "issue_number": 1523,
@@ -17938,7 +17940,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
