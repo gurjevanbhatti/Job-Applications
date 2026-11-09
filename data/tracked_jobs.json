@@ -2020,7 +2020,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T18:56:55.974827Z",
     "id": "05d25f11-31aa-465e-b08d-99af042a026f",
     "issue_number": 2430,
@@ -2028,7 +2029,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -9337,7 +9338,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "18803ec8-f589-4545-bb91-2d5378346d55",
     "issue_number": 2515,
@@ -9345,7 +9347,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -17687,6 +17689,33 @@
     "title": "Pharmaceutical Distribution Developer Intern - Pharmaceutical Distribution",
     "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-dveloppeur-se--en-distribution-pharmaceutique---Developper-Pharmaceutical-Distirbution---Winter-Intern_JR0154903"
   },
+  "2cdfed62-a249-4fe7-b45f-406da7879351": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Hewlett Packard Enterprise",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-08T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-09T08:00:09.097511Z",
+    "id": "2cdfed62-a249-4fe7-b45f-406da7879351",
+    "issue_number": 2937,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2937",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Electrical Hardware Engineer Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer-Intern_1214992"
+  },
   "2ceb1cdc-f5a5-4650-8fd1-1c54af7450ce": {
     "applied_at": null,
     "backfilled": false,
@@ -18187,7 +18216,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T10:52:45.516678Z",
     "id": "2e1a5e1d-e688-49b9-9369-a2f5deb491a6",
     "issue_number": 2781,
@@ -18195,7 +18225,7 @@
     "locations": [
       "Renton, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -28311,7 +28341,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "48ffbc2e-df41-400b-8812-1097f69556c6",
     "issue_number": 2595,
@@ -28319,7 +28350,7 @@
     "locations": [
       "East Hartford, CT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -38580,7 +38611,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "61fa0744-4831-4c97-9f73-b7fff685dfe2",
     "issue_number": 2127,
@@ -38588,7 +38620,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -39206,6 +39238,33 @@
     ],
     "title": "GIS Intern",
     "url": "https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/GIS-Internship_R12730-1"
+  },
+  "63b0cc3b-2e81-4428-ab00-769c4524fcb3": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Samsung",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-08T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-09T08:00:09.097511Z",
+    "id": "63b0cc3b-2e81-4428-ab00-769c4524fcb3",
+    "issue_number": 2938,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/2938",
+    "locations": [
+      "Plano, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "ePro Business & Data Analyst Intern",
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996"
   },
   "63b699dd-2e4c-435b-aea0-708ad1a7e4f3": {
     "applied_at": null,
@@ -41336,7 +41395,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T23:48:22.093203Z",
     "id": "69c2da8d-f16e-4599-a3ab-37ca479de0e2",
     "issue_number": 2828,
@@ -41347,7 +41407,7 @@
       "Richardson, TX",
       "Bloomington, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -46271,7 +46331,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "76a9adb2-de1f-4c13-8134-c6ae9614a37d",
     "issue_number": 2612,
@@ -46279,7 +46340,7 @@
     "locations": [
       "Philadelphia, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -55062,7 +55123,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T23:22:16.490839Z",
     "id": "8e8f5c62-75b7-4d21-9a7b-a56d2f2513cf",
     "issue_number": 2214,
@@ -55070,7 +55132,7 @@
     "locations": [
       "Gloucester, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -55199,7 +55261,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-08T23:15:16.038697Z",
     "id": "8ede2bfe-2073-4a15-844c-e906d6e05de6",
     "issue_number": 1295,
@@ -55207,7 +55270,7 @@
     "locations": [
       "Waterloo, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -61098,7 +61161,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "9d1b1bbe-f17b-45fa-9f6e-c944caa8f7eb",
     "issue_number": 2624,
@@ -61106,7 +61170,7 @@
     "locations": [
       "Philadelphia, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -72708,7 +72772,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "ba489eda-1455-478f-a4f5-c3cfc0b0675e",
     "issue_number": 2537,
@@ -72716,7 +72781,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -80142,7 +80207,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T10:52:45.516678Z",
     "id": "cdb6fb97-891a-42fe-8c20-fc82c2234b21",
     "issue_number": 2802,
@@ -80150,7 +80216,7 @@
     "locations": [
       "SeaTac, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -81987,7 +82053,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T03:06:05.330905Z",
     "id": "d21074f9-91d2-4034-bdc6-343e4b7baf92",
     "issue_number": 2771,
@@ -81995,7 +82062,7 @@
     "locations": [
       "Holtsville, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -83242,7 +83309,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T00:25:28.115604Z",
     "id": "d5003bb9-4e1d-41af-97fb-843e7f28ae5f",
     "issue_number": 2415,
@@ -83250,7 +83318,7 @@
     "locations": [
       "Frisco, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -92943,7 +93011,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-09T08:00:09.097511Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T10:52:45.516678Z",
     "id": "eb8a2e35-b9c4-4e33-89cf-b145e732f581",
     "issue_number": 2807,
@@ -92951,7 +93020,7 @@
     "locations": [
       "Renton, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
