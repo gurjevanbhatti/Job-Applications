@@ -6016,7 +6016,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "0eace308-9ccb-4920-a1f1-ac2de6804966",
     "issue_number": 2957,
@@ -6026,7 +6027,7 @@
       "Parsippany-Troy Hills, NJ",
       "Kalamazoo, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -7600,6 +7601,34 @@
     ],
     "title": "Web App Developer Co-op",
     "url": "https://gsk-us-earlytalent.icims.com/jobs/11013/job?mobile=true&needsRedirect=false"
+  },
+  "1231d0ec-856a-46c6-a2db-f7c8c23d2a43": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Entegris",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-12T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-12T20:48:03.058055Z",
+    "id": "1231d0ec-856a-46c6-a2db-f7c8c23d2a43",
+    "issue_number": 3179,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3179",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Embedded Software Engineer Intern",
+    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870"
   },
   "123eb7fc-8532-4e54-b47f-9118727344d0": {
     "applied_at": null,
@@ -10477,7 +10506,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T23:36:16.435267Z",
     "id": "1982a165-a74a-476f-8ebb-5136a38d056d",
     "issue_number": 3122,
@@ -10485,7 +10515,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -15764,7 +15794,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T06:54:12.986469Z",
     "id": "25f26c89-68c7-42c7-8b1c-a1e4d61f5525",
     "issue_number": 2080,
@@ -15772,7 +15803,7 @@
     "locations": [
       "Detroit, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -18698,7 +18729,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "2cd2eed4-ab82-44f3-bf55-31b703917e15",
     "issue_number": 1109,
@@ -18706,7 +18738,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -29674,7 +29706,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T09:10:33.504400Z",
     "id": "47bfdcc8-4ce1-4a8a-b57e-2a7fecbbaaae",
     "issue_number": 3025,
@@ -29682,7 +29715,7 @@
     "locations": [
       "Plano, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -34556,7 +34589,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-19T16:09:38.189315Z",
     "id": "5360208a-9885-42bb-a092-21121b730e84",
     "issue_number": 1803,
@@ -34564,7 +34598,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -35235,7 +35269,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-07T04:28:56.979087Z",
     "id": "54c5dcb8-10a5-4d05-9a07-2e45ee6b0a1c",
     "issue_number": 2916,
@@ -35243,7 +35278,7 @@
     "locations": [
       "Bellevue, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -42115,7 +42150,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T17:01:48.156423Z",
     "id": "64e920f9-c6b0-4b3e-a080-c6b09813effc",
     "issue_number": 3047,
@@ -42123,7 +42159,7 @@
     "locations": [
       "Columbia, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -43530,7 +43566,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-07T04:28:56.979087Z",
     "id": "695a2bb6-3e9e-4b05-a39b-6d6cfe7f3b91",
     "issue_number": 2921,
@@ -43538,7 +43575,7 @@
     "locations": [
       "Bellevue, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -47644,7 +47681,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "73205f44-451a-4bd5-add5-2cba415a4dbf",
     "issue_number": 2610,
@@ -47652,7 +47690,7 @@
     "locations": [
       "Deerfield Beach, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -48837,7 +48875,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "75f506b1-06c7-425f-a564-75fc65127a83",
     "issue_number": 2978,
@@ -48845,7 +48884,7 @@
     "locations": [
       "Parsippany-Troy Hills, NJ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -56109,6 +56148,35 @@
     "title": "Sensory Science Intern",
     "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Sensory-Science-Summer-Intern_R0481312-2"
   },
+  "89215c85-903d-4d85-8567-3d7858365b22": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Analog Devices",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-12T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-12T20:48:03.058055Z",
+    "id": "89215c85-903d-4d85-8567-3d7858365b22",
+    "issue_number": 3180,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3180",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Analog Design Intern",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446"
+  },
   "892588bd-5d58-4233-98ac-870e65ed9287": {
     "applied_at": null,
     "backfilled": false,
@@ -58089,7 +58157,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "8d56b883-ad20-4375-bb8e-bc6f1460e609",
     "issue_number": 2984,
@@ -58097,7 +58166,7 @@
     "locations": [
       "Parsippany-Troy Hills, NJ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -66735,7 +66804,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-09T18:46:27.513277Z",
     "id": "a04d84ff-7cf7-4c80-9370-668532aa6017",
     "issue_number": 2950,
@@ -66743,7 +66813,7 @@
     "locations": [
       "Oakland, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -71162,7 +71232,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "ab021d50-65d1-4111-9f0c-fcf7641972ea",
     "issue_number": 2144,
@@ -71170,7 +71241,7 @@
     "locations": [
       "Calabasas, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -73617,7 +73688,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-06T12:44:14.145717Z",
     "id": "b0d0060c-2d0c-4a83-874e-ea2eb2436956",
     "issue_number": 2868,
@@ -73625,7 +73697,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -82156,7 +82228,8 @@
       "Master's",
       "MBA"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T19:51:09.842462Z",
     "id": "c560783a-f942-4881-a14d-0c3cae59d101",
     "issue_number": 735,
@@ -82167,7 +82240,7 @@
       "Chicago, IL",
       "NYC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -93579,7 +93652,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "dfd55e25-d0a1-4c27-88be-920fc972e4b4",
     "issue_number": 3008,
@@ -93587,7 +93661,7 @@
     "locations": [
       "Beavercreek, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -94481,6 +94555,33 @@
     ],
     "title": "Hig Hbm Dtpco Intern",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HIG-HBM-DTPCO_JR116993"
+  },
+  "e0eaa7f8-aae0-4a96-b1f6-10ad994f4751": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Vizient",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-12T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-12T20:48:03.058055Z",
+    "id": "e0eaa7f8-aae0-4a96-b1f6-10ad994f4751",
+    "issue_number": 3181,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3181",
+    "locations": [
+      "Irving, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Contract Operations Intern - Analytics",
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1"
   },
   "e0f70e66-00e3-4ebe-964f-c3783246b9f2": {
     "applied_at": null,
@@ -95550,6 +95651,34 @@
     ],
     "title": "Systems Integration and Test Engineer Intern",
     "url": "https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007"
+  },
+  "e3e929ab-e394-4415-9e80-2b0eba7fbeea": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SharkNinja",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-12T14:12:52Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-12T20:48:03.058055Z",
+    "id": "e3e929ab-e394-4415-9e80-2b0eba7fbeea",
+    "issue_number": 3182,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3182",
+    "locations": [
+      "Needham, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Science Intern",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006"
   },
   "e3fdb2df-5e0d-4317-9acc-91d19f0c62f1": {
     "applied_at": null,
@@ -97562,6 +97691,33 @@
     "title": "Software Development Engineer Co-op",
     "url": "https://bostonscientific.eightfold.ai/careers/job/563602813567963"
   },
+  "e7b2c1b2-7217-412f-a15b-4ec2479d0620": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Vishay Intertechnology",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-12T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-12T20:48:03.058055Z",
+    "id": "e7b2c1b2-7217-412f-a15b-4ec2479d0620",
+    "issue_number": 3183,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3183",
+    "locations": [
+      "Yankton, SD"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "R&D Engineer Intern",
+    "url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/R-D-Engineering-Intern_JR-21904"
+  },
   "e7b41cd2-7f10-4102-bc1a-69240c07a403": {
     "applied_at": null,
     "backfilled": false,
@@ -99092,7 +99248,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T09:10:33.504400Z",
     "id": "ead5f751-f243-49c0-8ed5-4ac0867e4f57",
     "issue_number": 3036,
@@ -99100,7 +99257,7 @@
     "locations": [
       "Malta, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -104133,6 +104290,34 @@
     "title": "Technical Intern",
     "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193820"
   },
+  "f79149fd-0f69-4f4e-81be-3acf35d2aab8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Fresenius Medical Care",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-12T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-12T20:48:03.058055Z",
+    "id": "f79149fd-0f69-4f4e-81be-3acf35d2aab8",
+    "issue_number": 3184,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3184",
+    "locations": [
+      "Lawrence, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Agentic AI Analytics Co-op",
+    "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797"
+  },
   "f79a534a-9fa4-4f5a-970a-603c7c67ce1e": {
     "applied_at": null,
     "backfilled": true,
@@ -105684,7 +105869,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-12T20:48:03.058055Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T17:01:48.156423Z",
     "id": "fb2cc6d4-20f9-4d34-8ae4-26e571f24599",
     "issue_number": 3056,
@@ -105692,7 +105878,7 @@
     "locations": [
       "Columbia, MO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
