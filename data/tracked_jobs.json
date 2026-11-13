@@ -300,7 +300,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-12T04:16:05.702465Z",
     "id": "0118d441-7dae-4cc7-9995-917a58ea9471",
     "issue_number": 3144,
@@ -308,7 +309,7 @@
     "locations": [
       "Andover, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -4914,7 +4915,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-30T02:35:18.104140Z",
     "id": "0c2e08ec-3a20-496f-8117-21a7031cbe20",
     "issue_number": 2499,
@@ -4922,7 +4924,7 @@
     "locations": [
       "Des Moines, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -6531,7 +6533,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T10:52:45.516678Z",
     "id": "0ff66bea-367c-4fcd-932b-11b2ae359105",
     "issue_number": 2778,
@@ -6539,7 +6542,7 @@
     "locations": [
       "Manassas, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -12075,7 +12078,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T10:52:45.516678Z",
     "id": "1ccd517f-4453-4126-acbc-67c060c7b92e",
     "issue_number": 2780,
@@ -12083,7 +12087,7 @@
     "locations": [
       "Tempe, AZ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -15339,7 +15343,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-30T23:56:21.634315Z",
     "id": "24bd2612-4e33-4647-8d05-b0bb1f788c86",
     "issue_number": 2518,
@@ -15347,7 +15352,7 @@
     "locations": [
       "Houston, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -18556,7 +18561,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T01:49:00.661019Z",
     "id": "2b6122fb-77de-497a-bba7-432617dc755b",
     "issue_number": 2072,
@@ -18565,7 +18571,7 @@
       "Mequon, WI",
       "Eden Prairie, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -28412,7 +28418,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T17:01:48.156423Z",
     "id": "42f52351-602a-458f-98a8-5259b10419d1",
     "issue_number": 3044,
@@ -28420,7 +28427,7 @@
     "locations": [
       "San Jose, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -29713,6 +29720,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-13T22:22:22.550798Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "46afb6b3-6be4-457a-ab81-e5a109555aff",
@@ -29721,7 +29729,7 @@
     "locations": [
       "Carmel, IN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -43115,7 +43123,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T23:48:22.093203Z",
     "id": "65e41535-86d1-4d10-9d27-bac6fad3e8d9",
     "issue_number": 2826,
@@ -43126,7 +43135,7 @@
       "Dallas, TX",
       "San Diego, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -44673,7 +44682,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T09:22:17.944414Z",
     "id": "69fc016e-5ad7-44cf-b4a2-2659826b2808",
     "issue_number": 3105,
@@ -44681,7 +44691,7 @@
     "locations": [
       "Fremont, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -57665,7 +57675,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T01:39:33.789709Z",
     "id": "8a4e9608-ce8b-49b7-8abf-67ae536f0ded",
     "issue_number": 3203,
@@ -57673,7 +57684,7 @@
     "locations": [
       "Emeryville, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -63350,7 +63361,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T16:55:19.426256Z",
     "id": "96c7f622-1cce-4faa-831c-906a6515ce68",
     "issue_number": 3237,
@@ -63358,7 +63370,7 @@
     "locations": [
       "Washington, DC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -64957,7 +64969,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T01:39:33.789709Z",
     "id": "9a62a1d9-b377-4f59-8ea6-c0a34533d5c2",
     "issue_number": 3206,
@@ -64965,7 +64978,7 @@
     "locations": [
       "Dallas, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -66890,6 +66903,7 @@
       "Bachelor's",
       "Associate's"
     ],
+    "expired_at": "2026-11-13T22:22:22.550798Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "9e90a7af-8784-4ab2-8bf8-b0ecce10575b",
@@ -66898,7 +66912,7 @@
     "locations": [
       "West Des Moines, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -70503,7 +70517,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T01:39:33.789709Z",
     "id": "a6d9248f-0695-47c4-bb1e-9dec40e5dddc",
     "issue_number": 3207,
@@ -70511,7 +70526,7 @@
     "locations": [
       "Grand Rapids, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -76482,7 +76497,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "b584b221-8984-4b73-aa94-433363f4e9ee",
     "issue_number": 686,
@@ -76490,7 +76506,7 @@
     "locations": [
       "Mequon, WI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -80602,7 +80618,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-09T01:13:50.611119Z",
     "id": "bead51fa-aa91-421e-9b22-bc3e451072b1",
     "issue_number": 2936,
@@ -80610,7 +80627,7 @@
     "locations": [
       "Washington, DC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -85081,7 +85098,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T01:39:33.789709Z",
     "id": "c8b02f7b-4d23-4813-a169-4d1e876422c5",
     "issue_number": 3213,
@@ -85089,7 +85107,7 @@
     "locations": [
       "Ann Arbor, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -96889,7 +96907,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T22:22:22.550798Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T01:19:04.537644Z",
     "id": "e3adedfc-e63e-4c53-b3bd-ad74a0c04018",
     "issue_number": 695,
@@ -96897,7 +96916,7 @@
     "locations": [
       "Mequon, WI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
