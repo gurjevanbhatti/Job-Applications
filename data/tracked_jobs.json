@@ -188,7 +188,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T16:55:19.426256Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T00:44:15.781283Z",
     "id": "00e04eac-1e56-4e4d-ad08-1472c68a0683",
     "issue_number": 1885,
@@ -196,7 +197,7 @@
     "locations": [
       "Seattle, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -5167,6 +5168,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-13T16:55:19.426256Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "0c894f36-0b46-44e0-a2f3-ffe86146935f",
@@ -5175,7 +5177,7 @@
     "locations": [
       "Bohemia, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -8117,7 +8119,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T16:55:19.426256Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-12T13:03:37.146886Z",
     "id": "13406577-a352-4c40-b0c7-740db3cec68c",
     "issue_number": 3175,
@@ -8125,7 +8128,7 @@
     "locations": [
       "West Valley City, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -8429,7 +8432,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T16:55:19.426256Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-07T04:28:56.979087Z",
     "id": "141dbf1a-3431-4425-9d88-1a10fb649f64",
     "issue_number": 2912,
@@ -8437,7 +8441,7 @@
     "locations": [
       "Torrance, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -25002,7 +25006,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T16:55:19.426256Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-07T04:28:56.979087Z",
     "id": "3bc108c2-89c8-4ffa-b7e5-7f1482d1fd91",
     "issue_number": 2914,
@@ -25010,7 +25015,7 @@
     "locations": [
       "Bellevue, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -29410,6 +29415,34 @@
     "title": "Software Developer Intern",
     "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-1"
   },
+  "45d13310-8ccb-4932-af40-0c16e8220885": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Merrick",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T15:35:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-13T16:55:19.426256Z",
+    "id": "45d13310-8ccb-4932-af40-0c16e8220885",
+    "issue_number": 3233,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3233",
+    "locations": [
+      "Greenwood Village, CO"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "GIS Analyst Intern",
+    "url": "https://careers.merrick.com/jobs/8476?icims=1&lang=en-us"
+  },
   "45f6734f-e60b-44a6-920a-9cc63b07564e": {
     "applied_at": null,
     "backfilled": false,
@@ -32052,6 +32085,33 @@
     ],
     "title": "Software Developer Intern - University",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249801"
+  },
+  "4ce259f3-c824-4b19-af9c-6d94c9730dcd": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Fonds de solidarit\u00e9 FTQ",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-13T16:55:19.426256Z",
+    "id": "4ce259f3-c824-4b19-af9c-6d94c9730dcd",
+    "issue_number": 3234,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3234",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Business Intelligence and M365 Solutions Intern",
+    "url": "https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874"
   },
   "4ce71aa4-5e3f-49cc-a75d-febb20ca81ba": {
     "applied_at": null,
@@ -48201,6 +48261,33 @@
     "title": "Data Analytics Intern",
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Summer-2027-Data-Analytics-Intern_R4046487-1"
   },
+  "72b5942c-9dc6-4ec1-9a0c-c84205825459": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Valeo",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-13T16:55:19.426256Z",
+    "id": "72b5942c-9dc6-4ec1-9a0c-c84205825459",
+    "issue_number": 3235,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3235",
+    "locations": [
+      "Troy, MI"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794"
+  },
   "72d33ab0-b1cb-4f35-8044-370ecc2c7009": {
     "applied_at": null,
     "backfilled": true,
@@ -50714,6 +50801,33 @@
     "title": "Electrical Engineer Intern - 6-Month Program",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556982262"
   },
+  "790fef3c-1a8b-4703-a9ed-abe0313e388d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Minitab",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T14:13:08Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-13T16:55:19.426256Z",
+    "id": "790fef3c-1a8b-4703-a9ed-abe0313e388d",
+    "issue_number": 3236,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3236",
+    "locations": [
+      "State College, PA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Research & Design Intern",
+    "url": "https://job-boards.greenhouse.io/minitab/jobs/8200707003"
+  },
   "791c260c-253b-4967-b0e8-d6191ffe674a": {
     "applied_at": null,
     "backfilled": true,
@@ -52868,7 +52982,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T16:55:19.426256Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "7e9ddadf-ad41-4c7e-af12-06862e3ce7c2",
     "issue_number": 2981,
@@ -52877,7 +52992,7 @@
       "Marlborough, MA",
       "Maple Grove, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -53549,7 +53664,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T16:55:19.426256Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-06T23:49:36.341669Z",
     "id": "80addd25-9936-4802-89cf-18401bc2e77f",
     "issue_number": 2896,
@@ -53557,7 +53673,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -59462,7 +59578,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T16:55:19.426256Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T23:48:22.093203Z",
     "id": "8ebb5874-ec99-4b6f-bf49-6d6f8cf300d2",
     "issue_number": 2833,
@@ -59470,7 +59587,7 @@
     "locations": [
       "Lawrence, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -63220,6 +63337,34 @@
     "title": "UX/UI Designer Co-op Intern",
     "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1"
   },
+  "96c7f622-1cce-4faa-831c-906a6515ce68": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Shield AI",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T10:48:54Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-13T16:55:19.426256Z",
+    "id": "96c7f622-1cce-4faa-831c-906a6515ce68",
+    "issue_number": 3237,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3237",
+    "locations": [
+      "Washington, DC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Human Machine Teaming Intern",
+    "url": "https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30/apply"
+  },
   "96cd6ad8-81e9-4fb4-bbf6-b3dd4f259a58": {
     "applied_at": null,
     "backfilled": true,
@@ -65008,7 +65153,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T16:55:19.426256Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "9aff2860-cf5d-4547-b10b-b5330f2655ee",
     "issue_number": 2623,
@@ -65016,7 +65162,7 @@
     "locations": [
       "Issaquah, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -67057,7 +67203,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T16:55:19.426256Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-20T05:05:56.604758Z",
     "id": "9f100b0b-5ea2-4aea-b312-c15d32e8e8c8",
     "issue_number": 1868,
@@ -67065,7 +67212,7 @@
     "locations": [
       "Fort Wayne, IN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -67879,7 +68026,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T16:55:19.426256Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-14T01:46:49.204590Z",
     "id": "a0c93f2d-63da-4cc6-ae93-f2fdf6fc64cd",
     "issue_number": 1570,
@@ -67887,7 +68035,7 @@
     "locations": [
       "Allentown, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -73246,7 +73394,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T16:55:19.426256Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T01:39:33.789709Z",
     "id": "ae389eee-b409-4b65-98f9-d024c40d1a06",
     "issue_number": 3209,
@@ -73254,7 +73403,7 @@
     "locations": [
       "Falls Church, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -102124,7 +102273,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T16:55:19.426256Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T00:20:25.939147Z",
     "id": "ef447dbd-c6a9-410f-9409-c1bd4fd27261",
     "issue_number": 1156,
@@ -102132,7 +102282,7 @@
     "locations": [
       "San Jose, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -102510,6 +102660,34 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1"
+  },
+  "f080ba31-67e8-4a12-a748-8d74a2b6067b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Verisk",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T15:14:24Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-13T16:55:19.426256Z",
+    "id": "f080ba31-67e8-4a12-a748-8d74a2b6067b",
+    "issue_number": 3238,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3238",
+    "locations": [
+      "Lehi, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Science/AI Intern",
+    "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184"
   },
   "f096d22d-931f-4963-b87a-f425d5e8c161": {
     "applied_at": null,
@@ -104576,7 +104754,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T16:55:19.426256Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T02:16:21.957791Z",
     "id": "f51fcb61-d19e-4ed3-81ec-258f5931b9db",
     "issue_number": 2253,
@@ -104584,7 +104763,7 @@
     "locations": [
       "Seattle, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -105666,7 +105845,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-13T16:55:19.426256Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-12T20:48:03.058055Z",
     "id": "f79149fd-0f69-4f4e-81be-3acf35d2aab8",
     "issue_number": 3184,
@@ -105674,7 +105854,7 @@
     "locations": [
       "Lawrence, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
