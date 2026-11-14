@@ -1,8 +1,9 @@
 """
 Fetches the current internship listings from the SimplifyJobs community board,
-filters them to postings explicitly open to Bachelor's/Master's students and
-posted within the last RECENCY_DAYS days, and updates the local tracker
-(data/tracked_jobs.json + APPLICATIONS.md) with any new matches.
+filters them to postings explicitly open to Bachelor's/Master's students,
+based in the US or Canada, and posted within the last RECENCY_DAYS days, and
+updates the local tracker (data/tracked_jobs.json + APPLICATIONS.md) with any
+new matches.
 
 There's no reliable public applicant-count signal for these postings (that
 data lives behind LinkedIn's own UI, which this bot deliberately doesn't
@@ -22,7 +23,7 @@ import sys
 
 import requests
 
-from lib import load_tracked, save_tracked, render_markdown
+from lib import load_tracked, save_tracked, render_markdown, is_big_tech
 
 LISTINGS_URL = (
     "https://raw.githubusercontent.com/SimplifyJobs/"
@@ -32,6 +33,31 @@ NEW_MATCHES_PATH = os.path.join(os.path.dirname(__file__), "..", "new_matches.js
 TARGET_DEGREES = {"Master's", "Bachelor's"}
 RECENCY_DAYS = 7
 
+US_STATE_ABBR = {
+    "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL",
+    "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT",
+    "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI",
+    "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY", "DC",
+}
+US_STATE_NAMES = {
+    "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado",
+    "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho",
+    "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine",
+    "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi",
+    "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey",
+    "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio",
+    "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina",
+    "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia",
+    "Washington", "West Virginia", "Wisconsin", "Wyoming",
+}
+CA_PROVINCE_ABBR = {"AB", "BC", "MB", "NB", "NL", "NS", "NT", "NU", "ON", "PE", "QC", "SK", "YT"}
+CA_PROVINCE_NAMES = {
+    "Alberta", "British Columbia", "Manitoba", "New Brunswick",
+    "Newfoundland and Labrador", "Northwest Territories", "Nova Scotia",
+    "Nunavut", "Ontario", "Prince Edward Island", "Quebec", "Saskatchewan",
+    "Yukon",
+}
+
 
 def fetch_listings() -> list:
     resp = requests.get(LISTINGS_URL, timeout=30)
@@ -39,11 +65,53 @@ def fetch_listings() -> list:
     return resp.json()
 
 
+def _location_countries(location: str) -> set:
+    """Returns the subset of {"USA", "Canada"} a single location string
+    indicates, empty if neither."""
+    lower = location.lower()
+    countries = set()
+    if "canada" in lower:
+        countries.add("Canada")
+    if "united states" in lower or lower in ("usa", "us"):
+        countries.add("USA")
+    if "remote in canada" in lower:
+        countries.add("Canada")
+    if any(f"remote in {kw}" in lower for kw in ("us", "usa", "the us")):
+        countries.add("USA")
+    if location in CA_PROVINCE_NAMES:
+        countries.add("Canada")
+    if location in US_STATE_NAMES:
+        countries.add("USA")
+    if not countries:
+        last_part = location.split(",")[-1].strip().upper()
+        if last_part in CA_PROVINCE_ABBR:
+            countries.add("Canada")
+        elif last_part in US_STATE_ABBR:
+            countries.add("USA")
+    return countries
+
+
+def get_countries(job: dict) -> list:
+    countries = set()
+    for loc in job.get("locations") or []:
+        countries |= _location_countries(loc)
+    return sorted(countries)
+
+
+def is_us_or_canada(job: dict) -> bool:
+    return bool(get_countries(job))
+
+
 def is_eligible(job: dict) -> bool:
-    """Active + open to our target degrees. Used for expiry detection too,
-    so a posting isn't wrongly marked "expired" just for aging past the
-    recency window below — only for actually disappearing upstream."""
-    return bool(job.get("active")) and bool(TARGET_DEGREES & set(job.get("degrees") or []))
+    """Active, open to our target degrees, and US/Canada-based. Used for
+    expiry detection too, so a posting isn't wrongly marked "expired" just
+    for aging past the recency window below — only for actually disappearing
+    upstream."""
+    return (
+        bool(job.get("active"))
+        and bool(TARGET_DEGREES & set(job.get("degrees") or []))
+        and is_us_or_canada(job)
+    )
 
 
 def is_recent(job: dict, now: datetime.datetime) -> bool:
@@ -64,15 +132,18 @@ def to_record(job: dict, now: str) -> dict:
         if date_posted
         else None
     )
+    company = job.get("company_name", "Unknown")
     return {
         "id": job["id"],
-        "company": job.get("company_name", "Unknown"),
+        "company": company,
         "title": job.get("title", "Unknown role"),
         "terms": job.get("terms", []),
         "locations": job.get("locations", []),
+        "countries": get_countries(job),
         "degrees": job.get("degrees", []),
         "url": job.get("url"),
         "date_posted": date_posted_iso,
+        "big_tech": is_big_tech(company),
         "status": "new",
         "found_at": now,
         "applied_at": None,
@@ -111,9 +182,9 @@ def main() -> None:
     with open(NEW_MATCHES_PATH, "w") as f:
         json.dump(new_matches, f, indent=2)
 
-    print(f"Fetched {len(listings)} listings, {len(eligible)} Bachelor's/Master's-eligible "
-          f"active, {len(recent_eligible)} within last {RECENCY_DAYS}d, "
-          f"{len(new_matches)} new.", file=sys.stderr)
+    print(f"Fetched {len(listings)} listings, {len(eligible)} US/Canada Bachelor's/"
+          f"Master's-eligible active, {len(recent_eligible)} within last "
+          f"{RECENCY_DAYS}d, {len(new_matches)} new.", file=sys.stderr)
 
     github_output = os.environ.get("GITHUB_OUTPUT")
     if github_output:
