@@ -5898,6 +5898,34 @@
     "title": "Summer Engineer Intern",
     "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIDDLEBURG-HEIGHTS-OHMID/XMLNAME-2027-Summer-Engineering-Intern---Cleveland-OH_R26039950"
   },
+  "0e303eb4-b2a7-4b14-93a4-89b286202f08": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Ciena",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-14T15:56:19.471898Z",
+    "id": "0e303eb4-b2a7-4b14-93a4-89b286202f08",
+    "issue_number": 3273,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3273",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Ottawa, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Technical Solution Engineer Intern - SE&I",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114"
+  },
   "0e371048-09e7-4111-8768-bae91b1a2437": {
     "applied_at": null,
     "backfilled": false,
@@ -29718,7 +29746,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T15:56:19.471898Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T16:55:19.426256Z",
     "id": "45d13310-8ccb-4932-af40-0c16e8220885",
     "issue_number": 3233,
@@ -29726,7 +29755,7 @@
     "locations": [
       "Greenwood Village, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -58518,6 +58547,35 @@
     "title": "Embedded Flight Software Intern",
     "url": "https://ursamajor.com/careers/?gh_jid=4746825005"
   },
+  "8b086459-985c-4225-b509-facb2dce5e94": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Shield AI",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-14T15:56:19.471898Z",
+    "id": "8b086459-985c-4225-b509-facb2dce5e94",
+    "issue_number": 3274,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3274",
+    "locations": [
+      "Arlington County, Arlington, VA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Engineer 1 New Grad - Software",
+    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true"
+  },
   "8b3352ea-112b-4f71-918d-804ba9de42a9": {
     "applied_at": null,
     "backfilled": false,
@@ -82480,6 +82538,33 @@
     "title": "Firmware Development Undergraduate Engineering Co-op",
     "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862"
   },
+  "c1425ae2-392c-49bf-85ed-ed6b1a855c66": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Tesla",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-14T10:15:06Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-14T15:56:19.471898Z",
+    "id": "c1425ae2-392c-49bf-85ed-ed6b1a855c66",
+    "issue_number": 3275,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3275",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Electrical Engineer Intern - High Speed Hardware Design",
+    "url": "https://www.tesla.com/careers/search/job/289951"
+  },
   "c14572f8-b00e-4e62-8392-acc04ab71fb7": {
     "applied_at": null,
     "backfilled": false,
@@ -94736,6 +94821,35 @@
     ],
     "title": "Strategic Operations Analyst Intern",
     "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410899009"
+  },
+  "dcad63ca-676a-4159-a102-8c42f2d872c5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Shield AI",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-14T15:56:19.471898Z",
+    "id": "dcad63ca-676a-4159-a102-8c42f2d872c5",
+    "issue_number": 3276,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3276",
+    "locations": [
+      "Arlington County, Arlington, VA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Engineer 1 New Grad - Software",
+    "url": "https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true"
   },
   "dcbb1c0f-1df1-42a7-ba0e-89b77ba03af9": {
     "applied_at": null,
