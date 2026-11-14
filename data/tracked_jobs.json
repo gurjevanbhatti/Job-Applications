@@ -1098,7 +1098,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T22:45:10.445503Z",
     "id": "0313d012-4781-4a03-8d3c-6c2e029e9dc1",
     "issue_number": 1960,
@@ -1106,7 +1107,7 @@
     "locations": [
       "Bedford, NH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -1734,7 +1735,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T17:43:14.321957Z",
     "id": "04e80c03-2cb1-479e-9bf5-067d57f8bfd3",
     "issue_number": 2724,
@@ -1742,7 +1744,7 @@
     "locations": [
       "Nashville, TN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -14798,7 +14800,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "231c6e93-0b32-4f1d-b390-ca34f194e881",
     "issue_number": 3243,
@@ -14806,7 +14809,7 @@
     "locations": [
       "Thornhill, Vaughan, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -15678,7 +15681,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T22:45:10.445503Z",
     "id": "24f45ded-bd89-4b9b-98cf-b15de7bddf97",
     "issue_number": 1965,
@@ -15686,7 +15690,7 @@
     "locations": [
       "Salt Lake City, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -15931,7 +15935,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "2586b9a7-c10d-47f4-a80e-d01413e93066",
     "issue_number": 2672,
@@ -15939,7 +15944,7 @@
     "locations": [
       "Erie, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -20074,7 +20079,8 @@
       "Master's",
       "MBA"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T02:03:43.084712Z",
     "id": "2ebd3798-d01b-4942-8ef2-ac23a6ae5f6f",
     "issue_number": 3062,
@@ -20082,7 +20088,7 @@
     "locations": [
       "Bethpage, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Spring 2027",
@@ -21619,6 +21625,33 @@
     ],
     "title": "Machine Learning Engineer Intern - Video Foundation Models & Agentic AI",
     "url": "https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d/application?embed=true"
+  },
+  "331732d6-2320-4e49-9426-29401912aba0": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Carnegie Mellon University",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-14T09:25:36.390766Z",
+    "id": "331732d6-2320-4e49-9426-29401912aba0",
+    "issue_number": 3271,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3271",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Cyber AI Engineer Intern",
+    "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2"
   },
   "3318c591-4135-42fd-aee3-50ae988fc30f": {
     "applied_at": null,
@@ -23851,7 +23884,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T17:43:14.321957Z",
     "id": "38d28f6f-b801-4582-8bc9-01ae596d13aa",
     "issue_number": 2727,
@@ -23859,7 +23893,7 @@
     "locations": [
       "Nashville, TN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -28522,7 +28556,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-07T04:28:56.979087Z",
     "id": "42c83536-2c93-4f65-bad9-24c556e1049d",
     "issue_number": 2915,
@@ -28530,7 +28565,7 @@
     "locations": [
       "Corning, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -35101,7 +35136,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "52db75c2-6c8b-48e4-96f9-924db21741b2",
     "issue_number": 2598,
@@ -35109,7 +35145,7 @@
     "locations": [
       "Alpharetta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -35577,7 +35613,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-06T23:49:36.341669Z",
     "id": "53b6fbdd-d9b3-4517-bc3c-b29a78168ebf",
     "issue_number": 2891,
@@ -35585,7 +35622,7 @@
     "locations": [
       "Huntsville, AL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -38736,7 +38773,8 @@
       "Master's",
       "MBA"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T02:03:43.084712Z",
     "id": "5a41cc41-928a-4159-8876-72eabec8b8d9",
     "issue_number": 3071,
@@ -38744,7 +38782,7 @@
     "locations": [
       "Bethpage, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Spring 2027",
@@ -40612,7 +40650,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "5e330896-c4d5-49b9-815e-79ff21bc19c7",
     "issue_number": 2604,
@@ -40620,7 +40659,7 @@
     "locations": [
       "Alpharetta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -46223,7 +46262,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T00:25:28.115604Z",
     "id": "6ccef8c3-cb1e-470b-949e-e5725c7894a8",
     "issue_number": 2390,
@@ -46231,7 +46271,7 @@
     "locations": [
       "Carlsbad, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -49645,7 +49685,8 @@
       "Master's",
       "MBA"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T02:03:43.084712Z",
     "id": "74b0f9c6-dbb2-4f07-9509-ca5e705fcde3",
     "issue_number": 3075,
@@ -49653,7 +49694,7 @@
     "locations": [
       "Bethpage, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -51039,7 +51080,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T19:38:45.370720Z",
     "id": "78b657c3-9149-493f-b46d-abe43d480e0a",
     "issue_number": 2275,
@@ -51047,7 +51089,7 @@
     "locations": [
       "Glen Allen, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -62581,7 +62623,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T02:03:43.084712Z",
     "id": "93f840b3-e735-4ee5-8cbb-e007eafb977f",
     "issue_number": 3084,
@@ -62589,7 +62632,7 @@
     "locations": [
       "Bethpage, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -62638,7 +62681,8 @@
       "Master's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T23:48:22.093203Z",
     "id": "93fee1f3-52c2-4e39-b47d-88c9185693aa",
     "issue_number": 2834,
@@ -62646,7 +62690,7 @@
     "locations": [
       "Mason, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -63524,7 +63568,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T16:34:17.572145Z",
     "id": "95d0fbdb-14f6-4eaf-a46b-3f06591a562b",
     "issue_number": 2014,
@@ -63532,7 +63577,7 @@
     "locations": [
       "Tulsa, OK"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -64658,7 +64703,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "9861557d-858b-485b-a94e-ae1705e8c149",
     "issue_number": 406,
@@ -64666,7 +64712,7 @@
     "locations": [
       "Brossard, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -69074,7 +69120,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-06T23:49:36.341669Z",
     "id": "a16f6364-c8ef-464c-b114-5bac258930e4",
     "issue_number": 2899,
@@ -69082,7 +69129,7 @@
     "locations": [
       "Salt Lake City, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -74452,7 +74499,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "af3d7ee6-3deb-4173-9e23-70882a93179a",
     "issue_number": 3261,
@@ -74460,7 +74508,7 @@
     "locations": [
       "Thornhill, Vaughan, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2025"
     ],
@@ -76341,7 +76389,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "b2d11e7f-5df2-478b-bced-42cf9f6b3b8f",
     "issue_number": 2630,
@@ -76349,7 +76398,7 @@
     "locations": [
       "Corning, NY"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -81597,7 +81646,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-01T23:39:43.514938Z",
     "id": "bf8be986-22cc-4025-8ba2-b65dce7f97c3",
     "issue_number": 810,
@@ -81605,7 +81655,7 @@
     "locations": [
       "Tulsa, OK"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -85174,7 +85224,8 @@
       "Master's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T01:39:33.789709Z",
     "id": "c75045c9-5445-4e97-b041-41bab0c8bb71",
     "issue_number": 3211,
@@ -85182,7 +85233,7 @@
     "locations": [
       "Mason, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -85656,7 +85707,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T01:00:40.264360Z",
     "id": "c890b3c3-40a5-4b61-a4f8-1c635d53c234",
     "issue_number": 1771,
@@ -85665,7 +85717,7 @@
       "Hesston, KS",
       "Jackson, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -87128,7 +87180,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T17:43:14.321957Z",
     "id": "cc38967c-108b-401b-9f3d-10d4b77e349d",
     "issue_number": 2732,
@@ -87136,7 +87189,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -88638,6 +88691,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-14T09:25:36.390766Z",
     "expired_issue_closed": false,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "d02a74dd-8183-4a37-8203-b66654240269",
@@ -88646,7 +88700,7 @@
     "locations": [
       "St Paul, MN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -90827,8 +90881,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "d4aaacf7-470e-48ba-aa9e-059dc2d01890",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3264,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3264",
     "locations": [
       "Mountain View, CA"
     ],
@@ -91050,7 +91104,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T09:25:36.390766Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T08:45:45.070163Z",
     "id": "d52ae577-609f-49a7-bc5e-5c2a1e928841",
     "issue_number": 3230,
@@ -91058,7 +91113,7 @@
     "locations": [
       "Mountain View, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -93818,6 +93873,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-14T09:25:36.390766Z",
     "expired_issue_closed": false,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "dade4a7e-b733-4ae0-9e37-2961ee5ae57e",
@@ -93826,7 +93882,7 @@
     "locations": [
       "Thornhill, Vaughan, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -95175,8 +95231,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "de5725f8-73f9-4e2d-aaef-780c14e2bb0a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3265,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3265",
     "locations": [
       "Pueblo, CO",
       "Grand Rapids, MI"
@@ -95737,8 +95793,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "df6c12ef-a435-45fc-8594-45f85f0d3ec8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3266,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3266",
     "locations": [
       "Boston, MA"
     ],
@@ -96449,8 +96505,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "e0680df7-a073-469f-a88f-9dc69750ac8a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3267,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3267",
     "locations": [
       "Mountain View, CA"
     ],
@@ -97467,8 +97523,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "e2891986-e22a-4697-9681-abff81a91c81",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3268,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3268",
     "locations": [
       "Dallas, TX"
     ],
@@ -101476,8 +101532,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "ea81eda9-f69e-45d8-a77f-1ba463459e40",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3269,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3269",
     "locations": [
       "Atlanta, GA"
     ],
@@ -101558,6 +101614,7 @@
       "Bachelor's",
       "Master's"
     ],
+    "expired_at": "2026-11-14T09:25:36.390766Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "eaba03ef-757c-4560-a1c4-a278da9a00f3",
@@ -101566,7 +101623,7 @@
     "locations": [
       "Dallas, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -102362,8 +102419,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "ecba7dcd-8896-44c3-bb7f-3f2b3b3fb4d6",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3270,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3270",
     "locations": [
       "Boston, MA"
     ],
@@ -108326,6 +108383,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-14T09:25:36.390766Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "fb26bbca-ac3f-49e6-9afe-4e1360c4f952",
@@ -108334,7 +108392,7 @@
     "locations": [
       "Salt Lake City, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -108906,6 +108964,33 @@
     ],
     "title": "Radiation Effects Undergraduate Intern",
     "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Radiation-Effects-Undergraduate-Intern_R016791"
+  },
+  "fc2e7640-69f3-45a5-b316-7bba0ec8b549": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Carnegie Mellon University",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-09T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-14T09:25:36.390766Z",
+    "id": "fc2e7640-69f3-45a5-b316-7bba0ec8b549",
+    "issue_number": 3272,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3272",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Advanced Computing Lab Intern",
+    "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336-1"
   },
   "fc31f420-a553-440f-b4e2-14bf2e7fdf26": {
     "applied_at": null,
