@@ -759,7 +759,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T20:26:30.790208Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "0237db49-2c6e-4821-9ef5-4c8214f38c17",
     "issue_number": 2292,
@@ -767,7 +768,7 @@
     "locations": [
       "Richardson, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -2474,7 +2475,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T20:26:30.790208Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T17:20:17.415667Z",
     "id": "0653c5fb-9673-4a73-9ace-50cb9ccf3243",
     "issue_number": 3111,
@@ -2482,7 +2484,7 @@
     "locations": [
       "Tucson, AZ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -10422,7 +10424,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T20:26:30.790208Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T05:35:28.888084Z",
     "id": "18cf7b99-7951-4d0b-aa42-6f2427d59c44",
     "issue_number": 1785,
@@ -10430,7 +10433,7 @@
     "locations": [
       "Plano, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -12879,6 +12882,33 @@
     "title": "Operations Analytics & Reporting Intern",
     "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Operations-Analytics---Reporting-Intern_J2465601"
   },
+  "1e57aae0-09f4-42db-80ed-6aee2ff1121a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Martin Marietta",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-14T20:26:30.790208Z",
+    "id": "1e57aae0-09f4-42db-80ed-6aee2ff1121a",
+    "issue_number": 3277,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3277",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Data Integration Engineer Intern",
+    "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146"
+  },
   "1e8a3975-ed86-4ea2-ac8a-6cb86af700b5": {
     "applied_at": null,
     "backfilled": false,
@@ -13005,7 +13035,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-14T20:26:30.790208Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-02T20:02:00.005279Z",
     "id": "1ef0bff3-253a-4f49-b688-0c8e9108fb0c",
     "issue_number": 2569,
@@ -13013,7 +13044,7 @@
     "locations": [
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -19375,6 +19406,34 @@
     ],
     "title": "Data Science Co-op - NLP & GenAI",
     "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251"
+  },
+  "2d609f21-b04d-4102-a341-b7fc2585a162": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Camping World",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-14T20:26:30.790208Z",
+    "id": "2d609f21-b04d-4102-a341-b7fc2585a162",
+    "issue_number": 3278,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3278",
+    "locations": [
+      "Chicago, IL",
+      "Lincolnshire, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Analyst Intern - AI & Machine Learning Focus",
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300"
   },
   "2d6ce459-6d6f-46b1-a335-210684f38086": {
     "applied_at": null,
@@ -38788,6 +38847,34 @@
     "title": "Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team",
     "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615"
   },
+  "5a18260c-fdf3-44bc-98d0-a7ec886be759": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Martin Marietta",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-14T20:26:30.790208Z",
+    "id": "5a18260c-fdf3-44bc-98d0-a7ec886be759",
+    "issue_number": 3279,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3279",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Data Scientist Intern",
+    "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1"
+  },
   "5a41cc41-928a-4159-8876-72eabec8b8d9": {
     "applied_at": null,
     "backfilled": false,
@@ -43569,6 +43656,35 @@
     ],
     "title": "Engineering Co-op",
     "url": "https://apply.workable.com/mistywest/j/5D68DE0118/apply"
+  },
+  "66098862-afe2-4865-bede-733cd3a795b7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Daimler Truck",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-14T20:26:30.790208Z",
+    "id": "66098862-afe2-4865-bede-733cd3a795b7",
+    "issue_number": 3280,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3280",
+    "locations": [
+      "Mt Holly, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "IT Developer Analyst Intern",
+    "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1"
   },
   "66380619-8481-4fe4-947a-26176558c345": {
     "applied_at": null,
@@ -52429,6 +52545,35 @@
     "title": "Electrical Engineer Intern",
     "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640810"
   },
+  "7c480571-b438-4123-bc21-a130e8090831": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Watts Water",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-14T20:26:30.790208Z",
+    "id": "7c480571-b438-4123-bc21-a130e8090831",
+    "issue_number": 3281,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3281",
+    "locations": [
+      "Menomonee Falls, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027",
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "title": "Product Management Co-op",
+    "url": "https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1"
+  },
   "7c492f2e-d58d-4b4a-b17f-76d37e7500c9": {
     "applied_at": null,
     "backfilled": false,
@@ -60091,6 +60236,34 @@
     ],
     "title": "CPU IP Design & Verification Intern - RISC-V Processor Development",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604040"
+  },
+  "8e9af166-ff54-453a-b560-244a89a45555": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Camping World",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-14T20:26:30.790208Z",
+    "id": "8e9af166-ff54-453a-b560-244a89a45555",
+    "issue_number": 3282,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3282",
+    "locations": [
+      "Chicago, IL",
+      "Lincolnshire, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Engineering Intern",
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297"
   },
   "8e9e2170-2a62-463a-9716-1a23c6386fb3": {
     "applied_at": null,
@@ -74405,6 +74578,33 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027"
+  },
+  "aeaf63c9-1187-4be5-b016-70d423a23974": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Camping World",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-14T20:26:30.790208Z",
+    "id": "aeaf63c9-1187-4be5-b016-70d423a23974",
+    "issue_number": 3283,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3283",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080"
   },
   "aeb26266-97f2-4d2b-a7fb-03d7d6fbfa38": {
     "applied_at": null,
