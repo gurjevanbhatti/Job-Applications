@@ -12453,6 +12453,33 @@
     "title": "Hardware Engineer Intern",
     "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214067"
   },
+  "1d492c0a-bc47-4f2a-8c32-70e6c7ad909d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "General Dynamics Mission Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-15T00:04:24.816867Z",
+    "id": "1d492c0a-bc47-4f2a-8c32-70e6c7ad909d",
+    "issue_number": 3284,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3284",
+    "locations": [
+      "Pittsfield, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Engineer Intern",
+    "url": "https://careers-gdms.icims.com/jobs/75487/job?mobile=true&needsRedirect=false"
+  },
   "1d4cc953-544e-4872-9740-94020ef03904": {
     "applied_at": null,
     "backfilled": true,
@@ -26493,6 +26520,33 @@
     "title": "Software Engineering Intern",
     "url": "https://careers.garmin.com/jobs/20255?icims=1"
   },
+  "3e52a9a1-03d8-44b8-9117-2bed7671b825": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SAS",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-14T00:00:00Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-15T00:04:24.816867Z",
+    "id": "3e52a9a1-03d8-44b8-9117-2bed7671b825",
+    "issue_number": 3285,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3285",
+    "locations": [
+      "Cary, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "IoT Product Strategy Intern",
+    "url": "https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false"
+  },
   "3e6f921b-67f9-4456-8fb9-b304590094b6": {
     "applied_at": null,
     "backfilled": true,
@@ -29510,6 +29564,38 @@
     ],
     "title": "Validation Intern",
     "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000151680529"
+  },
+  "44a81cc5-de8a-4ff8-83e7-fa7552050e4c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Eight Sleep",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-14T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-15T00:04:24.816867Z",
+    "id": "44a81cc5-de8a-4ff8-83e7-fa7552050e4c",
+    "issue_number": 3286,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3286",
+    "locations": [
+      "Washington, DC",
+      "SF",
+      "Austin, TX",
+      "LA",
+      "NYC"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Firmware Intern",
+    "url": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b/application?embed=true"
   },
   "44c5476b-29a9-42cd-8bd8-4691ff83f588": {
     "applied_at": null,
@@ -34291,6 +34377,33 @@
     ],
     "title": "AI Hardware RTL Design Engineer Intern - AI Hardware",
     "url": "https://www.tesla.com/careers/search/job/285089"
+  },
+  "514661c9-97e4-4ade-a0ac-785974e42bee": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Cigna Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-15T00:04:24.816867Z",
+    "id": "514661c9-97e4-4ade-a0ac-785974e42bee",
+    "issue_number": 3287,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3287",
+    "locations": [
+      "Morris Plains, NJ"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Healthcare Analytics Intern",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857"
   },
   "515ae061-c5fc-417c-8093-4d0c6e420ba5": {
     "applied_at": null,
@@ -40486,7 +40599,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T00:04:24.816867Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T09:22:17.944414Z",
     "id": "5dc1cb01-b65f-4d85-b792-b235ef4fa95b",
     "issue_number": 3104,
@@ -40494,7 +40608,7 @@
     "locations": [
       "Apopka, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -43840,7 +43954,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T00:04:24.816867Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-07T04:28:56.979087Z",
     "id": "669e846d-6122-44e9-a9d6-d58d25ce61f0",
     "issue_number": 2919,
@@ -43848,7 +43963,7 @@
     "locations": [
       "Freeport, ME"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -49715,7 +49830,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T00:04:24.816867Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T23:36:16.435267Z",
     "id": "74a583d1-c612-4fb8-85a5-e8ff9a522b4b",
     "issue_number": 3127,
@@ -49723,7 +49839,7 @@
     "locations": [
       "East Hartford, CT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -55045,7 +55161,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T00:04:24.816867Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-07T04:28:56.979087Z",
     "id": "828a4dbb-5797-4e1f-8b81-d5f469169768",
     "issue_number": 2923,
@@ -55053,7 +55170,7 @@
     "locations": [
       "Freeport, ME"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -60672,7 +60789,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T00:04:24.816867Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T23:36:16.435267Z",
     "id": "8f78f43d-e745-4a7b-aca5-fe0f018b98aa",
     "issue_number": 3130,
@@ -60680,7 +60798,7 @@
     "locations": [
       "McKinney, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -63656,7 +63774,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T00:04:24.816867Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T18:56:55.974827Z",
     "id": "956d7e6e-0435-403d-877c-4026d34ea7cc",
     "issue_number": 2436,
@@ -63665,7 +63784,7 @@
       "Chicago, IL",
       "NYC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -70071,7 +70190,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T00:04:24.816867Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T01:00:40.264360Z",
     "id": "a34ec36a-bccc-4e43-93a8-36560196de44",
     "issue_number": 1766,
@@ -70079,7 +70199,7 @@
     "locations": [
       "Plano, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -71924,7 +72044,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T00:04:24.816867Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T00:44:15.781283Z",
     "id": "a83008e3-bd87-4c41-92f2-3a50d3b0bcfc",
     "issue_number": 1914,
@@ -71932,7 +72053,7 @@
     "locations": [
       "Plano, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -85651,7 +85772,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T00:04:24.816867Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T01:00:40.264360Z",
     "id": "c7c5c8d2-37c7-4b14-89b5-e0318a1fad90",
     "issue_number": 1770,
@@ -85659,7 +85781,7 @@
     "locations": [
       "Plano, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -103843,7 +103965,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T00:04:24.816867Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "f011fb5a-1c6a-4bd5-b057-c3c730ee16ce",
     "issue_number": 3016,
@@ -103851,7 +103974,7 @@
     "locations": [
       "Burlington, VT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -110575,6 +110698,35 @@
     ],
     "title": "AI Scientist Intern",
     "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536"
+  },
+  "ff08a4e1-a35e-4faa-b08f-aed1a3fcf7e7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "RTX",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-15T00:04:24.816867Z",
+    "id": "ff08a4e1-a35e-4faa-b08f-aed1a3fcf7e7",
+    "issue_number": 3288,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3288",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "title": "Software Engineering Co-op",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404"
   },
   "ff36849a-9e34-466d-9c8d-c0a2af562ecf": {
     "applied_at": null,
