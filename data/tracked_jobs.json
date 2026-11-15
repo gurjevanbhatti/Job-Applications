@@ -814,7 +814,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T06:27:18.584635Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T02:03:43.084712Z",
     "id": "02780f68-02f8-4700-b1ab-46a3a5711c4e",
     "issue_number": 3057,
@@ -822,7 +823,7 @@
     "locations": [
       "Billerica, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
