@@ -60677,7 +60677,8 @@
       "Bachelor's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T23:43:22.739892Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T08:45:45.070163Z",
     "id": "8f0be6fa-e4b9-467b-bcd6-654bb5eb2f65",
     "issue_number": 3226,
@@ -60685,7 +60686,7 @@
     "locations": [
       "San Diego, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
