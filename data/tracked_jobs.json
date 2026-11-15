@@ -29579,7 +29579,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T14:13:35.321013Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-15T00:04:24.816867Z",
     "id": "44a81cc5-de8a-4ff8-83e7-fa7552050e4c",
     "issue_number": 3286,
@@ -29591,7 +29592,7 @@
       "LA",
       "NYC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -64230,7 +64231,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T14:13:35.321013Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "969fad49-3d84-4fbc-9700-8d9045078201",
     "issue_number": 2621,
@@ -64238,7 +64240,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -64460,7 +64462,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T14:13:35.321013Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T18:29:26.432659Z",
     "id": "972e59fe-5d7f-418d-8180-1595a1b7c989",
     "issue_number": 2815,
@@ -64468,7 +64471,7 @@
     "locations": [
       "Deerfield Beach, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -71290,6 +71293,34 @@
     "title": "Advanced Design Verification Engineer Intern",
     "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731412005"
   },
+  "a66d16d8-304f-49d6-ae57-3f9db2d9042c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Blizzard Entertainment",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-13T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-15T14:13:35.321013Z",
+    "id": "a66d16d8-304f-49d6-ae57-3f9db2d9042c",
+    "issue_number": 3289,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3289",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering",
+    "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350"
+  },
   "a6770ce6-e8cb-4716-8bc5-b5ed81550a93": {
     "applied_at": null,
     "backfilled": false,
@@ -76427,7 +76458,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T14:13:35.321013Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-12T04:16:05.702465Z",
     "id": "b1fe1b9f-f127-4ef0-89e0-dd7c9086acaf",
     "issue_number": 3161,
@@ -76435,7 +76467,7 @@
     "locations": [
       "United States"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -79526,7 +79558,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T14:13:35.321013Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T18:29:26.432659Z",
     "id": "b9ce969b-feac-4712-867d-4dc584234d94",
     "issue_number": 2816,
@@ -79534,7 +79567,7 @@
     "locations": [
       "Deerfield Beach, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -83236,7 +83269,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T14:13:35.321013Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "c20bef46-45b5-497e-883d-4745f23e27b0",
     "issue_number": 2637,
@@ -83244,7 +83278,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -91484,7 +91518,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T14:13:35.321013Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T18:29:26.432659Z",
     "id": "d51fae92-efd8-41b6-b50e-1552f35e9dfc",
     "issue_number": 2818,
@@ -91492,7 +91527,7 @@
     "locations": [
       "Deerfield Beach, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -106660,7 +106695,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T14:13:35.321013Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-12T04:16:05.702465Z",
     "id": "f633b964-2b4e-4cc9-909b-0de4e42c4cc6",
     "issue_number": 3171,
@@ -106668,7 +106704,7 @@
     "locations": [
       "United States"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -109794,7 +109830,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-15T14:13:35.321013Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T23:48:22.093203Z",
     "id": "fcda4098-94ad-4409-96fc-32ee92289e01",
     "issue_number": 2839,
@@ -109802,7 +109839,7 @@
     "locations": [
       "Deerfield Beach, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
