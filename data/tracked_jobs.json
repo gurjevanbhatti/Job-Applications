@@ -5316,6 +5316,7 @@
     "degrees": [
       "Master's"
     ],
+    "expired_at": "2026-11-16T21:09:28.219206Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "0ccb65ab-e586-4d78-b496-ec4b86e44977",
@@ -5324,7 +5325,7 @@
     "locations": [
       "Cambridge, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -10201,7 +10202,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T02:03:43.084712Z",
     "id": "181b3902-c0ab-469a-a0ab-8bd09146efa7",
     "issue_number": 3058,
@@ -10209,7 +10211,7 @@
     "locations": [
       "McLean, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -10789,6 +10791,36 @@
     ],
     "title": "Data Analyst Co-op",
     "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284"
+  },
+  "198dcbe5-882a-40bd-9dc2-ea376522a837": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "JP Morgan Chase",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-16T15:52:57Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-16T21:09:28.219206Z",
+    "id": "198dcbe5-882a-40bd-9dc2-ea376522a837",
+    "issue_number": 3295,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3295",
+    "locations": [
+      "Palo Alto, CA",
+      "Columbus, OH",
+      "NYC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Consumer & Community Banking Intern",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807923"
   },
   "1993c458-75cd-45ce-b37e-7ce3a800bdab": {
     "applied_at": null,
@@ -12332,7 +12364,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T17:20:17.415667Z",
     "id": "1d01d27b-150d-4d65-b8f7-8790841f3d77",
     "issue_number": 3114,
@@ -12340,7 +12373,7 @@
     "locations": [
       "Westford, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -13214,7 +13247,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T01:39:33.789709Z",
     "id": "1f3952cc-171c-4509-9532-4e1449ff14f2",
     "issue_number": 3188,
@@ -13222,7 +13256,7 @@
     "locations": [
       "Washington, DC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -19480,7 +19514,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "2d6ce459-6d6f-46b1-a335-210684f38086",
     "issue_number": 1204,
@@ -19488,7 +19523,7 @@
     "locations": [
       "Olathe, KS"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -20910,7 +20945,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T23:36:16.435267Z",
     "id": "30730f1c-6d40-450b-a9f3-2e2447dd6e71",
     "issue_number": 3123,
@@ -20918,7 +20954,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -30413,7 +30449,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-06T23:49:36.341669Z",
     "id": "475cf53f-d514-46b8-af05-8cced2ee2caf",
     "issue_number": 2890,
@@ -30421,7 +30458,7 @@
     "locations": [
       "Calgary, AB, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -35823,7 +35860,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-09T18:46:27.513277Z",
     "id": "536e2f43-f2f0-47fd-aa1e-41a34bff5823",
     "issue_number": 2944,
@@ -35831,7 +35869,7 @@
     "locations": [
       "Spokane, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -44442,7 +44480,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-09T18:46:27.513277Z",
     "id": "676daba9-0448-44be-8939-c5c4f84e9bc4",
     "issue_number": 2946,
@@ -44450,7 +44489,7 @@
     "locations": [
       "San Jose, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -63657,6 +63696,33 @@
     "title": "Repair & Overhaul Customer Solutions Group Intern",
     "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage-Hiver-2027---Groupe-Solutions-Client--Rparation-et-Rvision-----Internship-Winter-2027---Repair---Overhaul-Customer-Solutions-Group-_01867393-1"
   },
+  "9505b5cc-26f0-4893-93fe-d10cabec7014": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Boston Scientific",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-16T15:51:19Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-16T21:09:28.219206Z",
+    "id": "9505b5cc-26f0-4893-93fe-d10cabec7014",
+    "issue_number": 3296,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3296",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Product Data Analyst Intern",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813864319"
+  },
   "9513cd12-01dd-4e85-99be-9b990a943ae9": {
     "applied_at": null,
     "backfilled": false,
@@ -68898,7 +68964,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-12T04:16:05.702465Z",
     "id": "a0856c0c-9c02-41ee-9b12-8f018fd3326e",
     "issue_number": 3159,
@@ -68906,7 +68973,7 @@
     "locations": [
       "Newton, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -71885,7 +71952,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-09T18:46:27.513277Z",
     "id": "a76274be-0fa3-4e1f-aad7-4b25d48341ce",
     "issue_number": 2951,
@@ -71893,7 +71961,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -72853,7 +72921,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "aa09355f-3566-4fb8-9fd8-7969004f6cf8",
     "issue_number": 2994,
@@ -72861,7 +72930,7 @@
     "locations": [
       "Needham, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -74262,7 +74331,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T23:36:16.435267Z",
     "id": "ad8ba622-f60f-4be2-a7df-744def610f7d",
     "issue_number": 3135,
@@ -74271,7 +74341,7 @@
       "Remote in USA",
       "Marietta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -74839,7 +74909,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-14T20:26:30.790208Z",
     "id": "aeaf63c9-1187-4be5-b016-70d423a23974",
     "issue_number": 3283,
@@ -74847,7 +74918,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -79807,6 +79878,36 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266"
+  },
+  "ba118afe-7991-4a5a-87c7-f68325d9f99d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Boston Scientific",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-16T15:51:18Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-16T21:09:28.219206Z",
+    "id": "ba118afe-7991-4a5a-87c7-f68325d9f99d",
+    "issue_number": 3297,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3297",
+    "locations": [
+      "Marlborough, MA",
+      "Maple Grove, MN",
+      "Arden Hills, MN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Engineer Intern - Generative & Agentic AI",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837"
   },
   "ba129f03-7efb-479d-b7d3-24cd6f2bff90": {
     "applied_at": null,
@@ -87660,7 +87761,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T17:20:17.415667Z",
     "id": "cbb8fff5-3af6-42f9-811f-8fe3676649f6",
     "issue_number": 3119,
@@ -87668,7 +87770,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -90898,7 +91000,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T23:36:16.435267Z",
     "id": "d337ad61-4c1c-4053-bb47-f4ad059d81c8",
     "issue_number": 3139,
@@ -90906,7 +91009,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -91344,6 +91447,34 @@
     ],
     "title": "AI Software Intern",
     "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007"
+  },
+  "d48bdf87-b0ff-4edc-a9a5-5f5ecca2154c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Boston Scientific",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-16T15:51:20Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-16T21:09:28.219206Z",
+    "id": "d48bdf87-b0ff-4edc-a9a5-5f5ecca2154c",
+    "issue_number": 3298,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3298",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Acceleration Intern",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813862390"
   },
   "d48c80c4-64ef-42c6-b309-34cb2efa3de1": {
     "applied_at": null,
@@ -94213,7 +94344,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T17:01:48.156423Z",
     "id": "da999960-efdd-44de-9632-cb4db8868203",
     "issue_number": 3053,
@@ -94221,7 +94353,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -95316,7 +95448,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T02:03:43.084712Z",
     "id": "dcbb1c0f-1df1-42a7-ba0e-89b77ba03af9",
     "issue_number": 3097,
@@ -95324,7 +95457,7 @@
     "locations": [
       "Cary, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -96414,7 +96547,8 @@
       "MBA",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T09:10:33.504400Z",
     "id": "df8ec809-866e-4cb5-92ca-1719fb6ff19a",
     "issue_number": 3035,
@@ -96422,7 +96556,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -97096,7 +97230,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T19:38:45.370720Z",
     "id": "e069b3ec-da07-4fca-9b7f-8c5ebda67df8",
     "issue_number": 2287,
@@ -97104,7 +97239,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -102840,7 +102975,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T21:09:28.219206Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T09:10:33.504400Z",
     "id": "ec753813-5b9a-4724-aa04-29e2d05da32a",
     "issue_number": 3037,
@@ -102848,7 +102984,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
