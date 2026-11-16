@@ -6511,7 +6511,8 @@
       "PhD",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T11:16:34.964850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T19:42:48.222996Z",
     "id": "0fc49c44-851b-47a8-b7cb-547458b4ec29",
     "issue_number": 2174,
@@ -6519,7 +6520,7 @@
     "locations": [
       "Vancouver, BC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -6940,7 +6941,8 @@
       "PhD",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T11:16:34.964850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T23:22:16.490839Z",
     "id": "108ede75-4ab5-4e06-b717-3143164c782c",
     "issue_number": 2185,
@@ -6948,7 +6950,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -7732,7 +7734,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T11:16:34.964850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "1210667d-a04b-4e6f-94c9-652d67be9369",
     "issue_number": 3240,
@@ -7740,7 +7743,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -11170,7 +11173,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T11:16:34.964850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T01:39:33.789709Z",
     "id": "1a8a2082-f784-4219-9e82-2a23882ac9b7",
     "issue_number": 3187,
@@ -11178,7 +11182,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -12721,7 +12725,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T11:16:34.964850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T08:10:33.404964Z",
     "id": "1def6b3e-6143-4509-9f6c-ca677a3669ec",
     "issue_number": 2255,
@@ -12729,7 +12734,7 @@
     "locations": [
       "Cleveland, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -24348,7 +24353,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T11:16:34.964850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T23:29:05.860462Z",
     "id": "39c401c3-d14a-4997-a485-e8e68788de4f",
     "issue_number": 2023,
@@ -24356,7 +24362,7 @@
     "locations": [
       "Cary, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -27563,7 +27569,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T11:16:34.964850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T19:38:45.370720Z",
     "id": "40318f39-1594-41db-a897-5e0c2ee04457",
     "issue_number": 2267,
@@ -27571,7 +27578,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -28785,7 +28792,8 @@
       "PhD",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T11:16:34.964850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T23:22:16.490839Z",
     "id": "42cf5e29-05e8-461e-8734-30b50e320c29",
     "issue_number": 2198,
@@ -28793,7 +28801,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -38577,7 +38585,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T11:16:34.964850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T03:06:05.330905Z",
     "id": "59604790-9f6c-43b4-b02a-c8c8e3d6e9e8",
     "issue_number": 2745,
@@ -38585,7 +38594,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -39547,7 +39556,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T11:16:34.964850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T17:20:17.415667Z",
     "id": "5b6d335d-e746-4e29-8a76-e0984ff0aaaf",
     "issue_number": 3115,
@@ -39555,7 +39565,7 @@
     "locations": [
       "Sterling, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -57513,7 +57523,8 @@
       "PhD",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T11:16:34.964850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T19:42:48.222996Z",
     "id": "883dffb0-d441-4366-84c2-251689ff5b5a",
     "issue_number": 2180,
@@ -57521,7 +57532,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -57713,7 +57724,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T11:16:34.964850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T23:22:16.490839Z",
     "id": "88d5d5f9-4c38-4b3c-afcc-422d8256ae59",
     "issue_number": 2212,
@@ -57721,7 +57733,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -64546,7 +64558,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T11:16:34.964850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T23:22:16.490839Z",
     "id": "972ed5d0-7a5e-452c-bb11-00d8fd074e6a",
     "issue_number": 2218,
@@ -64554,7 +64567,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -97816,7 +97829,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-16T11:16:34.964850Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-06T23:49:36.341669Z",
     "id": "e1f08b4c-5be7-4489-832a-bde5bf7a89af",
     "issue_number": 2905,
@@ -97824,7 +97838,7 @@
     "locations": [
       "Calgary, AB, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
