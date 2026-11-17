@@ -1924,6 +1924,34 @@
     "title": "AMS Validation Intern",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AMS-Validation-Intern_2603863-1"
   },
+  "05799004-d77a-4b48-b797-2b29a38c7087": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Birdseye Security Solutions",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T07:13:54Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T12:44:38.966334Z",
+    "id": "05799004-d77a-4b48-b797-2b29a38c7087",
+    "issue_number": 3327,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3327",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "AI Systems Intern",
+    "url": "https://birdseyeaccount.bamboohr.com/careers/288/"
+  },
   "057dd9da-1280-4dab-a6a2-a29c81fedad0": {
     "applied_at": null,
     "backfilled": true,
@@ -3152,7 +3180,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-17T12:44:38.966334Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T17:01:48.156423Z",
     "id": "079bf3d3-847a-4fc1-988a-ae3cdbafd70e",
     "issue_number": 3040,
@@ -3160,7 +3189,7 @@
     "locations": [
       "Philadelphia, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -12162,6 +12191,33 @@
     "title": "Data Scientist Intern",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249842"
   },
+  "1c9dc088-116a-43ff-a6ae-6ab513f43e5e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SurePoint Ag Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T10:09:39Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T12:44:38.966334Z",
+    "id": "1c9dc088-116a-43ff-a6ae-6ab513f43e5e",
+    "issue_number": 3328,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3328",
+    "locations": [
+      "Manhattan, KS"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Drone Imaging Agronomy Intern",
+    "url": "https://surepoint.bamboohr.com/careers/109/"
+  },
   "1ca9c25a-b3ff-48b9-b795-6f8cb2412cae": {
     "applied_at": null,
     "backfilled": true,
@@ -14881,6 +14937,33 @@
     "title": "Credit Risk Intern",
     "url": "https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/apply"
   },
+  "22ffdc54-a0ba-4f2a-990a-f4fde578fb3f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Critical Environment Technologies",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-17T07:46:35Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T12:44:38.966334Z",
+    "id": "22ffdc54-a0ba-4f2a-990a-f4fde578fb3f",
+    "issue_number": 3329,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3329",
+    "locations": [
+      "Delta, BC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Computer Science Co-op",
+    "url": "https://cetci.bamboohr.com/careers/92/"
+  },
   "2310df58-69a1-4c21-bf0c-0ab23ab3e493": {
     "applied_at": null,
     "backfilled": false,
@@ -15285,6 +15368,34 @@
     ],
     "title": "Electrical Engineer Intern",
     "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Electrical-Engineering-Intern_REQ53005"
+  },
+  "23e36426-bb74-4b8d-9baa-51a102571c69": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "ECM Tek",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T07:19:14Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T12:44:38.966334Z",
+    "id": "23e36426-bb74-4b8d-9baa-51a102571c69",
+    "issue_number": 3330,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3330",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Developer Intern - Python Development",
+    "url": "https://ecmtek.bamboohr.com/careers/51/"
   },
   "23eccfe8-4364-45b3-a8ef-cb8127b89e2c": {
     "applied_at": null,
@@ -32818,6 +32929,33 @@
     "title": "Software Engineer Intern - Robotics R&D",
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919"
   },
+  "4c31bb53-e611-4a3c-96fb-c9d7be9acf24": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Canyon AeroConnect",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T10:45:45Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T12:44:38.966334Z",
+    "id": "4c31bb53-e611-4a3c-96fb-c9d7be9acf24",
+    "issue_number": 3331,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3331",
+    "locations": [
+      "Prescott, AZ"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Electrical Engineer Intern",
+    "url": "https://canyonaeroconnect.bamboohr.com/careers/165/"
+  },
   "4c5f0079-fc09-463d-a5f2-15618f660fcc": {
     "applied_at": null,
     "backfilled": false,
@@ -48129,7 +48267,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-17T12:44:38.966334Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T17:01:48.156423Z",
     "id": "6f89592c-cad0-4384-8d65-14460588b283",
     "issue_number": 3048,
@@ -48137,7 +48276,7 @@
     "locations": [
       "Philadelphia, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -50022,6 +50161,34 @@
     ],
     "title": "Managed Care Analytics Intern",
     "url": "https://jobs.ascension.org/us/en/job/15636"
+  },
+  "73c60737-21d3-447f-89c4-cacd4904932a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Sedaro",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T10:07:41Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T12:44:38.966334Z",
+    "id": "73c60737-21d3-447f-89c4-cacd4904932a",
+    "issue_number": 3332,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3332",
+    "locations": [
+      "Arlington County, Arlington, VA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://sedarotech.bamboohr.com/careers/97/"
   },
   "73cce5ae-4123-4752-9ad2-67b8ab0e009f": {
     "applied_at": null,
@@ -52191,6 +52358,33 @@
     ],
     "title": "Systems Engineer Intern",
     "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659"
+  },
+  "793a9ac6-92f9-400d-b060-1bb9144677cd": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Road Commission for Oakland County",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T10:07:45Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T12:44:38.966334Z",
+    "id": "793a9ac6-92f9-400d-b060-1bb9144677cd",
+    "issue_number": 3333,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3333",
+    "locations": [
+      "Michigan"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Geographic Information Systems Intern",
+    "url": "https://rcoc.bamboohr.com/careers/314/"
   },
   "79477bc2-76a3-4678-90ed-8684e8e45c02": {
     "applied_at": null,
@@ -57109,6 +57303,33 @@
     ],
     "title": "Software Intern",
     "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763"
+  },
+  "85ef2153-9e8f-421b-8371-86e442ac09c7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Canyon AeroConnect",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T10:45:44Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T12:44:38.966334Z",
+    "id": "85ef2153-9e8f-421b-8371-86e442ac09c7",
+    "issue_number": 3334,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3334",
+    "locations": [
+      "Prescott, AZ"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Test Engineer Intern",
+    "url": "https://canyonaeroconnect.bamboohr.com/careers/166/"
   },
   "8606aed6-677f-4e1d-9f11-6e1a60e1e783": {
     "applied_at": null,
@@ -72471,6 +72692,34 @@
     "title": "Software Engineer Intern",
     "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572"
   },
+  "a73d65d0-ef99-4368-9bb7-6e1a8095fa49": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Birdseye Security Solutions",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T07:13:54Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T12:44:38.966334Z",
+    "id": "a73d65d0-ef99-4368-9bb7-6e1a8095fa49",
+    "issue_number": 3335,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3335",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Computer Vision Intern",
+    "url": "https://birdseyeaccount.bamboohr.com/careers/290/"
+  },
   "a74310a0-f20c-47e3-a801-788c1fc295d6": {
     "applied_at": null,
     "backfilled": false,
@@ -85084,6 +85333,33 @@
     "title": "Data Science Intern",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8241738"
   },
+  "c445b1f7-56ed-41b7-adcf-488ff0ec20e5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "IPConfigure",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T07:13:21Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T12:44:38.966334Z",
+    "id": "c445b1f7-56ed-41b7-adcf-488ff0ec20e5",
+    "issue_number": 3336,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3336",
+    "locations": [
+      "Norfolk, VA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Development for Video Surveillance Software Intern",
+    "url": "https://ipconfigure.bamboohr.com/careers/71/"
+  },
   "c44ccf4f-7352-4f14-9f9d-43ce7522c340": {
     "applied_at": null,
     "backfilled": false,
@@ -85251,6 +85527,34 @@
     ],
     "title": "Laser Firmware Intern",
     "url": "https://boards.greenhouse.io/lightmatter/jobs/5479596008"
+  },
+  "c4c07e6a-44f8-4847-ba4c-378473c3515f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "All Options",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T07:04:17Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T12:44:38.966334Z",
+    "id": "c4c07e6a-44f8-4847-ba4c-378473c3515f",
+    "issue_number": 3337,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3337",
+    "locations": [
+      "Austin, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027",
+      "Summer 2027"
+    ],
+    "title": "Graduate Quantitative Trader Intern",
+    "url": "https://alloptions.bamboohr.com/careers/85/"
   },
   "c4d18418-d4a9-4c9d-900d-4ffe42c1b1c6": {
     "applied_at": null,
@@ -85548,6 +85852,33 @@
     ],
     "title": "Python Backend Developer Intern - Energy Flexibility Platform",
     "url": "https://siemens.avature.net/en_US/externaljobs/JobDetail/526984"
+  },
+  "c5774094-54c2-4d78-bb91-86ec4d8cb4a7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SecurityMetrics",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T07:04:03Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T12:44:38.966334Z",
+    "id": "c5774094-54c2-4d78-bb91-86ec4d8cb4a7",
+    "issue_number": 3338,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3338",
+    "locations": [
+      "Orem, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://securitymetrics.bamboohr.com/careers/215/"
   },
   "c579fad0-b08a-4e65-a2cf-77f72aa87439": {
     "applied_at": null,
@@ -86478,7 +86809,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-17T12:44:38.966334Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T23:48:22.093203Z",
     "id": "c7027be1-999e-4aed-be4a-f4d9fa07f5a4",
     "issue_number": 2835,
@@ -86486,7 +86818,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -91765,8 +92097,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-17T03:51:20.059097Z",
     "id": "d351a269-c79d-416c-8fab-f91ef363ddee",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3324,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3324",
     "locations": [
       "Washington, DC"
     ],
@@ -94478,8 +94810,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-17T03:51:20.059097Z",
     "id": "d95747a2-4b74-4eea-a69c-5530f6a261a7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3325,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3325",
     "locations": [
       "Irving, TX"
     ],
@@ -95954,8 +96286,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-17T03:51:20.059097Z",
     "id": "dc51b5d7-9f78-43ff-bc13-3b62afde3c52",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3326,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3326",
     "locations": [
       "Washington, DC"
     ],
@@ -96827,7 +97159,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-17T12:44:38.966334Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "de7fe0e3-6022-4f95-a291-1b8cc48f3f10",
     "issue_number": 3007,
@@ -96835,7 +97168,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -101887,6 +102220,34 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388"
+  },
+  "e832e189-e1cc-4b4f-ba16-3f62ddbf3bb7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Sedaro",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T10:07:41Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T12:44:38.966334Z",
+    "id": "e832e189-e1cc-4b4f-ba16-3f62ddbf3bb7",
+    "issue_number": 3339,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3339",
+    "locations": [
+      "Arlington County, Arlington, VA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Compiler Intern - Simulator",
+    "url": "https://sedarotech.bamboohr.com/careers/95/"
   },
   "e83d5205-2c76-4f34-adbc-45a543b7b26b": {
     "applied_at": null,
@@ -110346,6 +110707,33 @@
     ],
     "title": "Data Analytics Intern",
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901"
+  },
+  "fb8c19af-6f4e-4bce-8ee3-4b265a51000f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "NorthStar Earth & Space",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-17T07:29:18Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T12:44:38.966334Z",
+    "id": "fb8c19af-6f4e-4bce-8ee3-4b265a51000f",
+    "issue_number": 3340,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3340",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2028"
+    ],
+    "title": "Research Intern - AI for Earth Observation",
+    "url": "https://northstarearthandspace.bamboohr.com/careers/117/"
   },
   "fb9acb15-3d71-47bf-a454-59041cddff33": {
     "applied_at": null,
