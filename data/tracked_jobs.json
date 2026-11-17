@@ -19619,7 +19619,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-17T21:22:46.444358Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-09T08:00:09.097511Z",
     "id": "2cdfed62-a249-4fe7-b45f-406da7879351",
     "issue_number": 2937,
@@ -19627,7 +19628,7 @@
     "locations": [
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -22515,7 +22516,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-17T21:22:46.444358Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T05:21:36.107225Z",
     "id": "33d259a8-0a0b-4a4c-9875-dd5206ee2317",
     "issue_number": 1937,
@@ -22523,7 +22525,7 @@
     "locations": [
       "Richardson, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -22570,7 +22572,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-17T21:22:46.444358Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T17:01:48.156423Z",
     "id": "33dafa3e-20d8-47c8-aca6-91cf06a6b50a",
     "issue_number": 3042,
@@ -22578,7 +22581,7 @@
     "locations": [
       "Bellevue, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -24211,6 +24214,34 @@
     ],
     "title": "Software Engineer Intern - Sophomore Internship Program",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1"
+  },
+  "3879e353-7152-40e5-add1-befdb4387acf": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Emerson Electric",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T15:16:56Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T21:22:46.444358Z",
+    "id": "3879e353-7152-40e5-add1-befdb4387acf",
+    "issue_number": 3341,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3341",
+    "locations": [
+      "Austin, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632"
   },
   "387ea422-5e64-458e-b052-8dee5cbf777e": {
     "applied_at": null,
@@ -30229,6 +30260,33 @@
     "title": "HR AI Data Science Intern",
     "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034"
   },
+  "4525469a-3426-4f73-b478-c3a841f40428": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SAS",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T00:00:00Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T21:22:46.444358Z",
+    "id": "4525469a-3426-4f73-b478-c3a841f40428",
+    "issue_number": 3342,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3342",
+    "locations": [
+      "Cary, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Econometrics Intern",
+    "url": "https://careers-sas.icims.com/jobs/42755/job?mobile=true&needsRedirect=false"
+  },
   "4545deb5-ffdd-4032-ac96-4082299479fc": {
     "applied_at": null,
     "backfilled": true,
@@ -33193,7 +33251,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-17T21:22:46.444358Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "4cef3318-d05a-4bf7-852e-a4e0bc3d3945",
     "issue_number": 2596,
@@ -33201,7 +33260,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -34405,7 +34464,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-17T21:22:46.444358Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T08:45:45.070163Z",
     "id": "4fe1b8d3-32c5-424c-84bf-74003c96c4bd",
     "issue_number": 3223,
@@ -34413,7 +34473,7 @@
     "locations": [
       "Melbourne, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -34852,7 +34912,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-17T21:22:46.444358Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T02:03:43.084712Z",
     "id": "50f373f0-86f6-4b75-bfae-95734aaa3f6e",
     "issue_number": 3070,
@@ -34860,7 +34921,7 @@
     "locations": [
       "Knoxville, TN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -34936,7 +34997,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-17T21:22:46.444358Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-15T00:04:24.816867Z",
     "id": "514661c9-97e4-4ade-a0ac-785974e42bee",
     "issue_number": 3287,
@@ -34944,7 +35006,7 @@
     "locations": [
       "Morris Plains, NJ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -39348,7 +39410,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-17T21:22:46.444358Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T10:52:45.516678Z",
     "id": "59e8bcfa-d272-4908-b44c-ffb7fa90719a",
     "issue_number": 2788,
@@ -39356,7 +39419,7 @@
     "locations": [
       "Lakewood, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -56986,6 +57049,34 @@
     ],
     "title": "Product Manager MBA Intern - Enterprise AI",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707"
+  },
+  "852ba030-95f1-4c5a-afa9-3dfe3eef2762": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "KLA",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-16T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T21:22:46.444358Z",
+    "id": "852ba030-95f1-4c5a-afa9-3dfe3eef2762",
+    "issue_number": 3343,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3343",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Firmware Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Firmware-Intern_2642154"
   },
   "852bd1df-9c2a-4356-bd93-fde6c1c519b2": {
     "applied_at": null,
@@ -77518,6 +77609,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-17T21:22:46.444358Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "b202c8f2-5559-40d4-8a8b-2326270d7097",
@@ -77526,7 +77618,7 @@
     "locations": [
       "Simsbury, CT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -82914,6 +83006,35 @@
     ],
     "title": "Product Management Intern",
     "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893"
+  },
+  "bee8e5de-03d0-4cf7-9457-e9ec51642c89": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Robert Bosch Venture Capital",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T13:35:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T21:22:46.444358Z",
+    "id": "bee8e5de-03d0-4cf7-9457-e9ec51642c89",
+    "issue_number": 3344,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3344",
+    "locations": [
+      "Farmington Hills, MI"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027",
+      "Summer 2027"
+    ],
+    "title": "AI Application Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254"
   },
   "bf045bbb-19b5-4bf0-a8de-2d2a06103832": {
     "applied_at": null,
@@ -90265,6 +90386,35 @@
     ],
     "title": "Software Developer Intern",
     "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1"
+  },
+  "cfef62f9-0ea8-4070-b549-5bba93413913": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Rivian",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T15:17:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-17T21:22:46.444358Z",
+    "id": "cfef62f9-0ea8-4070-b549-5bba93413913",
+    "issue_number": 3345,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3345",
+    "locations": [
+      "Champaign, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "ADAS HW Systems Validation Intern - ADAS HW Systems Validation",
+    "url": "https://careers.rivian.com/jobs/36514?icims=1&lang=en-us"
   },
   "cffd0bd5-d650-4e9e-ae41-cde4ff1d94d3": {
     "applied_at": null,
@@ -110889,7 +111039,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-17T21:22:46.444358Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "fc1da624-e620-4f0f-89d1-f78464457a9d",
     "issue_number": 1249,
@@ -110897,7 +111048,7 @@
     "locations": [
       "El Segundo, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
