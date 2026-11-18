@@ -146,6 +146,34 @@
     "title": "Applied AI Engineer Intern",
     "url": "https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504/application?embed=true"
   },
+  "00b1c762-9ca4-4c23-afff-d070ee8279e6": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Anduril",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T19:17:45Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "00b1c762-9ca4-4c23-afff-d070ee8279e6",
+    "issue_number": 3346,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3346",
+    "locations": [
+      "Santa Ana, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007"
+  },
   "00d6b9cb-f0b6-4582-a940-3fd323e84524": {
     "applied_at": null,
     "backfilled": false,
@@ -5690,7 +5718,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T03:01:29.508844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "0d688839-0f84-46dd-8f9f-51546107a140",
     "issue_number": 2299,
@@ -5698,7 +5727,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -7725,6 +7754,33 @@
     "title": "Electrical Engineer Co-op - Beatbox",
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Beatbox-Electrical-Engineering-Co-op_R-101679"
   },
+  "11f69ae2-522e-4819-8898-d55df90e6226": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Constellation Energy",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T21:19:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "11f69ae2-522e-4819-8898-d55df90e6226",
+    "issue_number": 3347,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3347",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "IT Software Developer Intern",
+    "url": "https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us"
+  },
   "12008b01-d68c-4c3d-89e5-fe8a4fc022f7": {
     "applied_at": null,
     "backfilled": false,
@@ -8742,6 +8798,33 @@
     ],
     "title": "AI Solutions Intern - Human Resources",
     "url": "https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us"
+  },
+  "14b45ec6-cd52-4f94-9eee-9ca874bdac85": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Compunetix",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T23:07:36Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "14b45ec6-cd52-4f94-9eee-9ca874bdac85",
+    "issue_number": 3348,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3348",
+    "locations": [
+      "Monroeville, PA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Software Engineer Co-op",
+    "url": "https://jobs.jobvite.com/compunetix/job/oMdpAfwI?nl=1&nl=1&fr=false"
   },
   "14be2013-8cfc-4697-bee6-4079af413274": {
     "applied_at": null,
@@ -18430,7 +18513,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T03:01:29.508844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-20T00:18:53.109573Z",
     "id": "29dccfec-8c43-420d-b9be-cb77d19d5499",
     "issue_number": 1821,
@@ -18488,7 +18572,7 @@
       "Alabama",
       "Idaho"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -21020,7 +21104,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T03:01:29.508844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-19T03:05:58.427693Z",
     "id": "2f956c52-edf6-4b68-99c9-7db4d96de3c0",
     "issue_number": 1798,
@@ -21031,7 +21116,7 @@
       "LA",
       "Singapore"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -23839,6 +23924,33 @@
     ],
     "title": "Data Scientist Intern",
     "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719514006"
+  },
+  "3775de5d-9a03-4c19-b11c-c719087bcf25": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Sallie Mae",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "3775de5d-9a03-4c19-b11c-c719087bcf25",
+    "issue_number": 3349,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3349",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623"
   },
   "3782f150-ff64-421e-b976-15d91c64802e": {
     "applied_at": null,
@@ -30585,7 +30697,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T03:01:29.508844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "463d369a-081e-447b-9b9b-02cc6a0c5f79",
     "issue_number": 1615,
@@ -30593,7 +30706,7 @@
     "locations": [
       "Clinton, SC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -34648,6 +34761,33 @@
     "title": "Technical Artist Co-op",
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406"
   },
+  "50475e1d-7406-45d1-aea1-4f1ed5575cea": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Qualcomm",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-17T23:40:01Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "50475e1d-7406-45d1-aea1-4f1ed5575cea",
+    "issue_number": 3350,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3350",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI/Machine Learning Intern - Interim Engineering Intern - SW",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446722176432"
+  },
   "50499486-6332-4938-96b5-b56eb16e464d": {
     "applied_at": null,
     "backfilled": false,
@@ -38318,6 +38458,33 @@
     "title": "Information Technology Intern",
     "url": "https://careers.div.energy/jobs/2734?icims=1"
   },
+  "57496224-42e6-4869-8a6e-bc34925be9f1": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Raptor Maps",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T23:20:59Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "57496224-42e6-4869-8a6e-bc34925be9f1",
+    "issue_number": 3351,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3351",
+    "locations": [
+      "Somerville, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a"
+  },
   "574c67ce-ff4f-4f56-825d-6e6dc66172f6": {
     "applied_at": null,
     "backfilled": false,
@@ -38673,7 +38840,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T03:01:29.508844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T00:39:17.059022Z",
     "id": "5866904c-1ee5-4973-8ca1-2c57ecb0569f",
     "issue_number": 580,
@@ -38681,7 +38849,7 @@
     "locations": [
       "Palo Alto, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -39299,7 +39467,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T03:01:29.508844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "59c8e11d-c4c9-4e51-895d-4e7e5e98c975",
     "issue_number": 2315,
@@ -39308,7 +39477,7 @@
       "Seattle, WA",
       "East Palo Alto, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -41548,7 +41717,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T03:01:29.508844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "5e8c21c1-f470-4d63-854c-06b64c723453",
     "issue_number": 2463,
@@ -41556,7 +41726,7 @@
     "locations": [
       "Milpitas, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -42296,6 +42466,33 @@
     ],
     "title": "FPGA IP Design Engineer Intern",
     "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----Intern_R03324"
+  },
+  "606c64dc-f35a-44e7-a1d2-74e2b99d8fd8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Lightmatter",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T17:01:37Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "606c64dc-f35a-44e7-a1d2-74e2b99d8fd8",
+    "issue_number": 3352,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3352",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product & Test Engineering Intern",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5474690008"
   },
   "60881082-3930-422a-9543-38028c8e9208": {
     "applied_at": null,
@@ -45345,6 +45542,34 @@
     "title": "Digital Automation Co-op",
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Digital-Automation-Co-Op_R-098537"
   },
+  "68916cbe-97cc-414d-8732-d68540a99d35": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "APEX Analytix",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T23:24:15Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "68916cbe-97cc-414d-8732-d68540a99d35",
+    "issue_number": 3353,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3353",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product Management Intern - DevOps",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164"
+  },
   "68b27a72-5fd2-41d6-8e9d-28b39dcb8ec0": {
     "applied_at": null,
     "backfilled": false,
@@ -47264,6 +47489,34 @@
     ],
     "title": "Electrical Engineer Intern",
     "url": "https://job-boards.greenhouse.io/muonspace/jobs/5255112007"
+  },
+  "6d1ed40d-9902-423d-a91a-5ba7748ca158": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Texas Instruments",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T23:35:08Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "6d1ed40d-9902-423d-a91a-5ba7748ca158",
+    "issue_number": 3354,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3354",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Analog IC Design Engineer Intern - AI/ML",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319"
   },
   "6d1fe89e-0f46-49f6-adba-af9ae668e3cc": {
     "applied_at": null,
@@ -50967,6 +51220,33 @@
     "title": "AI Engineer Intern - SMAI TD AI Engineering Team",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991"
   },
+  "75359d3c-071a-4952-b187-7bdc22a0f482": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Attain Partners",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T17:54:27Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "75359d3c-071a-4952-b187-7bdc22a0f482",
+    "issue_number": 3355,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3355",
+    "locations": [
+      "McLean, VA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Analytics Intern",
+    "url": "https://job-boards.greenhouse.io/attainpartners/jobs/5485427008"
+  },
   "7543c6c1-0c66-4d80-8700-6c8fdda69ab7": {
     "applied_at": null,
     "backfilled": false,
@@ -51882,6 +52162,35 @@
     "title": "Systems Engineering Co-op",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039"
   },
+  "77c4fdea-8816-4818-9130-dac8b35913f9": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "BGE",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T17:36:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "77c4fdea-8816-4818-9130-dac8b35913f9",
+    "issue_number": 3356,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3356",
+    "locations": [
+      "Oakbrook Terrace, IL"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Business Analyst Intern - GIS",
+    "url": "https://careers.bge.com/jobs/34737?icims=1&lang=en-us"
+  },
   "77c8e346-3780-4747-992a-a0692af4336d": {
     "applied_at": null,
     "backfilled": false,
@@ -52080,6 +52389,33 @@
     ],
     "title": "Computer Vision/Machine Learning Intern",
     "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1"
+  },
+  "78737283-4ec8-46a0-b0bd-933a3828da28": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Blount Fine Foods",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T23:41:28Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "78737283-4ec8-46a0-b0bd-933a3828da28",
+    "issue_number": 3357,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3357",
+    "locations": [
+      "Fall River, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Manufacturing Operations Analytics Intern",
+    "url": "https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false"
   },
   "78a00951-890f-474e-94ee-6e0cc1a2b9f7": {
     "applied_at": null,
@@ -53028,7 +53364,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T03:01:29.508844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "7a79986f-d936-441f-8d1a-33380dad3688",
     "issue_number": 2473,
@@ -53036,7 +53373,7 @@
     "locations": [
       "Milpitas, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -62668,7 +63005,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T03:01:29.508844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T23:29:05.860462Z",
     "id": "9147dac1-26c6-4658-9945-d0022e829e9a",
     "issue_number": 2046,
@@ -62676,7 +63014,7 @@
     "locations": [
       "Hartford, CT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -63382,7 +63720,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T03:01:29.508844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-18T10:19:34.172875Z",
     "id": "931408fb-5cb7-4179-8c33-35a242bbc266",
     "issue_number": 1794,
@@ -63390,7 +63729,7 @@
     "locations": [
       "Fremont, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -76049,6 +76388,34 @@
     "title": "Field Operations Analyst Intern",
     "url": "https://jobs.grainger.com/Canada/job/THORNHILL-Analyste-des-op%C3%A9rations-de-terrain-1-1-ON-L3T-7W8/1450732400/?ats=successfactors"
   },
+  "af3eb102-71c0-4ec6-b56e-d1109f2abe2b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Paccar",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T23:50:32Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "af3eb102-71c0-4ec6-b56e-d1109f2abe2b",
+    "issue_number": 3358,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3358",
+    "locations": [
+      "Denton, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Scientist Intern",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors"
+  },
   "af4c13fb-d5b5-4e8e-a1b6-5fa1aacbf330": {
     "applied_at": null,
     "backfilled": false,
@@ -85130,7 +85497,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T03:01:29.508844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "c38dd12a-f9fd-4a0b-a05b-3cab487861a4",
     "issue_number": 2334,
@@ -85138,7 +85506,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -87271,7 +87639,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T03:01:29.508844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T01:39:33.789709Z",
     "id": "c7ea0325-d8d2-42f5-b7ac-3e4998fe42a5",
     "issue_number": 3212,
@@ -87279,7 +87648,7 @@
     "locations": [
       "Raleigh, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -89247,6 +89616,33 @@
     ],
     "title": "Compiler Engineering Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933"
+  },
+  "cd04939e-41ff-4433-9c3d-b29cd8035646": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Sallie Mae",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "cd04939e-41ff-4433-9c3d-b29cd8035646",
+    "issue_number": 3359,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3359",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633"
   },
   "cd15449d-c9fd-433c-ae5d-6a4212b9bc23": {
     "applied_at": null,
@@ -92675,7 +93071,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T03:01:29.508844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-16T21:09:28.219206Z",
     "id": "d48bdf87-b0ff-4edc-a9a5-5f5ecca2154c",
     "issue_number": 3298,
@@ -92683,7 +93080,7 @@
     "locations": [
       "Marlborough, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -93224,6 +93621,33 @@
     ],
     "title": "Logistics Support Analysis Intern",
     "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160"
+  },
+  "d5a4e4de-19f7-4b33-af36-7e2512eefca5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Falcomm",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T23:14:32Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "d5a4e4de-19f7-4b33-af36-7e2512eefca5",
+    "issue_number": 3360,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3360",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "AI/ML Software Engineer Graduate Intern - AI/CAD Integration",
+    "url": "https://apply.workable.com/falcomm/j/41F139E6F7/apply"
   },
   "d5b13036-27ec-4902-ba94-12246ec895a1": {
     "applied_at": null,
@@ -101230,7 +101654,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T03:01:29.508844Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "e659fec5-e932-49f7-941c-34d29c17ac98",
     "issue_number": 2342,
@@ -101238,7 +101663,7 @@
     "locations": [
       "Beaverton, OR"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -104605,6 +105030,33 @@
     "title": "Audit & Assurance Intern - AI and Data Science",
     "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857"
   },
+  "ed576dee-4b9d-4f95-97c2-96cc62b8ca27": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SAS",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T00:00:00Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "ed576dee-4b9d-4f95-97c2-96cc62b8ca27",
+    "issue_number": 3361,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3361",
+    "locations": [
+      "Cary, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "IoT Analytics Intern",
+    "url": "https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false"
+  },
   "ed9c9453-52b1-4241-ac91-0065c19d9baf": {
     "applied_at": null,
     "backfilled": false,
@@ -106376,6 +106828,33 @@
     ],
     "title": "Unreal Engine Developer Intern - Se - Engin Unreal",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-900---Dveloppeur-se--Engin-Unreal_123654"
+  },
+  "f1e8f352-3cfb-4c29-aed1-c4c57d3bdb5d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Falcomm",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T23:14:32Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "f1e8f352-3cfb-4c29-aed1-c4c57d3bdb5d",
+    "issue_number": 3362,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3362",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration",
+    "url": "https://apply.workable.com/falcomm/j/64D0E86EFE/apply"
   },
   "f1ef6d6c-618e-4935-8928-f02675833955": {
     "applied_at": null,
@@ -108157,6 +108636,33 @@
     ],
     "title": "Claims Technical Intern",
     "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Technical-Intern---Summer-2027_R9873-1"
+  },
+  "f5c0fd6f-a358-4c5b-8523-ec698800634b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Exowatt",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T23:04:21Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "f5c0fd6f-a358-4c5b-8523-ec698800634b",
+    "issue_number": 3363,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3363",
+    "locations": [
+      "Miami, FL"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Robotics & Physical AI Intern",
+    "url": "https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c/apply"
   },
   "f5f92fa6-34b5-4a3d-9bb0-65f4e2a13555": {
     "applied_at": null,
@@ -111518,6 +112024,34 @@
     ],
     "title": "Software Development Intern",
     "url": "https://ursamajor.com/careers/?gh_jid=4746827005"
+  },
+  "fd1e375c-f802-422b-b643-8f43471c209b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Microchip Technology",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T03:01:29.508844Z",
+    "id": "fd1e375c-f802-422b-b643-8f43471c209b",
+    "issue_number": 3364,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3364",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Engineering Intern - ASIC Verification",
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R4910-26"
   },
   "fd295519-9a15-422a-a9c7-36067c9a404a": {
     "applied_at": null,
