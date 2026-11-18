@@ -1994,7 +1994,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-17T12:44:38.966334Z",
     "id": "05799004-d77a-4b48-b797-2b29a38c7087",
     "issue_number": 3327,
@@ -2002,7 +2003,7 @@
     "locations": [
       "Dallas, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -7852,7 +7853,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "12008b01-d68c-4c3d-89e5-fe8a4fc022f7",
     "issue_number": 2443,
@@ -7860,7 +7862,7 @@
     "locations": [
       "Murrysville, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -15289,7 +15291,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-12T04:16:05.702465Z",
     "id": "2340e846-c70c-49d0-b110-70c6e65ba5fa",
     "issue_number": 3151,
@@ -15297,7 +15300,7 @@
     "locations": [
       "Cedar Rapids, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -16253,7 +16256,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T15:34:57.194142Z",
     "id": "25230324-75c3-45fd-95c9-96e3284c06d4",
     "issue_number": 181,
@@ -16261,7 +16265,7 @@
     "locations": [
       "Dallas, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -19607,6 +19611,33 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039"
+  },
+  "2c35406a-a454-4de2-a3de-763af7d27d5d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "The Aerospace Corporation",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-12T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T19:36:08.115961Z",
+    "id": "2c35406a-a454-4de2-a3de-763af7d27d5d",
+    "issue_number": 3372,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3372",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Lidar Undergraduate Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200"
   },
   "2c3f5dd7-36fd-40f7-a178-66ba6ac4ffea": {
     "applied_at": null,
@@ -23995,7 +24026,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-18T03:01:29.508844Z",
     "id": "3775de5d-9a03-4c19-b11c-c719087bcf25",
     "issue_number": 3349,
@@ -24003,7 +24035,7 @@
     "locations": [
       "Indianapolis, IN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -30843,7 +30875,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T01:00:40.264360Z",
     "id": "46811bb8-111e-47e3-b675-aca761f58e59",
     "issue_number": 1747,
@@ -30851,7 +30884,7 @@
     "locations": [
       "Boston, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -40610,7 +40643,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T01:00:40.264360Z",
     "id": "5bfc436a-9656-4284-9854-0a7cfa20e018",
     "issue_number": 1752,
@@ -40618,7 +40652,7 @@
     "locations": [
       "Plano, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -48896,7 +48930,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "705e5826-affc-452d-a27d-d5d1b43a091e",
     "issue_number": 2976,
@@ -48904,7 +48939,7 @@
     "locations": [
       "Burlington, VT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -67021,7 +67056,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "99f97a9b-d612-47ee-aed7-7b2e1f5083af",
     "issue_number": 2989,
@@ -67029,7 +67065,7 @@
     "locations": [
       "Needham, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -68124,7 +68160,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T17:01:48.156423Z",
     "id": "9c3d434b-a6d9-43ad-a828-71d1d4170e6e",
     "issue_number": 3049,
@@ -68132,7 +68169,7 @@
     "locations": [
       "Boulder, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -68698,6 +68735,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-18T19:36:08.115961Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "9d3deed3-7476-4d1b-ac11-2072ffe638ff",
@@ -68706,7 +68744,7 @@
     "locations": [
       "Torrance, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -73282,7 +73320,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-17T12:44:38.966334Z",
     "id": "a73d65d0-ef99-4368-9bb7-6e1a8095fa49",
     "issue_number": 3335,
@@ -73290,7 +73329,7 @@
     "locations": [
       "Dallas, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -77034,7 +77073,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-02T23:55:38.667803Z",
     "id": "afb85700-ea58-43bf-99ac-13cfaadcee3e",
     "issue_number": 893,
@@ -77042,7 +77082,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -77234,7 +77274,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T19:32:41.513227Z",
     "id": "b02141a2-8d29-4f0b-b7a7-280a77592468",
     "issue_number": 1197,
@@ -77242,7 +77283,7 @@
     "locations": [
       "Jacksonville, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -80457,7 +80498,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "b83ac3e2-dbad-4c8f-ad68-1ed696c5a30a",
     "issue_number": 2332,
@@ -80465,7 +80507,7 @@
     "locations": [
       "Boise, ID"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -86010,7 +86052,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-06T02:17:41.169451Z",
     "id": "c44ccf4f-7352-4f14-9f9d-43ce7522c340",
     "issue_number": 1007,
@@ -86020,7 +86063,7 @@
       "St. Louis, MO",
       "Effingham, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -89779,7 +89822,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-18T03:01:29.508844Z",
     "id": "cd04939e-41ff-4433-9c3d-b29cd8035646",
     "issue_number": 3359,
@@ -89787,7 +89831,7 @@
     "locations": [
       "Indianapolis, IN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -95750,6 +95794,34 @@
     "title": "Early Careers Automation Programmer Intern",
     "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Automation-Programmer-Intern_R0059484"
   },
+  "d9d64ad1-bfcf-465d-90e1-bad73dcb61da": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Toyota Research Institute",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-18T15:42:44Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T19:36:08.115961Z",
+    "id": "d9d64ad1-bfcf-465d-90e1-bad73dcb61da",
+    "issue_number": 3373,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3373",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Robotics Intern - Prototyping and Robotics Operations",
+    "url": "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply"
+  },
   "d9edb3e4-6445-4b89-ba23-ab519604de04": {
     "applied_at": null,
     "backfilled": true,
@@ -100648,6 +100720,36 @@
     ],
     "title": "Agricultural Business Analytics Intern",
     "url": "https://careers.agcocorp.com/job/Champaign-Agricultural-Business-Analytics-Intern-Summer-2027-IL/1440135500/?ats=successfactors"
+  },
+  "e40ead49-69ad-422a-8008-5929557e27a4": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "General Dynamics Information Technology",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-16T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T19:36:08.115961Z",
+    "id": "e40ead49-69ad-422a-8008-5929557e27a4",
+    "issue_number": 3374,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3374",
+    "locations": [
+      "Falls Church, VA",
+      "Gaithersburg, MD"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Engineering Intern",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323"
   },
   "e41fbb04-5d3a-4afb-bf00-859f48e0a2aa": {
     "applied_at": null,
@@ -105876,7 +105978,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T19:36:08.115961Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-18T11:38:22.125339Z",
     "id": "ef2faf73-e6f3-42de-9c9d-4b35b6fdb91f",
     "issue_number": 3370,
@@ -105884,7 +105987,7 @@
     "locations": [
       "Dallas, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
