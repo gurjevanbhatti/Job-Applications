@@ -1233,6 +1233,35 @@
     "title": "Systems Engineer Intern",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01881158"
   },
+  "0398ec3d-cdf1-4c12-9aab-b7ff257065b7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Canadian Strategic Missions",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-18T07:13:56Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T11:38:22.125339Z",
+    "id": "0398ec3d-cdf1-4c12-9aab-b7ff257065b7",
+    "issue_number": 3365,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3365",
+    "locations": [
+      "Waterloo, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Engineering Intern - Labs",
+    "url": "https://csmc.bamboohr.com/careers/51/"
+  },
   "03a462fa-9718-48c0-a23a-12c1003d5c8d": {
     "applied_at": null,
     "backfilled": false,
@@ -5162,6 +5191,35 @@
     ],
     "title": "Hardware Engineer Intern",
     "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214064"
+  },
+  "0c6dc660-1c39-4976-ae4d-67e73ae7f1d6": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Smarty",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-18T02:29:56Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T11:38:22.125339Z",
+    "id": "0c6dc660-1c39-4976-ae4d-67e73ae7f1d6",
+    "issue_number": 3366,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3366",
+    "locations": [
+      "Orem, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027",
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "title": "Product Management Intern",
+    "url": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749"
   },
   "0c75e8d4-61e1-4bdc-ad83-48103037033c": {
     "applied_at": null,
@@ -33713,7 +33771,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T11:38:22.125339Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-13T22:59:39.271483Z",
     "id": "4db14536-35df-4c54-a441-ac5bd7b8253f",
     "issue_number": 1530,
@@ -33721,7 +33780,7 @@
     "locations": [
       "Framingham, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -43246,7 +43305,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T11:38:22.125339Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T01:10:29.668738Z",
     "id": "6244dbb0-e314-486b-b2c6-143c829bd211",
     "issue_number": 1991,
@@ -43255,7 +43315,7 @@
       "Seattle, WA",
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -43562,7 +43622,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T11:38:22.125339Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T00:25:28.115604Z",
     "id": "63520628-3bea-473d-856d-e7aeeca07d8e",
     "issue_number": 2388,
@@ -43570,7 +43631,7 @@
     "locations": [
       "Needham, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -44665,6 +44726,33 @@
     ],
     "title": "IT Developer Analyst Intern",
     "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1"
+  },
+  "660c847a-60fb-4269-bd43-e9e2f7ef9f36": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SSI",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-18T07:04:29Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T11:38:22.125339Z",
+    "id": "660c847a-60fb-4269-bd43-e9e2f7ef9f36",
+    "issue_number": 3367,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3367",
+    "locations": [
+      "Victoria, BC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Developer Co-op",
+    "url": "https://ssicorporate.bamboohr.com/careers/101/"
   },
   "66380619-8481-4fe4-947a-26176558c345": {
     "applied_at": null,
@@ -53225,7 +53313,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T11:38:22.125339Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T00:31:37.039261Z",
     "id": "7a1c6145-534b-4180-a87b-447e2edd9c8f",
     "issue_number": 222,
@@ -53233,7 +53322,7 @@
     "locations": [
       "Brea, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -64580,7 +64669,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T11:38:22.125339Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "947ecf5c-75d7-40ab-9352-13a2b8e00ce5",
     "issue_number": 2477,
@@ -64588,7 +64678,7 @@
     "locations": [
       "Cincinnati, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -67145,6 +67235,34 @@
     "title": "Software Development Engineer Co-op",
     "url": "https://job-boards.greenhouse.io/athinkingape/jobs/8203048"
   },
+  "9a47f7a1-f214-444d-99aa-90af3e2efe5c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Microsoft",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-18T02:33:14Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T11:38:22.125339Z",
+    "id": "9a47f7a1-f214-444d-99aa-90af3e2efe5c",
+    "issue_number": 3368,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3368",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Research Intern - Firmware Security",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140"
+  },
   "9a62a1d9-b377-4f59-8ea6-c0a34533d5c2": {
     "applied_at": null,
     "backfilled": false,
@@ -69252,6 +69370,34 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645"
+  },
+  "9ebeb8b0-e1e7-483c-8646-705fcf78e1f5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Ecliptic Enterprises",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-18T02:32:10Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T11:38:22.125339Z",
+    "id": "9ebeb8b0-e1e7-483c-8646-705fcf78e1f5",
+    "issue_number": 3369,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3369",
+    "locations": [
+      "San Luis Obispo, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Engineering Intern",
+    "url": "https://apply.workable.com/ecliptic-enterprises-corporation/j/45447E539A/apply"
   },
   "9ec1752c-1474-4db2-b945-15fdc3102303": {
     "applied_at": null,
@@ -72284,7 +72430,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T11:38:22.125339Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T00:25:28.115604Z",
     "id": "a585644d-0025-4f14-bcc6-e841979c4f42",
     "issue_number": 2408,
@@ -72293,7 +72440,7 @@
       "Austin, TX",
       "San Jose, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -74076,7 +74223,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T11:38:22.125339Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T23:36:16.435267Z",
     "id": "a9d08686-9b60-46b4-b4c6-c955c83223e5",
     "issue_number": 3134,
@@ -74084,7 +74232,7 @@
     "locations": [
       "Wyoming, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -80815,7 +80963,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T11:38:22.125339Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T03:06:05.330905Z",
     "id": "b90babbc-5fa6-4414-b46f-911f2e400a97",
     "issue_number": 2768,
@@ -80823,7 +80972,7 @@
     "locations": [
       "San Diego, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -86354,7 +86503,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T11:38:22.125339Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-17T12:44:38.966334Z",
     "id": "c5774094-54c2-4d78-bb91-86ec4d8cb4a7",
     "issue_number": 3338,
@@ -86362,7 +86512,7 @@
     "locations": [
       "Orem, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -93607,7 +93757,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T11:38:22.125339Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "d5833357-34bc-4fcd-83c8-6158cb05a53b",
     "issue_number": 2708,
@@ -93615,7 +93766,7 @@
     "locations": [
       "North Vancouver, BC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -105713,6 +105864,33 @@
     "title": "Hardware Electrical Engineer Intern - Crypto and Cross Domain Solutions",
     "url": "https://careers-gdms.icims.com/jobs/74787/job?mobile=true&needsRedirect=false"
   },
+  "ef2faf73-e6f3-42de-9c9d-4b35b6fdb91f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Invitation Homes",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-17T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T11:38:22.125339Z",
+    "id": "ef2faf73-e6f3-42de-9c9d-4b35b6fdb91f",
+    "issue_number": 3370,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3370",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern-Software-Engineering_R5984"
+  },
   "ef31b232-5a78-40fe-9d4a-b2cca861468f": {
     "applied_at": null,
     "backfilled": false,
@@ -106671,7 +106849,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-18T11:38:22.125339Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-12T04:16:05.702465Z",
     "id": "f176d1e9-17ce-4475-93c3-e20392a140d5",
     "issue_number": 3170,
@@ -106679,7 +106858,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -110485,6 +110664,33 @@
     ],
     "title": "R&D Engineer Intern",
     "url": "https://apply.workable.com/amax-1/j/19B39953E1/apply"
+  },
+  "fa2cd117-f8f4-4f40-bb10-fb0561ef0154": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Smarty",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-18T02:29:56Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-18T11:38:22.125339Z",
+    "id": "fa2cd117-f8f4-4f40-bb10-fb0561ef0154",
+    "issue_number": 3371,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3371",
+    "locations": [
+      "Orem, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Data Acquisition & Quality Specialist Intern",
+    "url": "https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6"
   },
   "fa5194c0-3966-4580-a96a-7ce946e87342": {
     "applied_at": null,
