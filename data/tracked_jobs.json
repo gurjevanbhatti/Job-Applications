@@ -8022,7 +8022,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-19T18:28:24.513120Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-10T01:16:06.398349Z",
     "id": "123eb7fc-8532-4e54-b47f-9118727344d0",
     "issue_number": 1349,
@@ -8030,7 +8031,7 @@
     "locations": [
       "Madison, WI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -16835,7 +16836,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-19T18:28:24.513120Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T02:03:43.084712Z",
     "id": "2650678d-3f99-42a2-abb7-04d07ba29368",
     "issue_number": 3061,
@@ -16845,7 +16847,7 @@
       "Santa Clara, CA",
       "United States"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -17263,7 +17265,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-19T18:28:24.513120Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T01:39:33.789709Z",
     "id": "26ed8f15-5f1f-4a5a-9cca-0403cf4d7334",
     "issue_number": 3189,
@@ -17271,7 +17274,7 @@
     "locations": [
       "Aurora, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -18117,7 +18120,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-19T18:28:24.513120Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "289ab040-f17c-4634-aa81-80fcc12325a8",
     "issue_number": 2453,
@@ -18125,7 +18129,7 @@
     "locations": [
       "Indianapolis, IN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -26779,7 +26783,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-19T18:28:24.513120Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T18:48:25.780943Z",
     "id": "3d3c9658-794e-4e6b-a5c4-c03ae49b51fe",
     "issue_number": 276,
@@ -26787,7 +26792,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -40676,7 +40681,8 @@
       "Master's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-19T18:28:24.513120Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T06:01:40.436533Z",
     "id": "5bcc84d6-aa71-420b-8da9-eb3f46477f69",
     "issue_number": 161,
@@ -40684,7 +40690,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -54954,7 +54960,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-19T18:28:24.513120Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T01:00:40.264360Z",
     "id": "7e2ddc17-84b3-4327-99fb-1e197ca793c3",
     "issue_number": 1759,
@@ -54962,7 +54969,7 @@
     "locations": [
       "Plano, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -68711,7 +68718,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-19T18:28:24.513120Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-17T05:35:28.888084Z",
     "id": "9ca48e9a-a09b-4300-802e-47d9b4466d99",
     "issue_number": 1787,
@@ -68719,7 +68727,7 @@
     "locations": [
       "Plano, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -74099,7 +74107,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-19T18:28:24.513120Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T15:34:57.194142Z",
     "id": "a8472d45-9d65-479c-9822-173cdacfce6c",
     "issue_number": 193,
@@ -74107,7 +74116,7 @@
     "locations": [
       "Hudsonville, MI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
@@ -74369,6 +74378,34 @@
     ],
     "title": "Computer Engineering Intern",
     "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors"
+  },
+  "a8d87113-aa75-4085-aa94-8b2b2fee847a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Scout Space",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-19T11:11:03Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-19T18:28:24.513120Z",
+    "id": "a8d87113-aa75-4085-aa94-8b2b2fee847a",
+    "issue_number": 3397,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3397",
+    "locations": [
+      "Reston, VA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Computer Vision Engineer Intern - AI/ML",
+    "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008"
   },
   "a8d8b900-c9f3-46b0-9819-92b4122fdd96": {
     "applied_at": null,
@@ -76964,7 +77001,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-19T18:28:24.513120Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-18T03:01:29.508844Z",
     "id": "af3eb102-71c0-4ec6-b56e-d1109f2abe2b",
     "issue_number": 3358,
@@ -76972,7 +77010,7 @@
     "locations": [
       "Denton, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -82945,6 +82983,33 @@
     ],
     "title": "Uptime Management Center Intern",
     "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8211925"
+  },
+  "bc1488c1-9306-473d-8806-8f2222f6a278": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Manulife Financial",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-17T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-19T18:28:24.513120Z",
+    "id": "bc1488c1-9306-473d-8806-8f2222f6a278",
+    "issue_number": 3398,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3398",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Technology Enablement Analyst Co-op",
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774-1"
   },
   "bc23c1eb-3ab0-4b67-a4a5-290a31053a40": {
     "applied_at": null,
@@ -105461,6 +105526,33 @@
     "title": "Operations Analytics Co-op Intern - Intern",
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261"
   },
+  "ec63f3d6-689a-45ea-aa6a-980217419acf": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Space Dynamics Laboratory",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-19T15:22:30Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-19T18:28:24.513120Z",
+    "id": "ec63f3d6-689a-45ea-aa6a-980217419acf",
+    "issue_number": 3399,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3399",
+    "locations": [
+      "Logan, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineering Assistant Intern",
+    "url": "https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant"
+  },
   "ec682ade-102c-4bca-9824-a71e73c64c13": {
     "applied_at": null,
     "backfilled": false,
@@ -106885,6 +106977,33 @@
     ],
     "title": "Application Development Intern - Application Development",
     "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Burlington/Summer-2027-Intern--Application-Development_R0020810"
+  },
+  "f015f687-d0c7-457d-b211-12b8b167fe60": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "L3Harris Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-19T15:40:55Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-19T18:28:24.513120Z",
+    "id": "f015f687-d0c7-457d-b211-12b8b167fe60",
+    "issue_number": 3400,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3400",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Associate Optical Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Optical-Engineer-NY-14606/1422807100/?ats=successfactors"
   },
   "f0260062-2176-46f8-896e-37df2e86fbd4": {
     "applied_at": null,
