@@ -1369,7 +1369,8 @@
       "Master's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-20T08:01:32.528126Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T00:29:31.170314Z",
     "id": "03a8913b-a007-4657-8f59-bc29a722beda",
     "issue_number": 288,
@@ -1377,7 +1378,7 @@
     "locations": [
       "Bossier City, LA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -5453,6 +5454,34 @@
     ],
     "title": "Research and Engineering Intern - Agentic Systems Intelligence",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260"
+  },
+  "0c884a35-d2e9-478a-b007-cb9b4907befe": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Scheels",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T07:25:41Z",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "0c884a35-d2e9-478a-b007-cb9b4907befe",
+    "issue_number": 3431,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3431",
+    "locations": [
+      "Fargo, ND"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Data Analyst Intern",
+    "url": "https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24"
   },
   "0c894f36-0b46-44e0-a2f3-ffe86146935f": {
     "applied_at": null,
@@ -15774,6 +15803,34 @@
     "title": "RISC-5 CPU Intern",
     "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256699007"
   },
+  "23c15372-9632-404c-a541-af54e55a15f8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Lucid Motors",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-19T23:24:43Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "23c15372-9632-404c-a541-af54e55a15f8",
+    "issue_number": 3432,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3432",
+    "locations": [
+      "Newark, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI & Data Intern - Applied AI/Machine Learning",
+    "url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007"
+  },
   "23de01d7-5bd1-4b33-9c59-b797d4e84b43": {
     "applied_at": null,
     "backfilled": false,
@@ -18086,6 +18143,34 @@
     ],
     "title": "Integration and Test Engineer Intern",
     "url": "https://careers-gdms.icims.com/jobs/75271/job?mobile=true&needsRedirect=false"
+  },
+  "28281120-e756-4b72-b1a7-c54f3ced2d39": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Amii",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-20T02:49:30Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "28281120-e756-4b72-b1a7-c54f3ced2d39",
+    "issue_number": 3433,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3433",
+    "locations": [
+      "Edmonton, AB, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Machine Learning Resident",
+    "url": "https://amii.bamboohr.com/careers/249/"
   },
   "282a057f-48f4-4133-a52c-2261299e04a8": {
     "applied_at": null,
@@ -21164,6 +21249,33 @@
     "title": "Product Operations Intern",
     "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014477"
   },
+  "2f0708e4-8365-497f-9fd5-cd1b2e6babcc": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Southern Mississippi Trading",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T02:39:11Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "2f0708e4-8365-497f-9fd5-cd1b2e6babcc",
+    "issue_number": 3434,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3434",
+    "locations": [
+      "Waynesboro, MS"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "AI and Business Analytics Intern",
+    "url": "https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern"
+  },
   "2f0ce744-ccb1-4843-adeb-0f63d5bd2b49": {
     "applied_at": null,
     "backfilled": true,
@@ -21872,6 +21984,34 @@
     ],
     "title": "Hardware Engineering Co-op",
     "url": "https://jobs.lever.co/diversified-automation/7a1f1890-bc5d-4e5e-a510-7fe7f85660d3/apply"
+  },
+  "30a91fba-b828-4176-a249-7439c077b383": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Amii",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-20T02:49:31Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "30a91fba-b828-4176-a249-7439c077b383",
+    "issue_number": 3435,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3435",
+    "locations": [
+      "Edmonton, AB, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Machine Learning Resident",
+    "url": "https://amii.bamboohr.com/careers/254/"
   },
   "30aaecc3-d600-4c24-bde5-386b4056f2ee": {
     "applied_at": null,
@@ -31996,7 +32136,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-20T08:01:32.528126Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T23:36:16.435267Z",
     "id": "48935b0b-e0eb-428e-9f8a-e059c24622c3",
     "issue_number": 3124,
@@ -32004,7 +32145,7 @@
     "locations": [
       "Tewksbury, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -36471,7 +36612,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-20T08:01:32.528126Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T01:39:33.789709Z",
     "id": "527bfca2-0633-4f39-9057-864baf83e6ac",
     "issue_number": 3199,
@@ -36479,7 +36621,7 @@
     "locations": [
       "Waltham, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -44943,6 +45085,34 @@
     ],
     "title": "Machine Learning Engineer Intern",
     "url": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply"
+  },
+  "64e1919d-6c6d-43fa-a3ee-0f0579a5f5d2": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "EFI Foundation",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T07:19:51Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "64e1919d-6c6d-43fa-a3ee-0f0579a5f5d2",
+    "issue_number": 3436,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3436",
+    "locations": [
+      "Washington, DC"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Research Intern/Fellow",
+    "url": "https://efifoundation.bamboohr.com/careers/43/"
   },
   "64e920f9-c6b0-4b3e-a080-c6b09813effc": {
     "applied_at": null,
@@ -61133,6 +61303,33 @@
     "title": "Business Intelligence Consulting Intern",
     "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Business-Intelligence-Consulting-Intern---Summer-2027_JR121327"
   },
+  "8ba99fbd-63b7-40d0-a543-94677e208bdd": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Piper Sandler",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-19T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "8ba99fbd-63b7-40d0-a543-94677e208bdd",
+    "issue_number": 3437,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3437",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Engineering Intern",
+    "url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805"
+  },
   "8bad299b-1228-41e1-92f9-d56c2e26c840": {
     "applied_at": null,
     "backfilled": false,
@@ -61784,6 +61981,35 @@
     ],
     "title": "Autonomy Intern - Autonomy - Path Planning",
     "url": "https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply"
+  },
+  "8cf12030-dee3-49e9-baaa-ea5dfb834537": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Lucid Motors",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T01:27:26Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "8cf12030-dee3-49e9-baaa-ea5dfb834537",
+    "issue_number": 3438,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3438",
+    "locations": [
+      "Newark, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "title": "Infotainment Software Intern",
+    "url": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007"
   },
   "8cfa2d3f-ae04-4615-a8ca-4ebb1159bef8": {
     "applied_at": null,
@@ -63237,7 +63463,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-20T08:01:32.528126Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-28T02:17:01.653424Z",
     "id": "901b53ec-fba2-40bc-89d6-a7200607ee62",
     "issue_number": 2349,
@@ -63245,7 +63472,7 @@
     "locations": [
       "Carson, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Fall 2026"
     ],
@@ -72587,6 +72814,33 @@
     "title": "IS Intern - IT Ecommerce & Marketing Developer",
     "url": "https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Byron-Center-Michigan/IS-Internship---IT-Ecommerce---Marketing-Developer_R90110"
   },
+  "a330f92d-8bbe-4101-99dd-42c10ff9ec7a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Tarana Wireless",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T02:21:57Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "a330f92d-8bbe-4101-99dd-42c10ff9ec7a",
+    "issue_number": 3439,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3439",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Hardware Test Engineer Intern",
+    "url": "https://taranawireless.applytojob.com/apply/qLnpfwLHew/Hardware-Test-Engineer-Intern"
+  },
   "a3467596-1476-4677-a459-8383949106b7": {
     "applied_at": null,
     "backfilled": false,
@@ -76237,7 +76491,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-20T08:01:32.528126Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T18:56:55.974827Z",
     "id": "abaefc1d-50b7-4172-a329-4fc9c7667dbd",
     "issue_number": 2438,
@@ -76245,7 +76500,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -82906,6 +83161,34 @@
     "title": "Systems Engineering Test Equipment Intern",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01879955"
   },
+  "babedaae-ed92-4a49-bf32-6765ef14cd04": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Amii",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-20T02:49:30Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "babedaae-ed92-4a49-bf32-6765ef14cd04",
+    "issue_number": 3440,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3440",
+    "locations": [
+      "Edmonton, AB, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Machine Learning Resident",
+    "url": "https://amii.bamboohr.com/careers/247/"
+  },
   "bace5e25-f7c7-40db-875f-96e30740cd4b": {
     "applied_at": null,
     "backfilled": false,
@@ -84960,7 +85243,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-20T08:01:32.528126Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T10:52:45.516678Z",
     "id": "bf826f59-9208-4e67-8ba0-5e800103a96e",
     "issue_number": 2799,
@@ -84968,7 +85252,7 @@
     "locations": [
       "United States"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -86072,6 +86356,34 @@
     "title": "Project Engineer Intern",
     "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4500632"
   },
+  "c1b6a336-1f07-4e77-9682-cdb74fad5b71": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Lawrence Livermore National Laboratory (LLNL)",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T00:24:20Z",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "c1b6a336-1f07-4e77-9682-cdb74fad5b71",
+    "issue_number": 3441,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3441",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990016986011"
+  },
   "c1ba6f20-fc24-4161-a598-49b44171c273": {
     "applied_at": null,
     "backfilled": false,
@@ -86381,6 +86693,33 @@
     ],
     "title": "Motorsports Intern - Summer 2027",
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Motorsports-Intern--Summer-2027-_R50520"
+  },
+  "c267ac77-cf36-46c9-8ade-0c7e564d152e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "LinkedIn",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T01:09:28Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "c267ac77-cf36-46c9-8ade-0c7e564d152e",
+    "issue_number": 3442,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3442",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI/ML Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162628808"
   },
   "c289fea9-67db-45d8-ab27-d9aa699b67cc": {
     "applied_at": null,
@@ -90486,6 +90825,34 @@
     "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
     "url": "https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false"
   },
+  "cb3d3d43-dec0-479f-bf5c-08c24c2f12fa": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Lucid Motors",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T00:38:26Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "cb3d3d43-dec0-479f-bf5c-08c24c2f12fa",
+    "issue_number": 3443,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3443",
+    "locations": [
+      "Newark, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "ADAS Systems Integration Intern",
+    "url": "https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007"
+  },
   "cb472a4d-abf7-424b-8a9b-bb782e1f01c8": {
     "applied_at": null,
     "backfilled": false,
@@ -92050,6 +92417,34 @@
     "title": "Software Engineering Intern - AI Solutions",
     "url": "https://jobs.keysight.com/jobs/54322?icims=1"
   },
+  "cf9000e5-12f7-4f27-8411-ea80f63beb57": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Samsung",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T00:57:47Z",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "cf9000e5-12f7-4f27-8411-ea80f63beb57",
+    "issue_number": 3444,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3444",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Serdes Analog Design Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003"
+  },
   "cfa0ad0d-5137-49c2-9578-79f159b122c1": {
     "applied_at": null,
     "backfilled": false,
@@ -92121,8 +92516,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-20T00:49:39.381397Z",
     "id": "cfa7b300-9e9b-4998-8b65-1c07bef7e8a5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3426,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3426",
     "locations": [
       "Westerville, OH",
       "Fort Lauderdale, FL",
@@ -93667,6 +94062,33 @@
     ],
     "title": "Product Management Intern",
     "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1"
+  },
+  "d263736b-e32b-4826-90b6-26e21a6d1a7d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Melaleuca",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T07:17:08Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "d263736b-e32b-4826-90b6-26e21a6d1a7d",
+    "issue_number": 3445,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3445",
+    "locations": [
+      "Idaho Falls, ID"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Development Intern",
+    "url": "https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf"
   },
   "d264e688-c953-468e-a492-487e9683cb63": {
     "applied_at": null,
@@ -95304,8 +95726,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-20T00:49:39.381397Z",
     "id": "d5e85bac-e66d-4ac0-9624-4882e3634ade",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3427,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3427",
     "locations": [
       "United States"
     ],
@@ -107867,6 +108289,34 @@
     "title": "Generative Media Research Intern",
     "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179"
   },
+  "f057ac78-d4d1-4443-8a91-99ef6b3ee471": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Lucid Motors",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T00:40:59Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-20T08:01:32.528126Z",
+    "id": "f057ac78-d4d1-4443-8a91-99ef6b3ee471",
+    "issue_number": 3446,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3446",
+    "locations": [
+      "Newark, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving",
+    "url": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007"
+  },
   "f059bcac-24f2-41a0-981e-d2d3df6ed71d": {
     "applied_at": null,
     "backfilled": false,
@@ -108398,8 +108848,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-20T00:49:39.381397Z",
     "id": "f158d40c-7336-4126-86b0-37feccb18594",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3428,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3428",
     "locations": [
       "Westerville, OH",
       "Fort Lauderdale, FL",
@@ -110687,7 +111137,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-20T08:01:32.528126Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-28T02:17:01.653424Z",
     "id": "f659fed4-5d48-4ce0-9d80-bbaecf78e22d",
     "issue_number": 2353,
@@ -110695,7 +111146,7 @@
     "locations": [
       "San Jose, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -111483,8 +111934,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-20T00:49:39.381397Z",
     "id": "f830fea0-864e-4afe-80e7-419b5b9a9d6c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3429,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3429",
     "locations": [
       "Boulder, CO"
     ],
@@ -112336,7 +112787,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-20T08:01:32.528126Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-12T04:16:05.702465Z",
     "id": "f9f754f3-4be2-47b3-a3e3-c25461bccb9e",
     "issue_number": 3173,
@@ -112344,7 +112796,7 @@
     "locations": [
       "Fremont, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -113410,7 +113862,8 @@
       "Master's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-20T08:01:32.528126Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-24T00:29:31.170314Z",
     "id": "fbed94d0-207f-4923-97dd-2c066c0e8d6a",
     "issue_number": 338,
@@ -113418,7 +113871,7 @@
     "locations": [
       "Bossier City, LA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -115112,8 +115565,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-20T00:49:39.381397Z",
     "id": "ffd308ae-0047-4f00-9033-765b3021b684",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3430,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3430",
     "locations": [
       "Beaverton, OR"
     ],
