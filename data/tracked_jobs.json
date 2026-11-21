@@ -11967,7 +11967,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-21T12:03:03.346925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "1a2e7785-ecd0-432f-a592-087e510f7845",
     "issue_number": 2301,
@@ -11975,7 +11976,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -12688,6 +12689,34 @@
     ],
     "title": "Data Engineer Intern",
     "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787"
+  },
+  "1c079a77-a351-49ec-9265-bac5e53ddffe": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Etched",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-21T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-21T12:03:03.346925Z",
+    "id": "1c079a77-a351-49ec-9265-bac5e53ddffe",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Signal Integrity and Power Integrity Intern",
+    "url": "https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true"
   },
   "1c09d2f4-4c74-41e7-be74-58dfbd9a569d": {
     "applied_at": null,
@@ -24864,7 +24893,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-21T12:03:03.346925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-20T16:56:47.887735Z",
     "id": "36697ae4-2c1a-4649-82f5-c13159e97aad",
     "issue_number": 3453,
@@ -24872,7 +24902,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -35064,8 +35094,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "4cfcbda9-a456-478d-b056-40194e240ac7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3511,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3511",
     "locations": [
       "Remote in USA",
       "Minneapolis, MN",
@@ -36590,8 +36620,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "508fc924-1d5c-4bc7-a1a6-9af031033913",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3512,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3512",
     "locations": [
       "Kirkland, WA"
     ],
@@ -36814,8 +36844,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "513802ee-1c64-4abf-bab6-8b1bb6e754ec",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3513,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3513",
     "locations": [
       "Austin, TX",
       "Torrance, CA"
@@ -36982,8 +37012,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "516c5413-8ec4-44f7-90bc-50c8c6cf8ff1",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3514,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3514",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -37325,8 +37355,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "51f894db-f59f-4dfc-abc5-251d66cd750c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3515,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3515",
     "locations": [
       "Plano, TX"
     ],
@@ -37697,8 +37727,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "5253cc96-40f2-482a-872e-687d63e04ef1",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3516,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3516",
     "locations": [
       "Calgary, AB, Canada"
     ],
@@ -38406,8 +38436,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "53a758f3-4061-4b3a-9ae9-cd62415e8646",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3517,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3517",
     "locations": [
       "Raleigh, NC"
     ],
@@ -39015,6 +39045,33 @@
     ],
     "title": "Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software",
     "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005"
+  },
+  "54b604ed-cdf0-4d1b-b9cf-d01b687dcd49": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Nottingham Spirk",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-21T07:04:15Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-21T12:03:03.346925Z",
+    "id": "54b604ed-cdf0-4d1b-b9cf-d01b687dcd49",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "Firmware Co-op",
+    "url": "https://nottinghamspirk.applytojob.com/apply/udpROpEzBV/Firmware-Spring-2027-CoOp"
   },
   "54bf1db6-ad2a-4a55-8eba-9726ba4c9e1c": {
     "applied_at": null,
@@ -39710,8 +39767,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "55e6edb6-47b3-42bb-96d0-b750858335d9",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3518,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3518",
     "locations": [
       "Austin, TX",
       "Santa Clara, CA"
@@ -40314,8 +40371,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "57281c88-d5a6-44c7-8073-967a6fc0e31a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3519,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3519",
     "locations": [
       "Macon, GA"
     ],
@@ -40573,8 +40630,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "57a39f82-1b28-4338-b444-520935ba4317",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3520,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3520",
     "locations": [
       "Dallas, TX"
     ],
@@ -42257,8 +42314,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "5b561e45-7265-42fb-93ad-090440f9820b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3521,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3521",
     "locations": [
       "Sainte-Anne-de-Bellevue, QC, Canada"
     ],
@@ -44236,8 +44293,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "5f7a3d6d-babb-4928-a79d-fadbab9c4dbb",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3522,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3522",
     "locations": [
       "Cary, NC"
     ],
@@ -45034,8 +45091,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "612e81e2-c670-4480-bb34-d840b958320e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3523,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3523",
     "locations": [
       "Remote in USA",
       "Sheboygan, WI"
@@ -45262,8 +45319,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "61ec4acd-f407-4303-9ca8-5d49036bce4c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3524,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3524",
     "locations": [
       "Arlington County, Arlington, VA"
     ],
@@ -47594,8 +47651,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "6780a37d-3252-4e9e-8485-dbad810e2628",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3525,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3525",
     "locations": [
       "Houston, TX"
     ],
@@ -48245,8 +48302,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "696bd912-c838-42ee-8341-855650d639ee",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3526,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3526",
     "locations": [
       "Sainte-Anne-de-Bellevue, QC, Canada"
     ],
@@ -49070,8 +49127,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "6b449a8b-e1a2-4ab1-984d-36413f2940f2",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3527,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3527",
     "locations": [
       "Spokane, WA"
     ],
@@ -49768,8 +49825,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "6c7a89cf-644c-4f35-aa42-f275bd7c31a7",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3528,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3528",
     "locations": [
       "Seattle, WA",
       "United States"
@@ -50025,7 +50082,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-21T12:03:03.346925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-12T13:03:37.146886Z",
     "id": "6d3f5916-cf7c-49e6-a3dc-a48791bec4fd",
     "issue_number": 3176,
@@ -50033,7 +50091,7 @@
     "locations": [
       "Redmond, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -50569,8 +50627,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "6e8e76d7-e340-4d9d-b76e-cd1cf74434d1",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3529,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3529",
     "locations": [
       "Nashville, TN"
     ],
@@ -51303,8 +51361,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "706c90b3-c8ec-44a5-a52e-3e696567fa99",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3530,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3530",
     "locations": [
       "Chicago, IL"
     ],
@@ -51408,7 +51466,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-21T12:03:03.346925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "709bd342-e690-4956-a11f-563f2679ba6a",
     "issue_number": 3252,
@@ -51416,7 +51475,7 @@
     "locations": [
       "North Vancouver, BC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -53754,8 +53813,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "751f0444-8e70-4640-9214-d051de606cdb",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3531,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3531",
     "locations": [
       "Naperville, IL",
       "Chicago, IL"
@@ -55381,8 +55440,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "792ffa39-f33c-4176-87f8-1950a3c506e2",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3532,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3532",
     "locations": [
       "San Jose, CA"
     ],
@@ -56316,8 +56375,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "7b120476-ac1e-421a-ba10-52e699d61dde",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3533,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3533",
     "locations": [
       "Abbeville, AL"
     ],
@@ -58572,7 +58631,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-21T12:03:03.346925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "80f18dd7-dd58-4635-88b5-28ffe8a06439",
     "issue_number": 2616,
@@ -58580,7 +58640,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -58776,8 +58836,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "8180c6aa-e1c1-4e08-ac01-b37cb01b76a4",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3534,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3534",
     "locations": [
       "Naperville, IL"
     ],
@@ -59923,8 +59983,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "83837a5d-35ff-46a0-b8ae-738e607d33c5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3535,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3535",
     "locations": [
       "Baton Rouge, LA"
     ],
@@ -64414,7 +64474,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-21T12:03:03.346925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-22T23:29:05.860462Z",
     "id": "8dedd654-cac4-43f6-bc05-e4c9270ae39a",
     "issue_number": 2044,
@@ -64422,7 +64483,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -73330,7 +73391,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-21T12:03:03.346925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-21T00:44:15.781283Z",
     "id": "9f461243-b3dd-46c6-882c-7cece23604c7",
     "issue_number": 1912,
@@ -73338,7 +73400,7 @@
     "locations": [
       "Burbank, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -74615,6 +74677,33 @@
     ],
     "title": "Graduate Assistant Non-Teaching",
     "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Graduate-Assistant-Non-Teaching---Institutional-Research-and-Integrated-Data-Analytics_R-097449-2"
+  },
+  "a1afbfa8-e273-4682-a846-d3f5f3f4b72c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "iA",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-21T07:23:41Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-21T12:03:03.346925Z",
+    "id": "a1afbfa8-e273-4682-a846-d3f5f3f4b72c",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Johnson City, NY"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Industrial Engineer Intern",
+    "url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1"
   },
   "a1b3672f-5dca-4ae0-a4a9-be3434e789c5": {
     "applied_at": null,
@@ -75983,6 +76072,33 @@
     ],
     "title": "Maritime Modeling & Control Intern - Maritime Robotics",
     "url": "https://careers.jhuapl.edu/jobs/60031?icims=1"
+  },
+  "a4eebd7a-0a35-4f40-a2ca-12679c5e698d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Centier Bank",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-21T12:03:03.346925Z",
+    "id": "a4eebd7a-0a35-4f40-a2ca-12679c5e698d",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Merrillville, IN"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Marketing Analyst Intern",
+    "url": "https://centier.wd501.myworkdayjobs.com/centierbankcareers/job/Merrillville-IN/Marketing-Analyst-Intern_R2999"
   },
   "a4f155d6-42c5-4340-8b45-953fbb332d21": {
     "applied_at": null,
@@ -89134,7 +89250,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-21T12:03:03.346925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-10T01:16:06.398349Z",
     "id": "c150fc14-14cb-445f-b7a5-4f8d6b827ffc",
     "issue_number": 1381,
@@ -89142,7 +89259,7 @@
     "locations": [
       "Vancouver, BC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -100743,7 +100860,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-21T12:03:03.346925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-18T19:36:08.115961Z",
     "id": "d9d64ad1-bfcf-465d-90e1-bad73dcb61da",
     "issue_number": 3373,
@@ -100751,7 +100869,7 @@
     "locations": [
       "Cambridge, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -101112,7 +101230,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-21T12:03:03.346925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-27T23:12:27.076706Z",
     "id": "da7bf188-3e70-455c-973d-25bf668ed458",
     "issue_number": 2339,
@@ -101120,7 +101239,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -103516,7 +103635,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-21T12:03:03.346925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-14T17:45:46.491669Z",
     "id": "dfc6d5d9-fa48-468c-999b-1116299c47c2",
     "issue_number": 1592,
@@ -103524,7 +103644,7 @@
     "locations": [
       "Bellevue, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -105331,6 +105451,7 @@
     "degrees": [
       "Bachelor's"
     ],
+    "expired_at": "2026-11-21T12:03:03.346925Z",
     "expired_issue_closed": false,
     "found_at": "2026-09-21T01:40:20.630526Z",
     "id": "e2caf3c4-f5a1-480c-b6b0-7479ebdd4b8d",
@@ -105339,7 +105460,7 @@
     "locations": [
       "Knoxville, TN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -116313,7 +116434,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-21T12:03:03.346925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-03T02:17:33.455468Z",
     "id": "f9f2c39b-cbd9-4654-bfd9-2ff0ac221771",
     "issue_number": 2649,
@@ -116321,7 +116443,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -117247,7 +117369,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-21T12:03:03.346925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-23T00:31:37.039261Z",
     "id": "fb864212-d3c0-4051-9019-29f9bcfde6ac",
     "issue_number": 254,
@@ -117255,7 +117378,7 @@
     "locations": [
       "Fort Wayne, IN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -117344,6 +117467,33 @@
     ],
     "title": "Reporting & Analytics Intern",
     "url": "https://careers.hfsinclair.com/job/Dallas-Reporting-&-Analytics-Intern-TX-75219/1430067400/?ats=successfactors"
+  },
+  "fbb75aa4-661e-464a-988f-c30cfd40ddb5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Convverge",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-21T07:43:11Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-21T12:03:03.346925Z",
+    "id": "fbb75aa4-661e-464a-988f-c30cfd40ddb5",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Junior Developer Co-op",
+    "url": "https://convverge.bamboohr.com/careers/31/"
   },
   "fbba7203-a983-4710-bb34-5cd0cc7d63c8": {
     "applied_at": null,
