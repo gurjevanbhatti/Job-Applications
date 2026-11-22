@@ -3129,7 +3129,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-22T20:20:12.152123Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T06:01:40.436533Z",
     "id": "070fe1b9-0837-4ba9-aaad-ed124634f867",
     "issue_number": 150,
@@ -3137,7 +3138,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -4007,7 +4008,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-22T20:20:12.152123Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-22T13:02:09.744149Z",
     "id": "090826fc-fc8c-443f-8302-02afa9826799",
     "issue_number": 3601,
@@ -4015,7 +4017,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Spring 2027",
@@ -4260,7 +4262,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-22T20:20:12.152123Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "09a35e15-6e69-4542-afbf-97e4a30f4562",
     "issue_number": 2104,
@@ -4268,7 +4271,7 @@
     "locations": [
       "Richmond Hill, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -57377,7 +57380,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-22T20:20:12.152123Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-10T07:28:52.074006Z",
     "id": "7d29e9a8-e116-43c5-a3b9-267f864cddfc",
     "issue_number": 1397,
@@ -57385,7 +57389,7 @@
     "locations": [
       "Pleasanton, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -72181,6 +72185,34 @@
     ],
     "title": "GenAI Intern",
     "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-Intern_R39561"
+  },
+  "9c9115ad-7e10-4ed2-9f6d-b00d4a2c8f1c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Neogen",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-22T15:17:25Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-22T20:20:12.152123Z",
+    "id": "9c9115ad-7e10-4ed2-9f6d-b00d4a2c8f1c",
+    "issue_number": 3602,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3602",
+    "locations": [
+      "Oakdale, MN"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Embedded Systems Engineer Intern",
+    "url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064"
   },
   "9ca48e9a-a09b-4300-802e-47d9b4466d99": {
     "applied_at": null,
@@ -89749,6 +89781,34 @@
     "title": "Data Science Intern",
     "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Science-Summer-2027_38483"
   },
+  "c19ddb09-a366-491b-8f74-c4e088f343a8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "First Bank & Trust",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-22T20:20:12.152123Z",
+    "id": "c19ddb09-a366-491b-8f74-c4e088f343a8",
+    "issue_number": 3603,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3603",
+    "locations": [
+      "Brookings, SD",
+      "Sioux Falls, SD"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Data Analyst Intern",
+    "url": "https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864"
+  },
   "c19ee2fa-0e58-4623-b3ce-9f2afa6f2b21": {
     "applied_at": null,
     "backfilled": true,
@@ -94667,6 +94727,33 @@
     ],
     "title": "Data and Analytics Intern",
     "url": "https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166"
+  },
+  "cbbfc481-5c2f-4875-a3ae-53fd2183c75f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Western Governors University",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-22T20:20:12.152123Z",
+    "id": "cbbfc481-5c2f-4875-a3ae-53fd2183c75f",
+    "issue_number": 3604,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3604",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Technical Intern",
+    "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Intern---Technical_JR-026525"
   },
   "cbf0ae78-7117-4952-b05e-ab26f07e9803": {
     "applied_at": null,
@@ -99872,6 +99959,33 @@
     "title": "Robot Learning Intern",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150446259"
   },
+  "d71c5ba9-0935-4cef-bd4c-21f2c50b2e47": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Viavi Solutions",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-18T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-22T20:20:12.152123Z",
+    "id": "d71c5ba9-0935-4cef-bd4c-21f2c50b2e47",
+    "issue_number": 3605,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3605",
+    "locations": [
+      "Bothell, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Robotics Intern",
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1"
+  },
   "d71cc21f-dabe-4071-b07e-81c42007e03e": {
     "applied_at": null,
     "backfilled": false,
@@ -103396,6 +103510,33 @@
     ],
     "title": "Product Management Engineering Co-op",
     "url": "https://careers.tranetechnologies.com/global/en/job/JR-10435"
+  },
+  "de5b84ef-da26-41b7-a59d-1dd83d33491c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Fiskars Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-19T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-22T20:20:12.152123Z",
+    "id": "de5b84ef-da26-41b7-a59d-1dd83d33491c",
+    "issue_number": 3606,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3606",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Product Management Intern",
+    "url": "https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520"
   },
   "de793f53-2fa1-4d89-8615-3d0110b3e96a": {
     "applied_at": null,
