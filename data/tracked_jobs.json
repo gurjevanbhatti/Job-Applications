@@ -3995,6 +3995,35 @@
     "title": "Software Engineer Intern",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W"
   },
+  "090826fc-fc8c-443f-8302-02afa9826799": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "AMD",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-22T10:17:00Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-22T13:02:09.744149Z",
+    "id": "090826fc-fc8c-443f-8302-02afa9826799",
+    "issue_number": 3601,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3601",
+    "locations": [
+      "Austin, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027",
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "title": "BIOS Engineering Co-op",
+    "url": "https://careers.amd.com/jobs/90475?icims=1&lang=en-us"
+  },
   "09599528-f7de-41ed-bd57-0f77cd04778a": {
     "applied_at": null,
     "backfilled": false,
@@ -14921,7 +14950,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-22T13:02:09.744149Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "2090dcc2-c489-4ec4-bd16-8b1af5aa79f2",
     "issue_number": 3242,
@@ -14929,7 +14959,7 @@
     "locations": [
       "Irvine, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -75468,7 +75498,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-22T13:02:09.744149Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-17T03:51:20.059097Z",
     "id": "a2fe1cc0-aff1-49f6-bc73-fc65ecaa526f",
     "issue_number": 3318,
@@ -75477,7 +75508,7 @@
       "Santa Clara, CA",
       "NYC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -105197,7 +105228,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-22T13:02:09.744149Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-06T23:49:36.341669Z",
     "id": "e10ce551-2780-4df7-898b-4416e1679bd9",
     "issue_number": 2904,
@@ -105205,7 +105237,7 @@
     "locations": [
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -112424,7 +112456,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-22T13:02:09.744149Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T16:55:19.426256Z",
     "id": "f080ba31-67e8-4a12-a748-8d74a2b6067b",
     "issue_number": 3238,
@@ -112432,7 +112465,7 @@
     "locations": [
       "Lehi, UT"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
