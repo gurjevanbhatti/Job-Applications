@@ -49429,6 +49429,33 @@
     "title": "Software Development Intern",
     "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404-1"
   },
+  "6b7dbdc7-9456-4fb9-990c-5fd958e3464f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Samsung",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-19T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-23T01:00:46.789354Z",
+    "id": "6b7dbdc7-9456-4fb9-990c-5fd958e3464f",
+    "issue_number": 3607,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3607",
+    "locations": [
+      "Plano, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Business Operations & Data Analytics Intern",
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135"
+  },
   "6b8dd43f-f7c6-40fc-afb7-915318ecdc76": {
     "applied_at": null,
     "backfilled": false,
@@ -70383,6 +70410,33 @@
     "title": "AI Implementation Intern",
     "url": "https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115430"
   },
+  "997560e4-6959-458f-b916-d03dfd783ff3": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Megger",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-19T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-23T01:00:46.789354Z",
+    "id": "997560e4-6959-458f-b916-d03dfd783ff3",
+    "issue_number": 3608,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3608",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Product Manager Intern",
+    "url": "https://megger.wd3.myworkdayjobs.com/MeggerCareers/job/Dallas-United-States/Product-Manager-Intern_JR100870"
+  },
   "99989330-4792-411f-8085-e5cbcfcd11b4": {
     "applied_at": null,
     "backfilled": false,
@@ -86249,7 +86303,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T01:00:46.789354Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-17T03:51:20.059097Z",
     "id": "ba23165e-e66d-4e52-90f4-9e640cdb5325",
     "issue_number": 3321,
@@ -86257,7 +86312,7 @@
     "locations": [
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -101385,6 +101440,33 @@
     ],
     "title": "Early Careers Automation Programmer Intern",
     "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Automation-Programmer-Intern_R0059484"
+  },
+  "d9d37c94-a957-47d8-acce-351a80f126dc": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "QSL",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-17T14:07:51Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-23T01:00:46.789354Z",
+    "id": "d9d37c94-a957-47d8-acce-351a80f126dc",
+    "issue_number": 3609,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3609",
+    "locations": [
+      "Qu\u00e9bec City, QC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Software Development and Artificial Intelligence Intern",
+    "url": "https://jobs.smartrecruiters.com/QSL/744000162086264"
   },
   "d9d64ad1-bfcf-465d-90e1-bad73dcb61da": {
     "applied_at": null,
