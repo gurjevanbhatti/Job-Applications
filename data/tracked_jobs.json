@@ -8818,7 +8818,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T09:00:42.667425Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-20T00:18:53.109573Z",
     "id": "13228689-c229-492e-9ba7-4142539075a9",
     "issue_number": 1816,
@@ -8826,7 +8827,7 @@
     "locations": [
       "Vienna, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -23818,7 +23819,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T09:00:42.667425Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-06T19:42:55.838082Z",
     "id": "3344e973-66b8-44a4-99b3-66715dc4ed29",
     "issue_number": 2872,
@@ -23826,7 +23828,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -26522,6 +26524,33 @@
     ],
     "title": "Software Engineer Co-op",
     "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002"
+  },
+  "3a161bb0-8dda-47d6-bb3a-7db211a89d97": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "TikTok",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-23T02:47:50Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-23T09:00:42.667425Z",
+    "id": "3a161bb0-8dda-47d6-bb3a-7db211a89d97",
+    "issue_number": 3610,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3610",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Client Security & Data Foundation Software Engineer Intern - BRIC",
+    "url": "https://lifeattiktok.com/search/7705023349533346101"
   },
   "3a17ff4f-1c21-4aeb-9a19-515b7d02d1dc": {
     "applied_at": null,
@@ -69540,7 +69569,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T09:00:42.667425Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "9762fc4c-e499-4ab1-93c9-cb202498a515",
     "issue_number": 3541,
@@ -69548,7 +69578,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -70123,6 +70153,34 @@
     ],
     "title": "SMS Pathfinding Engineering Intern",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---SMS-Pathfinding-Engineering_JR115034"
+  },
+  "9894da93-252f-4667-9ffe-fea0d126c96b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "First Resonance",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-23T09:00:42.667425Z",
+    "id": "9894da93-252f-4667-9ffe-fea0d126c96b",
+    "issue_number": 3611,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3611",
+    "locations": [
+      "LA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern - Platform",
+    "url": "https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true"
   },
   "989858a3-bc3c-4cce-957d-70b6377e70e3": {
     "applied_at": null,
@@ -91220,6 +91278,34 @@
     "title": "Ontology and Semantic Engineering Intern",
     "url": "https://careers-gdms.icims.com/jobs/76088/job?mobile=true&needsRedirect=false"
   },
+  "c4789610-8d62-4348-8bfe-4437a419921e": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "CSAA Insurance Group",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-23T09:00:42.667425Z",
+    "id": "c4789610-8d62-4348-8bfe-4437a419921e",
+    "issue_number": 3612,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3612",
+    "locations": [
+      "Arizona"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product Strategy & Development Intern",
+    "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/PS-D-Innovation-Intern_R8004"
+  },
   "c4962657-fd94-4f66-91cf-5669446b920d": {
     "applied_at": null,
     "backfilled": false,
@@ -96546,6 +96632,37 @@
     ],
     "title": "Software Engineering Intern - Technical",
     "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors"
+  },
+  "d02efc1c-eb5f-49d1-a6d2-cb54a443c193": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Sierra Space",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-23T09:00:42.667425Z",
+    "id": "d02efc1c-eb5f-49d1-a6d2-cb54a443c193",
+    "issue_number": 3613,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3613",
+    "locations": [
+      "Madison, WI",
+      "Centennial, CO",
+      "Durham, NC",
+      "Louisville, CO",
+      "Broomfield, CO"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Electrical Engineering Intern - Electrical Engineering",
+    "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Electrical-Engineering_R26563-1"
   },
   "d03f3f61-cfe8-441f-90db-b9831bc5205c": {
     "applied_at": null,
@@ -107801,6 +107918,34 @@
     "title": "Product Line Management Intern - Apparel - Accessories",
     "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel---Accessories-Product-Line-Management-Undergraduate-Intern_R-96479"
   },
+  "e65ac273-7487-4451-9dbc-cc524774e498": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "General Dynamics Information Technology",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-23T09:00:42.667425Z",
+    "id": "e65ac273-7487-4451-9dbc-cc524774e498",
+    "issue_number": 3614,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3614",
+    "locations": [
+      "Falls Church, VA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI and Estimation Intern - Interns",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-AI-and-Estimation-Intern_RQ232867"
+  },
   "e6661949-f6d5-4e66-bdc3-369604231129": {
     "applied_at": null,
     "backfilled": false,
@@ -116926,6 +117071,34 @@
     "title": "Applied and Research Scientist/Engineer Intern",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064"
   },
+  "f991c7b0-97df-4f9d-a32d-33542afe619f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "First Resonance",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-23T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-23T09:00:42.667425Z",
+    "id": "f991c7b0-97df-4f9d-a32d-33542afe619f",
+    "issue_number": 3615,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3615",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product Management Intern",
+    "url": "https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true"
+  },
   "f9a08de0-d633-4b19-b444-8002689fc795": {
     "applied_at": null,
     "backfilled": true,
@@ -117536,7 +117709,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T09:00:42.667425Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "fad75819-fb09-45d1-8d92-13b71a137ef9",
     "issue_number": 3020,
@@ -117544,7 +117718,7 @@
     "locations": [
       "San Diego, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
