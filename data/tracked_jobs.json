@@ -10912,7 +10912,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-17T03:51:20.059097Z",
     "id": "1766b9ad-6231-4035-b13d-f0f5bf630fbe",
     "issue_number": 3300,
@@ -10920,7 +10921,7 @@
     "locations": [
       "Ames, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -19260,7 +19261,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T06:46:49.059700Z",
     "id": "29141e11-18f3-454f-9ef4-99bb74ed9da2",
     "issue_number": 2172,
@@ -19268,7 +19270,7 @@
     "locations": [
       "Woodridge, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -31786,6 +31788,33 @@
     "title": "Software Engineer Intern - Driver Refinement Foundations",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900"
   },
+  "44661bd9-b43c-446d-a232-8a1d4bd6d3c6": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "APEX Analytix",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-23T15:49:55Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-23T21:19:45.716108Z",
+    "id": "44661bd9-b43c-446d-a232-8a1d4bd6d3c6",
+    "issue_number": 3616,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3616",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern - Platform Tooling",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19"
+  },
   "446f95d6-24aa-4e79-aeda-4daa77550a0f": {
     "applied_at": null,
     "backfilled": false,
@@ -33488,7 +33517,8 @@
       "Master's",
       "MBA"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-26T23:22:16.490839Z",
     "id": "4932b03e-a9cc-4ba5-b920-5bf313404094",
     "issue_number": 2200,
@@ -33496,7 +33526,7 @@
     "locations": [
       "Lincolnshire, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -34107,7 +34137,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T03:06:05.330905Z",
     "id": "4ae827c4-a7cf-4609-a5ef-c377bba8dbdf",
     "issue_number": 2743,
@@ -34115,7 +34146,7 @@
     "locations": [
       "Pullman, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -34363,7 +34394,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "4b9ad5d9-8851-4dc9-8ad9-be4eee964eb5",
     "issue_number": 2122,
@@ -34371,7 +34403,7 @@
     "locations": [
       "Edmonton, AB, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -44411,7 +44443,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "5f6fd2ac-8e3b-4fa3-b909-6752048d9a79",
     "issue_number": 2974,
@@ -44419,7 +44452,7 @@
     "locations": [
       "San Diego, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -45578,7 +45611,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "61ec4acd-f407-4303-9ca8-5d49036bce4c",
     "issue_number": 3524,
@@ -45586,7 +45620,7 @@
     "locations": [
       "Arlington County, Arlington, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -48136,7 +48170,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-12T17:01:07.360178Z",
     "id": "68895e12-9a1f-4ca5-8dfb-b050f2ea8a43",
     "issue_number": 1414,
@@ -48145,7 +48180,7 @@
       "NYC",
       "Sunnyvale, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -57896,7 +57931,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T09:10:33.504400Z",
     "id": "7e711ce3-51ad-4c03-ba5e-9f27258b65df",
     "issue_number": 3029,
@@ -57904,7 +57940,7 @@
     "locations": [
       "Portland, OR"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -60871,7 +60907,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-20T16:56:47.887735Z",
     "id": "85823614-4deb-4ffa-a83b-0aa1d9620736",
     "issue_number": 3464,
@@ -60879,7 +60916,7 @@
     "locations": [
       "Columbus, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -67621,6 +67658,36 @@
     "title": "Software Engineer Intern - AV/AI Platform",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696"
   },
+  "93b72ea9-618d-4090-9692-e453b229d3a9": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Stantec",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-23T15:34:09Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-23T21:19:45.716108Z",
+    "id": "93b72ea9-618d-4090-9692-e453b229d3a9",
+    "issue_number": 3617,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3617",
+    "locations": [
+      "Boston, MA",
+      "Denver, CO",
+      "San Diego, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Scientist Intern - Water",
+    "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005"
+  },
   "93c487ce-79a1-4da5-86f6-3cfebea198ed": {
     "applied_at": null,
     "backfilled": false,
@@ -67634,7 +67701,8 @@
       "Bachelor's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-08T17:59:51.716262Z",
     "id": "93c487ce-79a1-4da5-86f6-3cfebea198ed",
     "issue_number": 1267,
@@ -67642,7 +67710,7 @@
     "locations": [
       "Cranberry Township, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -73140,7 +73208,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-20T00:18:53.109573Z",
     "id": "9e472e5e-45ed-46ff-833d-4b4506676f0f",
     "issue_number": 1848,
@@ -73148,7 +73217,7 @@
     "locations": [
       "Orlando, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -73481,7 +73550,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "9ecd59a5-9422-450f-bac2-c3d9c46fdef7",
     "issue_number": 2992,
@@ -73489,7 +73559,7 @@
     "locations": [
       "San Diego, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -78472,6 +78542,34 @@
     ],
     "title": "Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP",
     "url": "https://careers.rivian.com/jobs/33874?icims=1"
+  },
+  "a932445e-1f5f-40cf-b791-2660f0bb0b13": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "L3Harris Technologies",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-23T15:30:13Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-23T21:19:45.716108Z",
+    "id": "a932445e-1f5f-40cf-b791-2660f0bb0b13",
+    "issue_number": 3618,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3618",
+    "locations": [
+      "Greenville, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Specialist, Integration/Test Engineering Intern",
+    "url": "https://jobs.l3harris.com/job/Greenville-(DoD-SkillBridge),-Specialist,-IntegrationTest-Engineering-TX-75402/1452921700/?ats=successfactors"
   },
   "a9414ec5-0835-415a-80c6-e5b228ffbccf": {
     "applied_at": null,
@@ -84211,7 +84309,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-21T19:13:19.521157Z",
     "id": "b5e9a29a-b709-4d78-8e07-c795aad202ea",
     "issue_number": 3588,
@@ -84219,7 +84318,7 @@
     "locations": [
       "Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -84729,7 +84828,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "b727a346-069a-4d13-ae2d-571e4a23aaa7",
     "issue_number": 3555,
@@ -84737,7 +84837,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -86419,7 +86519,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-06T19:42:55.838082Z",
     "id": "ba35c253-36e9-4541-be80-6b3558722e8f",
     "issue_number": 2882,
@@ -86427,7 +86528,7 @@
     "locations": [
       "Philadelphia, PA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -101201,7 +101302,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-11T02:03:43.084712Z",
     "id": "d9461ffc-f97d-4212-9d5c-5603ebac867a",
     "issue_number": 3096,
@@ -101209,7 +101311,7 @@
     "locations": [
       "Lisle, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -107931,7 +108033,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-23T09:00:42.667425Z",
     "id": "e65ac273-7487-4451-9dbc-cc524774e498",
     "issue_number": 3614,
@@ -107939,7 +108042,7 @@
     "locations": [
       "Falls Church, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -110943,7 +111046,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-23T21:19:45.716108Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "ebfeb2eb-8fcc-4883-8688-30e1f57055e0",
     "issue_number": 3572,
@@ -110951,7 +111055,7 @@
     "locations": [
       "Arlington County, Arlington, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
