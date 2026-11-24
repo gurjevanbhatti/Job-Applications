@@ -4902,6 +4902,34 @@
     "title": "AI Engineering Co-op",
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40808"
   },
+  "0abf44bd-1664-4576-8f15-2e958d00b1a6": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "NASA Jet Propulsion Laboratory",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-24T16:06:33.638558Z",
+    "id": "0abf44bd-1664-4576-8f15-2e958d00b1a6",
+    "issue_number": 3646,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3646",
+    "locations": [
+      "Pasadena, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Business Administration Intern",
+    "url": "https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Business-Administration-Academic-Part-time-Intern_R6311"
+  },
   "0aca0586-50f8-43e9-91ec-40151024c17f": {
     "applied_at": null,
     "backfilled": false,
@@ -6290,7 +6318,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-24T16:06:33.638558Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "0da57b70-03cc-4f7d-a381-5927888dcf79",
     "issue_number": 2107,
@@ -6298,7 +6327,7 @@
     "locations": [
       "Milpitas, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -6811,6 +6840,33 @@
     ],
     "title": "Software Engineer Intern - Commerce Applications",
     "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556"
+  },
+  "0eb6394b-8d34-4f2f-80c4-1241604bd151": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Fervo Energy",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-24T08:28:27Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-24T16:06:33.638558Z",
+    "id": "0eb6394b-8d34-4f2f-80c4-1241604bd151",
+    "issue_number": 3647,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3647",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "GIS Intern",
+    "url": "https://job-boards.greenhouse.io/fervoenergy/jobs/4512537009"
   },
   "0ef4e4f4-a5e9-4c09-868b-2e6c15ce0c56": {
     "applied_at": null,
@@ -18687,6 +18743,34 @@
     "title": "Software Engineer Intern",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1"
   },
+  "2804d321-266b-4853-a3f6-2741c53b953d": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "AMD",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-24T15:28:00Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-24T16:06:33.638558Z",
+    "id": "2804d321-266b-4853-a3f6-2741c53b953d",
+    "issue_number": 3648,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3648",
+    "locations": [
+      "Austin, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027",
+      "Summer 2027"
+    ],
+    "title": "Masters AI Rack/Cluster Design Engineering Co-op",
+    "url": "https://careers.amd.com/jobs/89564?icims=1&lang=en-us"
+  },
   "280d6126-f176-44b7-9781-fc2dc2d8d099": {
     "applied_at": null,
     "backfilled": false,
@@ -20454,7 +20538,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-24T16:06:33.638558Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-23T23:30:36.913363Z",
     "id": "2b9aaa15-99f9-47a0-bdf4-dbc1f91203ee",
     "issue_number": 2117,
@@ -20462,7 +20547,7 @@
     "locations": [
       "Edmonton, AB, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -21105,7 +21190,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-24T16:06:33.638558Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-14T20:26:30.790208Z",
     "id": "2d609f21-b04d-4102-a341-b7fc2585a162",
     "issue_number": 3278,
@@ -21114,7 +21200,7 @@
       "Chicago, IL",
       "Lincolnshire, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -33089,7 +33175,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-24T16:06:33.638558Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "47c3c751-3105-4a4f-b082-e478747a865c",
     "issue_number": 2968,
@@ -33097,7 +33184,7 @@
     "locations": [
       "Needham, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -37510,7 +37597,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-24T16:06:33.638558Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-06T04:56:36.996085Z",
     "id": "519aa545-7ad9-4720-9fc1-926b6e963038",
     "issue_number": 2846,
@@ -37518,7 +37606,7 @@
     "locations": [
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -38164,7 +38252,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-24T16:06:33.638558Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T09:10:33.504400Z",
     "id": "529ec434-7642-4f89-8dce-c32598ea5eef",
     "issue_number": 3027,
@@ -38172,7 +38261,7 @@
     "locations": [
       "Toronto, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -41753,7 +41842,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-24T16:06:33.638558Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-07T23:49:50.732495Z",
     "id": "594991dc-434c-49b1-9e3d-2d3121ca735a",
     "issue_number": 1216,
@@ -41761,7 +41851,7 @@
     "locations": [
       "El Segundo, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -47177,6 +47267,34 @@
     ],
     "title": "Product Manager Intern",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8274790"
+  },
+  "653df457-3dc0-4d64-87af-18df2883960b": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Plains All American Pipeline",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-20T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-24T16:06:33.638558Z",
+    "id": "653df457-3dc0-4d64-87af-18df2883960b",
+    "issue_number": 3649,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3649",
+    "locations": [
+      "Houston, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Operations Management System Intern - Digital & AI Innovation",
+    "url": "https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1"
   },
   "653fe1d6-4806-43f5-824b-dec64c459a99": {
     "applied_at": null,
@@ -55429,7 +55547,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-24T16:06:33.638558Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-06T23:49:36.341669Z",
     "id": "77c8e346-3780-4747-992a-a0692af4336d",
     "issue_number": 2893,
@@ -55437,7 +55556,7 @@
     "locations": [
       "Remote in USA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -68904,7 +69023,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-24T16:06:33.638558Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-16T21:09:28.219206Z",
     "id": "9505b5cc-26f0-4893-93fe-d10cabec7014",
     "issue_number": 3296,
@@ -68912,7 +69032,7 @@
     "locations": [
       "Marlborough, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -76174,7 +76294,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-24T16:06:33.638558Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-12T04:16:05.702465Z",
     "id": "a31cdf39-a527-48df-95d0-b048ca50228e",
     "issue_number": 3160,
@@ -76182,7 +76303,7 @@
     "locations": [
       "Iowa City, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -90160,7 +90281,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-24T16:06:33.638558Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-10T01:16:06.398349Z",
     "id": "c0ed9e00-a8a7-4c6d-b0a2-caef36fca2a9",
     "issue_number": 1380,
@@ -90168,7 +90290,7 @@
     "locations": [
       "Vancouver, BC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -101594,7 +101716,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-24T16:06:33.638558Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-06T04:56:36.996085Z",
     "id": "d8cc7189-431c-4e08-938a-58fd924c969f",
     "issue_number": 2861,
@@ -101602,7 +101725,7 @@
     "locations": [
       "Atlanta, GA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -108140,6 +108263,33 @@
     "title": "AI/ML Engineer Intern",
     "url": "https://job-boards.greenhouse.io/amperesand/jobs/4465899009"
   },
+  "e56c16ed-c43f-4794-87be-c60acdfe34c2": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Veolia",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-24T03:13:36Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-24T16:06:33.638558Z",
+    "id": "e56c16ed-c43f-4794-87be-c60acdfe34c2",
+    "issue_number": 3650,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3650",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Manufacturing Software Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969"
+  },
   "e56fc6cf-2283-4163-bd37-3a76a7894bb5": {
     "applied_at": null,
     "backfilled": false,
@@ -113480,8 +113630,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-24T05:25:01.487417Z",
     "id": "f01f8423-8219-4906-b1ce-6506e4b2e32d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3644,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3644",
     "locations": [
       "Prairie du Sac, WI"
     ],
@@ -115156,7 +115306,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-24T16:06:33.638558Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "f3d65b6a-089f-4407-b544-6f651a4c28be",
     "issue_number": 3017,
@@ -115164,7 +115315,7 @@
     "locations": [
       "Goleta, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -119698,8 +119849,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-24T05:25:01.487417Z",
     "id": "fcb08f49-b9ed-4c1d-87f3-7191ff497a33",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3645,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3645",
     "locations": [
       "Indianapolis, IN"
     ],
