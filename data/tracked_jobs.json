@@ -18446,6 +18446,34 @@
     "title": "Data Engineering Intern",
     "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839"
   },
+  "26ee6493-02d8-49da-a580-97b2be904636": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Noblis",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T15:03:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-25T19:18:03.527841Z",
+    "id": "26ee6493-02d8-49da-a580-97b2be904636",
+    "issue_number": 3682,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3682",
+    "locations": [
+      "United States"
+    ],
+    "status": "new",
+    "terms": [
+      "Spring 2027"
+    ],
+    "title": "AI/ML Research Intern",
+    "url": "https://careers.noblis.org/jobs/28841?icims=1&lang=en-us"
+  },
   "2700d5af-4dd9-4008-bfe0-97fa121a955c": {
     "applied_at": null,
     "backfilled": false,
@@ -39470,7 +39498,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-25T19:18:03.527841Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-04T02:37:29.153422Z",
     "id": "540147a8-5c6b-4f1d-8311-8fce3c94c9de",
     "issue_number": 2680,
@@ -39478,12 +39507,39 @@
     "locations": [
       "Framingham, MA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
     "title": "Software Engineer Intern - SDS e-Commerce Team",
     "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133"
+  },
+  "540a8cd1-224d-43b7-bcd1-e081d9e57ed7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Waters",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-25T19:18:03.527841Z",
+    "id": "540a8cd1-224d-43b7-bcd1-e081d9e57ed7",
+    "issue_number": 3683,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3683",
+    "locations": [
+      "Milford, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "IT Digital Intern",
+    "url": "https://uscareers-waters.icims.com/jobs/30387/job?mobile=true&needsRedirect=false"
   },
   "540fffcc-1cee-4834-9b92-ebc48f062b36": {
     "applied_at": null,
@@ -66095,7 +66151,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-25T19:18:03.527841Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-19T01:29:47.950137Z",
     "id": "8eb1a21e-c57a-44e4-a936-098c9e7c642a",
     "issue_number": 3384,
@@ -66103,7 +66160,7 @@
     "locations": [
       "San Jose, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -89747,7 +89804,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-25T19:18:03.527841Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-21T03:51:12.947255Z",
     "id": "be9c1870-7006-4e8b-8a8a-56ff262c8ad4",
     "issue_number": 3557,
@@ -89755,7 +89813,7 @@
     "locations": [
       "Brookfield, WI"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -109037,7 +109095,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-25T19:18:03.527841Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-24T16:06:33.638558Z",
     "id": "e56c16ed-c43f-4794-87be-c60acdfe34c2",
     "issue_number": 3650,
@@ -109045,7 +109104,7 @@
     "locations": [
       "Boulder, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
