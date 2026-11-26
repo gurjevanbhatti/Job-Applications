@@ -268,7 +268,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-26T02:21:17.058310Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-20T00:49:39.381397Z",
     "id": "00c24481-3d59-40f9-bbf4-46e3acd5194e",
     "issue_number": 3401,
@@ -279,7 +280,7 @@
       "Hanover, MD",
       "Herndon, VA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
@@ -3652,6 +3653,34 @@
     ],
     "title": "Memory Server System Testing Intern",
     "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000157198610"
+  },
+  "07fa3ffd-e710-430b-b375-70c3bfd7b64a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Apex",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "07fa3ffd-e710-430b-b375-70c3bfd7b64a",
+    "issue_number": 3684,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3684",
+    "locations": [
+      "LA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineering Operating Systems Intern",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application?embed=true"
   },
   "080ae983-f3c6-404a-9df2-ba7e7c54506e": {
     "applied_at": null,
@@ -10979,6 +11008,34 @@
     "title": "Software Development Intern",
     "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false"
   },
+  "1725daf8-54c2-43a4-9e0c-c71429a089ba": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Tecsys",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-25T23:16:17Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "1725daf8-54c2-43a4-9e0c-c71429a089ba",
+    "issue_number": 3685,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3685",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Developer Intern",
+    "url": "https://apply.workable.com/tecsys/j/B6D2B7128A/apply"
+  },
   "17267928-46c8-4fc2-b987-5b361fefad93": {
     "applied_at": null,
     "backfilled": false,
@@ -13324,6 +13381,34 @@
     ],
     "title": "Sustainment Data and Analytics Intern",
     "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Sustainment-Data-and-Analytics-Intern--Summer-2027-_01885110"
+  },
+  "1c727b5e-5f4c-4dfc-8ccf-2f9bd5cb960c": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Apex",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "1c727b5e-5f4c-4dfc-8ccf-2f9bd5cb960c",
+    "issue_number": 3686,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3686",
+    "locations": [
+      "LA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Flight Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application?embed=true"
   },
   "1c799f05-b926-4be3-ae23-debd91b8eabf": {
     "applied_at": null,
@@ -16103,6 +16188,36 @@
     ],
     "title": "AI Developer Co-op - Graduate Program",
     "url": "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686"
+  },
+  "22cb20f7-3ffa-407e-b57b-85ff52fd59b5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SambaNova Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T17:45:52Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "22cb20f7-3ffa-407e-b57b-85ff52fd59b5",
+    "issue_number": 3687,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3687",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "DFT Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271345004"
   },
   "22e0e398-2efa-4443-a503-6e3431e6d5a4": {
     "applied_at": null,
@@ -20160,7 +20275,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-26T02:21:17.058310Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-30T00:39:17.059022Z",
     "id": "2a070d46-138e-485c-af41-0eaf2a7f105f",
     "issue_number": 566,
@@ -20168,7 +20284,7 @@
     "locations": [
       "Palo Alto, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -34272,6 +34388,36 @@
     "title": "Performance and Marketing Communications Analyst Intern",
     "url": "https://careers.kentro.us/jobs/4562?icims=1"
   },
+  "497858e5-5e3c-4444-83e7-09be20bc7f06": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SambaNova Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T17:34:27Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "497858e5-5e3c-4444-83e7-09be20bc7f06",
+    "issue_number": 3688,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3688",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "RTL Design Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271328004"
+  },
   "4980de46-5cd9-441b-a730-90fda15b31b5": {
     "applied_at": null,
     "backfilled": false,
@@ -35785,7 +35931,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-26T02:21:17.058310Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T16:55:19.426256Z",
     "id": "4ce259f3-c824-4b19-af9c-6d94c9730dcd",
     "issue_number": 3234,
@@ -35793,7 +35940,7 @@
     "locations": [
       "Montreal, QC, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -38258,6 +38405,33 @@
     ],
     "title": "Seam Intern - Embodied AI",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537"
+  },
+  "51fa4d0a-47cf-41d3-853f-4943a72b7221": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Total Quality Logistics",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:48:04Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "51fa4d0a-47cf-41d3-853f-4943a72b7221",
+    "issue_number": 3689,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3689",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "AI Product Intern",
+    "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19757"
   },
   "51fb48b5-add2-48f7-90e2-7a0ca38923ab": {
     "applied_at": null,
@@ -43987,6 +44161,35 @@
     "title": "Software Engineer Co-op",
     "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048"
   },
+  "5cdf390b-512a-4085-bf21-d304481c9985": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Docusign",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T19:04:00Z",
+    "degrees": [
+      "Bachelor's",
+      "MBA"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "5cdf390b-512a-4085-bf21-d304481c9985",
+    "issue_number": 3690,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3690",
+    "locations": [
+      "Seattle, WA",
+      "SF"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Product Manager Intern",
+    "url": "https://careers.docusign.com/jobs/32541?icims=1&lang=en-us"
+  },
   "5cea235d-5221-4084-b43e-f96fc1894a55": {
     "applied_at": null,
     "backfilled": false,
@@ -44079,6 +44282,33 @@
     ],
     "title": "Product Strategy and Operations Project Intern",
     "url": "https://lifeattiktok.com/search/7691400301018548485"
+  },
+  "5d0f591d-97a3-4f94-9a73-6234290841b7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Digital Control",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:42:53Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "5d0f591d-97a3-4f94-9a73-6234290841b7",
+    "issue_number": 3691,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3691",
+    "locations": [
+      "Kent, WA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://apply.workable.com/digital-control/j/AB9A181560/apply"
   },
   "5d100053-6d4b-4c33-8d82-3223fd0e3410": {
     "applied_at": null,
@@ -46859,6 +47089,33 @@
     "title": "AI Center of Excellence Delivery Team Intern",
     "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176"
   },
+  "6311d082-0432-408e-9686-a1c52be3cc65": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Veeva Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:35:50Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "6311d082-0432-408e-9686-a1c52be3cc65",
+    "issue_number": 3692,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3692",
+    "locations": [
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2/apply"
+  },
   "632599d0-d99c-438f-a65e-0d843831bd0e": {
     "applied_at": null,
     "backfilled": false,
@@ -47516,6 +47773,36 @@
     ],
     "title": "Electrical Engineering Co-op",
     "url": "https://job-boards.greenhouse.io/hasbro/jobs/4472128009"
+  },
+  "649d2c8c-a463-47e4-a52b-2245098c3b47": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SambaNova Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T17:40:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "649d2c8c-a463-47e4-a52b-2245098c3b47",
+    "issue_number": 3693,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3693",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Physical Design Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004"
   },
   "649da7dc-7cfd-4077-a34e-20558b15bdfc": {
     "applied_at": null,
@@ -49840,6 +50127,36 @@
     "title": "AI Software Systems Co-op Intern",
     "url": "https://qualcomm.eightfold.ai/careers/job/446721862430"
   },
+  "6a3dba3a-dcd5-4453-8c3d-f30d42332661": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SambaNova Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T16:50:41Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "6a3dba3a-dcd5-4453-8c3d-f30d42332661",
+    "issue_number": 3694,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3694",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Compiler Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6270729004"
+  },
   "6a3ffcb1-96f3-4dcf-9344-d12e0cc51231": {
     "applied_at": null,
     "backfilled": false,
@@ -51281,6 +51598,36 @@
     ],
     "title": "Baseball Technology Fellow",
     "url": "https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8857228002"
+  },
+  "6d46bd97-4280-40ca-bd51-3faa2b539b99": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SambaNova Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T16:49:28Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "6d46bd97-4280-40ca-bd51-3faa2b539b99",
+    "issue_number": 3695,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3695",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Post-Silicon Validation Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004"
   },
   "6d5015af-faac-4bea-9f05-f7226b20c046": {
     "applied_at": null,
@@ -52783,6 +53130,36 @@
     ],
     "title": "Technical Intern",
     "url": "https://ats.rippling.com/plmrcareers/jobs/d49be92b-8999-4f38-a39c-81500baadec7"
+  },
+  "70dc9d9a-6f1d-45da-b109-ba366d16c2f7": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SambaNova Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T17:14:19Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "70dc9d9a-6f1d-45da-b109-ba366d16c2f7",
+    "issue_number": 3696,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3696",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Design Verification Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271308004"
   },
   "70e0a583-e0c2-4a95-a452-fdfddad3b3db": {
     "applied_at": null,
@@ -55207,6 +55584,33 @@
     "title": "Digital Growth Intern",
     "url": "https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Digital-Growth-Intern_JR10018997-1"
   },
+  "75cbd399-51a9-4b5b-91cb-3cf4c349f602": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Acuity",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:27:32Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "75cbd399-51a9-4b5b-91cb-3cf4c349f602",
+    "issue_number": 3697,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3697",
+    "locations": [
+      "Decatur, GA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Engineering Intern - Labs",
+    "url": "https://careers.acuityinc.com/job/Decatur-Engineering-Intern-Labs-GA-30035/1453809400/?ats=successfactors"
+  },
   "75d3af44-afc1-48c6-a0ac-5a69ec3e6694": {
     "applied_at": null,
     "backfilled": false,
@@ -55494,6 +55898,33 @@
     ],
     "title": "Engineering Assistant Co-op",
     "url": "https://koch.avature.net/en_US/careers/JobDetail/195462"
+  },
+  "769a4faf-656a-4ce2-847a-d28a826c5857": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Total Quality Logistics",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:48:11Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "769a4faf-656a-4ce2-847a-d28a826c5857",
+    "issue_number": 3698,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3698",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Product Management Intern",
+    "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19765"
   },
   "769bec28-a1aa-4a21-854c-4dcde8904154": {
     "applied_at": null,
@@ -58638,6 +59069,33 @@
     "title": "Product Intern - Physical Trading Cards",
     "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009"
   },
+  "7dd43831-e7c5-4a2c-8a46-8163de373bf1": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Staples",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:19:20Z",
+    "degrees": [
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "7dd43831-e7c5-4a2c-8a46-8163de373bf1",
+    "issue_number": 3699,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3699",
+    "locations": [
+      "Austin, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Full Stack Software Engineer Intern",
+    "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145"
+  },
   "7e2ddc17-84b3-4327-99fb-1e197ca793c3": {
     "applied_at": null,
     "backfilled": false,
@@ -61303,6 +61761,36 @@
     "title": "Systems Architecture Co-op - AI Systems Strategy",
     "url": "https://jobs.smartrecruiters.com/WesternDigital/744000149367234"
   },
+  "83aad2e6-dfbe-4f3a-9bb9-d31cbb28d460": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SambaNova Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T17:04:03Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "83aad2e6-dfbe-4f3a-9bb9-d31cbb28d460",
+    "issue_number": 3700,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3700",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "ML Infrastructure Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271289004"
+  },
   "83c0080c-09ec-4ac1-9207-e3ffcf016d2f": {
     "applied_at": null,
     "backfilled": true,
@@ -61469,6 +61957,34 @@
     ],
     "title": "Firmware Engineer Intern/Co-op - Research & Development Engineering",
     "url": "https://eaton.eightfold.ai/careers/job/687238593356"
+  },
+  "84b43ef9-4cf8-4353-9a11-2577b1557a34": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Wabash Valley Power Alliance",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T18:14:51Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "84b43ef9-4cf8-4353-9a11-2577b1557a34",
+    "issue_number": 3701,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3701",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Energy Efficiency & Demand Response Intern - Summer 2027",
+    "url": "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000163744159"
   },
   "84be8de0-2299-47e9-bf47-ca06db9e2c13": {
     "applied_at": null,
@@ -67035,6 +67551,34 @@
     "title": "Manufacturing Engineering Co-op",
     "url": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254800/?ats=successfactors"
   },
+  "907ac2b0-1ba3-4cc3-bce0-e61334c9d123": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "ManTech",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:24:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "907ac2b0-1ba3-4cc3-bce0-e61334c9d123",
+    "issue_number": 3702,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3702",
+    "locations": [
+      "Lexington Park, MD"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "C++ Developer Intern",
+    "url": "https://mantech.avature.net/en_US/careers/JobDetail/67268"
+  },
   "9087bc41-b156-4019-8980-d8b788c06190": {
     "applied_at": null,
     "backfilled": false,
@@ -68376,6 +68920,33 @@
     ],
     "title": "Developer Intern",
     "url": "https://apply.workable.com/tecsys/j/D61D5FB9AB/apply"
+  },
+  "932ed6de-e1b8-42d6-8ade-34ff02f9d30a": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Total Quality Logistics",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:48:04Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "932ed6de-e1b8-42d6-8ade-34ff02f9d30a",
+    "issue_number": 3703,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3703",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Data Science & Analytics Intern",
+    "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764"
   },
   "9336555d-472f-4804-b5f7-a1e52e004ac6": {
     "applied_at": null,
@@ -70489,6 +71060,33 @@
     "title": "Software Engineer Intern",
     "url": "https://job-boards.greenhouse.io/gassouth/jobs/8247622"
   },
+  "971d3938-cdd2-4327-a461-d65bbc6ed814": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Veolia",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T19:10:14Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "971d3938-cdd2-4327-a461-d65bbc6ed814",
+    "issue_number": 3704,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3704",
+    "locations": [
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Energy Management Co-op",
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163751559"
+  },
   "972de7eb-ddbf-4e57-8217-e7d6cc989614": {
     "applied_at": null,
     "backfilled": false,
@@ -72262,6 +72860,33 @@
     ],
     "title": "Hardware Test Engineer Co-op",
     "url": "https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a/apply"
+  },
+  "9a6ae307-1eff-4d21-b2ba-40a642057f99": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Best Egg",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:35:54Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "9a6ae307-1eff-4d21-b2ba-40a642057f99",
+    "issue_number": 3705,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3705",
+    "locations": [
+      "Wilmington, DE"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392/apply"
   },
   "9a814dc7-1833-44af-ae3a-6d0f38b2ebc5": {
     "applied_at": null,
@@ -75335,6 +75960,33 @@
     "title": "Cloud Engineer Intern",
     "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383"
   },
+  "9fed7089-fee2-42d5-9fda-8831aeb4c8ec": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Veeva Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:35:52Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "9fed7089-fee2-42d5-9fda-8831aeb4c8ec",
+    "issue_number": 3706,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3706",
+    "locations": [
+      "Pleasanton, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply"
+  },
   "9ff0c472-dd4d-4201-9660-d99b20c9212c": {
     "applied_at": null,
     "backfilled": false,
@@ -75762,6 +76414,36 @@
     ],
     "title": "Electrical Engineer Co-op",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineer-Co-Op--Summer-Fall-2027-_01873470"
+  },
+  "a0d0bb39-5469-44b9-b60c-35ff95656ea4": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SambaNova Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T16:32:08Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "a0d0bb39-5469-44b9-b60c-35ff95656ea4",
+    "issue_number": 3707,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3707",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "AI Performance Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271183004"
   },
   "a0d1ae40-cc95-41c1-b7b0-1b9c30b2ce8a": {
     "applied_at": null,
@@ -78118,6 +78800,34 @@
     ],
     "title": "AI Software Engineering Co-op Intern",
     "url": "https://qualcomm.eightfold.ai/careers/job/446721862429"
+  },
+  "a5c7cf18-e98f-4038-b97a-b2892fc5e469": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Texas Instruments",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:04:29Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "a5c7cf18-e98f-4038-b97a-b2892fc5e469",
+    "issue_number": 3708,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3708",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Web Marketing Intern - Digital Experience Analytics",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020507"
   },
   "a5e8aab7-69ef-48be-84cd-47e7f6fc6357": {
     "applied_at": null,
@@ -92315,7 +93025,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-26T02:21:17.058310Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-10T01:51:31.135422Z",
     "id": "c380dac0-7841-444a-a70a-b2dbe0f6983a",
     "issue_number": 3000,
@@ -92323,7 +93034,7 @@
     "locations": [
       "Scottsdale, AZ"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -93615,6 +94326,33 @@
     ],
     "title": "Software Engineer Intern - Factory Automation",
     "url": "https://jobs.keysight.com/jobs/54274?icims=1"
+  },
+  "c60e2c32-7f9d-4251-8b45-47b44ed86850": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Starkey",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:07:15Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "c60e2c32-7f9d-4251-8b45-47b44ed86850",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Eden Prairie, MN"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://recruiting2.ultipro.com/sta1003stark/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=dffb5d69-1f21-45e3-8929-c8a4746e349a"
   },
   "c61201f4-b86e-4bb7-b84f-193387bd5c65": {
     "applied_at": null,
@@ -106834,6 +107572,38 @@
     "title": "Software Engineering Intern",
     "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734"
   },
+  "e06c4577-b257-4bee-aa38-cc5006c57d9f": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Jack Henry",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:41:26Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "e06c4577-b257-4bee-aa38-cc5006c57d9f",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Allen, TX",
+      "Birmingham, AL",
+      "Monett, MO",
+      "Lenexa, KS",
+      "Springfield, MO",
+      "Overland Park, KS"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Enterprise Pricing & Data Analytics Intern",
+    "url": "https://jackhenry.avature.net/careers/JobDetail/17682"
+  },
   "e08774ee-1d46-4790-8628-62d9b4b136ac": {
     "applied_at": null,
     "backfilled": false,
@@ -107670,7 +108440,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-26T02:21:17.058310Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-25T09:12:32.536333Z",
     "id": "e2182706-f62c-4ef5-b32e-fc64134c0b8e",
     "issue_number": 3679,
@@ -107679,7 +108450,7 @@
       "Ottawa, ON, Canada",
       "Remote in Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -108306,6 +109077,33 @@
     ],
     "title": "Consumer Research and Insights Intern",
     "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Consumer-Research-and-Insights-Intern-2027_R39474"
+  },
+  "e3e053b8-8e7b-4690-9875-c136637ed047": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Tesla",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:19:57Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "e3e053b8-8e7b-4690-9875-c136637ed047",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Robotics Audio DSP Engineer Intern",
+    "url": "https://www.tesla.com/careers/search/job/291227"
   },
   "e3e1417f-9aa4-44e8-8ee8-c075f7d2f7db": {
     "applied_at": null,
@@ -116342,6 +117140,36 @@
     "title": "Software Engineer Intern",
     "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/BOSTON-02/Software-Engineering-Intern_R57179"
   },
+  "f4341e5f-56b8-4f46-9743-f31471747414": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "SambaNova Systems",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T18:24:13Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "f4341e5f-56b8-4f46-9743-f31471747414",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004"
+  },
   "f4473dfb-1d23-48f0-8ea4-3bf930c7328d": {
     "applied_at": null,
     "backfilled": false,
@@ -117330,6 +118158,33 @@
     ],
     "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
     "url": "https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true"
+  },
+  "f6380356-be52-4669-b4db-bce898c49a61": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "IXL Learning",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T21:16:45Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "f6380356-be52-4669-b4db-bce898c49a61",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2026"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8963039002"
   },
   "f6398163-4e7d-4ddd-aaab-04adafd0ee67": {
     "applied_at": null,
@@ -118954,6 +119809,33 @@
     ],
     "title": "Applied and Research Scientist/Engineer Intern",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064"
+  },
+  "f99113e1-f288-4983-b8bd-49e4b32664be": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Total Quality Logistics",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:48:07Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T02:21:17.058310Z",
+    "id": "f99113e1-f288-4983-b8bd-49e4b32664be",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Development Intern",
+    "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19763"
   },
   "f991c7b0-97df-4f9d-a32d-33542afe619f": {
     "applied_at": null,
