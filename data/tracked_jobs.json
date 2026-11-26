@@ -11752,6 +11752,36 @@
     "title": "Payments Product Intern",
     "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Payments-Product-intern_REQ-2389"
   },
+  "18fb7fb1-2e9a-4339-bab0-009982dfb6c8": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Blizzard Entertainment",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-24T00:00:00Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's",
+      "Certificate"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T11:15:46.525614Z",
+    "id": "18fb7fb1-2e9a-4339-bab0-009982dfb6c8",
+    "issue_number": 3715,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3715",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Tech Art Intern",
+    "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383"
+  },
   "19189a03-be12-41d8-85ab-ff66a343ee22": {
     "applied_at": null,
     "backfilled": false,
@@ -19204,7 +19234,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-26T11:15:46.525614Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-24T16:06:33.638558Z",
     "id": "2804d321-266b-4853-a3f6-2741c53b953d",
     "issue_number": 3648,
@@ -19212,7 +19243,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027",
       "Summer 2027"
@@ -21582,7 +21613,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-26T11:15:46.525614Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-18T10:19:34.172875Z",
     "id": "2d44df47-4fb1-4120-a4ac-7fbcc5f6c103",
     "issue_number": 1793,
@@ -21590,7 +21622,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Spring 2027"
     ],
@@ -32020,6 +32052,34 @@
     ],
     "title": "AI R&D Engineer Co-op",
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40693"
+  },
+  "434aa7d8-8775-43bf-be81-a590f69d4ea5": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "QuEra Computing",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:38:55Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T11:15:46.525614Z",
+    "id": "434aa7d8-8775-43bf-be81-a590f69d4ea5",
+    "issue_number": 3716,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3716",
+    "locations": [
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "Winter 2027"
+    ],
+    "title": "Photonics Data Engineer Intern - Data Management",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008"
   },
   "436c4c36-f3de-487a-83b6-492a4266d8ff": {
     "applied_at": null,
@@ -60011,6 +60071,33 @@
     "title": "Enterprise Solutions Consulting Intern",
     "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/Homebased---Conway/Intern---Product-Management_JR014469"
   },
+  "7fe3a334-d820-4526-b73b-f72bcf8288ee": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "QuEra Computing",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-25T23:44:45Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-26T11:15:46.525614Z",
+    "id": "7fe3a334-d820-4526-b73b-f72bcf8288ee",
+    "issue_number": 3717,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3717",
+    "locations": [
+      "Boston, MA"
+    ],
+    "status": "new",
+    "terms": [
+      "N/A"
+    ],
+    "title": "Technical Product Management Intern",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008"
+  },
   "7ff51708-2345-49d7-84fe-909b08cb5ed5": {
     "applied_at": null,
     "backfilled": false,
@@ -75235,7 +75322,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-26T11:15:46.525614Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-18T11:38:22.125339Z",
     "id": "9ebeb8b0-e1e7-483c-8646-705fcf78e1f5",
     "issue_number": 3369,
@@ -75243,7 +75331,7 @@
     "locations": [
       "San Luis Obispo, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -77681,7 +77769,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-26T11:15:46.525614Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-20T16:56:47.887735Z",
     "id": "a3321497-bc73-4221-b04b-32490b84a5f3",
     "issue_number": 3471,
@@ -77689,7 +77778,7 @@
     "locations": [
       "Columbus, OH"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -94342,8 +94431,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-26T02:21:17.058310Z",
     "id": "c60e2c32-7f9d-4251-8b45-47b44ed86850",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3709,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3709",
     "locations": [
       "Eden Prairie, MN"
     ],
@@ -107587,8 +107676,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-26T02:21:17.058310Z",
     "id": "e06c4577-b257-4bee-aa38-cc5006c57d9f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3710,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3710",
     "locations": [
       "Allen, TX",
       "Birmingham, AL",
@@ -109093,8 +109182,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-26T02:21:17.058310Z",
     "id": "e3e053b8-8e7b-4690-9875-c136637ed047",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3711,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3711",
     "locations": [
       "Palo Alto, CA"
     ],
@@ -112392,7 +112481,8 @@
     "degrees": [
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-26T11:15:46.525614Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-20T16:56:47.887735Z",
     "id": "e967ed72-8ab2-47b3-a77e-89fb34babbc1",
     "issue_number": 3482,
@@ -112400,7 +112490,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -117157,8 +117247,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-26T02:21:17.058310Z",
     "id": "f4341e5f-56b8-4f46-9743-f31471747414",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3712,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3712",
     "locations": [
       "Austin, TX",
       "San Jose, CA"
@@ -118174,8 +118264,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-26T02:21:17.058310Z",
     "id": "f6380356-be52-4669-b4db-bce898c49a61",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3713,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3713",
     "locations": [
       "San Mateo, CA"
     ],
@@ -119825,8 +119915,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-26T02:21:17.058310Z",
     "id": "f99113e1-f288-4983-b8bd-49e4b32664be",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3714,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3714",
     "locations": [
       "Cincinnati, OH"
     ],
