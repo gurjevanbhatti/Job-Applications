@@ -44007,7 +44007,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-26T20:21:41.307925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-25T00:42:20.491260Z",
     "id": "5c4ff4e4-2ba8-4244-9b38-08135d57623f",
     "issue_number": 3653,
@@ -44015,7 +44016,7 @@
     "locations": [
       "Laurel, MD"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -83967,7 +83968,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-26T20:21:41.307925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "b0226d52-6b25-4b8e-a451-6b06c628f659",
     "issue_number": 1632,
@@ -83975,7 +83977,7 @@
     "locations": [
       "Seattle, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -97584,7 +97586,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-26T20:21:41.307925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-25T00:42:20.491260Z",
     "id": "ccee3e39-6a88-4c3c-b913-c7af244fc90c",
     "issue_number": 3655,
@@ -97592,7 +97595,7 @@
     "locations": [
       "Laurel, MD"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -117791,7 +117794,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-26T20:21:41.307925Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-15T00:00:10.189345Z",
     "id": "f531f9e9-2165-4c86-a9ff-8efab2b0a393",
     "issue_number": 1649,
@@ -117799,7 +117803,7 @@
     "locations": [
       "Seattle, WA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
