@@ -38282,7 +38282,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-27T21:23:05.478572Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T01:39:33.789709Z",
     "id": "51b7a000-c0de-4e4b-9552-970634b7d2e7",
     "issue_number": 3198,
@@ -38290,7 +38291,7 @@
     "locations": [
       "Edmonton, AB, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -44613,7 +44614,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-27T21:23:05.478572Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-20T00:49:39.381397Z",
     "id": "5d5eab3c-e51f-4838-9594-8b80a78973ba",
     "issue_number": 3412,
@@ -44621,7 +44623,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -67653,7 +67655,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-27T21:23:05.478572Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-26T02:21:17.058310Z",
     "id": "907ac2b0-1ba3-4cc3-bce0-e61334c9d123",
     "issue_number": 3702,
@@ -67661,7 +67664,7 @@
     "locations": [
       "Lexington Park, MD"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -121249,7 +121252,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-27T21:23:05.478572Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-21T12:03:03.346925Z",
     "id": "fbb75aa4-661e-464a-988f-c30cfd40ddb5",
     "issue_number": 3583,
@@ -121257,7 +121261,7 @@
     "locations": [
       "Calgary, AB, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -121762,7 +121766,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-27T21:23:05.478572Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-24T05:25:01.487417Z",
     "id": "fcb08f49-b9ed-4c1d-87f3-7191ff497a33",
     "issue_number": 3645,
@@ -121770,7 +121775,7 @@
     "locations": [
       "Indianapolis, IN"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
