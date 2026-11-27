@@ -85873,6 +85873,33 @@
     "title": "Product Management Intern",
     "url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305"
   },
+  "b482502c-37d5-4da2-8d19-bc7a1356fd29": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Synopsys",
+    "countries": [
+      "Canada"
+    ],
+    "date_posted": "2026-11-27T02:30:46Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-27T12:14:41.310143Z",
+    "id": "b482502c-37d5-4da2-8d19-bc7a1356fd29",
+    "issue_number": 3719,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3719",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Technical-Engineering Intern",
+    "url": "https://synopsys.avature.net/careers/JobDetail/19725"
+  },
   "b49479c8-08f3-4e18-b9aa-00ebbcbf2f9d": {
     "applied_at": null,
     "backfilled": false,
@@ -103906,7 +103933,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-27T12:14:41.310143Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-25T00:50:26.520441Z",
     "id": "d96a5b80-f3d2-440a-b550-bc3b609bf0e0",
     "issue_number": 421,
@@ -103914,7 +103942,7 @@
     "locations": [
       "Miami, FL"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2026"
     ],
