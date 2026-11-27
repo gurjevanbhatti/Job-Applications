@@ -31184,7 +31184,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-27T03:01:44.623019Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "41adf555-f919-4c50-a9ef-ba93383a1378",
     "issue_number": 2457,
@@ -31192,7 +31193,7 @@
     "locations": [
       "Golden, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -121519,6 +121520,38 @@
     ],
     "title": "Software Engineer Intern",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819"
+  },
+  "fc6955f6-8ff8-4433-b4eb-739c55ab20e0": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": false,
+    "company": "Atoms",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-26T19:11:25Z",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-27T03:01:44.623019Z",
+    "id": "fc6955f6-8ff8-4433-b4eb-739c55ab20e0",
+    "issue_number": 3718,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3718",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "LA",
+      "NYC",
+      "Mountain View, CA"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8963704002"
   },
   "fc6dd952-8dfe-40dc-bb6b-bc812a95c847": {
     "applied_at": null,
