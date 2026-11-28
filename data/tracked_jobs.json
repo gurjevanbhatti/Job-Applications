@@ -49339,8 +49339,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "667e7720-4bff-494a-8eb7-6e2041fc3195",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3745,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3745",
     "locations": [
       "Canada",
       "Santa Clara, CA",
@@ -49480,7 +49480,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-28T12:07:33.208370Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "66d868a1-ada3-4053-93c1-ef721ae97298",
     "issue_number": 3250,
@@ -49488,7 +49489,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -50925,8 +50926,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "6a03bb91-ba2e-4582-9a99-96238613860c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3746,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3746",
     "locations": [
       "Fairmont, MN"
     ],
@@ -51124,8 +51125,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "6a53c5c6-ac0c-4595-98f8-5a5841592eb8",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3747,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3747",
     "locations": [
       "Azusa, CA"
     ],
@@ -52308,8 +52309,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "6cd9f2b1-9ba3-4f73-855f-57611fb5a5e5",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3748,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3748",
     "locations": [
       "Batavia, IL"
     ],
@@ -54451,8 +54452,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "71d0cde7-4449-4c1f-ae52-73544e274b3f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3749,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3749",
     "locations": [
       "Canada",
       "Santa Clara, CA",
@@ -56106,8 +56107,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "74c2343c-e85c-4478-a5ff-027869c23b0d",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3750,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3750",
     "locations": [
       "Reading, PA"
     ],
@@ -56496,8 +56497,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "75ae59c1-6620-4618-9191-6fc87e899ff2",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3751,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3751",
     "locations": [
       "Denver, CO"
     ],
@@ -56749,7 +56750,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-28T12:07:33.208370Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-22T04:54:26.465539Z",
     "id": "7621fa9b-ec20-4491-982c-595a00ea2cc0",
     "issue_number": 3597,
@@ -56757,7 +56759,7 @@
     "locations": [
       "Santa Clara, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -59115,7 +59117,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-28T12:07:33.208370Z",
+    "expired_issue_closed": true,
     "found_at": "2026-10-29T23:07:02.080881Z",
     "id": "7b33b6fd-f6cc-443d-908d-c217c9767ef6",
     "issue_number": 2474,
@@ -59123,7 +59126,7 @@
     "locations": [
       "Ottawa, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -59173,8 +59176,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "7bbf679c-370e-4435-8b60-adfa50fe1611",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3752,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3752",
     "locations": [
       "Milwaukee, WI"
     ],
@@ -59258,8 +59261,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "7bf38ba6-b6d7-419e-9045-6bc3cf1391d4",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3753,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3753",
     "locations": [
       "Canada",
       "Santa Clara, CA",
@@ -60038,8 +60041,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "7d6f686a-2a53-4b3c-a6a4-4f72dbf4775e",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3754,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3754",
     "locations": [
       "Frisco, TX",
       "Bellevue, WA",
@@ -60266,8 +60269,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "7e52c827-5ade-42ec-83bd-a8357b9058e6",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3755,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3755",
     "locations": [
       "Morrisville, NC"
     ],
@@ -60495,8 +60498,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "7e8f0983-907b-4479-bc81-0ca013d30bcd",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3756,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3756",
     "locations": [
       "Cambridge, MA"
     ],
@@ -61175,8 +61178,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "7fe913ae-a03d-465d-bb0d-53351103d575",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3757,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3757",
     "locations": [
       "San Ramon, CA"
     ],
@@ -61691,8 +61694,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "81705cb3-3207-47c1-8ad7-1e199da95254",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3758,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3758",
     "locations": [
       "Milwaukee, WI"
     ],
@@ -62027,8 +62030,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "821b7e21-2852-4472-ac93-68a82a5d0bd9",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3759,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3759",
     "locations": [
       "United States"
     ],
@@ -63749,8 +63752,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "8609e4f1-e274-4b9c-9dc2-bec25213f987",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3760,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3760",
     "locations": [
       "Irving, TX"
     ],
@@ -64647,8 +64650,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "87fc764e-55ac-4c7b-b184-ae94e7fed939",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3761,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3761",
     "locations": [
       "Golden, CO"
     ],
@@ -67647,8 +67650,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "8e244c2a-10fd-404a-89ce-22136a00bce1",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3762,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3762",
     "locations": [
       "Cedar Rapids, IA"
     ],
@@ -68355,8 +68358,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "8f720993-306f-456d-ad39-0c5dc02b8d63",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3763,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3763",
     "locations": [
       "North Carolina"
     ],
@@ -68550,8 +68553,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "8fc4d076-9ba1-4609-ad0f-a2f843fcda6a",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3764,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3764",
     "locations": [
       "Milpitas, CA"
     ],
@@ -69110,8 +69113,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "90abe23b-5c06-4a3f-b8ab-95704bd9081c",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3765,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3765",
     "locations": [
       "Ottawa, ON, Canada"
     ],
@@ -71621,8 +71624,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "9516ef3a-cac7-451a-9fb0-154b6b584a56",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3766,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3766",
     "locations": [
       "Plano, TX"
     ],
@@ -71910,8 +71913,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "95c5c80d-1abf-459b-ac62-1feae3f9070b",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3767,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3767",
     "locations": [
       "Bellevue, WA"
     ],
@@ -72104,8 +72107,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "963e4c6f-14c8-475f-9cf9-f337bb3994dc",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3768,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3768",
     "locations": [
       "Chicago, IL",
       "Lincolnshire, IL"
@@ -73159,8 +73162,8 @@
     "expired_issue_closed": false,
     "found_at": "2026-11-28T03:25:05.571020Z",
     "id": "9836ddb1-23e2-48e9-a1d2-508f9e46ab0f",
-    "issue_number": null,
-    "issue_url": null,
+    "issue_number": 3769,
+    "issue_url": "https://github.com/gurjevanbhatti/Job-Applications/issues/3769",
     "locations": [
       "El Segundo, CA"
     ],
@@ -75264,7 +75267,8 @@
       "Master's",
       "PhD"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-28T12:07:33.208370Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-05T03:06:05.330905Z",
     "id": "9bf07bc4-4118-4283-b715-d53f7129e10f",
     "issue_number": 2761,
@@ -75272,7 +75276,7 @@
     "locations": [
       "Austin, TX"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -78756,7 +78760,8 @@
       "Master's",
       "Associate's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-28T12:07:33.208370Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "a2043ab0-6914-4249-8a29-b54e7ef94e7f",
     "issue_number": 3257,
@@ -78764,7 +78769,7 @@
     "locations": [
       "Charlotte, NC"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -79643,7 +79648,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-28T12:07:33.208370Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-14T02:35:14.350639Z",
     "id": "a429667e-4913-40e2-8b6a-ff22e64696c8",
     "issue_number": 3258,
@@ -79651,7 +79657,7 @@
     "locations": [
       "Mississauga, ON, Canada"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Winter 2027"
     ],
@@ -89986,6 +89992,36 @@
     "title": "Embedded Software Co-op",
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40172"
   },
+  "b9c811f8-4781-4e7d-8799-56abce089c75": {
+    "applied_at": null,
+    "backfilled": false,
+    "big_tech": true,
+    "company": "Intel",
+    "countries": [
+      "USA"
+    ],
+    "date_posted": "2026-11-24T00:00:00Z",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "expired_issue_closed": false,
+    "found_at": "2026-11-28T12:07:33.208370Z",
+    "id": "b9c811f8-4781-4e7d-8799-56abce089c75",
+    "issue_number": null,
+    "issue_url": null,
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA",
+      "Hillsboro, OR",
+      "Fort Collins, CO"
+    ],
+    "status": "new",
+    "terms": [
+      "Summer 2027"
+    ],
+    "title": "Design Verification Engineer Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Colorado-Fort-Collins/Design-Verification-Intern-2027_JR0287646"
+  },
   "b9ce969b-feac-4712-867d-4dc584234d94": {
     "applied_at": null,
     "backfilled": false,
@@ -96070,7 +96106,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-28T12:07:33.208370Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-12T04:16:05.702465Z",
     "id": "c579fad0-b08a-4e65-a2cf-77f72aa87439",
     "issue_number": 3165,
@@ -96078,7 +96115,7 @@
     "locations": [
       "La Jolla, San Diego, CA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -115826,7 +115863,8 @@
       "Bachelor's",
       "Master's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-28T12:07:33.208370Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-13T01:39:33.789709Z",
     "id": "eb8a6bc2-3f52-4314-86ca-52883b6332d4",
     "issue_number": 3217,
@@ -115834,7 +115872,7 @@
     "locations": [
       "Westminster, CO"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2027"
     ],
@@ -118542,7 +118580,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-28T12:07:33.208370Z",
+    "expired_issue_closed": true,
     "found_at": "2026-11-06T04:56:36.996085Z",
     "id": "f175936e-7cd2-44d3-8f3d-2c881af188ce",
     "issue_number": 2863,
@@ -118550,7 +118589,7 @@
     "locations": [
       "Reno, NV"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "N/A"
     ],
@@ -121233,7 +121272,8 @@
     "degrees": [
       "Bachelor's"
     ],
-    "expired_issue_closed": false,
+    "expired_at": "2026-11-28T12:07:33.208370Z",
+    "expired_issue_closed": true,
     "found_at": "2026-09-22T00:59:11.109770Z",
     "id": "f711ced7-f0a9-4e7a-a582-89533451f2d3",
     "issue_number": 144,
@@ -121241,7 +121281,7 @@
     "locations": [
       "Fairfield, IA"
     ],
-    "status": "new",
+    "status": "expired",
     "terms": [
       "Summer 2026"
     ],
